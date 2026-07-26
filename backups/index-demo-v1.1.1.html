@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<!-- build: zuitzpit v1.1.0 · 2026-07-26 · THE FIRST FORK — a P.I.T. Protocol instance, forked with aloha from The Esmeralda P.I.T. (github.com/shakaleikaumaka/esmeralda-pit) · demo: 39 Zuitzerland session recordings, cataloged — CRAWL ✓ · HARVEST (transcription) declared, pending consent · SILENCE CANON: pits listen, they don't sing — no music player · CC0 · v1.1.0: Patrick's thumbnail taste arrives — 37 Drive poster-frames harvested (no gigabytes downloaded) set as circular speaker-bubble avatars, Esmeralda style, alpine border · Zuitzerland 2025 Summit folder inbound (sharing pending) -->
+<title>The ZuitzPIT 🏔️🕳️ — a P.I.T. Protocol instance · the Zuitzerland session archive (demo)</title>
+<meta name="description" content="39 sessions from Zuitzerland — the Swiss network-state sandbox — cataloged as a demo P.I.T. Protocol instance. Forked with aloha from The Esmeralda P.I.T. The pit provides.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="The ZuitzPIT — Public Information Transmission, alpine edition">
+<meta property="og:description" content="700 years of Swiss democracy, transmitted. 39 Zuitzerland sessions, one forkable protocol. Forked with aloha from The Esmeralda P.I.T.">
+<meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#050c16; --bg2:#081524; --card:#0b1b30; --card2:#0e2240;
+  --ink:#eaf6ff; --ink-dim:#9db8d4; --ink-faint:#5f7a99;
+  --alpine:#38bdf8; --ice:#8fe0ff; --glacier:#c8efff;
+  --magenta:#f04e9b; --magenta-soft:rgba(240,78,155,.14);
+  --summit:#e6f7ff;
+  --line:rgba(143,224,255,.12);
+  --radius:18px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:'Roboto',system-ui,sans-serif;line-height:1.6;overflow-x:hidden}
+::selection{background:var(--magenta);color:#fff}
+a{color:var(--alpine)}
+
+/* ---------- HERO ---------- */
+.hero{position:relative;min-height:94vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:6rem 1.5rem 9rem;overflow:hidden;
+  background:radial-gradient(ellipse 90% 55% at 50% -10%, #0e2a4d 0%, transparent 60%),
+             radial-gradient(ellipse 60% 40% at 85% 110%, rgba(240,78,155,.16) 0%, transparent 55%),
+             radial-gradient(ellipse 55% 45% at 8% 105%, #0a2540 0%, transparent 55%), var(--bg)}
+.stars{position:absolute;inset:0;background-image:
+  radial-gradient(1.5px 1.5px at 12% 22%, rgba(200,239,255,.9) 50%, transparent 51%),
+  radial-gradient(1px 1px at 28% 8%, rgba(200,239,255,.7) 50%, transparent 51%),
+  radial-gradient(1.5px 1.5px at 47% 18%, rgba(200,239,255,.8) 50%, transparent 51%),
+  radial-gradient(1px 1px at 63% 6%, rgba(200,239,255,.6) 50%, transparent 51%),
+  radial-gradient(2px 2px at 78% 20%, rgba(200,239,255,.85) 50%, transparent 51%),
+  radial-gradient(1px 1px at 90% 12%, rgba(200,239,255,.6) 50%, transparent 51%),
+  radial-gradient(1.5px 1.5px at 36% 30%, rgba(240,78,155,.7) 50%, transparent 51%),
+  radial-gradient(1px 1px at 70% 32%, rgba(240,78,155,.5) 50%, transparent 51%);
+  animation:twinkle 7s ease-in-out infinite}
+@keyframes twinkle{0%,100%{opacity:.65}50%{opacity:1}}
+.ridge{position:absolute;left:0;right:0;bottom:0;width:100%;height:auto;display:block}
+.hero-inner{position:relative;z-index:2;max-width:960px}
+.badge-fork{display:inline-flex;align-items:center;gap:.5rem;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ice);
+  border:1px solid rgba(143,224,255,.35);border-radius:999px;padding:.45rem 1.1rem;margin-bottom:1.6rem;background:rgba(56,189,248,.07);backdrop-filter:blur(6px)}
+.badge-fork b{color:var(--magenta);font-weight:700}
+h1.wordmark{font-family:'Pirata One',serif;font-weight:400;font-size:clamp(3.6rem,11vw,7.5rem);line-height:1;letter-spacing:.01em;
+  color:var(--summit);text-shadow:0 0 34px rgba(56,189,248,.45),0 4px 0 rgba(240,78,155,.35)}
+h1.wordmark .pit{color:var(--magenta);text-shadow:0 0 34px rgba(240,78,155,.55)}
+.tagline{font-size:clamp(1.1rem,2.6vw,1.5rem);color:var(--ice);margin-top:1rem;font-weight:500;font-style:italic}
+.hero p.sub{max-width:660px;margin:1.3rem auto 0;color:var(--ink-dim);font-size:1.02rem}
+.hero p.sub b{color:var(--ink)}
+.stats{display:flex;flex-wrap:wrap;gap:2.2rem;justify-content:center;margin-top:2.4rem}
+.stat{text-align:center}
+.stat b{display:block;font-size:2.1rem;font-weight:900;color:var(--summit);text-shadow:0 2px 18px rgba(56,189,248,.5)}
+.stat span{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ice)}
+.hero-cta{display:flex;gap:1rem;justify-content:center;margin-top:2.4rem;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:.55rem;padding:.85rem 1.7rem;border-radius:999px;font-weight:700;font-size:.95rem;text-decoration:none;transition:.25s;cursor:pointer;border:none}
+.btn-magenta{background:linear-gradient(115deg,var(--magenta),#c2357d);color:#fff;box-shadow:0 8px 30px rgba(240,78,155,.35)}
+.btn-magenta:hover{transform:translateY(-2px);box-shadow:0 12px 40px rgba(240,78,155,.5)}
+.btn-alpine{background:linear-gradient(115deg,var(--alpine),#1d7fb8);color:#03121f;box-shadow:0 8px 30px rgba(56,189,248,.3)}
+.btn-alpine:hover{transform:translateY(-2px);box-shadow:0 12px 40px rgba(56,189,248,.45)}
+.btn-ghost{background:rgba(143,224,255,.06);color:var(--ink);border:1px solid var(--line)}
+.btn-ghost:hover{background:rgba(143,224,255,.12)}
+
+/* ---------- NAV ---------- */
+nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);background:rgba(5,12,22,.8);border-bottom:1px solid var(--line)}
+nav .wrap{max-width:1200px;margin:0 auto;display:flex;align-items:center;gap:1.4rem;padding:.8rem 1.5rem;overflow-x:auto}
+nav .brand{font-family:'Pirata One',serif;font-size:1.45rem;white-space:nowrap;color:var(--summit);text-decoration:none}
+nav .brand .pit{color:var(--magenta)}
+nav a.nl{color:var(--ink-dim);text-decoration:none;font-size:.9rem;font-weight:500;white-space:nowrap;transition:.2s}
+nav a.nl:hover{color:var(--ice)}
+nav .spacer{flex:1}
+nav a.nav-fork{color:var(--magenta);font-weight:700;text-decoration:none;font-size:.9rem;white-space:nowrap}
+
+/* ---------- SECTIONS ---------- */
+section{max-width:1200px;margin:0 auto;padding:5rem 1.5rem}
+.sec-head{text-align:center;margin-bottom:3rem}
+.sec-kicker{font-size:.78rem;letter-spacing:.22em;text-transform:uppercase;color:var(--magenta);font-weight:700;margin-bottom:.9rem}
+.sec-kicker.alpine{color:var(--alpine)}
+.sec-title{font-size:clamp(1.9rem,4.5vw,3rem);font-weight:900;letter-spacing:-.01em;color:var(--summit)}
+.sec-sub{max-width:720px;margin:1.1rem auto 0;color:var(--ink-dim)}
+.sec-sub b{color:var(--ink)}
+
+/* featured cards */
+.feat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1.4rem}
+.feat{background:linear-gradient(160deg,var(--card2),var(--card));border:1px solid rgba(143,224,255,.18);border-radius:var(--radius);overflow:hidden;transition:.25s;display:flex;flex-direction:column}
+.feat:hover{transform:translateY(-4px);border-color:rgba(240,78,155,.45);box-shadow:0 18px 50px rgba(3,10,20,.6)}
+.feat .screen{position:relative;aspect-ratio:16/9;background:#04101e;display:flex;align-items:center;justify-content:center;cursor:pointer;border:none;width:100%;padding:0}
+.feat .screen svg{position:absolute;inset:0;width:100%;height:100%}
+.feat .play{position:relative;z-index:2;width:66px;height:66px;border-radius:50%;background:rgba(240,78,155,.92);display:flex;align-items:center;justify-content:center;font-size:1.4rem;color:#fff;box-shadow:0 0 0 10px rgba(240,78,155,.18),0 12px 34px rgba(0,0,0,.5);transition:.25s}
+.feat .screen:hover .play{transform:scale(1.1)}
+.feat .screen .loadnote{position:absolute;bottom:.7rem;left:0;right:0;text-align:center;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ice);z-index:2}
+.feat iframe{width:100%;height:100%;border:0;aspect-ratio:16/9}
+.feat .fbody{padding:1.2rem 1.3rem 1.35rem;display:flex;flex-direction:column;gap:.6rem;flex:1}
+.feat h3{font-size:1.12rem;font-weight:700;color:var(--summit);line-height:1.35}
+.feat .fmeta{font-size:.85rem;color:var(--ink-dim)}
+.feat .fdrive{margin-top:auto;padding-top:.5rem}
+.feat .fdrive a{font-size:.85rem;font-weight:700;color:var(--alpine);text-decoration:none}
+.feat .fdrive a:hover{color:var(--ice);text-decoration:underline}
+
+/* catalog grid */
+.toolbar{display:flex;justify-content:center;margin-bottom:2rem}
+.search input{width:min(560px,88vw);padding:.9rem 1.3rem;border-radius:999px;border:1px solid var(--line);background:rgba(143,224,255,.05);color:var(--ink);font-size:1rem;font-family:'Roboto',sans-serif;outline:none;transition:.2s}
+.search input:focus{border-color:var(--alpine);background:rgba(143,224,255,.09)}
+.search input::placeholder{color:var(--ink-faint)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.1rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:1.25rem 1.3rem;display:flex;flex-direction:column;gap:.65rem;transition:.22s;position:relative;overflow:hidden}
+/* Patrick's speaker bubble — the Esmeralda taste, alpine border 🏔️ */
+.card:has(.card-ava) h3{padding-right:4rem}
+.card-ava{position:absolute;top:.9rem;right:.9rem;width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid rgba(56,189,248,.5);box-shadow:0 4px 14px rgba(0,0,0,.5)}
+.card.is-feat .card-ava{border-color:rgba(240,78,155,.55)}
+.fava-row{display:flex;align-items:center;gap:.6rem}
+.fava-row img{width:44px;height:44px;border-radius:50%;object-fit:cover;border:2px solid rgba(56,189,248,.5);box-shadow:0 4px 14px rgba(0,0,0,.5)}
+.card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--alpine),transparent 60%)}
+.card:hover{transform:translateY(-3px);border-color:rgba(56,189,248,.4);background:var(--card2)}
+.card.is-feat::before{background:linear-gradient(90deg,var(--magenta),var(--alpine))}
+.card h3{font-size:1.02rem;font-weight:700;color:var(--ink);line-height:1.4}
+.tags{display:flex;flex-wrap:wrap;gap:.4rem}
+.tag{font-size:.72rem;font-weight:500;letter-spacing:.03em;color:var(--ice);background:rgba(56,189,248,.1);border:1px solid rgba(56,189,248,.22);border-radius:999px;padding:.18rem .6rem}
+.tag.featflag{color:#ffc2de;background:var(--magenta-soft);border-color:rgba(240,78,155,.4)}
+.card .note{font-size:.8rem;color:var(--ink-faint);font-style:italic}
+.card .clink{margin-top:auto;padding-top:.45rem;display:flex;gap:1rem}
+.card .clink a{font-size:.85rem;font-weight:700;color:var(--alpine);text-decoration:none}
+.card .clink a:hover{color:var(--ice);text-decoration:underline}
+.count-note{text-align:center;color:var(--ink-faint);font-size:.85rem;margin-top:2rem;font-family:'JetBrains Mono',monospace}
+
+/* protocol strip */
+.proto{background:linear-gradient(180deg,var(--bg2),var(--bg));border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.stages{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;margin-top:2.5rem}
+.stage{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:1.2rem;text-align:center}
+.stage .n{font-family:'JetBrains Mono',monospace;font-size:.75rem;color:var(--magenta);letter-spacing:.15em}
+.stage h4{margin:.4rem 0 .3rem;color:var(--summit);font-size:1rem}
+.stage p{font-size:.82rem;color:var(--ink-dim)}
+.stage.done{border-color:rgba(56,189,248,.45)}
+.stage.done .n{color:var(--alpine)}
+.forkbox{max-width:760px;margin:3rem auto 0;background:linear-gradient(160deg,rgba(240,78,155,.1),rgba(56,189,248,.07));border:1px solid rgba(240,78,155,.35);border-radius:var(--radius);padding:2rem;text-align:center}
+.forkbox h3{font-size:1.4rem;font-weight:900;color:var(--summit);margin-bottom:.7rem}
+.forkbox p{color:var(--ink-dim);font-size:.95rem;max-width:600px;margin:0 auto 1.4rem}
+.forkbox p b{color:var(--ink)}
+.forkbox .btns{display:flex;gap:.9rem;justify-content:center;flex-wrap:wrap}
+
+/* footer */
+footer{border-top:1px solid var(--line);padding:3rem 1.5rem 3.5rem;text-align:center;color:var(--ink-dim);font-size:.9rem}
+footer .fline{margin:.35rem 0}
+footer a{color:var(--alpine);text-decoration:none}
+footer a:hover{text-decoration:underline;color:var(--ice)}
+footer .heart{color:var(--magenta)}
+footer .silence{font-family:'JetBrains Mono',monospace;font-size:.75rem;color:var(--ink-faint);margin-top:1.2rem}
+
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
+.reveal.in{opacity:1;transform:none}
+@media (max-width:640px){.stats{gap:1.4rem}.stat b{font-size:1.7rem}}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="#top">Zuitz<span class="pit">PIT</span> 🕳️</a>
+    <a class="nl" href="#featured">Featured</a>
+    <a class="nl" href="#sessions">All 39 Sessions</a>
+    <a class="nl" href="#protocol">The Protocol</a>
+    <div class="spacer"></div>
+    <a class="nav-fork" href="https://github.com/shakaleikaumaka/zuitzpit">🍴 Fork this P.I.T.</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="stars"></div>
+  <svg class="ridge" viewBox="0 0 1440 320" preserveAspectRatio="none" aria-hidden="true">
+    <defs>
+      <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#0b2a4a" stop-opacity=".9"/>
+        <stop offset="1" stop-color="#050c16" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="peak1" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#123458"/>
+        <stop offset="1" stop-color="#081524"/>
+      </linearGradient>
+      <linearGradient id="peak2" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#0e2a4d"/>
+        <stop offset="1" stop-color="#050c16"/>
+      </linearGradient>
+    </defs>
+    <path fill="url(#peak1)" d="M0,240 L140,120 L240,190 L360,70 L470,180 L560,110 L700,230 L820,90 L940,200 L1050,60 L1180,190 L1290,120 L1440,220 L1440,320 L0,320 Z"/>
+    <path fill="url(#peak2)" opacity=".85" d="M0,280 L180,180 L320,250 L480,140 L640,260 L800,170 L960,270 L1120,150 L1280,250 L1440,190 L1440,320 L0,320 Z"/>
+    <path fill="#e6f7ff" opacity=".9" d="M360,70 L392,102 L374,98 L360,112 L346,98 L328,102 Z"/>
+    <path fill="#e6f7ff" opacity=".85" d="M1050,60 L1084,94 L1064,90 L1050,105 L1036,90 L1016,94 Z"/>
+    <path fill="#e6f7ff" opacity=".7" d="M820,90 L848,118 L832,114 L820,126 L808,114 L792,118 Z"/>
+    <rect y="252" width="1440" height="68" fill="url(#lake)"/>
+    <path d="M0,262 Q360,254 720,262 T1440,262" stroke="#8fe0ff" stroke-opacity=".28" fill="none" stroke-width="1.5"/>
+    <path d="M0,278 Q360,270 720,278 T1440,278" stroke="#f04e9b" stroke-opacity=".18" fill="none" stroke-width="1.5"/>
+  </svg>
+  <div class="hero-inner">
+    <div class="badge-fork">🍴 <span>a <b>P.I.T. Protocol</b> instance — the first fork</span></div>
+    <h1 class="wordmark">The Zuitz<span class="pit">PIT</span></h1>
+    <div class="tagline">700 years of Swiss democracy, transmitted. 🏔️📡</div>
+    <p class="sub"><b>Public Information Transmission, alpine edition.</b> The session recordings of <b>Zuitzerland</b> — the Swiss network-state sandbox, ~200 builders prototyping the civilization of tomorrow in the Alps, May 2025 — cataloged as a living demo of the P.I.T. Protocol. Forked with aloha from <b>The Esmeralda P.I.T.</b></p>
+    <div class="stats">
+      <div class="stat"><b id="st-sessions">39</b><span>sessions</span></div>
+      <div class="stat"><b>6</b><span>featured</span></div>
+      <div class="stat"><b>1</b><span>protocol</span></div>
+      <div class="stat"><b>∞</b><span>pits possible</span></div>
+    </div>
+    <div class="hero-cta">
+      <a class="btn btn-magenta" href="#featured">▶ Featured sessions</a>
+      <a class="btn btn-alpine" href="#sessions">Browse all 39</a>
+      <a class="btn btn-ghost" href="https://github.com/shakaleikaumaka/zuitzpit">🍴 Fork the repo</a>
+    </div>
+  </div>
+</header>
+
+<section id="featured">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">Featured Transmissions</div>
+    <h2 class="sec-title">Headline signals from the Alps</h2>
+    <p class="sec-sub">Six sessions to start with — from the Opening Ceremony to d/acc morning with Vitalik Buterin &amp; Glen Weyl, Balaji Srinivasan, the Cypherpunk Sessions, on-chain statecraft, and post-sovereign fire. Tap a screen to load the Drive player inline. 🏔️</p>
+  </div>
+  <div class="feat-grid" id="featGrid"></div>
+</section>
+
+<section id="sessions">
+  <div class="sec-head reveal">
+    <div class="sec-kicker alpine">The Full Catalog</div>
+    <h2 class="sec-title">All 39 sessions</h2>
+    <p class="sec-sub">Every recording shared by the bard who ran Zuitzerland's A/V — cataloged, speaker-tagged where known, linked straight to the source Drive. No gigabytes downloaded; the pit points, the public watches. 🕳️</p>
+    <p class="sec-sub" style="margin-top:.9rem"><b>Source drives:</b> <a href="https://drive.google.com/drive/u/0/folders/1c3mf90sMoM9RaCA7P_NTRZ0ByZoTfrB2">Zuitzerland Residency recordings ↗</a> (the 39 below) · <a href="https://drive.google.com/drive/u/0/folders/19NeUKjf1wxpuzTSzYyYEyS4WO6JShWcs">Zuitzerland 2025 Summit recordings ↗</a> (May 17–19, Galaaxy — sharing still set to sign-in; the pit crawls the moment it opens to anyone-with-link 🏔️)</p>
+  </div>
+  <div class="toolbar reveal">
+    <div class="search"><input id="q" type="text" placeholder="Search sessions, speakers, ideas…"></div>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div class="count-note" id="countNote"></div>
+</section>
+
+<div class="proto">
+<section id="protocol">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">🕳️ The P.I.T. Protocol</div>
+    <h2 class="sec-title">Public Information Transmission</h2>
+    <p class="sec-sub">This site is a <b>demo instance</b> of the open, forkable protocol that turns a gathering's ephemeral knowledge into a permanent public good — first proven at <b>The Esmeralda P.I.T.</b> (149 sessions · 122 hours · 138 synced transcripts · ≈$0). This fork is where it stands <b>today</b>:</p>
+  </div>
+  <div class="stages reveal">
+    <div class="stage done"><div class="n">STAGE 1 · DONE</div><h4>CRAWL</h4><p>39 recordings gathered from the public Drive folder — no API keys, reproducible by anyone.</p></div>
+    <div class="stage done"><div class="n">STAGE 2 · DEMO</div><h4>HARVEST</h4><p>Catalog + speaker tags curated. Full transcription (Whisper) is <b>declared, not yet done</b>.</p></div>
+    <div class="stage done"><div class="n">STAGE 3 · DONE</div><h4>AUDIT</h4><p>Every title checked against the source listing; truncations and stream artifacts flagged honestly.</p></div>
+    <div class="stage done"><div class="n">STAGE 4 · DONE</div><h4>PUBLISH</h4><p>This static site — no backend, ≈$0 infra. Recordings stream from the source Drive.</p></div>
+    <div class="stage"><div class="n">STAGE 5 · NEXT</div><h4>CONSENT-FIRST</h4><p>Nothing enters a permanent archive without explicit organizer + speaker consent. The soul of the protocol — and the next step for this pit.</p></div>
+  </div>
+  <div class="forkbox reveal">
+    <h3>🍴 This whole pit is a fork. Fork it again.</h3>
+    <p>Forked in one day from <b>The Esmeralda P.I.T.</b> — same DNA, alpine blood. <b>CC0: no rights reserved.</b> Every village, every camp, every gathering deserves a pit. Take the site, take the pipeline, run your own.</p>
+    <div class="btns">
+      <a class="btn btn-magenta" href="https://github.com/shakaleikaumaka/zuitzpit">🍴 Fork the ZuitzPIT</a>
+      <a class="btn btn-alpine" href="https://publicinform.com">The P.I.T. Protocol → publicinform.com</a>
+      <a class="btn btn-ghost" href="https://esmeraldapit.com">The Esmeralda P.I.T. (genesis)</a>
+    </div>
+  </div>
+</section>
+</div>
+
+<footer>
+  <div class="fline">🏔️ <b>The ZuitzPIT</b> — a <a href="https://publicinform.com">P.I.T. Protocol</a> instance · demo forked with aloha from <a href="https://esmeraldapit.com">The Esmeralda P.I.T.</a></div>
+  <div class="fline">The pit provides 🕳️ · forked with aloha from <a href="https://publicinform.com">publicinform.com</a> · recordings shared by the bard who ran their A/V</div>
+  <div class="fline">Session recordings live in the source drives: <a href="https://drive.google.com/drive/u/0/folders/1c3mf90sMoM9RaCA7P_NTRZ0ByZoTfrB2">Residency ↗</a> · <a href="https://drive.google.com/drive/u/0/folders/19NeUKjf1wxpuzTSzYyYEyS4WO6JShWcs">2025 Summit ↗</a> · CC0 · <a href="https://github.com/shakaleikaumaka/zuitzpit">github.com/shakaleikaumaka/zuitzpit</a></div>
+  <div class="fline">Made with <span class="heart">♥</span> and aloha by PIT BOY 🕳️😤 · genesis arm pits: <a href="https://esmeraldapit.com">Esmeralda</a> · <a href="https://publicinform.com/osopit">OSO</a></div>
+  <div class="silence">🔇 silence canon: this pit has no music player — pits listen, they don't sing.</div>
+</footer>
+
+<script>
+const esc = s => (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let SESSIONS = [];
+
+/* little inline alpine screen art for featured cards */
+const screenArt = id => `
+<svg viewBox="0 0 400 225" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <defs><linearGradient id="sg${id}" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0e2a4d"/><stop offset="1" stop-color="#050c16"/></linearGradient></defs>
+  <rect width="400" height="225" fill="url(#sg${id})"/>
+  <path fill="#123458" d="M0,180 L60,110 L110,150 L170,80 L230,150 L290,95 L350,160 L400,120 L400,225 L0,225 Z"/>
+  <path fill="#e6f7ff" opacity=".85" d="M170,80 L188,100 L176,97 L170,106 L163,97 L151,100 Z"/>
+  <path d="M0,192 Q100,186 200,192 T400,192" stroke="#8fe0ff" stroke-opacity=".35" fill="none"/>
+</svg>`;
+
+function featCard(s, i){
+  const spk = s.speakers.length ? `<div class="fmeta">🎙️ ${esc(s.speakers.join(' · '))}</div>` : '';
+  const fava = s.thumb ? `<div class="fava-row"><img loading="lazy" src="${esc(s.thumb)}" alt="" onerror="this.remove()"><h3>${esc(s.title)}</h3></div>` : `<h3>${esc(s.title)}</h3>`;
+  return `<article class="feat reveal">
+    <button class="screen" data-prev="${esc(s.preview)}" aria-label="Load the Drive player for ${esc(s.title)}">
+      ${screenArt(i)}<span class="play">▶</span><span class="loadnote">tap to load player</span>
+    </button>
+    <div class="fbody">
+      ${fava}
+      ${spk}
+      <div class="fdrive"><a href="${esc(s.drive)}">Open in Drive ↗</a></div>
+    </div>
+  </article>`;
+}
+
+function card(s){
+  const tags = [];
+  if(s.featured) tags.push('<span class="tag featflag">★ featured</span>');
+  for(const t of s.speakers) tags.push(`<span class="tag">🎙️ ${esc(t)}</span>`);
+  const note = s.note ? `<div class="note">⚠️ ${esc(s.note)}</div>` : '';
+  const ava = s.thumb ? `<img class="card-ava" loading="lazy" src="${esc(s.thumb)}" alt="" onerror="this.remove()">` : '';
+  return `<article class="card${s.featured?' is-feat':''}">
+    ${ava}
+    <h3>${esc(s.title)}</h3>
+    ${tags.length?`<div class="tags">${tags.join('')}</div>`:''}
+    ${note}
+    <div class="clink"><a href="${esc(s.drive)}">▶ Watch on Drive</a><a href="${esc(s.preview)}">Inline player</a></div>
+  </article>`;
+}
+
+function render(){
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const list = SESSIONS.filter(s => !q || (s.title+' '+s.speakers.join(' ')).toLowerCase().includes(q));
+  document.getElementById('grid').innerHTML = list.map(card).join('');
+  document.getElementById('countNote').textContent = q ? `${list.length} of ${SESSIONS.length} sessions` : `${SESSIONS.length} sessions · cataloged with radical honesty`;
+  observe();
+}
+
+function observe(){
+  const io = new IntersectionObserver(es => es.forEach(e => { if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} }), {threshold:.08});
+  document.querySelectorAll('.reveal:not(.in)').forEach(el => io.observe(el));
+}
+
+async function boot(){
+  try{
+    SESSIONS = await (await fetch('data/catalog.json?v=1')).json();
+  }catch(e){
+    document.getElementById('grid').innerHTML = '<p style="grid-column:1/-1;text-align:center;color:var(--ink-dim)">catalog failed to load — the pit is recrawling…</p>';
+    return;
+  }
+  document.getElementById('st-sessions').textContent = SESSIONS.length;
+  document.getElementById('featGrid').innerHTML = SESSIONS.filter(s=>s.featured).map(featCard).join('');
+  render();
+  /* click-to-load Drive preview embeds (keeps the page light; no auto-loading 6 iframes) */
+  document.querySelectorAll('.feat .screen').forEach(btn => btn.addEventListener('click', () => {
+    const f = document.createElement('iframe');
+    f.src = btn.dataset.prev; f.allow = 'autoplay'; f.loading = 'lazy';
+    btn.replaceWith(f);
+  }));
+  document.getElementById('q').addEventListener('input', render);
+}
+boot();
+</script>
+</body>
+</html>
