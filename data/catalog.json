@@ -1,15 +1,15 @@
 [
  {
-  "id": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
-  "title": "From Vibes to Viability: Fixing Inequality…",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj",
+  "title": "ETHChiangMai AfterHours Hours Jam",
+  "date": "2026-01-29",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
+    "id": "1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj",
     "kind": "video",
-    "size": 2157251028,
+    "size": 0,
     "stream": true
    }
   ],
@@ -17,20 +17,20 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.jpg",
-  "note": "Title truncated in the source folder listing; the filename also carries a stream-operator artifact — “have to stop and start the stream to rebrand.” We keep the artifact. Pits are honest."
+  "featured": false,
+  "thumb": "thumbs/1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj.jpg"
  },
  {
-  "id": "1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G",
-  "title": "Zuitzerland Architectural Stack for Startup Cities & Robotic Construction",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx",
+  "title": "EthChiangMai hackathon lunch jam",
+  "date": "2026-01-29",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G",
+    "id": "1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx",
     "kind": "video",
-    "size": 3502005578,
+    "size": 0,
     "stream": true
    }
   ],
@@ -38,19 +38,20 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G.jpg"
+  "featured": false,
+  "thumb": "thumbs/1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx.jpg"
  },
  {
-  "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
-  "title": "Cypherpunk Sessions",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "18nyCniuewAlYXevRiFojuc5s_VcnyGdA",
+  "title": "EthChiangMai Hackathon Workshops at Chiang Mai University",
+  "date": "2026-01-28",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
+    "id": "18nyCniuewAlYXevRiFojuc5s_VcnyGdA",
     "kind": "video",
-    "size": 2687403854,
+    "size": 0,
     "stream": true
    }
   ],
@@ -58,27 +59,46 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.jpg",
+  "featured": false,
+  "thumb": "thumbs/18nyCniuewAlYXevRiFojuc5s_VcnyGdA.jpg"
+ },
+ {
+  "id": "1JivZiM76yBwcvdwtugKiXJGnPy55VabU",
+  "title": "ETHChiangmai Hackathon Workshops at CMU, Part 2",
+  "date": "2026-01-29",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1JivZiM76yBwcvdwtugKiXJGnPy55VabU",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
   "speakers": [
-   "@Narodism",
-   "@lunar_mining",
-   "@DarkFiSquad",
-   "@anticapture",
-   "@theZeugh"
+   "@jiangplus",
+   "@Xavier_bham",
+   "@0xsach"
   ],
-  "featured": true
+  "thumb": "thumbs/1JivZiM76yBwcvdwtugKiXJGnPy55VabU.jpg"
  },
  {
-  "id": "1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l",
-  "title": "d/acc Afternoon",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u",
+  "title": "Cryptocurrency Introduction Course — Community Organized, Live at ETHChiangmai",
+  "date": "2025-12-17",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l",
+    "id": "1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u",
     "kind": "video",
-    "size": 3530202457,
+    "size": 0,
     "stream": true
    }
   ],
@@ -86,27 +106,20 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1EY5GwfSjdL_xP647O1wXAzQoVFSiQM2l.jpg",
-  "speakers": [
-   "@calarsenc",
-   "@CatalinMitelut",
-   "@BH1991",
-   "@YeshodharaB",
-   "@yxucantseeme",
-   "@ron"
-  ]
+  "featured": false,
+  "thumb": "thumbs/1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u.jpg"
  },
  {
-  "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
-  "title": "d/acc Morning",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI",
+  "title": "ETH CHiang Mai OpenBuild One Day Hackathon Demos",
+  "date": "2025-12-20",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
+    "id": "1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI",
     "kind": "video",
-    "size": 4386553296,
+    "size": 0,
     "stream": true
    }
   ],
@@ -114,27 +127,20 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.jpg",
-  "speakers": [
-   "Vitalik Buterin",
-   "Glen Weyl",
-   "@tkstanczak",
-   "@pujaohlhaver",
-   "@AlesFlidr"
-  ],
-  "featured": true
+  "featured": false,
+  "thumb": "thumbs/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI.jpg"
  },
  {
-  "id": "1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT",
-  "title": "Fireside Chat on Post-Sovereign Resistance…",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb",
+  "title": "ETH Chiang Mai Opening Ceremony at CMU",
+  "date": "2026-01-28",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT",
+    "id": "1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb",
     "kind": "video",
-    "size": 2369924143,
+    "size": 0,
     "stream": true
    }
   ],
@@ -142,46 +148,21 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1AJVhWpr9gAMvvRrHg_Nq_vsZ_nkcXTkT.jpg",
-  "speakers": [
-   "Jarrad Hope",
-   "Sterlin Lujan"
-  ],
   "featured": true,
-  "note": "Title truncated in the source listing — “on post-sovereign resistance, program…”"
- },
- {
-  "id": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
-  "title": "Intentional Codes: Digital Art, Law, and the Architecture of Slower Futures",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
-    "kind": "video",
-    "size": 2066284256,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo.jpg",
   "speakers": [
-   "@anikojay"
+   "@cmuofficial_tw",
+   "@4seasDeSoc"
   ]
  },
  {
-  "id": "1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2",
-  "title": "Panels: (1) Risks from Neurotech & the Intersection with Cryptography · (2) Investing in d/acc…",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf",
+  "title": "ETH Chiang Mai Opening Ceremony DJ set",
+  "date": "2025-12-10",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2",
+    "id": "1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf",
     "kind": "video",
     "size": 0,
     "stream": true
@@ -191,20 +172,20 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2.jpg",
-  "note": "Title truncated in the source folder listing."
+  "featured": false,
+  "thumb": "thumbs/1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf.jpg"
  },
  {
-  "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
-  "title": "How to Run a Country On-Chain",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS",
+  "title": "ETH Chiang Mai Opening Ceremony part 2",
+  "date": "2025-12-10",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
+    "id": "1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS",
     "kind": "video",
-    "size": 2348298142,
+    "size": 0,
     "stream": true
    }
   ],
@@ -212,20 +193,215 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.jpg",
+  "featured": false,
+  "thumb": "thumbs/1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS.jpg"
+ },
+ {
+  "id": "1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos",
+  "title": "ETH Chiang Mai Opening Ceremony Part 3",
+  "date": "2025-12-10",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "thumb": "thumbs/1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos.jpg"
+ },
+ {
+  "id": "1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb",
+  "title": "ETH Chiang Mai Opening Ceremony",
+  "date": "2025-12-08",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": true,
+  "thumb": "thumbs/1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb.jpg"
+ },
+ {
+  "id": "1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR",
+  "title": "ETH Chiang Mai Opening DJ Set",
+  "date": "2025-12-10",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR",
+    "kind": "audio",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "note": "Audio capture (m4a)."
+ },
+ {
+  "id": "1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2",
+  "title": "ETH ChiangMai 2025 Opening Ceremony, Part 1 (lowered audio)",
+  "date": "2025-12-10",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "note": "Source filename notes lowered audio — flagged honestly.",
+  "thumb": "thumbs/1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2.jpg"
+ },
+ {
+  "id": "1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e",
+  "title": "ETHChiangmai Hackathon Top Demo Presentations 2026",
+  "date": "2026-02-02",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": true,
+  "thumb": "thumbs/1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e.jpg"
+ },
+ {
+  "id": "1OoAbVHEvdp1UPVDzDegMV7CmmgKncXuM",
+  "title": "ETHChiangMai togETHer Tuesday at 4Seas DeSoc",
+  "date": "2026-01-28",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1OoAbVHEvdp1UPVDzDegMV7CmmgKncXuM",
+    "kind": "audio",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "speakers": [
+   "@4seasDeSoc"
+  ],
+  "note": "Audio capture (mp3); video version also in the pit."
+ },
+ {
+  "id": "1LWmhT68dELJggunbvZUx1wRaQmFysEpp",
+  "title": "ETHChiangMai togETHer Tuesday at 4Seas DeSoc",
+  "date": "2026-01-27",
+  "week": 2,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1LWmhT68dELJggunbvZUx1wRaQmFysEpp",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "speakers": [
+   "@4seasDeSoc"
+  ],
+  "thumb": "thumbs/1LWmhT68dELJggunbvZUx1wRaQmFysEpp.jpg"
+ },
+ {
+  "id": "1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP",
+  "title": "ETH ChiangMai Winners",
+  "date": "2026-02-02",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "thumb": "thumbs/1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP.jpg"
+ },
+ {
+  "id": "1bCOganv1iUdFQxnAl-XJd4VAIKy03Kbx",
+  "title": "ETHChiangmai Future Summit 2026 — Live at Chiang Mai University Convention Center",
+  "date": "2026-02-03",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1bCOganv1iUdFQxnAl-XJd4VAIKy03Kbx",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
   "featured": true
  },
  {
-  "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
-  "title": "An Intro to BCIs, Open Hardware, and the think2earn Model",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO",
+  "title": "How to join as a Guest on Stream Yard",
+  "date": "2025-12-10",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
+    "id": "10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO",
     "kind": "video",
-    "size": 1286661821,
+    "size": 0,
     "stream": true
    }
   ],
@@ -233,22 +409,20 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ.jpg",
-  "speakers": [
-   "@DebateHeroes"
-  ]
+  "featured": false,
+  "thumb": "thumbs/10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO.jpg"
  },
  {
-  "id": "1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG",
-  "title": "Balaji Srinivasan Presentation",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1fMucChc-fLtKl_74kmvarky4UG296rJe",
+  "title": "How Web3 Technologies Can Support The Fair Trade Movement",
+  "date": "2026-01-02",
+  "week": 2,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG",
+    "id": "1fMucChc-fLtKl_74kmvarky4UG296rJe",
     "kind": "video",
-    "size": 2565061834,
+    "size": 0,
     "stream": true
    }
   ],
@@ -256,21 +430,149 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1vnwFi3Pqx-pN5XQSuCpM-v8__6M19BcG.jpg",
-  "speakers": [
-   "Balaji Srinivasan"
+  "featured": false,
+  "thumb": "thumbs/1fMucChc-fLtKl_74kmvarky4UG296rJe.jpg"
+ },
+ {
+  "id": "1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA",
+  "title": "Longevity & Biohacking Meetup Live — ETHChiangMai",
+  "date": "2026-01-18",
+  "week": 2,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
   ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "thumb": "thumbs/1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA.jpg"
+ },
+ {
+  "id": "1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H",
+  "title": "Merry Christmas Live from Shaka — ETHChiangMai Christmas Eve Party",
+  "date": "2025-12-24",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": true,
+  "speakers": [
+   "Shaka 🤙"
+  ],
+  "note": "The bard himself, live on Christmas Eve 🎄",
+  "thumb": "thumbs/1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H.jpg"
+ },
+ {
+  "id": "1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K",
+  "title": "On Cryptocurrency: An Introduction Course — ETHChiangMai on Christmas Eve",
+  "date": "2025-12-24",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "speakers": [
+   "@4seasDeSoc"
+  ],
+  "thumb": "thumbs/1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K.jpg"
+ },
+ {
+  "id": "1p6wg2GM9hrEi-tncpzaUMMR6jnlZyrRt",
+  "title": "Sunday Improvisations & Gratitude Dedications to 4Seas DeSoc Hospitality",
+  "date": "2026-02-01",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1p6wg2GM9hrEi-tncpzaUMMR6jnlZyrRt",
+    "kind": "audio",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false
+ },
+ {
+  "id": "1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg",
+  "title": "Sunday Improvisations & Gratitude Dedications to 4Seas DeSoc Hospitality (second take)",
+  "date": "2026-02-01",
+  "week": 3,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": false,
+  "thumb": "thumbs/1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg.jpg"
+ },
+ {
+  "id": "1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq",
+  "title": "TogETHer Tuesday — a shared Zuzalu tradition",
+  "date": "2025-12-24",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
   "featured": true
  },
  {
-  "id": "1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1",
-  "title": "Building Future Living Infrastructure with DePIN",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7",
+  "title": "Zuzalu Song — First Take in the Zuzalu Library",
+  "date": "2026-01-25",
+  "week": 2,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1",
+    "id": "1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7",
     "kind": "video",
     "size": 0,
     "stream": true
@@ -280,21 +582,18 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1rZn0gzgtSbGpK_0w1EwtI2fscP9XIbq1.jpg",
-  "speakers": [
-   "@BallandiesMC",
-   "@0xkrisv"
-  ]
+  "featured": false,
+  "thumb": "thumbs/1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7.jpg"
  },
  {
-  "id": "1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v",
-  "title": "Cognitive and Digital Sovereignty",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
+  "id": "16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf",
+  "title": "区块链导论中文课程 Week 1: 关于比特币 (Blockchain Intro, Mandarin — Week 1: On Bitcoin)",
+  "date": "2025-12-28",
+  "week": 1,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v",
+    "id": "16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf",
     "kind": "video",
     "size": 0,
     "stream": true
@@ -304,569 +603,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1evk28Bm1w0hWN-qrCthcPWUcOB8R1C4v.jpg",
-  "speakers": [
-   "Burns"
-  ]
- },
- {
-  "id": "1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk",
-  "title": "Decentralizing Election Campaign Financing",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1owh0xv1SJpTq8ae_i6_XxzsgDzMbfcSk.jpg",
-  "speakers": [
-   "Uwe Serdült (@serduelt)"
-  ]
- },
- {
-  "id": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
-  "title": "DeepGov",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
-    "kind": "video",
-    "size": 1432681275,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt.jpg",
-  "speakers": [
-   "@sejal_rekhan",
-   "@dwddao",
-   "@evalscience"
-  ]
- },
- {
-  "id": "1i6gV6Xbm469seOek1vcixEYJt6XKDR08",
-  "title": "Exploring Community Currencies",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1i6gV6Xbm469seOek1vcixEYJt6XKDR08",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1i6gV6Xbm469seOek1vcixEYJt6XKDR08.jpg"
- },
- {
-  "id": "1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE",
-  "title": "Funding Ethereum Forever",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE.jpg",
-  "speakers": [
-   "@julianzawist",
-   "@sejal_rekhan",
-   "@dwddao"
-  ]
- },
- {
-  "id": "1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw",
-  "title": "Governance, Money, and New Web3 Experiments",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1Vur8_WMxPPhZ7uhAs65JfG3HsiMLiHKw.jpg",
-  "speakers": [
-   "Juan Sky (@0x7u4n)"
-  ]
- },
- {
-  "id": "18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW",
-  "title": "How to Make the World Great Again",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW.jpg"
- },
- {
-  "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
-  "title": "Intro to Base Scale Math",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ.jpg",
-  "speakers": [
-   "@bestape"
-  ]
- },
- {
-  "id": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
-  "title": "Intro to Swiss Democracy",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.jpg"
- },
- {
-  "id": "1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6",
-  "title": "Kick Off Permanent Hubs Tracks",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false
- },
- {
-  "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
-  "title": "Meerkat Workshop with Vlad",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
-    "kind": "video",
-    "size": 270827143,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ.jpg",
-  "speakers": [
-   "Vlad"
-  ]
- },
- {
-  "id": "13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b",
-  "title": "Opening Day Cognitive Sovereignty",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b.jpg"
- },
- {
-  "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
-  "title": "Pectra Jam — Zuitzerland",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.jpg"
- },
- {
-  "id": "1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP",
-  "title": "Permanent Hubs Week Synthesis & Discussion",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP.jpg"
- },
- {
-  "id": "1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6",
-  "title": "Prove Your Humanity While Staying Anonymous",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6.jpg",
-  "speakers": [
-   "@rems000"
-  ]
- },
- {
-  "id": "1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ",
-  "title": "Q/acc with How To DAO",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ.jpg",
-  "speakers": [
-   "@HowToDAObook"
-  ]
- },
- {
-  "id": "1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL",
-  "title": "Security of Synthetic Biology and Cyber-Bio Risks",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL.jpg",
-  "speakers": [
-   "Anish Mohammed (@anishmohammed)"
-  ]
- },
- {
-  "id": "1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q",
-  "title": "Swiss Voting Systems & Subsidiarity",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q.jpg"
- },
- {
-  "id": "17xgNGz57NaCpSXsT9LIec2KyhwW91yxs",
-  "title": "Syntegration 101",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "17xgNGz57NaCpSXsT9LIec2KyhwW91yxs",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs.jpg"
- },
- {
-  "id": "1lR8KCsftoflDykh_SwUwEoP5WF39VfQL",
-  "title": "The Full Potential of Cooperatives: A Model for a New Economy",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1lR8KCsftoflDykh_SwUwEoP5WF39VfQL",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL.jpg"
- },
- {
-  "id": "18SNr9xALLEDFZEJLlywOP8CNYtfelKdx",
-  "title": "The Hanseatic League: The Rise and Fall of a Medieval Network State",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "18SNr9xALLEDFZEJLlywOP8CNYtfelKdx",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/18SNr9xALLEDFZEJLlywOP8CNYtfelKdx.jpg",
-  "speakers": [
-   "Wlodek Gogloza (@WGogloza)"
-  ]
- },
- {
-  "id": "1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd",
-  "title": "The Importance of Real Digital Cash",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1sQv5Vc9uWecfDB_sssm9AtJ_DZUS8Sdd.jpg",
-  "speakers": [
-   "@rohangrey",
-   "@vavesalon"
-  ]
- },
- {
-  "id": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
-  "title": "Zuitzerland Buildathon Submissions",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.jpg"
- },
- {
-  "id": "15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn",
-  "title": "Zuitzerland Opening Ceremony",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn.jpg",
-  "featured": true
- },
- {
-  "id": "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4",
-  "title": "Zuitzerland Permanent Hub Visioning",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false
- },
- {
-  "id": "1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH",
-  "title": "Zuitzerland Systems Mapping Workshop",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH.jpg"
- },
- {
-  "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
-  "title": "Zuitzers Attest to the Solarpunk Mensarius Oath v0",
-  "date": null,
-  "week": null,
-  "source": "Zuitzerland residency · May 2025",
-  "media": [
-   {
-    "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
-    "kind": "video",
-    "size": 0,
-    "stream": true
-   }
-  ],
-  "transcript": null,
-  "duration": null,
-  "quality": "ok",
-  "transponder": false,
-  "thumb": "thumbs/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH.jpg",
-  "speakers": [
-   "@bestape"
-  ]
+  "featured": false,
+  "note": "Mandarin-language session 🇨🇳",
+  "thumb": "thumbs/16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf.jpg"
  }
 ]
