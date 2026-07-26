@@ -1,85 +1,61 @@
-# 🕳️ The Esmeralda P.I.T.
+# 🏔️🕳️ The ZuitzPIT
 
-**Public Information Transmission** — the Edge Esmeralda knowledge archive.
-**Genesis arm pit #1 of the P.I.T. universe.**
+**Public Information Transmission, alpine edition** — a demo P.I.T. Protocol instance.
+**The first fork of [The Esmeralda P.I.T.](https://esmeraldapit.com)** — the protocol working as designed.
 
-🌐 **Live:** [esmeraldapit.com](https://esmeraldapit.com)
+🌐 **Live:** https://shakaleikaumaka.github.io/zuitzpit/
 🚪 **P.I.T. universe front door:** [publicinform.com](https://publicinform.com)
-🎁 **The "Dear Edge City" letter:** [GIFT.md](GIFT.md)
+🧬 **Forked from:** [shakaleikaumaka/esmeralda-pit](https://github.com/shakaleikaumaka/esmeralda-pit) (genesis arm pit #1)
 
 ---
 
 ## What this is
 
-One month. One popup village in Healdsburg, California. 800+ people from 90+ countries.
-And one artist + one AI agent who believed the talks shouldn't vanish when the tents came down.
+[Zuitzerland](https://zuitzerland.ch) — the Swiss network-state sandbox, May 2025: ~200 builders
+in the Alps prototyping "700 years of Swiss democracy rewired for the web3 era."
+Shaka helped the gathering and ran its A/V — and when the tents came down, the session
+recordings shouldn't vanish. So the bard shared the drive, and the pit was forked.
 
-This repo is the **entire archive site** — every talk harvested, transcribed, audited,
-and published as a free, consent-first public good:
+This repo is a **demo instance** of the P.I.T. Protocol, forked in one day from the
+Esmeralda genesis:
 
-- **149 sessions** · **122.2 hours** of village knowledge
-- **138 synced transcripts** — read along while you listen
-- **Posters, thumbnails, full-text search, weekly themes**
-- **≈ \$0 total cost** — harvested with consent, hosted as a gift
-- Built by **1 artist + 1 AI agent** (Shaka Lei Kaumaka 🤙 + Private JAI 🌺)
+- **39 sessions cataloged** — d/acc morning with Vitalik Buterin & Glen Weyl, Balaji Srinivasan,
+  the Cypherpunk Sessions (DarkFi), "How to Run a Country On-Chain", Swiss Democracy,
+  Permanent Hub Visioning, Buildathon Submissions, and 32 more
+- **6 featured sessions** with inline Drive players
+- **Speaker tags** where known (real names only where verifiable; @handles otherwise — radical honesty)
+- **≈ \$0 infra** — static site, recordings stream from the source Drive folder
 
-The audio files themselves are not in this repo (1.8 GB — see
-[GIFT.md](GIFT.md) for where the audio lives and how a fork harvests its own).
-Everything else — the site, the data, the search index, the transcripts,
-**and the real working pipeline** — is here.
+## Protocol status (honest ledger)
 
-## 🕳️ Why the P.I.T.?
+| Stage | Status |
+|---|---|
+| 1 · CRAWL | ✅ done — 39 recordings, public Drive folder, no API keys |
+| 2 · HARVEST | 🟡 demo — catalog curated; full Whisper transcription **declared, not yet done** |
+| 3 · AUDIT | ✅ done — titles verified vs. source listing; truncations & stream artifacts flagged |
+| 4 · PUBLISH | ✅ done — this static site |
+| 5 · CONSENT-FIRST | ⏭️ next — nothing enters a permanent archive without explicit organizer + speaker consent |
 
-The archive was born with a working name — *edgeTV* — but the pit was always its true name.
-
-- **The orchestra pit** — where the musicians sit. Shaka helps gather the
-  conductorless community music space at Devcon; the pit is where the
-  magic rises from.
-- **The OSO P.I.T.** — Shaka's ETHGlobal Delhi hackathon winner
-  (*Most Creative Use of ENS*), where P.I.T. first meant **Play IT Together**.
-- **Public Information Transmission** — the name it grew into.
-  A forkable protocol for moving a community's knowledge into the public good.
-
-The Esmeralda P.I.T. is **genesis arm pit #1**. The OSO P.I.T. is #2.
-Next: the Goa P.I.T., the Devcon P.I.T. — the pit of all kinds.
-
-**The pit provides.** 💪🕳️
+🔇 **Silence canon:** this pit has no music player. Pits listen, they don't sing.
 
 ## Repo layout
 
 ```
-index.html          the whole archive app (single-page, zero build step)
-data/               catalog.json · articles.json · search-index.json
-transcripts/        138+ synced transcript files
-posters/  thumbs/   session artwork
-assets/             images, fonts, icons
-sw.js               service worker (audio range-shim for seek support)
-pipeline/           🛠️ the real working harvest→publish scripts (see pipeline/README.md)
-GIFT.md             🎁 the "Dear Edge City" letter — how to run your own P.I.T.
+index.html          the whole ZuitzPIT app (single-page, zero build step)
+data/catalog.json   the 39-session catalog (ids, titles, speakers, Drive links)
+pipeline/           🛠️ the working harvest→publish scripts inherited from the Esmeralda fork
+LICENSE             CC0 — no rights reserved
+GIFT.md             🎁 the original "Dear Edge City" letter, inherited from the fork parent
 ```
 
-## Run it
+## Fork it again
 
-It's a static site. Any static host works:
+Everything is **CC0**. This pit is itself a fork — forking it again is the design, not the exception.
+Every village, every camp, every gathering deserves a pit.
 
-```bash
-npx serve .          # or python3 -m http.server
-```
-
-(Full audio playback needs the `/audio/` files — see GIFT.md. The site,
-search, transcripts, and posters all work without them.)
-
-## Fork it
-
-Everything here is **CC0** — no rights reserved. Take the whole pit:
-the site, the pipeline, the playbook. Run your own village archive.
-That's not a permission slip — it's the design.
-
-👉 Start with **[GIFT.md](GIFT.md)** and **[publicinform.com](https://publicinform.com)**
-for the P.I.T. Protocol white paper.
+👉 Protocol white paper & the registry of living pits: **[publicinform.com](https://publicinform.com)**
 
 ---
 
-*From its home [edgecity.live](https://edgecity.live) · gifted with aloha by
-[shakaleikaumaka.com](https://shakaleikaumaka.com) · part of the P.I.T. universe →
-[publicinform.com](https://publicinform.com)* 🌺🤙
+*The pit provides 🕳️ · forked with aloha by PIT BOY 🕳️😤 · recordings shared by the bard who ran their A/V ·
+part of the P.I.T. universe → [publicinform.com](https://publicinform.com)* 🌺🤙🏔️
