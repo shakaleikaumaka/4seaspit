@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<!-- build: zuitzpit v1.0.0 · 2026-07-26 · THE FIRST FORK — a P.I.T. Protocol instance, forked with aloha from The Esmeralda P.I.T. (github.com/shakaleikaumaka/esmeralda-pit) · demo: 39 Zuitzerland session recordings, cataloged — CRAWL ✓ · HARVEST (transcription) declared, pending consent · SILENCE CANON: pits listen, they don't sing — no music player · CC0 -->
+<!-- build: zuitzpit v1.1.0 · 2026-07-26 · THE FIRST FORK — a P.I.T. Protocol instance, forked with aloha from The Esmeralda P.I.T. (github.com/shakaleikaumaka/esmeralda-pit) · demo: 39 Zuitzerland session recordings, cataloged — CRAWL ✓ · HARVEST (transcription) declared, pending consent · SILENCE CANON: pits listen, they don't sing — no music player · CC0 · v1.1.0: Patrick's thumbnail taste arrives — 37 Drive poster-frames harvested (no gigabytes downloaded) set as circular speaker-bubble avatars, Esmeralda style, alpine border · Zuitzerland 2025 Summit folder inbound (sharing pending) -->
 <title>The ZuitzPIT 🏔️🕳️ — a P.I.T. Protocol instance · the Zuitzerland session archive (demo)</title>
 <meta name="description" content="39 sessions from Zuitzerland — the Swiss network-state sandbox — cataloged as a demo P.I.T. Protocol instance. Forked with aloha from The Esmeralda P.I.T. The pit provides.">
 <meta property="og:type" content="website">
@@ -112,6 +112,12 @@ section{max-width:1200px;margin:0 auto;padding:5rem 1.5rem}
 .search input::placeholder{color:var(--ink-faint)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1.1rem}
 .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:1.25rem 1.3rem;display:flex;flex-direction:column;gap:.65rem;transition:.22s;position:relative;overflow:hidden}
+/* Patrick's speaker bubble — the Esmeralda taste, alpine border 🏔️ */
+.card:has(.card-ava) h3{padding-right:4rem}
+.card-ava{position:absolute;top:.9rem;right:.9rem;width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid rgba(56,189,248,.5);box-shadow:0 4px 14px rgba(0,0,0,.5)}
+.card.is-feat .card-ava{border-color:rgba(240,78,155,.55)}
+.fava-row{display:flex;align-items:center;gap:.6rem}
+.fava-row img{width:44px;height:44px;border-radius:50%;object-fit:cover;border:2px solid rgba(56,189,248,.5);box-shadow:0 4px 14px rgba(0,0,0,.5)}
 .card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--alpine),transparent 60%)}
 .card:hover{transform:translateY(-3px);border-color:rgba(56,189,248,.4);background:var(--card2)}
 .card.is-feat::before{background:linear-gradient(90deg,var(--magenta),var(--alpine))}
@@ -284,12 +290,13 @@ const screenArt = id => `
 
 function featCard(s, i){
   const spk = s.speakers.length ? `<div class="fmeta">🎙️ ${esc(s.speakers.join(' · '))}</div>` : '';
+  const fava = s.thumb ? `<div class="fava-row"><img loading="lazy" src="${esc(s.thumb)}" alt="" onerror="this.remove()"><h3>${esc(s.title)}</h3></div>` : `<h3>${esc(s.title)}</h3>`;
   return `<article class="feat reveal">
     <button class="screen" data-prev="${esc(s.preview)}" aria-label="Load the Drive player for ${esc(s.title)}">
       ${screenArt(i)}<span class="play">▶</span><span class="loadnote">tap to load player</span>
     </button>
     <div class="fbody">
-      <h3>${esc(s.title)}</h3>
+      ${fava}
       ${spk}
       <div class="fdrive"><a href="${esc(s.drive)}">Open in Drive ↗</a></div>
     </div>
@@ -301,7 +308,9 @@ function card(s){
   if(s.featured) tags.push('<span class="tag featflag">★ featured</span>');
   for(const t of s.speakers) tags.push(`<span class="tag">🎙️ ${esc(t)}</span>`);
   const note = s.note ? `<div class="note">⚠️ ${esc(s.note)}</div>` : '';
+  const ava = s.thumb ? `<img class="card-ava" loading="lazy" src="${esc(s.thumb)}" alt="" onerror="this.remove()">` : '';
   return `<article class="card${s.featured?' is-feat':''}">
+    ${ava}
     <h3>${esc(s.title)}</h3>
     ${tags.length?`<div class="tags">${tags.join('')}</div>`:''}
     ${note}
