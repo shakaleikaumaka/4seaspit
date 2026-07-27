@@ -249,13 +249,14 @@
     "id": "1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR",
     "kind": "audio",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR",
+  "duration": "01:17:06",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": false,
   "note": "Audio capture (m4a)."
  },
