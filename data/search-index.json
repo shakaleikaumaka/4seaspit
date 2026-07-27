@@ -1810,6 +1810,3226 @@
   " the end. And enjoy."
  ],
  [
+  3,
+  1,
+  "Welcome back, everybody. Hope you guys have a good rest. So let's back to the building mode and welcome this founder of the social layer, Jo"
+ ],
+ [
+  3,
+  22,
+  "hn, to do the sharing. Hello. Hi,"
+ ],
+ [
+  3,
+  27,
+  "everyone. I'm going to give an intro a workshop about, why the coding in action. I'm Jiang. I'm founder of SocialLayer. SocialLayer is a mod"
+ ],
+ [
+  3,
+  39,
+  "ular decentralized community platform for pop up cities and global communities with event, venue, and relationship management for communitie"
+ ],
+ [
+  3,
+  52,
+  "s."
+ ],
+ [
+  3,
+  52,
+  "Now we are AI is the elephant in the room, and everyone is using AI and is changing a lot of things that we are doing in our everyday life. "
+ ],
+ [
+  3,
+  69,
+  "And AI the one of the, biggest, improvement, in AI for the, last year was,"
+ ],
+ [
+  3,
+  78,
+  "AI assisted coding and especially whiteboard coding. So we so and and and AI is getting better and better in doing this coding work. I start"
+ ],
+ [
+  3,
+  95,
+  "ed using cursor at the, end of twenty twenty four."
+ ],
+ [
+  3,
+  101,
+  "At the beginning, it was just able to generate, snippets of code, in the context. Yeah. So with, AI, you use, the the IDE based, auto comple"
+ ],
+ [
+  3,
+  119,
+  "te system to, to, auto complete of of your code."
+ ],
+ [
+  3,
+  125,
+  "And, with, and also you can use AI, to generate, text for the call you you write. Because people would like to write code, but they don't li"
+ ],
+ [
+  3,
+  140,
+  "ke to write text or documentations. So, with AI, you can, have the text auto generated to"
+ ],
+ [
+  3,
+  149,
+  "mail your code to make sure your code has high quality. But then, you you with your development process, you can also, use, AI to fight bugs"
+ ],
+ [
+  3,
+  164,
+  " or, to debugging process and check data, updating database, with this integrated"
+ ],
+ [
+  3,
+  172,
+  "IDE. And and also you can answer questions about the code base because when you pick up a very large legacy code base or open source project"
+ ],
+ [
+  3,
+  184,
+  ", you have to learn about, the structure, the architecture, the the build instructions, and, some some other issues. And AI would provide a "
+ ],
+ [
+  3,
+  196,
+  "very good assistant,"
+ ],
+ [
+  3,
+  198,
+  "on, exploring the code base that you are not familiar with. And, also, it can, do planning and implementing, new product features. It can, g"
+ ],
+ [
+  3,
+  213,
+  "et decide the database schema, your API routes, and file directory. And, also, it can do initial,"
+ ],
+ [
+  3,
+  223,
+  "setups of your project. So what people are taught are saying about AI assisted coding, this the what the concept of vibe coding was coined b"
+ ],
+ [
+  3,
+  240,
+  "y Audrey Kaposi, the founding member of OpenAI."
+ ],
+ [
+  3,
+  246,
+  "And in February 2025, he say that web coding is where you fully get into the web, embrace its financials, and and also forget that the code "
+ ],
+ [
+  3,
+  261,
+  "even exist. So you just do web coding. You it's like coding in a natural language."
+ ],
+ [
+  3,
+  270,
+  "And then the AI will understand your intention and plan the features and start implementation. And when it comes to some errors, it can try "
+ ],
+ [
+  3,
+  285,
+  "to understand the error and start debugging and then fix the box. And traffic is one of the best"
+ ],
+ [
+  3,
+  296,
+  "foundation AI model that is very good at coding. And Anchorfic's CEO say in last year that in three to six months, AI will be writing 98% of"
+ ],
+ [
+  3,
+  310,
+  " the of the code software developers was in charge of. Yeah. And, actually, I think the we are still"
+ ],
+ [
+  3,
+  320,
+  "yet to come to this milestone even though that's been one years later. But it's getting better very, very fast, and we can really feel it. A"
+ ],
+ [
+  3,
+  338,
+  "nd, also, the CEO of Google, send up. Said, he"
+ ],
+ [
+  3,
+  344,
+  "claimed that over 90 over 35% of Google's, code base, was written by AI. So why is WIPE coding? WIPE coding is the emerging software develop"
+ ],
+ [
+  3,
+  357,
+  "ment practice that use AI to generate functional code from natural language prompts. So we as a as a human,"
+ ],
+ [
+  3,
+  367,
+  "just keep the our intention in our own language. And AI will start the will will process the impen implementation plan. It can accelerate de"
+ ],
+ [
+  3,
+  381,
+  "velopment and making the make building applications more accessible. So now with live coding, more people without"
+ ],
+ [
+  3,
+  393,
+  "computer science background can also manage to to do software development and start product prototyping. It's a workflow that, where the pri"
+ ],
+ [
+  3,
+  405,
+  "mary role shift from writing code line by line to guiding an AI assistant to generate, refine, and debug an application"
+ ],
+ [
+  3,
+  416,
+  "through our new conversation process. So, this is a difference of general AI assistant coding and writing coding. So for the AI SSD coding b"
+ ],
+ [
+  3,
+  430,
+  "efore, it's like we as the human are the main coder and AI was assisting us to to to"
+ ],
+ [
+  3,
+  439,
+  "do the thing. But with wiper coding, it's like the AI are the main coder, and we are the instructor to make sure it works as expected. And m"
+ ],
+ [
+  3,
+  458,
+  "ost popular AI SSD coding tool"
+ ],
+ [
+  3,
+  462,
+  "is cursor. It's a feature rich, fully developed IDE. It has very well designed smart typing. So when you try to build your write a code, you"
+ ],
+ [
+  3,
+  480,
+  " can just do typing and it will try to auto complete"
+ ],
+ [
+  3,
+  487,
+  "the lines you would like to write. And it has very well designed capabilities so that it can generate code that makes sense in the context. "
+ ],
+ [
+  3,
+  504,
+  "It also has the agent mode. So it can be it can ask the AI agents to"
+ ],
+ [
+  3,
+  512,
+  "not only do implementation, but also fix bugs. And then it can keep the loop running. And with cursor, you can use the top foundation model."
+ ],
+ [
+  3,
+  531,
+  " And it also has a a well very well"
+ ],
+ [
+  3,
+  536,
+  "model called composer one. But cursor has a problem. It's closed source, and many people don't like the closed source Black Box, application"
+ ],
+ [
+  3,
+  550,
+  " as the main, development environment. While, client is the open source, cursor"
+ ],
+ [
+  3,
+  558,
+  "open source alternative to cursor, which is a Versus code plugin so that you can use, Versus code, as your main, coding environment and use "
+ ],
+ [
+  3,
+  573,
+  "client to improve your AI capability. For Cursor, it charge you $20 per month."
+ ],
+ [
+  3,
+  582,
+  "But with this fixed price plan, it will not try to use as many token as possible. Instead, it will try to save the tokens. So which means th"
+ ],
+ [
+  3,
+  593,
+  "at it does not give you the best performance when possible. Why are you inclined? Because you use your own API endpoint or API keys so that "
+ ],
+ [
+  3,
+  605,
+  "it will try to make use of the"
+ ],
+ [
+  3,
+  607,
+  "token of the AI capability as it could. So client sometimes generate a better call and and it's auto better in the agented coding than curso"
+ ],
+ [
+  3,
+  631,
+  "r."
+ ],
+ [
+  3,
+  631,
+  "Yeah. And also you it can use more plugins because it's more compatible with Versus code. But when people are not doing the co editing, we a"
+ ],
+ [
+  3,
+  646,
+  "re we we might not need a full IDE for for that. So now people are more"
+ ],
+ [
+  3,
+  654,
+  "more people are using cloud code, which is a tool developed, by Entropic, the the builder, of cloud AI. So it's a terminal based coding agen"
+ ],
+ [
+  3,
+  670,
+  "t. It's very has a lot of capabilities, and it's very good"
+ ],
+ [
+  3,
+  677,
+  "at doing rival coding. Also, it has excellent m c MCP support. So you because cloud because Entropic is the it is the main also of MCP proto"
+ ],
+ [
+  3,
+  693,
+  "col. So with CloudCall, you can integrate with all kinds of MCPs"
+ ],
+ [
+  3,
+  701,
+  "to provide more tools for the agents. And, also, it's more cost effective if you have a cloud paid plan, because with a a 20, per month paid"
+ ],
+ [
+  3,
+  717,
+  " plan, you can use a lot more token than, those who use the API. But when you are really doing web coding, you might need to use some"
+ ],
+ [
+  3,
+  732,
+  "third party dependencies or might need to use call from other projects. Then you will need to you will need some tools to understand the cod"
+ ],
+ [
+  3,
+  748,
+  "e base deeply and the usage, the architecture, and and other doc comments"
+ ],
+ [
+  3,
+  756,
+  "about that code base. And then Deepa Wiki is a project that provide architecture overview for many open source projects. It will provide det"
+ ],
+ [
+  3,
+  770,
+  "ailed documentations. And also, it's available as a MCP server for other coding agents. And when you are really developing"
+ ],
+ [
+  3,
+  783,
+  "a website, you can ask AI to wipe code the the full page. But for some people, you might want to build HTML from the from the Figma design d"
+ ],
+ [
+  3,
+  806,
+  "ocuments."
+ ],
+ [
+  3,
+  807,
+  "So one one of the available options, of turning a Figma design doc into deployable HTML is to up is to take a snapshot of the, document of t"
+ ],
+ [
+  3,
+  821,
+  "hat, of the design doc and then put it to the AI models. But also with the IDE or with the cloud co agent, you can use Figma MCP, which is a"
+ ],
+ [
+  3,
+  835,
+  " connector for for your AI coding agent to your Figma"
+ ],
+ [
+  3,
+  840,
+  "design doc. So you can you can just ask AI to explore, take steps out, implement the design as HTML. And also you might need to instruct the"
+ ],
+ [
+  3,
+  861,
+  " the AI coding agents"
+ ],
+ [
+  3,
+  864,
+  "how to how to keep the code clean or how to use the correct database or other third party service. So you might so there is a standard call "
+ ],
+ [
+  3,
+  881,
+  "agents.md. And before agents.md, there was a standard created"
+ ],
+ [
+  3,
+  889,
+  "by cursor called cursor rules. So it's a a branch of documents as plain text markdown to tell AI how to what kind of libraries and best prac"
+ ],
+ [
+  3,
+  904,
+  "tice what the best practice of the code base. And then the IDEs or AI coding agents will try to load and read"
+ ],
+ [
+  3,
+  915,
+  "these customized rules when they are doing coding. So it can make sure your code base is consistent. And there is also a a very capable AI c"
+ ],
+ [
+  3,
+  931,
+  "oding agent called Code Above. And and recently, there is also cloud code."
+ ],
+ [
+  3,
+  939,
+  "There's also open code. There's a open source alternative to cloud code. They are very good at coding. And also because they are open source"
+ ],
+ [
+  3,
+  952,
+  ", you can learn how how these coding agents work. And you can also create new plugins or make modifications to these AI coding agents."
+ ],
+ [
+  3,
+  965,
+  "But for most of the coding agents, they they are reading your static source code and or they are sometimes can read the logs from your runni"
+ ],
+ [
+  3,
+  980,
+  "ng process. But you sometimes you might want them to do a deep debugging"
+ ],
+ [
+  3,
+  987,
+  "or really understand what's happening in the runtime. And tidal wave is one is our where we innovative AI coding framework. It can work with"
+ ],
+ [
+  3,
+  1007,
+  " other IDEs or coding agents. So you provide our"
+ ],
+ [
+  3,
+  1014,
+  "so it's a framework that that aware of in process run state. So it's called runtime intelligence. It can help AI to debug and inspect the ru"
+ ],
+ [
+  3,
+  1033,
+  "ntime status of your application."
+ ],
+ [
+  3,
+  1037,
+  "You can also use tidal wave to select elements in the in the web page or read variables in the runtime in the browser. So it can provide it "
+ ],
+ [
+  3,
+  1056,
+  "can help debugging for those coding agents. And"
+ ],
+ [
+  3,
+  1062,
+  "I also build a web based coding agent called wiper3.me. So it's a representative coding agents with login and smart contract integrations. S"
+ ],
+ [
+  3,
+  1079,
+  "o but our web coding still have some problems."
+ ],
+ [
+  3,
+  1085,
+  "So it's good at the it's good when you do the first prompt or may or implement the the some features. But when you are but when you are main"
+ ],
+ [
+  3,
+  1104,
+  "taining the code base, the"
+ ],
+ [
+  3,
+  1108,
+  "the code become more and more more messy and unmaintainable. So because AI is trying to generate all kind of code and dump into the code bas"
+ ],
+ [
+  3,
+  1122,
+  "e. And when it's trying to fix the box, it might change to, more code than you would expect. So,"
+ ],
+ [
+  3,
+  1131,
+  "the code base is easy to get over engineered and introduce too many dependencies. And and also bugs and security vulnerabilities are easy to"
+ ],
+ [
+  3,
+  1147,
+  " slip in. So even with the best coding assistance, it could stack"
+ ],
+ [
+  3,
+  1154,
+  "in some bugs and can be really hard to recover. So at that time, you you just have to revert your code base to the previous commit, which an"
+ ],
+ [
+  3,
+  1169,
+  "d then try to use another model or try another way to to implement the feature. And there's also a new way of spec based web coding."
+ ],
+ [
+  3,
+  1183,
+  "It's the practice that may that made a spec specification for for your project, like a PRD document. So you will describe how the applicatio"
+ ],
+ [
+  3,
+  1204,
+  "n is is for and how is how"
+ ],
+ [
+  3,
+  1208,
+  "and what kind of tech stack it will use and what are the architecture, data flow, and database schema for your for your application. And and"
+ ],
+ [
+  3,
+  1220,
+  " then with this, fully generated document of the application, you might just put it to, hand over to the AI coding agents to start the imple"
+ ],
+ [
+  3,
+  1232,
+  "mentation."
+ ],
+ [
+  3,
+  1233,
+  "And when you want to, make modification to your application, you just modify the spec first. And the AI will find, the difference and made t"
+ ],
+ [
+  3,
+  1245,
+  "he implementation, incremental implementation based on the spec, document. And, also, you will keep application architecture consistent"
+ ],
+ [
+  3,
+  1256,
+  "because it's always following this this document. For here is an example spec structure like README, product purpose, main features, tech st"
+ ],
+ [
+  3,
+  1275,
+  "ack, architecture, packages or dependencies,"
+ ],
+ [
+  3,
+  1281,
+  "and database schema, permissions, page routes, background jobs, front end design, testing plan, deployment, and usage. And also there could "
+ ],
+ [
+  3,
+  1296,
+  "be a project management document or, task list for the implementation. Yeah. And one of the most popular"
+ ],
+ [
+  3,
+  1307,
+  "tool for to have you do the spec driven development is called a spec kit or open spec. So you might try to use this tool to generate these d"
+ ],
+ [
+  3,
+  1348,
+  "ocuments for you. Thank you. And if yeah. Is there any questions? Yeah. Please."
+ ],
+ [
+  3,
+  1371,
+  "And and also when you are doing people use a a combination of different models."
+ ],
+ [
+  3,
+  1395,
+  "When you are writing code, you can use SONET or OPUS from cloud. If you like to use the open source model, you can use GRM 4.7. I use it som"
+ ],
+ [
+  3,
+  1409,
+  "etime. It works great. And if you if the development if you are only developing a a small"
+ ],
+ [
+  3,
+  1418,
+  "features not doing a lot of refactoring, then I will recommend Google Gemini three flash model, which is very fast. Because some of the mode"
+ ],
+ [
+  3,
+  1432,
+  "l like GBT is very slow in terms of token generation. And when but when you are doing the debugging GBT"
+ ],
+ [
+  3,
+  1443,
+  "2.5 are really good. Yeah. They can do really, really deep debugging for you. And recently, because made an experiment that use the those AI"
+ ],
+ [
+  3,
+  1461,
+  " model to develop a full functional browser"
+ ],
+ [
+  3,
+  1466,
+  "with 3,000,000 lines of code. Yeah. And in their benchmark, in their experiment, they find GBT works very stably and steadily in this large "
+ ],
+ [
+  3,
+  1484,
+  "scale code base. Yeah. And the other thing is that to your"
+ ],
+ [
+  3,
+  1491,
+  "if you find there are more bugs, then you should split your your feature into many small features and and implement these features one by on"
+ ],
+ [
+  3,
+  1506,
+  "e. And when and also you should check the implementation every time it it finish. Yeah."
+ ],
+ [
+  3,
+  1515,
+  "And make sure every commit every incremental commit makes sense for you. Is there a way to generate"
+ ],
+ [
+  3,
+  1541,
+  "is there a way to generate a comprehensive unit test for each function or you have to actually tell them one by one problem how to test it? "
+ ],
+ [
+  3,
+  1554,
+  "At the moment, they are very good at generating those unit tests. And also, we can create a fixture or data mark for"
+ ],
+ [
+  3,
+  1565,
+  "or mark data for for your tags. And they are also good at running those tags. So because it's a very clear flow so they will understand your"
+ ],
+ [
+  3,
+  1577,
+  " code and they can generate the test. And when there are some and when you run the test and they fail, you can easily see whether the"
+ ],
+ [
+  3,
+  1589,
+  "the error is coming from the generated test or the code. Yeah. And also you can set the in your in your agent store m d, you can ask AI to g"
+ ],
+ [
+  3,
+  1606,
+  "enerate text for every function they create."
+ ],
+ [
+  3,
+  1612,
+  "You can instruct AI to to follow this text driven development practice. Yeah. So just ask AI to do that thing if yeah. Just make sure AI can"
+ ],
+ [
+  3,
+  1637,
+  " understand your what what you need. Yeah. What you want. Sorry?"
+ ],
+ [
+  3,
+  1649,
+  "Could you elaborate a bit more on which model do you prefer for a particular task? Like, do you prefer Claude over Codex 5.2 for front end o"
+ ],
+ [
+  3,
+  1662,
+  "r, maybe Codex for back end? Yeah. So some, usually, if I'm doing the, small feature, I'm building a small incremental feature, I will use"
+ ],
+ [
+  3,
+  1674,
+  "Google Gemini three flash be because it's very fast. If I'm doing a large scale, coding, like the first, prompt for my web coding, I would u"
+ ],
+ [
+  3,
+  1688,
+  "se, Sonnet. But if I'm doing debugging, I will recommend GPT 5.2. Yeah. So I I think a combination is a lot better than"
+ ],
+ [
+  3,
+  1699,
+  "a single model. And, also, I I like to use GRM, yeah, because they are also good and stable. Yeah. One more question. Like, I found that tes"
+ ],
+ [
+  3,
+  1711,
+  "ting is is the main bottleneck right now, especially front end. Like, you do have to go through the the browser, click on a few buttons, and"
+ ],
+ [
+  3,
+  1723,
+  " make sure it it does what it's supposed to do."
+ ],
+ [
+  3,
+  1727,
+  "Like, is there a way to automate the testing bit as well so that I don't have to be involved in the loop at all? I think you can ask AI to g"
+ ],
+ [
+  3,
+  1741,
+  "enerate integration test for it can also call, the browser. Yeah. So they are now they are very good at,"
+ ],
+ [
+  3,
+  1751,
+  "doing all these things, all these automations. And oh, I forgot to mention that there is also a new way of, improving the, improving your we"
+ ],
+ [
+  3,
+  1766,
+  "b coding process is using the, agent skills. So skills are plain text documents"
+ ],
+ [
+  3,
+  1774,
+  "that talk about us the usage of some tools, some libraries, or some development process or best practices. So it's a modular way. It's so it"
+ ],
+ [
+  3,
+  1791,
+  "'s like agentstem.md, but it's modular and it's dynamic"
+ ],
+ [
+  3,
+  1797,
+  "it's loaded dynamic Yeah. So agent skills are also very important for to use for you to use more tools and do the automation. Thank you. And"
+ ],
+ [
+  3,
+  1817,
+  " I will also recommend"
+ ],
+ [
+  3,
+  1820,
+  "to try tidal wave. Yeah. Okay. And thanks for listening. Okay. Thank you, Zhang."
+ ],
+ [
+  3,
+  1861,
+  "And next, we'll welcome Leolara, who will do we have a deck? Do we have a slides for this? From from we will welcome Liu Lara from Ethereum "
+ ],
+ [
+  3,
+  1883,
+  "Foundation to give us a speech. Thank you. No. He's mentor."
+ ],
+ [
+  3,
+  1892,
+  "Uh-uh. Also, Liu Lara is our mentor of the hackathon. So, yeah, if you have any questions, feel free to ask after the speech. Do you wanna s"
+ ],
+ [
+  3,
+  1917,
+  "ay something?"
+ ],
+ [
+  3,
+  1919,
+  "Thank you, everyone. Yes. Tomorrow we'll pass by to help any. Okay. Is everything is okay? Tomorrow, we'll pass by to help you in your proje"
+ ],
+ [
+  3,
+  1932,
+  "cts, perhaps some some other teams and everything. Okay? Thank you very much. We have ten days break because the last session will begin. Wh"
+ ],
+ [
+  3,
+  1944,
+  "at time?"
+ ],
+ [
+  3,
+  1945,
+  "02:40. Thank you. Good afternoon,"
+ ],
+ [
+  3,
+  2706,
+  "everyone. Please take a seat. We will start our workshop again. And Zee will will give us the next workshop. Please welcome. Hello, guys. I'"
+ ],
+ [
+  3,
+  2748,
+  "m Xavier."
+ ],
+ [
+  3,
+  2751,
+  "I'm from Primer's Lab. So I'm very glad to be here to present our technology. And also Primus is one of the sponsor for Aether Chima Haxone."
+ ],
+ [
+  3,
+  2766,
+  " So today, I'd like to introduce CKTOS, which I assume you guys know like ZK or very other fancy"
+ ],
+ [
+  3,
+  2776,
+  "technology about cryptography. So I will I will introduce CKTOS and how we can build with the KTUS on the premise network. So first, I'm und"
+ ],
+ [
+  3,
+  2789,
+  "er Deborah from the premise labs. And there I got my PhD in quick power free and also have like over ten years research experience in privac"
+ ],
+ [
+  3,
+  2802,
+  "y and the cryptography."
+ ],
+ [
+  3,
+  2804,
+  "And their Primer's actually is a kind of cryptography infrastructure build with CK2S and as a privacy technologies like FHE for the homomorp"
+ ],
+ [
+  3,
+  2815,
+  "hic encryption. So we are building a data verification and a computation network to bring the off chain data on chain. And there this is my "
+ ],
+ [
+  3,
+  2827,
+  "outlines about today's talk."
+ ],
+ [
+  3,
+  2829,
+  "First, I will introduce what is ZKTS and why we need it. And there I will briefly introduce how ZKTS works, Maybe involve some mass. And if "
+ ],
+ [
+  3,
+  2840,
+  "you guys don't like it, just show your hands and I will skip this part. And also, we'll introduce a bit about what use cases we can build ba"
+ ],
+ [
+  3,
+  2850,
+  "sed on this technology and how we can build it with our developer tools."
+ ],
+ [
+  3,
+  2856,
+  "So first, why we need the ZKTRS? Just imagine we are building the WebStreet application. And if we want to have data, most of the data actua"
+ ],
+ [
+  3,
+  2869,
+  "lly are coming from their off chain of the real world. And you can using some Oracle technologies like Chainlink,"
+ ],
+ [
+  3,
+  2879,
+  "like Redstone, or as Oracle to bring this public off chain data to your smart contract to the app. But if you want to leverage this off chai"
+ ],
+ [
+  3,
+  2889,
+  "n private data, so personal data, how we can do it? So and and we believe the decent the web three applications actually require the high qu"
+ ],
+ [
+  3,
+  2899,
+  "ality private data off chain. And the"
+ ],
+ [
+  3,
+  2902,
+  "second part is how we can verify this data. I mean, like like the traditional Argo technology, you can have some public note or using some c"
+ ],
+ [
+  3,
+  2911,
+  "onsensus or security technology to aggregate this data from the off chain part. And because this data are publicly accessible, so it's easy "
+ ],
+ [
+  3,
+  2921,
+  "to create a such kind of layer to bring this off chain public off chain data"
+ ],
+ [
+  3,
+  2926,
+  "to the to the on chain part. And if this data is more about your personal data, your private data, then how we can handle it because there's"
+ ],
+ [
+  3,
+  2935,
+  " a lot of issues that we need to figure out in the whole parse. And besides, we have seen web two data. That's a lot of a massive web two da"
+ ],
+ [
+  3,
+  2945,
+  "ta where they would have been involved in the daily life. But actually, that's not so much, but so much in the web three applications."
+ ],
+ [
+  3,
+  2954,
+  "And there yeah. Executives is definitely one of the most efficient and unique technology to solve this issue. So it's focusing on can bring "
+ ],
+ [
+  3,
+  2968,
+  "your off chain like identity, like reputation, like your orders in your different commercial"
+ ],
+ [
+  3,
+  2978,
+  "websites, your location data, your financial data, everything about your personal or private data footprint. He can he can prove it and then"
+ ],
+ [
+  3,
+  2990,
+  " can further bring it to to any any third party or any application. And there so the problem actually derived from such a a a context."
+ ],
+ [
+  3,
+  3001,
+  "So how basically, you can imagine or think about this problem. How to prove your personal data if the data is is in their website? So for ex"
+ ],
+ [
+  3,
+  3012,
+  "ample, you have some money in the bank. And there ideally, you can ask the bank to give you or present you some certificate or bank statemen"
+ ],
+ [
+  3,
+  3024,
+  "t."
+ ],
+ [
+  3,
+  3024,
+  "He will generate some some signature or some stamps on that to prove that, okay, you have some kind of money or money flows there. But if th"
+ ],
+ [
+  3,
+  3034,
+  "e data is relevant about the different social media or different types of websites, how you can ask this service provider to do that for you"
+ ],
+ [
+  3,
+  3044,
+  ". And also because this data are more about your sensitive information,"
+ ],
+ [
+  3,
+  3049,
+  "which means if you directly share this data to the third party, you will definitely reveal your your privacy. Your your privacy will be brok"
+ ],
+ [
+  3,
+  3060,
+  "en. So then we might need a a way to selectively disclosure your data. So and also the most important thing is about the authenticity, which"
+ ],
+ [
+  3,
+  3070,
+  " means only the authentic"
+ ],
+ [
+  3,
+  3072,
+  "or verified data will be the useful, will be accepted. Otherwise, any self claimed or provided data, it has no meaning. Right? So you don't "
+ ],
+ [
+  3,
+  3084,
+  "need really need this kind of data in your application. So then based based on these concerns, like handling the universal ality or or struc"
+ ],
+ [
+  3,
+  3095,
+  "tured data"
+ ],
+ [
+  3,
+  3096,
+  "or about the data integrity and also more about the the the compliance. So most of issues are around this this proving our data problem. So "
+ ],
+ [
+  3,
+  3109,
+  "then here comes the ZKQS. To be to be simple, ZKQS is kind of data verification technology"
+ ],
+ [
+  3,
+  3118,
+  "is that it can generate some kind of cryptography proof. You just think it's a proof. Right? And this proof can show that the the correspond"
+ ],
+ [
+  3,
+  3130,
+  "ing web data is actually retrieved or derived from that data server. So some some some unique feature like you can actually, you can do any "
+ ],
+ [
+  3,
+  3143,
+  "type of Internet data source as long as the data is returned from some web page or website."
+ ],
+ [
+  3,
+  3151,
+  "There's some API endpoint that you can do it. And the ZK2S is using some kind of cryptography like ZK or some other like MPC to do such a ki"
+ ],
+ [
+  3,
+  3164,
+  "nd of data attestation stuff to create as a data proof. So so next I would just briefly introduce what is CKTIS and what is"
+ ],
+ [
+  3,
+  3176,
+  "how it works. So if you guys are familiar with TLS, which we every day we access the website, we're using HTTPS. The s stand for TOS, the tr"
+ ],
+ [
+  3,
+  3189,
+  "ansport layer security, which is a very, very mature protocol. It's a secure protocol we use in the daily"
+ ],
+ [
+  3,
+  3199,
+  "Internet communication. And does TOS protocol guarantee that our client, basically your browser or your application talking to a remote serv"
+ ],
+ [
+  3,
+  3211,
+  "er is very secure. So every communication is encrypted within this channel. So TRS is a very commonly used cryptography"
+ ],
+ [
+  3,
+  3222,
+  "protocol that I mean, most like 99% of the website, they're adopting this standard. And there and then then what was ZKTOS does? So ZKTUS, t"
+ ],
+ [
+  3,
+  3234,
+  "hat will be a party called a tester or some some some people call it a notary. He works between the TRS client and the TRS server."
+ ],
+ [
+  3,
+  3246,
+  "And usually, the attesters the the the attesters role is to verify that every piece of the data sending from the from this channel is is com"
+ ],
+ [
+  3,
+  3259,
+  "ing from that server. So like you indicated some data source server URL and you want to talk with him. So you were just doing some encrypt t"
+ ],
+ [
+  3,
+  3271,
+  "he communication with the exact channel once your TOS"
+ ],
+ [
+  3,
+  3276,
+  "handshake session is fixed. And then the tester will just trying to blindly monitoring the whole session and trying to present some proof of"
+ ],
+ [
+  3,
+  3285,
+  " say, okay, I have seen this piece of data is really coming from that source. So he will join us as some signature. So that's the whole thin"
+ ],
+ [
+  3,
+  3294,
+  "g. The test is just a kind of a monitor to do this kind of witness"
+ ],
+ [
+  3,
+  3298,
+  "or verification for the data data flow. And they're based on different cryptography algorithm used that will be different to QTUS variance. "
+ ],
+ [
+  3,
+  3310,
+  "So one is using with MPC, it's a multiparty computation, which we might use like in the wallet, in the MPC bridge, in the web three. And the"
+ ],
+ [
+  3,
+  3323,
+  "re"
+ ],
+ [
+  3,
+  3323,
+  "as the another type is called the proxy proxy model, which is more relevant to the to the to the naive Zen logic proofs. So premise here usi"
+ ],
+ [
+  3,
+  3334,
+  "ng both model because I will explain why. Because these two types can have different advantages. And there'll be some projects within this d"
+ ],
+ [
+  3,
+  3344,
+  "omain using different"
+ ],
+ [
+  3,
+  3346,
+  "ZKTUS models. So then next part, I will explain like some some some some details, some principles about the ZKTUS. And there I'm I'm trying "
+ ],
+ [
+  3,
+  3362,
+  "to skip some math, but I will trying to give you the the main idea of how it works."
+ ],
+ [
+  3,
+  3372,
+  "So first, MPC. If you are not familiar with MPC, I will try and explain it. So MPC is a very interesting and innovative technology, cryptogr"
+ ],
+ [
+  3,
+  3384,
+  "aphy technology. It can allow different parties to jointly work together to do some computation on the same task. So just imagine if you wan"
+ ],
+ [
+  3,
+  3396,
+  "t to"
+ ],
+ [
+  3,
+  3396,
+  "calculate the average salary between your team and you don't want to reveal your personal salary amount to everyone, then you can use this. "
+ ],
+ [
+  3,
+  3407,
+  "And the result will just be correctly derived if the MPC protocol works properly. And MPC can do any type of computation, which ranging from"
+ ],
+ [
+  3,
+  3418,
+  " easily some some kind of computation functions to very complex, like a machine learning tasks. That's a lot of work in this area have been "
+ ],
+ [
+  3,
+  3429,
+  "done. So"
+ ],
+ [
+  3,
+  3430,
+  "then the MPC based as a QTS usually work like this. I'm trying to skip this part of details because it's too annoying. And let me introduce "
+ ],
+ [
+  3,
+  3444,
+  "a bit about how it works. So basically, if the user using the web client and web two servers there,"
+ ],
+ [
+  3,
+  3454,
+  "then in the traditional TOS protocol, these two party will be doing something called handshake. So it's more like a you you randomly meet so"
+ ],
+ [
+  3,
+  3463,
+  "me guy and they want to ensure he is not a bad guy. Right? So you want to verify he has some the server has some certificate and they will y"
+ ],
+ [
+  3,
+  3473,
+  "ou want to conduct a same session key with him to make sure your your your your later conversation will will be encrypted by the session key"
+ ],
+ [
+  3,
+  3482,
+  ". So the handshake protocol actually just want to do one thing."
+ ],
+ [
+  3,
+  3486,
+  "The these two parties will conduct the same session key. And so then what does ZKTUS here do? So so in the ZKTUS models, there'll be an a te"
+ ],
+ [
+  3,
+  3499,
+  "ster, as I explained before. And the session key actually, the traditional ZKTUS session key will be held by both the server and the client."
+ ],
+ [
+  3,
+  3512,
+  " But in this Secure TUS part,"
+ ],
+ [
+  3,
+  3515,
+  "the session key from the client will be split into two part. So one part of the session key will be held by the client, and the other part w"
+ ],
+ [
+  3,
+  3526,
+  "ill held by the tester, which means every every kind of protocol message constructed by the client should be under the help of a tester. Rig"
+ ],
+ [
+  3,
+  3536,
+  "ht? So because the client have not have the whole key, so he is unable to do the"
+ ],
+ [
+  3,
+  3542,
+  "traditional protocol execution like a TOS. Like, the TOS encrypted messages sending and the receiving and the decrypting something something"
+ ],
+ [
+  3,
+  3553,
+  " like that. He cannot do it because the key is not fully controlled by him. But every every action take by the client will be under the help"
+ ],
+ [
+  3,
+  3564,
+  " of the tester."
+ ],
+ [
+  3,
+  3565,
+  "However, because the tester also have not as a whole key, so he is not able to see the raw data. Every piece of the raw data response sendin"
+ ],
+ [
+  3,
+  3575,
+  "g from the server. So this makes these two party will be should be collaborated together, but also can can prevent as a tester from knowing "
+ ],
+ [
+  3,
+  3585,
+  "the details of the session data. So this is the"
+ ],
+ [
+  3,
+  3588,
+  "the the main idea of how the a tester here comes. And their and their in their in their traditional TL session, once this session key is est"
+ ],
+ [
+  3,
+  3600,
+  "ablished, the the client will be trying to start to request some data from the server. So say, okay, can you give me my my registration time"
+ ],
+ [
+  3,
+  3612,
+  " from your from your website? The servers will say yes and encrypted some"
+ ],
+ [
+  3,
+  3618,
+  "his time data with the session key. And again, because the session key is not controlled by the client, he will forward this inquiry data to"
+ ],
+ [
+  3,
+  3628,
+  " the to the tester to prove to to him that, okay, you see this data is from that server URL. So there'll be a lot a lot of proof and verify "
+ ],
+ [
+  3,
+  3638,
+  "actions between these between these TUS session."
+ ],
+ [
+  3,
+  3641,
+  "And only after a tester will verify or and ensure that the session data is really coming from the server, he will give his half keys, the pa"
+ ],
+ [
+  3,
+  3652,
+  "rt of the half key to the client. And as client now is able to recover all the messages. So this is the how the data will be decrypted at th"
+ ],
+ [
+  3,
+  3663,
+  "e moment and that the client will be able to see the raw data is that is really coming from the server."
+ ],
+ [
+  3,
+  3671,
+  "And there also, the tester will generate some signature for him. Okay. He will generate some signature of all that include data. So this is "
+ ],
+ [
+  3,
+  3683,
+  "something called attestation because he is endorsed for that data session and he will join a signature. And this is something which we can u"
+ ],
+ [
+  3,
+  3695,
+  "se in our applications."
+ ],
+ [
+  3,
+  3697,
+  "So okay. So so this is the main flow of the MPC based TOS. And as a proxy TOS, a little bit different because the attester now is work stand"
+ ],
+ [
+  3,
+  3709,
+  " between the server and the client. So in the MPC model, actually, the attester is just to stand behind the client. And then now he will sta"
+ ],
+ [
+  3,
+  3721,
+  "nd in the as a middleman. Right? So"
+ ],
+ [
+  3,
+  3724,
+  "so he can he can just relay the traffic, the the TOS traffic between the server and the client. And because he he is some someone who really"
+ ],
+ [
+  3,
+  3734,
+  " know the clients who he is talking about, so he is able to share that as a so include the message is really coming from the server. And and"
+ ],
+ [
+  3,
+  3744,
+  " he will show in some kind of standard proof"
+ ],
+ [
+  3,
+  3747,
+  "to the client. Sorry. The client was trying to present something or proof to the attest to showing he's received the data is from server. An"
+ ],
+ [
+  3,
+  3757,
+  "d if the data is involved to some kind of business or sensitive information, he can also trying to pack this kind of business logic in the i"
+ ],
+ [
+  3,
+  3768,
+  "n the ZKP, in the ZKP proof. So"
+ ],
+ [
+  3,
+  3770,
+  "why I present this too? Because MPC and the proxy actually both are the ZKTIS algorithms. And the MPC is much, much complicated than proxy b"
+ ],
+ [
+  3,
+  3780,
+  "ecause there's a lot of communication and the cryptography operations in the handshake part. So basically, MPC is not so fast, but it's more"
+ ],
+ [
+  3,
+  3791,
+  " reliable because like the proxy, there are some a test is is is is standard between these two. Right? He can he definitely definitely doing"
+ ],
+ [
+  3,
+  3801,
+  " some malicious stuff. So"
+ ],
+ [
+  3,
+  3803,
+  "which means in the trust assumption, the proxy model is something we we we might not prefer. But actually, in in the current stage So proxy "
+ ],
+ [
+  3,
+  3818,
+  "based TUS actually is acceptable because it's much faster and we can still use it in some"
+ ],
+ [
+  3,
+  3827,
+  "some context, which security is might not be the first priority. I'm I'm not saying proxy is not I'm not saying proxy proxy TUS is not secur"
+ ],
+ [
+  3,
+  3837,
+  "e, but it's it's at least less secure than the MPC. And actually, there's no attack happened in the proxy TUS, so which means we can still u"
+ ],
+ [
+  3,
+  3848,
+  "sing it. And there and there okay. Then then that comes the last problem, which is about the tester."
+ ],
+ [
+  3,
+  3855,
+  "So actually, in both MPC and the proxy model, a tester security is a is a problem because we have no way to prevent a tester doing some mali"
+ ],
+ [
+  3,
+  3866,
+  "cious thing like doing some for example, do conclusion with with the client to issue a fake fake signature. So just imagine if you want to c"
+ ],
+ [
+  3,
+  3877,
+  "reate a application"
+ ],
+ [
+  3,
+  3879,
+  "which want to prove users financial status in the bank. And if if a tester cheating with the user client, he can issue a fake signature to p"
+ ],
+ [
+  3,
+  3889,
+  "rove the user have enough, say, money in the bank as long I mean, even even the user don't have money, right, he can still issue the fake si"
+ ],
+ [
+  3,
+  3900,
+  "gnature. So then we need to think about how we can prevent such a such a issue happen."
+ ],
+ [
+  3,
+  3906,
+  "So that will be some approaches. So one thing is we can build a decentralized network, which we can reduce the risks of the testers maliciou"
+ ],
+ [
+  3,
+  3920,
+  "s behaviors. And another thing is we can put the attester the the attester node, the software into some"
+ ],
+ [
+  3,
+  3930,
+  "some some secure environment. The TEE is a trusted execution environment into the TEE. So because the TEE is something we usually use as a k"
+ ],
+ [
+  3,
+  3971,
+  "ind of secure enclave, which ensures the software running inside the t is secure. Okay. Okay. Good."
+ ],
+ [
+  3,
+  4000,
+  "So, yeah, TE is some some very cool secure technology which can ensure any software are running inside TE is is not cheating. So then we we "
+ ],
+ [
+  3,
+  4011,
+  "think about how we can combine these two approach together. So and we comes with the premise network. So we put the the KTS test the softwar"
+ ],
+ [
+  3,
+  4022,
+  "e in the TEE. We work with some TEE provider,"
+ ],
+ [
+  3,
+  4025,
+  "Fela. They are a web three TEE provider. And with their technology, we can ensure that even even the attester, he's he has no way to control"
+ ],
+ [
+  3,
+  4037,
+  " his private key. I mean, this ensures that as a attester is not able to issue a fake signature. And also, he can do not to"
+ ],
+ [
+  3,
+  4048,
+  "crack or doing some kind of problem with the with with the software because the software's version control is also maintained by the TEE env"
+ ],
+ [
+  3,
+  4061,
+  "ironment. Then we we have a very strong decentralized approach by working with hardware level securities product. So"
+ ],
+ [
+  3,
+  4071,
+  "you can and and we we have the related developer tools be build based on this network. Okay. Yeah. Some some conclusion. Why is the KTS a br"
+ ],
+ [
+  3,
+  4083,
+  "eakthrough? Because the first important thing is it can bring the verified off chain data to you. Anyone can anyone can prove his"
+ ],
+ [
+  3,
+  4094,
+  "data on any any any source, any web source. And the most important thing is you don't need to do the modification on the data source data so"
+ ],
+ [
+  3,
+  4105,
+  "urce server. Because as long as the user is able to access some web page, then he must be ideally to prove his data. You'll need don't need "
+ ],
+ [
+  3,
+  4115,
+  "to modify their data source data data source server side. And also, it's a totally chain agnostic technology because"
+ ],
+ [
+  3,
+  4124,
+  "every action is happened as a verification is happened off chain, which means you can combine it with different blockchain like we work with"
+ ],
+ [
+  3,
+  4135,
+  " EVM chains and the non EVM chains. You can put this verified as a KTUS data on the smart contract and they verify it and you can combine it"
+ ],
+ [
+  3,
+  4147,
+  " with your dApp."
+ ],
+ [
+  3,
+  4148,
+  "So you can do that. And also, it's ZK friendly. It's we we we're using some cool ZK called Isaac, interactive ZK in this ZK TIS protocol. An"
+ ],
+ [
+  3,
+  4159,
+  "d also, you can combine it with some other noninterrupt ZK, like ZK Snarks or ZK stocks. You can come out with with it. ZK VM tools, you can"
+ ],
+ [
+  3,
+  4169,
+  " further export as a computation taxes"
+ ],
+ [
+  3,
+  4172,
+  "to that as a JVM to make sure that part is more with better transparency and and the verifiability. So also this the way to bring users off "
+ ],
+ [
+  3,
+  4186,
+  "chain data to a dApp is is totally compliant. It's it's follows the data portability and also compliant with"
+ ],
+ [
+  3,
+  4196,
+  "some data rules like from c d CDP. So yeah, some some real world use cases. I will introduce a bit here. So three g is a landing protocol. S"
+ ],
+ [
+  3,
+  4211,
+  "o you are building some something called credit lending or under collateralized"
+ ],
+ [
+  3,
+  4220,
+  "lending. So right now, if user, he want to he want to lend some tokens, he must stick some some some token first. Right? So but if if we wan"
+ ],
+ [
+  3,
+  4232,
+  "t to build some cool, like, credit lending, you need to allow the user to prove his financial status, financial data off chain, and make sur"
+ ],
+ [
+  3,
+  4245,
+  "e he will not be able to cheat him. So"
+ ],
+ [
+  3,
+  4248,
+  "Jane SuiJin is building some product based on the KTRS, and the user need to approve his bank or some other credit score or financial data i"
+ ],
+ [
+  3,
+  4259,
+  "n it to makes the product happen. And also premise, we are building a product called approve op reserve, POR, which we have projects like st"
+ ],
+ [
+  3,
+  4270,
+  "able coin,"
+ ],
+ [
+  3,
+  4271,
+  "like the yield other big projects. If they want to prove their prove their off chain assets is enough, then this will be a very nice option."
+ ],
+ [
+  3,
+  4287,
+  " So just imagine if the projects issue a stablecoin and he"
+ ],
+ [
+  3,
+  4294,
+  "might use the users USDT or DC within different strategy, deploy the strategy on on chain or off chain. And he has he has the responsibility"
+ ],
+ [
+  3,
+  4307,
+  " to prove these assets of transparency. On the other side, he might he might not to review his details like the positions in the in the off "
+ ],
+ [
+  3,
+  4319,
+  "chain part or the sensitive information"
+ ],
+ [
+  3,
+  4323,
+  "of the of the of the strategy. So the KTIS is a very good option to do such a thing. And also, Transcript, which is a web three company, he "
+ ],
+ [
+  3,
+  4337,
+  "is building some kind of background checking approach using ZKTUS, which makes users like academic records,"
+ ],
+ [
+  3,
+  4347,
+  "degree university, or degree information, or some other career information be verifiable. And it will be save a lot of time for the employer"
+ ],
+ [
+  3,
+  4359,
+  "s. Yeah. So also, we can we can think about how we can using this technology. So you can build ways. So first thing is about finance. Right?"
+ ],
+ [
+  3,
+  4371,
+  " You can use a different financial"
+ ],
+ [
+  3,
+  4374,
+  "data from the bank, from the exchanges, or like KYC data. You can doing some kind of ZKK KYC stuff with ZK TOS using in different d five pro"
+ ],
+ [
+  3,
+  4387,
+  "tocols. And also, you can doing with some identity identity data. You can you can build some kind of gateway protocol,"
+ ],
+ [
+  3,
+  4398,
+  "allow user to prove his account ownership within different websites, allow him to log in with any log in with anything. Right? You know, not"
+ ],
+ [
+  3,
+  4407,
+  " only with Google, with Wallet where you can log is the user is able to log in with any existing web two account. And also, he can bring his"
+ ],
+ [
+  3,
+  4417,
+  " personal information if he choose. Like, he can he can you can onboarding some"
+ ],
+ [
+  3,
+  4422,
+  "Steam users to some web street game. So you can think about anything about that. And there some some more important thing is premise, we we "
+ ],
+ [
+  3,
+  4435,
+  "offer different tools. So we have like five no. Maybe more than that. Five SDKs. Right? So we we we we allow user as builders to choose diff"
+ ],
+ [
+  3,
+  4448,
+  "erent"
+ ],
+ [
+  3,
+  4448,
+  "SDKs to facilitate it with different use cases. If you want to prefer some decentralized tester, some secure result, you can use in our netw"
+ ],
+ [
+  3,
+  4461,
+  "ork SDK. We have two type of network SDK. So one is network JS SDK and the one is called network core SDK. And the the different"
+ ],
+ [
+  3,
+  4472,
+  "thing is the network JS SDK is more about the DAP integration. You can just integrate this SDK, import it into your code, and just using ver"
+ ],
+ [
+  3,
+  4483,
+  "y simple code to create a dApp. And the and the user is able to create their attestation from that SDK. And also, you you need to allow the "
+ ],
+ [
+  3,
+  4495,
+  "user to install the premise extension,"
+ ],
+ [
+  3,
+  4498,
+  "which is a Chrome extension. It's it's more like a algorithm execution environment. You can allow some ZKTRS cryptography operations happens"
+ ],
+ [
+  3,
+  4509,
+  " there, and the user don't need to access or or open that extension, actually. He just need to that to needed that extension to excuse the a"
+ ],
+ [
+  3,
+  4520,
+  "lgorithm. And the"
+ ],
+ [
+  3,
+  4521,
+  "network request DKA is more like a a a choice which is is is used for some agent program or self testing program because you can indicate as"
+ ],
+ [
+  3,
+  4534,
+  " a data source in the code, data source URL in the code, and there configures the credentials, say, user's"
+ ],
+ [
+  3,
+  4543,
+  "API key or some other credential like access token in this SDK to allow the user to delegate his data access right to you. But, I mean, base"
+ ],
+ [
+  3,
+  4555,
+  "d on the security consideration, you can maybe this STIC is better for like POR as a project who want to approve his his own data or some ot"
+ ],
+ [
+  3,
+  4567,
+  "her agent in the program. So it's it's more and it's"
+ ],
+ [
+  3,
+  4571,
+  "also allow you to avoid the two installing extension. So you can running you can run such kind of SDK program in in your back end server. An"
+ ],
+ [
+  3,
+  4583,
+  "d there yeah. And also we have our dev docs. You can access our dev docs here. And also we have different SDKs, so by which is more about ce"
+ ],
+ [
+  3,
+  4595,
+  "ntralized version."
+ ],
+ [
+  3,
+  4597,
+  "So we'll we'll also create a few examples for different SD case here. And also, we have our develop hub, which is a kind of very interesting"
+ ],
+ [
+  3,
+  4608,
+  " tool. So the the purpose of premise developer hub is to create a data source template. So because you might have the question like, what ki"
+ ],
+ [
+  3,
+  4618,
+  "nd of data source I can use and how can"
+ ],
+ [
+  3,
+  4621,
+  "I configure the data source in my code? So then we we we we we we we create such kind of hub because you can create some sync or the data te"
+ ],
+ [
+  3,
+  4632,
+  "mplate. You only need to copy the website URL into this hub and you're trying to select the data points or data field that you want to prove"
+ ],
+ [
+  3,
+  4643,
+  ", just doing some simple"
+ ],
+ [
+  3,
+  4645,
+  "click clicking, you can create a template and you use the template ID in your code to enable the whole program work. So this is a very power"
+ ],
+ [
+  3,
+  4658,
+  "ful tool to do some fast programming and you can use that. So and from the user's perspective, so basically, because we are"
+ ],
+ [
+  3,
+  4669,
+  "build as a CK test network based on some blockchain. Right now, we live on the base. So base main net and the base support your test net. So"
+ ],
+ [
+  3,
+  4680,
+  " which means the from the user's perspective, he has to pay some fee to the premise network because he leverages the network attested to doi"
+ ],
+ [
+  3,
+  4690,
+  "ng some verification"
+ ],
+ [
+  3,
+  4692,
+  "task for him. So in the application side, the user need to first pay a very small amount of the fees. This fee will be sending to their cont"
+ ],
+ [
+  3,
+  4704,
+  "ract and will be split into part to their attester. So and there if the if the task fails, fee will be very soon returned to the to the clie"
+ ],
+ [
+  3,
+  4716,
+  "nt wallet."
+ ],
+ [
+  3,
+  4717,
+  "And there there will be some primary system contract which we are doing some kind of consensus and the task is queue management to select as"
+ ],
+ [
+  3,
+  4729,
+  " a tester and doing some kind of verification and and the result to manage stuff to make sure the premise attester network attester works co"
+ ],
+ [
+  3,
+  4741,
+  "rrectly."
+ ],
+ [
+  3,
+  4742,
+  "So there yeah. And actually, the the the KTOS session actually happened between the attester and the the and the and the client. So yeah. So"
+ ],
+ [
+  3,
+  4758,
+  " this is the flow of the tier the KTOS actions happens in the network. And"
+ ],
+ [
+  3,
+  4766,
+  "this is some kind of idea of installing the SDKs in your code. And also, this is very detailed of the the KTS code you can use. Also, you ca"
+ ],
+ [
+  3,
+  4783,
+  "n access the examples in our doc, in our dev docs and in our GitHub. And the next, I will show you some example how it it works."
+ ],
+ [
+  3,
+  4798,
+  "So so I already created a very simple project here using the vite. And also I using I am using the JavaScript to create a Executives applica"
+ ],
+ [
+  3,
+  4812,
+  "tion. Let me show you how it's is so so this is the app. I go ahead and create it and I run it locally."
+ ],
+ [
+  3,
+  4822,
+  "And there you can connect your wallet and you can attest doing create some attestation from the web to data source server. And what I did he"
+ ],
+ [
+  3,
+  4834,
+  "re is I just copy some template ID. You can you can you can explore. There are some there some existing templates in the previous"
+ ],
+ [
+  3,
+  4845,
+  "dev hub like here. Worry about the network, but okay. Anyway, if you already if you already create the account, you can explore here, but"
+ ],
+ [
+  3,
+  4869,
+  "you can also see there's some existing templates ranging from the financial exchanges to social to social media and some other data source h"
+ ],
+ [
+  3,
+  4880,
+  "ere. You can using existing templates. And also you can create your own templates like like I does. And just don't forget to copy this templ"
+ ],
+ [
+  3,
+  4890,
+  "ate ID."
+ ],
+ [
+  3,
+  4891,
+  "And once you got to this template ID, you can put it in your parameters and you're using you're using that to do some attestation. So let me"
+ ],
+ [
+  3,
+  4909,
+  " show you how it works. So I I already connected my wallet and I tested my data. You feel first I need to deposit some money to to the contr"
+ ],
+ [
+  3,
+  4927,
+  "act because you'll requires a tester network work for you."
+ ],
+ [
+  3,
+  4935,
+  "Okay. I I build this this on base. Okay. And this is the second time. Just ignore this window. I want to prove my PNL rates, which if I doin"
+ ],
+ [
+  3,
+  4949,
+  "g some trading in the Binance exchange, trying to prove this three sorry, seven days bought account the p n r rate. So if I doing some tradi"
+ ],
+ [
+  3,
+  4962,
+  "ng before"
+ ],
+ [
+  3,
+  4963,
+  "sorry. I think it's a network is not stable. Let me try it again. Okay. You got verified."
+ ],
+ [
+  3,
+  5016,
+  "Takes a little bit longer than I expected. And then you return to this d r page and you can show the test station result here. So this is a "
+ ],
+ [
+  3,
+  5029,
+  "test station structure. It contains some metadata like who receives this data. So for here, you this is your wallet address."
+ ],
+ [
+  3,
+  5041,
+  "And also, you can identify the data here, which I didn't do anything because I got a zero p and l rate. Also, some other metadata informatio"
+ ],
+ [
+  3,
+  5053,
+  "n like timestamp, who is a tester, what is what is the public key, and what is the signature, and some also the"
+ ],
+ [
+  3,
+  5063,
+  "so this is data API endpoint I request. So this is a basic structure. Actually, you can derive from the attestation and then you can further"
+ ],
+ [
+  3,
+  5074,
+  " extract as a, like, data field from this attestation and use that in your DApp. So, yeah, this is a there's a very basic example, like, how"
+ ],
+ [
+  3,
+  5086,
+  " you can create a secret to us application from the secret to us part. And therefore, because you are doing dApp, right, you can making it w"
+ ],
+ [
+  3,
+  5097,
+  "ith, like, NFT or some other"
+ ],
+ [
+  3,
+  5099,
+  "business, like, with AI agent. You can you can you can use agent to to to access your personal data if it's not very sensitive and then to d"
+ ],
+ [
+  3,
+  5112,
+  "oing some kind of interaction with some other agent. So anything you can using with the security as like the private data is works. So"
+ ],
+ [
+  3,
+  5124,
+  "yeah. And Let's go back. So yeah. I think the coding is not very complicated because you only need to configure your template. You can you c"
+ ],
+ [
+  3,
+  5139,
+  "an use things or premise developer hub to create a template or you can using"
+ ],
+ [
+  3,
+  5147,
+  "if you want to use a network or core SDK, you just specify the data data URL, some some metadata, then you can will be very easy to go step "
+ ],
+ [
+  3,
+  5159,
+  "further. And there I don't think there'll be some other personal information need to be configured in this part. And then you can call"
+ ],
+ [
+  3,
+  5170,
+  "the function called a test, which will be sending to the network. And then everything will happen there, and then you will receive a result."
+ ],
+ [
+  3,
+  5182,
+  " And then and then you can call the verify and the pull task because you you want to make sure the attestation is correctly created. So this"
+ ],
+ [
+  3,
+  5193,
+  " this API is"
+ ],
+ [
+  3,
+  5194,
+  "called after you got the attestation and you can let the system system contract to further verify it for you. So you want to have a more sol"
+ ],
+ [
+  3,
+  5204,
+  "id or secure result. So I think this is the whole thing about using this premise network SDK. And also, I want to introduce additional featu"
+ ],
+ [
+  3,
+  5213,
+  "res that we support. So just using one line, one code line, you can switch from between the MPC and the proxy TOS."
+ ],
+ [
+  3,
+  5221,
+  "And also, we support the native operation like privacy preserving data attestation. So if I don't want to reveal my PNL rates, I can using s"
+ ],
+ [
+  3,
+  5232,
+  "ome hash function in that operation or I can using some comparison operator there. So we have very clean docs to and ex examples to explain "
+ ],
+ [
+  3,
+  5243,
+  "this part. So but I because I don't have time, so I I I cannot explain here."
+ ],
+ [
+  3,
+  5249,
+  "Yeah. If you have problems, you'll just directly come with me. So also we support a multi URLs because usually you might need to access not "
+ ],
+ [
+  3,
+  5262,
+  "only one, but you might need you you want to access two or more data data APIs within within one URL."
+ ],
+ [
+  3,
+  5272,
+  "So then we also support that. And also we support like a dynamic arrays. You can collect all the result from the one URL. You can copy that "
+ ],
+ [
+  3,
+  5284,
+  "into your into your code. And also, we support some mutual TLS, which is not very usual. But in some TLS session, the the server also want t"
+ ],
+ [
+  3,
+  5295,
+  "o verify the client."
+ ],
+ [
+  3,
+  5297,
+  "So in some in some use cases, then you might need as a thing called a mutual TLS, and also we support that. And also we support this DVC we "
+ ],
+ [
+  3,
+  5307,
+  "call the data verification and computation pattern. You can combine this data attestation with another tool. If you are familiar with ZKVM, "
+ ],
+ [
+  3,
+  5318,
+  "then we also provide the examples how you can combine the primary ZK"
+ ],
+ [
+  3,
+  5323,
+  "POS data with CKVM, like a previous, like succinct. You can work with that, but it's kind of you need to do some kind of circuits engineerin"
+ ],
+ [
+  3,
+  5335,
+  "g there. So, yeah, I think I already completed my today's talk. And thank you guys for listening. And this is the premise"
+ ],
+ [
+  3,
+  5346,
+  "tutor. You can follow that. And also, you can you can find me in the e search in my Telegram group. And also, I I have my yeah. And this is "
+ ],
+ [
+  3,
+  5362,
+  "my Twitter Twitter account. You can follow it. And you can if you have any questions, just come and follow me and or send a messages. Yeah. "
+ ],
+ [
+  3,
+  5378,
+  "Thank you, guys."
+ ],
+ [
+  3,
+  5380,
+  "Yeah. Any any questions? Yeah. Yes. Please. Yes. So hello? Oh, yeah. Can you use it without the permission of the platform where you're wher"
+ ],
+ [
+  3,
+  5400,
+  "e where the session happens?"
+ ],
+ [
+  3,
+  5404,
+  "Oh, you mean the the ticket to TLS session? Yes. Where is it happens? Like like, for example, you're you're trying to create a proof from an"
+ ],
+ [
+  3,
+  5416,
+  " exchange that happened on Twitter. Okay. I will just like create an example. So so for example, if I want to prove your your, say, your bal"
+ ],
+ [
+  3,
+  5427,
+  "ance in the balance,"
+ ],
+ [
+  3,
+  5429,
+  "so first, you will so the the the flow is more like there's an executive SD app and the dApp will sending some network request to the Binanc"
+ ],
+ [
+  3,
+  5442,
+  "e website. And then because you access user private data, right, so the website will allow you to log in first as user to log in to his acco"
+ ],
+ [
+  3,
+  5456,
+  "unt."
+ ],
+ [
+  3,
+  5456,
+  "And there and if the private data, let's say, is a wallet sorry, is account balance or some PNR rate or KYC data lies on that page, then the"
+ ],
+ [
+  3,
+  5470,
+  " the security has happened. The the tester actually is is kinda working behind the client."
+ ],
+ [
+  3,
+  5479,
+  "It's it's a can it's a remote server. And that's in this picture, there'll be three parties. One is the tester, one is your local your local"
+ ],
+ [
+  3,
+  5488,
+  " browser, is your client, and then the binance server. Yeah. So the the tier session happens there. Yeah. Yeah. So do you need the, like, a "
+ ],
+ [
+  3,
+  5498,
+  "permission from the platform? No. You don't need to do that. I mean,"
+ ],
+ [
+  3,
+  5502,
+  "because from the from the Binance or from the server's perspective, he is just normally talking with a a a traditional client. Because he is"
+ ],
+ [
+  3,
+  5513,
+  " not and he have no idea like, oh, oh, this is some security test. Yeah. So so this is the magic how security test can work. So it's bypass "
+ ],
+ [
+  3,
+  5524,
+  "any traditional checks. I mean I mean,"
+ ],
+ [
+  3,
+  5527,
+  "at least MPCTRS can work like that. Yeah. Okay. Thank you. Yeah. Okay. Anyone else? No? Yeah. Hello."
+ ],
+ [
+  3,
+  5551,
+  "Yeah. Am I audible? Hi. So does Primus provide a timestamp for the TLS transcript? So when I generate a proof on Primus, do I get a timestam"
+ ],
+ [
+  3,
+  5563,
+  "p of the proof so that there cannot be any replay attack when we make the ZK proof? Sorry. When you join the attestations, what what"
+ ],
+ [
+  3,
+  5574,
+  "what problem? So basically, when I'm generating a proof or when I'm solving a equation like whether the this thing is greater than this and "
+ ],
+ [
+  3,
+  5583,
+  "the output is yes, does a timestamp does Primus give a timestamp of when that activity happened? Okay. When the script was generated? Yeah. "
+ ],
+ [
+  3,
+  5592,
+  "Let me try and understand your question. So you're you're asking like,"
+ ],
+ [
+  3,
+  5597,
+  "that a is there a timestamp when you're using the ZKVM to join the proof? Yeah. Yeah. Okay. I need to check. I mean, because it's usually ha"
+ ],
+ [
+  3,
+  5608,
+  "ppens on the ZKVM side and the premise didn't do that. So I need to check the details. I think it should have because I I tried with their l"
+ ],
+ [
+  3,
+  5619,
+  "ocal demo. I deploy a"
+ ],
+ [
+  3,
+  5621,
+  "local server to run the ZKVM and there there's some kind of task measurement, some metadata about the time. Should it be I mean, it's yeah. "
+ ],
+ [
+  3,
+  5634,
+  "I think it happens on the network. So I need to check the details and I can later come to Yeah. Alright. Yeah. Thank you. Okay. You. Thank"
+ ],
+ [
+  3,
+  5646,
+  "you. Okay. Okay. Thank you, guys. Oh, I can just disconnect it."
+ ],
+ [
+  3,
+  6139,
+  "Check. Check. Hold on, sir. Hey, everyone. The session is being. So have a seat, please. Thank you. Hi, everyone. I'm Sachin from the ZKB tw"
+ ],
+ [
+  3,
+  6151,
+  "o p team. Z k p two p stands for zero knowledge peer to peer. It's you can think of it as balanced p two p, but it's on chain and it's trust"
+ ],
+ [
+  3,
+  6163,
+  "less."
+ ],
+ [
+  3,
+  6163,
+  "Also, this talk, think of it as an extension to the previous talk because we rely on the ZK TLS technology to face it to enable trustless vi"
+ ],
+ [
+  3,
+  6173,
+  "a on ramps. And it's production ready. It's deployed. People use it day to day. It's an application that is built on top of ZK and ZK TLS an"
+ ],
+ [
+  3,
+  6183,
+  "d smart contracts. So I guess Xavier did all the heavy work of"
+ ],
+ [
+  3,
+  6188,
+  "I guess the hard work of diving deep into the core technology itself, which is ZK TLS. And I will just give a demo and show how you can buil"
+ ],
+ [
+  3,
+  6198,
+  "d an application using some of these very advanced cryptographic tools. Obviously, first start with the problem statement that we're trying "
+ ],
+ [
+  3,
+  6208,
+  "to solve. Everybody here knows that fiat to crypto bridging or on off ramping is still very broken."
+ ],
+ [
+  3,
+  6215,
+  "The main, I guess, pain issues are that, a, it's very high fees. For example, MoonPay charges anywhere close to three to 4% because they use"
+ ],
+ [
+  3,
+  6224,
+  " credit cards which itself has one to 2% fees baked in. On top of that, they have to take care of fraud which adds another one to 2%. Transa"
+ ],
+ [
+  3,
+  6233,
+  "ct in India, for example, charges roughly 6% which is way too high. Also, these on off ramps are very fragmented. Each jurisdiction has its "
+ ],
+ [
+  3,
+  6241,
+  "own regulatory issues that they need to take care of, which leads to fragmentation of liquidity, and there are individual players in each ju"
+ ],
+ [
+  3,
+  6250,
+  "risdiction."
+ ],
+ [
+  3,
+  6251,
+  "It's very intrusive and like they require you to do KYC even though you have already done KYC on your bank. So you have to do your KYC again"
+ ],
+ [
+  3,
+  6260,
+  " with Coinbase and they end up leaking all the data on the Internet and then you are, I guess, susceptible to a wrench attack if you have a "
+ ],
+ [
+  3,
+  6269,
+  "lot of crypto. And finally, are very slow. When when you introduce your friend to crypto and they try to log in and try to do KYC on these p"
+ ],
+ [
+  3,
+  6278,
+  "latforms, it takes, like, anywhere close to two to four days to get to your first crypto."
+ ],
+ [
+  3,
+  6284,
+  "And even after you have already KYC ed, for example, in The US, if you want to on ramp, they hold your crypto for five days before you are a"
+ ],
+ [
+  3,
+  6293,
+  "llowed to take it out of Coinbase and then do something on chain. So these are the main problem problems of fear to crypto bridging. One way"
+ ],
+ [
+  3,
+  6303,
+  " to solve this problem is peer to peer. The key, I guess, properties of peer to peer is is that it is low fees because there is a coincidenc"
+ ],
+ [
+  3,
+  6312,
+  "e of wants."
+ ],
+ [
+  3,
+  6313,
+  "There is a seller that wants to sell USDC, and there is a buyer who wants to buy USDC. So both of them want to do that transaction, so they "
+ ],
+ [
+  3,
+  6323,
+  "end up lead that that end up ends up leading to very low fees. There are no middlemen. You do not have to provide your KYC to anyone. You ca"
+ ],
+ [
+  3,
+  6332,
+  "n just transact with with your counterparty. And that's that means it is privacy preserving. You do not"
+ ],
+ [
+  3,
+  6339,
+  "you do not have to reveal any other information apart from just sending the transaction itself. You do not have to give your entire bank sta"
+ ],
+ [
+  3,
+  6347,
+  "tement, your historical data, your address proof, etcetera, just to send the money. And the finally, it's 24 seven and global as in like the"
+ ],
+ [
+  3,
+  6354,
+  " p to p transact transfer that happens in China is not different than the p to p transfers. It's not fundamentally different than the p to p"
+ ],
+ [
+  3,
+  6362,
+  " transfer transfer that happens in America, for example."
+ ],
+ [
+  3,
+  6365,
+  "There are no very strict regulations on how you do that because there is no custody of assets. And yet it's fairly easy and it's fairly scal"
+ ],
+ [
+  3,
+  6375,
+  "able. But the two core issues with p to p transaction is that, one, discoverability. As in, if you want to buy crypto, then you have to find"
+ ],
+ [
+  3,
+  6385,
+  " a a willing seller who is willing to sell the same fiat at the same sell the same crypto at the same amount."
+ ],
+ [
+  3,
+  6393,
+  "And you you have to find that person. Like, there are telegram groups where basically people come together and they send rates, but those te"
+ ],
+ [
+  3,
+  6401,
+  "legram groups itself are like very small and you have to find those groups. And the second is the issue of trust. End of the day, you are tr"
+ ],
+ [
+  3,
+  6410,
+  "ansacting with a random counterparty. You obviously have have not met them before. You do not trust them. So"
+ ],
+ [
+  3,
+  6416,
+  "you like, there is a there is a chicken and egg problem there where you don't know which party will send the transaction first. And if you d"
+ ],
+ [
+  3,
+  6424,
+  "o end up sending, then that guy might run away with the money. How do we solve the discoverability and trust problem? That sounds exactly as"
+ ],
+ [
+  3,
+  6432,
+  " like, that sounds a problem for smart contracts, which all of you would be familiar with. Smart contracts effect essentially solves discove"
+ ],
+ [
+  3,
+  6439,
+  "rability and trust for you."
+ ],
+ [
+  3,
+  6441,
+  "Because it is on chain, anyone in the world can just connect a wallet, access the smart contract, and everyone in the world can see, okay, s"
+ ],
+ [
+  3,
+  6449,
+  "omebody is trying to sell some amount of USDC for some amount of fiat and you can see it on the smart contract. You can see it in the blockc"
+ ],
+ [
+  3,
+  6457,
+  "hain. And obviously, it solves trust as well because the smart contract is immutable. It it does what it's supposed to do as it as it is wri"
+ ],
+ [
+  3,
+  6464,
+  "tten. And if we write it correctly, it will it basically acts as the escrow for the transaction. So you do not have the trust problem of who"
+ ],
+ [
+  3,
+  6472,
+  " will send the transaction first."
+ ],
+ [
+  3,
+  6474,
+  "So one way you can facilitate on chain p two p is that you can request the seller of let's say USDC to escrow their assets into a smart cont"
+ ],
+ [
+  3,
+  6484,
+  "ract and then they provide some tag. For example, wise tag, Alipay tag, grab pay tag, guess, to accept where they're willing to receive the "
+ ],
+ [
+  3,
+  6494,
+  "payment, the option payment. Then the buyer comes in, they do the option payment,"
+ ],
+ [
+  3,
+  6500,
+  "they generate a proof of the payment that I've done the payment to this wise tag or to this grab pay tag to the smart contract. They they es"
+ ],
+ [
+  3,
+  6510,
+  "sentially submit the proof to the smart contract and that the smart contract is supposed to then give them the escrowed USDC to them. The co"
+ ],
+ [
+  3,
+  6519,
+  "re is like smart contacts are fairly easy. Ethereum solved that ten years ago. The the main issue that"
+ ],
+ [
+  3,
+  6526,
+  "you run into is that how do you generate the off chain? How do you generate the proof of payment for the off chain payment? And that's where"
+ ],
+ [
+  3,
+  6535,
+  " ZK TLS comes in. Before that, I guess yeah. I guess that's where ZK TLS comes in. In the last talk, you heard how you can generate proofs o"
+ ],
+ [
+  3,
+  6545,
+  "f off chain data using the ZK TLS. And the good thing is like most of the platforms"
+ ],
+ [
+  3,
+  6550,
+  "in the world have that data available in their public or private APIs. So for example, this this is an example of a wise transaction where I"
+ ],
+ [
+  3,
+  6560,
+  " paid to my friend Richard €0.11. And if you open the inspect tab, you can and you you go to that particular request where that data was fet"
+ ],
+ [
+  3,
+  6571,
+  "ched from the wise server. You can see that there is the recipient,"
+ ],
+ [
+  3,
+  6576,
+  "like whom the money was sent to, the amount of the transaction, the timestamp of the transaction, and whether it was settled or not, the sta"
+ ],
+ [
+  3,
+  6585,
+  "tus of the transaction. So you have all the data. You just need to generate a proof of it and then you would need to submit it on chain. Yea"
+ ],
+ [
+  3,
+  6593,
+  "h. Like, Xavier already went very deep into what is TLS. Basically, TLS is used to facilitate"
+ ],
+ [
+  3,
+  6599,
+  "this transfer and then ZK TLS allows you to generate a proof of the transfer. I'll not go deep into how it's done. Yeah. So there are three "
+ ],
+ [
+  3,
+  6609,
+  "key properties that ZK TLS gives you. One, it gives you verifiability as in you know for sure that that transaction happened on chain. It's "
+ ],
+ [
+  3,
+  6619,
+  "that's one of the properties of ZKS NARC which stands for zero knowledge succinct non interactive arguments of knowledge."
+ ],
+ [
+  3,
+  6628,
+  "The second thing that it gives you is selective disclosure. It because I for example, in my wife's transaction history, I I have I might hav"
+ ],
+ [
+  3,
+  6636,
+  "e sent money to my mom. I might have sent money to someone else. I don't wanna reveal all of that data on chain. So I want to redact the res"
+ ],
+ [
+  3,
+  6644,
+  "t of the data and only prove that I've sent the money to the person I was supposed to send to, which is the seller. So that's where the priv"
+ ],
+ [
+  3,
+  6652,
+  "acy properties of zero knowledge comes in where you redact everything else and you just prove"
+ ],
+ [
+  3,
+  6657,
+  "that bit which which is important. And finally, it it is composable. You can you can generate zero zero knowledge proofs over zero knowledge"
+ ],
+ [
+  3,
+  6665,
+  " proofs and you can use signatures as an input to zero knowledge proof and you can do additional stuff on top of that. So yeah. Zika and Zik"
+ ],
+ [
+  3,
+  6674,
+  "a TLS basically enables you to port data from all walled gardens and you you can port that into block chains. You can prove"
+ ],
+ [
+  3,
+  6681,
+  "x responses. You can prove Facebook data. You can prove in our case, you can prove any sort of payment data. So coming back to the old diagr"
+ ],
+ [
+  3,
+  6692,
+  "am, the seller locks their assets. The buyer does the option payment and then the buyer runs the ZKDLS protocol with the server and the nota"
+ ],
+ [
+  3,
+  6702,
+  "ry to generate the proof of payment which is then submitted to the escrow contract which"
+ ],
+ [
+  3,
+  6709,
+  "unlocks the assets. And this this whole bit like the server which could be like wise, Venmo, grab pay, Alipay, pay now, etcetera. And then t"
+ ],
+ [
+  3,
+  6718,
+  "he node tree is is right now, like you it could be a single node tree or it could be a network of node trees to decentralize the trust. And "
+ ],
+ [
+  3,
+  6728,
+  "then the notary notarizes that the transaction happened and then you submit it to the contract which just verifies the very simple e c d s s"
+ ],
+ [
+  3,
+  6737,
+  " signature that"
+ ],
+ [
+  3,
+  6738,
+  "it has all the data and that the transaction was done at the right time to the right person for the right amount of currency. This is the de"
+ ],
+ [
+  3,
+  6748,
+  "tailed diagram of how z k b two b works. Obviously, it's like slightly more complicated because it's a production ready application. We have"
+ ],
+ [
+  3,
+  6757,
+  " the extension which is called PR auth which generates the proof on behalf of the buyer."
+ ],
+ [
+  3,
+  6763,
+  "Right now we are using reclaim which is another ZK TLS provider. But you can also use Primus. You can use TLS Notary to generate the proof. "
+ ],
+ [
+  3,
+  6774,
+  "And then one more key thing to note here is that we have a unified verifier on chain, which is basically like it it accepts just ECDSA signa"
+ ],
+ [
+  3,
+  6786,
+  "tures and then the attestation service accepts the proof"
+ ],
+ [
+  3,
+  6790,
+  "from the extension and transforms that into something that our protocol understands. Which means we can support any of these vendors on the "
+ ],
+ [
+  3,
+  6799,
+  "left side and then all of those proofs are then transformed into a spec that our verifier understands which makes us basically vendor agnost"
+ ],
+ [
+  3,
+  6809,
+  "ic. And it's running in a TE right now which means it's you can trust the code that is running in the TE."
+ ],
+ [
+  3,
+  6816,
+  "I'll give a live demo of the app. Yeah. This is our website. Also, one thing to note here is that ZK b two p was built as part of ZK hack Li"
+ ],
+ [
+  3,
+  6835,
+  "sbon, which was a hackathon and"
+ ],
+ [
+  3,
+  6839,
+  "that was two years ago. So if you build something and if you continue building, I guess you can also turn it into a product and project whic"
+ ],
+ [
+  3,
+  6849,
+  "h moves decent amount of volume right now. We're doing like 600 per week. I'll give a example of a wise payment. We support a bunch of curre"
+ ],
+ [
+  3,
+  6859,
+  "ncies and a bunch of payment platforms. I think we also support Thai baht. Yep. We do."
+ ],
+ [
+  3,
+  6865,
+  "I'll demo USD using wise. Let's say two. Fetch us a quote. Give me these are the these are my counterparties. I can choose any one of them. "
+ ],
+ [
+  3,
+  6878,
+  "Obviously, I'll go with this guy who's apparently giving me 2¢ more. Start the order. We're using a seven seven zero two, which is like"
+ ],
+ [
+  3,
+  6890,
+  "an Ethereum improvement thingy that helps you sponsor gas on behalf of your users. So I'm signed in using my email address and I'm not payin"
+ ],
+ [
+  3,
+  6914,
+  "g any gas. The gas is paid by the app itself. The Internet is pretty slow. So let's see if it succeeds. Oh, hold on. It's taking forever."
+ ],
+ [
+  3,
+  6938,
+  "I'll connect to my wife hotspot. Hold on. Cool. Let's see if this works. Venmo"
+ ],
+ [
+  3,
+  6984,
+  "wise to just make sure to select wise. Start order. This was the old transaction that I did. It finally went through. Yeah. The Internet is "
+ ],
+ [
+  3,
+  7027,
+  "super slow. I'll just do a I'll"
+ ],
+ [
+  3,
+  7036,
+  "show you a recorded demo instead from another one of my talks. I guess demo gods did not help us this time."
+ ],
+ [
+  3,
+  7065,
+  "Yeah. Just a recorded demo. So this is a demo of Alipay, which is a Chinese payment platform. We have not launched this yet. This is not liv"
+ ],
+ [
+  3,
+  7076,
+  "e. So yeah. Basically, you fetch a quote, you get all the counterparties that are willing to be a seller. Then you can start an order and th"
+ ],
+ [
+  3,
+  7088,
+  "en you are presented with"
+ ],
+ [
+  3,
+  7090,
+  "the QR code of the person that you are supposed to pay to. Once you do the payment, in this case, I guess, file you on to someone. You then "
+ ],
+ [
+  3,
+  7103,
+  "generate the ZKTLS proof. So first you authenticate using the the payment platform. This is where our extension pops up. It obviously have t"
+ ],
+ [
+  3,
+  7115,
+  "o sign in on the web page first."
+ ],
+ [
+  3,
+  7118,
+  "Yep. This is our x where extension pops up. It first authenticates you, a k it basically understands that it has to generate a proof of Alip"
+ ],
+ [
+  3,
+  7128,
+  "ay and then it grabs the session token from the session. And then it grabs all the payments that you've done in the in the in your payment p"
+ ],
+ [
+  3,
+  7138,
+  "latform. So in this case, three payments have been done to someone in January."
+ ],
+ [
+  3,
+  7144,
+  "Then you start the notarization process which generates the proof. It takes around ten to fifteen seconds to generate the ZKTLS proof. Once "
+ ],
+ [
+  3,
+  7158,
+  "the proof is done, you it's sent on chain which then results in a transaction which"
+ ],
+ [
+  3,
+  7166,
+  "leads you to get USDC. Yeah. Like we just submit the proof on on your behalf to the chain and then you get USDC. The demo obviously did not "
+ ],
+ [
+  3,
+  7175,
+  "work, but there's a decent amount of liquidity. There's a decent amount of volume going through the platform. You can see all the sellers th"
+ ],
+ [
+  3,
+  7185,
+  "at are listed. It's very similar to Binance b two p where you can see all the in the entire order book and"
+ ],
+ [
+  3,
+  7192,
+  "you can choose any one of them and start transacting with them, I guess. You can also sell on the platform. So you can also be a seller. You"
+ ],
+ [
+  3,
+  7203,
+  " can create a deposit, provide your payment details, and you will receive money in your payment platform. And you don't have to do anything."
+ ],
+ [
+  3,
+  7215,
+  " You can you can be AFK. Cool. Apart from ZK b two p being just an application, it is also"
+ ],
+ [
+  3,
+  7222,
+  "a kind of a protocol as in because it is on chain, it is it is on smart contracts, very similar to Aave or or what is another example? DYDX "
+ ],
+ [
+  3,
+  7232,
+  "for example. You can build on top of z k p two p and you can just use the smart contracts and do additional stuff on top. And also our exten"
+ ],
+ [
+  3,
+  7243,
+  "sion is like it allows you to generate proof for everyone."
+ ],
+ [
+  3,
+  7247,
+  "So you just very similar to window.ethereum, you can do window.zktls for extension and then give it a JSON template which basically specifie"
+ ],
+ [
+  3,
+  7257,
+  "s what you want to prove. And then the extension does the authentication process, generates the proof, and submits it back to your front end"
+ ],
+ [
+  3,
+  7266,
+  " via a Chrome message passing API. So I guess just a couple of examples on what you can build with ZK b two p."
+ ],
+ [
+  3,
+  7274,
+  "The first one is you can integrate your local payment platform into z k b two p. So right now we support mostly US, Europe, and I guess soon"
+ ],
+ [
+  3,
+  7283,
+  " to Chinese platforms. But there are a bunch of other platforms that we can add. And it's fairly easy. You just need to you you need to look"
+ ],
+ [
+  3,
+  7293,
+  " at the TLS transcript. You need to figure out where the amount is for the transaction, where the"
+ ],
+ [
+  3,
+  7299,
+  "currency is, and you just need to write a simple simple JSON which then extracts the data. The the extension does all the heavy lifting of g"
+ ],
+ [
+  3,
+  7307,
+  "enerating the proof itself. You just need to provide the JSON and then you can build that you can build a cool front end on it and then you "
+ ],
+ [
+  3,
+  7315,
+  "can use our contracts and our extension to generate like, basically build that application. One, I guess, issue that we always face is that "
+ ],
+ [
+  3,
+  7323,
+  "we only have access to US platforms."
+ ],
+ [
+  3,
+  7325,
+  "We do not have access to, like, these local platforms. So we rely on local people to generate and integrate that I guess, generate the ZKTLS"
+ ],
+ [
+  3,
+  7337,
+  " provider and integrate that into ZKB two p for us. Another thing that you can build is a is a remittance platform. So because ZKB two p all"
+ ],
+ [
+  3,
+  7348,
+  "ows you to go from US like Venmo USD or Wise USD to USDC,"
+ ],
+ [
+  3,
+  7353,
+  "what you can do is then take the USDC and then deposit it back, like as in sell it back on ZKB two p, but this time provide the payment deta"
+ ],
+ [
+  3,
+  7362,
+  "ils of someone in another country. So you can basically go from like, I as a user can come to ZKP two p, do my wise payment, and someone els"
+ ],
+ [
+  3,
+  7371,
+  "e receives money in their GrabPay, for example. They do not need to understand what crypto is. They can just do a payment to someone and the"
+ ],
+ [
+  3,
+  7380,
+  "n crypto takes all the crypto does the middle bit which is it takes the USDC."
+ ],
+ [
+  3,
+  7385,
+  "It deposits it back into ZKB 2 p and then the other guy whenever someone from that country on ramps, they receive the money. We have in the "
+ ],
+ [
+  3,
+  7394,
+  "contracts or the protocol, have a thing called post intent hook, which is basically after you on ramp, you get the USDC. You can specify wha"
+ ],
+ [
+  3,
+  7404,
+  "t happens with the USDC. You can either deposit it into Aave or or"
+ ],
+ [
+  3,
+  7408,
+  "do anything with the USDC basically using the post intent hook contract. Another thing that you can build is an agent x z k p two p. So I gu"
+ ],
+ [
+  3,
+  7418,
+  "ess I mentioned that one of the issues that we face while building z k p two p is that we have to have access to the local payment platform "
+ ],
+ [
+  3,
+  7429,
+  "to be able to integrate every payment platform."
+ ],
+ [
+  3,
+  7432,
+  "But in hopefully, the AI gets good enough so that we can generate these z k t l s providers on the fly. It's an idea that we're still explor"
+ ],
+ [
+  3,
+  7443,
+  "ing, but I'm happy to, like, help if you are trying to do this or, like, give it a shot if you if you want to. The the core idea is that the"
+ ],
+ [
+  3,
+  7453,
+  " the buyer wants like, we need not pro provide the ZK TLS provider"
+ ],
+ [
+  3,
+  7458,
+  "before as in we we can build it on runtime, just in time, where an agent pops up in the extension. It looks at the entire TLS transcript. It"
+ ],
+ [
+  3,
+  7467,
+  " finds the you you the the transaction where it finds the request where the response contains the payment data, and then it generates the pr"
+ ],
+ [
+  3,
+  7476,
+  "ovider on the fly. And then it feeds that into the ZKTLS prover which generates the proof."
+ ],
+ [
+  3,
+  7482,
+  "Submit you that is then sent to the agent, the seller agent which accepts the ZKTLS proof, verifies the correctness of the ZKTLS proof, also"
+ ],
+ [
+  3,
+  7490,
+  " does the business logic verification, which is the right amount, right currency, right time. And, yeah, you can basically, like, your agent"
+ ],
+ [
+  3,
+  7499,
+  "s can trade crypto on your behalf. You don't need to do anything. Trade fiat and crypto both and not just crypto. Crypto is fairly easy. It'"
+ ],
+ [
+  3,
+  7507,
+  "s the fiat part that's hard."
+ ],
+ [
+  3,
+  7509,
+  "Yeah. You can you can build this. It's fairly hard. I give it give it a shot last week and it it was slightly hard. But it was able to do li"
+ ],
+ [
+  3,
+  7517,
+  "ke, cloud was able to do a good job at it. Yeah. That's all the ideas. You can build it using Primus. I think they have a they have a bounty"
+ ],
+ [
+  3,
+  7525,
+  ". So you can use the you can use Primus as the ZKTLS provider and you can use our contracts. As I said, our contracts are agnostic of which "
+ ],
+ [
+  3,
+  7534,
+  "particular ZK TLS provider you use. Thanks for listening."
+ ],
+ [
+  3,
+  7537,
+  "Also, yeah, docs and we have our client SDK if you want to build on top of ZK b two p. Cool. Anyone have question? Okay. Hello. Yeah. Thank "
+ ],
+ [
+  3,
+  7552,
+  "you for talk. Very interesting idea. So I have a question re regarding"
+ ],
+ [
+  3,
+  7560,
+  "to, crypto to fiat or fiat to fiat, workflow. So, my question is, could you achieve crypto to fiat or fiat to fiat purely relying on CK p tw"
+ ],
+ [
+  3,
+  7575,
+  "o p or you or does it require some support from the underlying fiat platform?"
+ ],
+ [
+  3,
+  7584,
+  "I think that's a good question. I think the lady sitting in front also asked the similar question as in as in do you need to rely on the pla"
+ ],
+ [
+  3,
+  7592,
+  "tform to be able to integrate it? And the answer is no. Like, ZK TLS is a Cypherpunk technology. It allows you to generate those proofs with"
+ ],
+ [
+  3,
+  7600,
+  "out the permission of those particular payment platforms. So we never went and talked to Venmo wise. Alipay, I cannot talk Chinese. Like, I "
+ ],
+ [
+  3,
+  7608,
+  "cannot speak Mandarin. I never talked to them. I just looked at their API and then generated"
+ ],
+ [
+  3,
+  7613,
+  "the provider which then which is then fed into the ZK TLS protocol which generates the proof. So I never need to talk. I never need to accep"
+ ],
+ [
+  3,
+  7623,
+  "t or ask them for an API key. I can just generate the proof. Yes. Yes. I I know. Yeah. For for the flow of from fiat to crypto, yeah, I thin"
+ ],
+ [
+  3,
+  7633,
+  "k this procedure does not require support"
+ ],
+ [
+  3,
+  7636,
+  "from those fiat platform. But I'm just wondering how to achieve it for the procedure from crypto to fiat without the support from fiat platf"
+ ],
+ [
+  3,
+  7648,
+  "orm. Since to to withdraw some money from the Fiat platform, you need to sign something. Right? You do need to I mean, obviously, you need t"
+ ],
+ [
+  3,
+  7660,
+  "o have access to the payment platform itself"
+ ],
+ [
+  3,
+  7664,
+  "as in So oh, yeah. So as it you require some API or some No. You like you just in in the case of ZK p two p as a seller, you just come to th"
+ ],
+ [
+  3,
+  7675,
+  "e platform. Maybe I'll just show it here. You come to the platform, you create a new deposit, you say 20 USD. I wanna sell 20 USD. And then "
+ ],
+ [
+  3,
+  7685,
+  "you provide your Venmo."
+ ],
+ [
+  3,
+  7687,
+  "So you provide a Venmo tag and then that's it. You create the deposit. Like, if I if the network worked, this would have sent a transaction,"
+ ],
+ [
+  3,
+  7696,
+  " which it will not. But basically, that's it. Like, you provide the USDC and then you provide the tag where you want to receive the menu Yea"
+ ],
+ [
+  3,
+  7704,
+  "h. Money. And then the buyer sends the money to you on that tag. Okay. Okay. So it works in Venmo platform. Right? Yeah. Venmo,"
+ ],
+ [
+  3,
+  7712,
+  "we have bunch of other platforms as well. Revolut, Cash App, Chime. Can it be done in, for example, Alipay or Yeah. I showed a demo of Alipa"
+ ],
+ [
+  3,
+  7723,
+  "y just now. We are gonna launch Alipay. It's in private beta right now. We are asking a bunch of our friends to test it. And then once it's "
+ ],
+ [
+  3,
+  7735,
+  "once we make sure that the ZK TLS proof works all the time, then we'll launch it on the platform as well. Okay. Okay. Thank you."
+ ],
+ [
+  3,
+  7745,
+  "Yeah. I have a nontechnical question. It's more on safety. Like, if I if I develop p two p exchange that allows for a local transactions to "
+ ],
+ [
+  3,
+  7755,
+  "happen privately, how do I prevent like, how do I lessen the probability of the cops and the regulation regulators going after me? That's a "
+ ],
+ [
+  3,
+  7765,
+  "good question. I guess I am standing here, so I'm I'm fine right now."
+ ],
+ [
+  3,
+  7770,
+  "Like p two p is not illegal per se. In most jurisdictions, two p is not illegal. Like, if you cannot you cannot it would be stupid to have a"
+ ],
+ [
+  3,
+  7780,
+  " regulation which stops something as simple as a simple p two b transfer. In most countries that we operate, US, India, Europe, p two p is l"
+ ],
+ [
+  3,
+  7790,
+  "egal. It's just that you have to do the reporting and that's on you. That's on your user whether you do the reporting"
+ ],
+ [
+  3,
+  7799,
+  "for and then file the taxes accordingly for your gains. That's purely on the user. But we just solve the discoverability problem and we solv"
+ ],
+ [
+  3,
+  9274,
+  "e the trust problem. Thank you so much. Anyone else? Okay. Thank you. Thank you. Alright."
+ ],
+ [
+  3,
+  10211,
+  "Think I'm gonna end the stream for today. Thank you everybody that's been watching. This is Shaka here at Yves Chiang Mai Hackathon. Tomorro"
+ ],
+ [
+  3,
+  10221,
+  "w, I'll do some more streaming since we got no workshops. So I'll hop on and do some jamming here tomorrow. So feel free to tune in and list"
+ ],
+ [
+  3,
+  10231,
+  "en to some music. And this is a pretty cool experience. We've had two month pop up pop up city type style"
+ ],
+ [
+  3,
+  10238,
+  "activation at four c's, is permanent. So you can pop it up whenever you want, which is pretty awesome. And so we're gonna pop it up again ne"
+ ],
+ [
+  3,
+  10246,
+  "xt year. And there definitely is gonna be another Yves Chiang Mai hackathon as well as another two month long, residency you can be a part o"
+ ],
+ [
+  3,
+  10254,
+  "f here in Chiang Mai. So I'm excited to spend the wintertime here every year where it's nice and warm and super, super, super relaxed."
+ ],
+ [
+  3,
+  10262,
+  "So thank you for having me back. Four c's. Shaka, aloha. See you tomorrow. Thanks for tuning in."
+ ],
+ [
   6,
   2,
   "Okay. Thank you. Thank you, everyone. Welcome to East Chiang Mai Hyperson. To officially kicking off, we are honored to invite Kun Kun Durya"

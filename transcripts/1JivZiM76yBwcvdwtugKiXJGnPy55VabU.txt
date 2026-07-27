@@ -1,0 +1,517 @@
+# ETHChiangmai Hackathon Workshops at CMU, Part 2
+
+Date: 
+Source video: ETHChiangmai Hackathon Workshops at CMU, Part 2
+Drive: https://drive.google.com/file/d/1JivZiM76yBwcvdwtugKiXJGnPy55VabU/view
+Duration: 02:51:14
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Welcome back, everybody. Hope you guys have a good rest. So let's back to the building mode and welcome this founder of the social layer, John, to do the sharing. Hello. Hi,
+
+[00:27] everyone. I'm going to give an intro a workshop about, why the coding in action. I'm Jiang. I'm founder of SocialLayer. SocialLayer is a modular decentralized community platform for pop up cities and global communities with event, venue, and relationship management for communities.
+
+[00:52] Now we are AI is the elephant in the room, and everyone is using AI and is changing a lot of things that we are doing in our everyday life. And AI the one of the, biggest, improvement, in AI for the, last year was,
+
+[01:18] AI assisted coding and especially whiteboard coding. So we so and and and AI is getting better and better in doing this coding work. I started using cursor at the, end of twenty twenty four.
+
+[01:41] At the beginning, it was just able to generate, snippets of code, in the context. Yeah. So with, AI, you use, the the IDE based, auto complete system to, to, auto complete of of your code.
+
+[02:05] And, with, and also you can use AI, to generate, text for the call you you write. Because people would like to write code, but they don't like to write text or documentations. So, with AI, you can, have the text auto generated to
+
+[02:29] mail your code to make sure your code has high quality. But then, you you with your development process, you can also, use, AI to fight bugs or, to debugging process and check data, updating database, with this integrated
+
+[02:52] IDE. And and also you can answer questions about the code base because when you pick up a very large legacy code base or open source project, you have to learn about, the structure, the architecture, the the build instructions, and, some some other issues. And AI would provide a very good assistant,
+
+[03:18] on, exploring the code base that you are not familiar with. And, also, it can, do planning and implementing, new product features. It can, get decide the database schema, your API routes, and file directory. And, also, it can do initial,
+
+[03:43] setups of your project. So what people are taught are saying about AI assisted coding, this the what the concept of vibe coding was coined by Audrey Kaposi, the founding member of OpenAI.
+
+[04:06] And in February 2025, he say that web coding is where you fully get into the web, embrace its financials, and and also forget that the code even exist. So you just do web coding. You it's like coding in a natural language.
+
+[04:30] And then the AI will understand your intention and plan the features and start implementation. And when it comes to some errors, it can try to understand the error and start debugging and then fix the box. And traffic is one of the best
+
+[04:56] foundation AI model that is very good at coding. And Anchorfic's CEO say in last year that in three to six months, AI will be writing 98% of the of the code software developers was in charge of. Yeah. And, actually, I think the we are still
+
+[05:20] yet to come to this milestone even though that's been one years later. But it's getting better very, very fast, and we can really feel it. And, also, the CEO of Google, send up. Said, he
+
+[05:44] claimed that over 90 over 35% of Google's, code base, was written by AI. So why is WIPE coding? WIPE coding is the emerging software development practice that use AI to generate functional code from natural language prompts. So we as a as a human,
+
+[06:07] just keep the our intention in our own language. And AI will start the will will process the impen implementation plan. It can accelerate development and making the make building applications more accessible. So now with live coding, more people without
+
+[06:33] computer science background can also manage to to do software development and start product prototyping. It's a workflow that, where the primary role shift from writing code line by line to guiding an AI assistant to generate, refine, and debug an application
+
+[06:56] through our new conversation process. So, this is a difference of general AI assistant coding and writing coding. So for the AI SSD coding before, it's like we as the human are the main coder and AI was assisting us to to to
+
+[07:19] do the thing. But with wiper coding, it's like the AI are the main coder, and we are the instructor to make sure it works as expected. And most popular AI SSD coding tool
+
+[07:42] is cursor. It's a feature rich, fully developed IDE. It has very well designed smart typing. So when you try to build your write a code, you can just do typing and it will try to auto complete
+
+[08:07] the lines you would like to write. And it has very well designed capabilities so that it can generate code that makes sense in the context. It also has the agent mode. So it can be it can ask the AI agents to
+
+[08:32] not only do implementation, but also fix bugs. And then it can keep the loop running. And with cursor, you can use the top foundation model. And it also has a a well very well
+
+[08:56] model called composer one. But cursor has a problem. It's closed source, and many people don't like the closed source Black Box, application as the main, development environment. While, client is the open source, cursor
+
+[09:18] open source alternative to cursor, which is a Versus code plugin so that you can use, Versus code, as your main, coding environment and use client to improve your AI capability. For Cursor, it charge you $20 per month.
+
+[09:42] But with this fixed price plan, it will not try to use as many token as possible. Instead, it will try to save the tokens. So which means that it does not give you the best performance when possible. Why are you inclined? Because you use your own API endpoint or API keys so that it will try to make use of the
+
+[10:07] token of the AI capability as it could. So client sometimes generate a better call and and it's auto better in the agented coding than cursor.
+
+[10:31] Yeah. And also you it can use more plugins because it's more compatible with Versus code. But when people are not doing the co editing, we are we we might not need a full IDE for for that. So now people are more
+
+[10:54] more people are using cloud code, which is a tool developed, by Entropic, the the builder, of cloud AI. So it's a terminal based coding agent. It's very has a lot of capabilities, and it's very good
+
+[11:17] at doing rival coding. Also, it has excellent m c MCP support. So you because cloud because Entropic is the it is the main also of MCP protocol. So with CloudCall, you can integrate with all kinds of MCPs
+
+[11:41] to provide more tools for the agents. And, also, it's more cost effective if you have a cloud paid plan, because with a a 20, per month paid plan, you can use a lot more token than, those who use the API. But when you are really doing web coding, you might need to use some
+
+[12:12] third party dependencies or might need to use call from other projects. Then you will need to you will need some tools to understand the code base deeply and the usage, the architecture, and and other doc comments
+
+[12:36] about that code base. And then Deepa Wiki is a project that provide architecture overview for many open source projects. It will provide detailed documentations. And also, it's available as a MCP server for other coding agents. And when you are really developing
+
+[13:03] a website, you can ask AI to wipe code the the full page. But for some people, you might want to build HTML from the from the Figma design documents.
+
+[13:27] So one one of the available options, of turning a Figma design doc into deployable HTML is to up is to take a snapshot of the, document of that, of the design doc and then put it to the AI models. But also with the IDE or with the cloud co agent, you can use Figma MCP, which is a connector for for your AI coding agent to your Figma
+
+[14:00] design doc. So you can you can just ask AI to explore, take steps out, implement the design as HTML. And also you might need to instruct the the AI coding agents
+
+[14:24] how to how to keep the code clean or how to use the correct database or other third party service. So you might so there is a standard call agents.md. And before agents.md, there was a standard created
+
+[14:49] by cursor called cursor rules. So it's a a branch of documents as plain text markdown to tell AI how to what kind of libraries and best practice what the best practice of the code base. And then the IDEs or AI coding agents will try to load and read
+
+[15:15] these customized rules when they are doing coding. So it can make sure your code base is consistent. And there is also a a very capable AI coding agent called Code Above. And and recently, there is also cloud code.
+
+[15:39] There's also open code. There's a open source alternative to cloud code. They are very good at coding. And also because they are open source, you can learn how how these coding agents work. And you can also create new plugins or make modifications to these AI coding agents.
+
+[16:05] But for most of the coding agents, they they are reading your static source code and or they are sometimes can read the logs from your running process. But you sometimes you might want them to do a deep debugging
+
+[16:27] or really understand what's happening in the runtime. And tidal wave is one is our where we innovative AI coding framework. It can work with other IDEs or coding agents. So you provide our
+
+[16:54] so it's a framework that that aware of in process run state. So it's called runtime intelligence. It can help AI to debug and inspect the runtime status of your application.
+
+[17:17] You can also use tidal wave to select elements in the in the web page or read variables in the runtime in the browser. So it can provide it can help debugging for those coding agents. And
+
+[17:42] I also build a web based coding agent called wiper3.me. So it's a representative coding agents with login and smart contract integrations. So but our web coding still have some problems.
+
+[18:05] So it's good at the it's good when you do the first prompt or may or implement the the some features. But when you are but when you are maintaining the code base, the
+
+[18:28] the code become more and more more messy and unmaintainable. So because AI is trying to generate all kind of code and dump into the code base. And when it's trying to fix the box, it might change to, more code than you would expect. So,
+
+[18:51] the code base is easy to get over engineered and introduce too many dependencies. And and also bugs and security vulnerabilities are easy to slip in. So even with the best coding assistance, it could stack
+
+[19:14] in some bugs and can be really hard to recover. So at that time, you you just have to revert your code base to the previous commit, which and then try to use another model or try another way to to implement the feature. And there's also a new way of spec based web coding.
+
+[19:43] It's the practice that may that made a spec specification for for your project, like a PRD document. So you will describe how the application is is for and how is how
+
+[20:08] and what kind of tech stack it will use and what are the architecture, data flow, and database schema for your for your application. And and then with this, fully generated document of the application, you might just put it to, hand over to the AI coding agents to start the implementation.
+
+[20:33] And when you want to, make modification to your application, you just modify the spec first. And the AI will find, the difference and made the implementation, incremental implementation based on the spec, document. And, also, you will keep application architecture consistent
+
+[20:56] because it's always following this this document. For here is an example spec structure like README, product purpose, main features, tech stack, architecture, packages or dependencies,
+
+[21:21] and database schema, permissions, page routes, background jobs, front end design, testing plan, deployment, and usage. And also there could be a project management document or, task list for the implementation. Yeah. And one of the most popular
+
+[21:47] tool for to have you do the spec driven development is called a spec kit or open spec. So you might try to use this tool to generate these documents for you. Thank you. And if yeah. Is there any questions? Yeah. Please.
+
+[22:51] And and also when you are doing people use a a combination of different models.
+
+[23:15] When you are writing code, you can use SONET or OPUS from cloud. If you like to use the open source model, you can use GRM 4.7. I use it sometime. It works great. And if you if the development if you are only developing a a small
+
+[23:38] features not doing a lot of refactoring, then I will recommend Google Gemini three flash model, which is very fast. Because some of the model like GBT is very slow in terms of token generation. And when but when you are doing the debugging GBT
+
+[24:03] 2.5 are really good. Yeah. They can do really, really deep debugging for you. And recently, because made an experiment that use the those AI model to develop a full functional browser
+
+[24:26] with 3,000,000 lines of code. Yeah. And in their benchmark, in their experiment, they find GBT works very stably and steadily in this large scale code base. Yeah. And the other thing is that to your
+
+[24:51] if you find there are more bugs, then you should split your your feature into many small features and and implement these features one by one. And when and also you should check the implementation every time it it finish. Yeah.
+
+[25:15] And make sure every commit every incremental commit makes sense for you. Is there a way to generate
+
+[25:41] is there a way to generate a comprehensive unit test for each function or you have to actually tell them one by one problem how to test it? At the moment, they are very good at generating those unit tests. And also, we can create a fixture or data mark for
+
+[26:05] or mark data for for your tags. And they are also good at running those tags. So because it's a very clear flow so they will understand your code and they can generate the test. And when there are some and when you run the test and they fail, you can easily see whether the
+
+[26:29] the error is coming from the generated test or the code. Yeah. And also you can set the in your in your agent store m d, you can ask AI to generate text for every function they create.
+
+[26:52] You can instruct AI to to follow this text driven development practice. Yeah. So just ask AI to do that thing if yeah. Just make sure AI can understand your what what you need. Yeah. What you want. Sorry?
+
+[27:29] Could you elaborate a bit more on which model do you prefer for a particular task? Like, do you prefer Claude over Codex 5.2 for front end or, maybe Codex for back end? Yeah. So some, usually, if I'm doing the, small feature, I'm building a small incremental feature, I will use
+
+[27:54] Google Gemini three flash be because it's very fast. If I'm doing a large scale, coding, like the first, prompt for my web coding, I would use, Sonnet. But if I'm doing debugging, I will recommend GPT 5.2. Yeah. So I I think a combination is a lot better than
+
+[28:19] a single model. And, also, I I like to use GRM, yeah, because they are also good and stable. Yeah. One more question. Like, I found that testing is is the main bottleneck right now, especially front end. Like, you do have to go through the the browser, click on a few buttons, and make sure it it does what it's supposed to do.
+
+[28:47] Like, is there a way to automate the testing bit as well so that I don't have to be involved in the loop at all? I think you can ask AI to generate integration test for it can also call, the browser. Yeah. So they are now they are very good at,
+
+[29:11] doing all these things, all these automations. And oh, I forgot to mention that there is also a new way of, improving the, improving your web coding process is using the, agent skills. So skills are plain text documents
+
+[29:34] that talk about us the usage of some tools, some libraries, or some development process or best practices. So it's a modular way. It's so it's like agentstem.md, but it's modular and it's dynamic
+
+[29:57] it's loaded dynamic Yeah. So agent skills are also very important for to use for you to use more tools and do the automation. Thank you. And I will also recommend
+
+[30:20] to try tidal wave. Yeah. Okay. And thanks for listening. Okay. Thank you, Zhang.
+
+[31:01] And next, we'll welcome Leolara, who will do we have a deck? Do we have a slides for this? From from we will welcome Liu Lara from Ethereum Foundation to give us a speech. Thank you. No. He's mentor.
+
+[31:32] Uh-uh. Also, Liu Lara is our mentor of the hackathon. So, yeah, if you have any questions, feel free to ask after the speech. Do you wanna say something?
+
+[31:59] Thank you, everyone. Yes. Tomorrow we'll pass by to help any. Okay. Is everything is okay? Tomorrow, we'll pass by to help you in your projects, perhaps some some other teams and everything. Okay? Thank you very much. We have ten days break because the last session will begin. What time?
+
+[32:25] 02:40. Thank you. Good afternoon,
+
+[45:06] everyone. Please take a seat. We will start our workshop again. And Zee will will give us the next workshop. Please welcome. Hello, guys. I'm Xavier.
+
+[45:51] I'm from Primer's Lab. So I'm very glad to be here to present our technology. And also Primus is one of the sponsor for Aether Chima Haxone. So today, I'd like to introduce CKTOS, which I assume you guys know like ZK or very other fancy
+
+[46:16] technology about cryptography. So I will I will introduce CKTOS and how we can build with the KTUS on the premise network. So first, I'm under Deborah from the premise labs. And there I got my PhD in quick power free and also have like over ten years research experience in privacy and the cryptography.
+
+[46:44] And their Primer's actually is a kind of cryptography infrastructure build with CK2S and as a privacy technologies like FHE for the homomorphic encryption. So we are building a data verification and a computation network to bring the off chain data on chain. And there this is my outlines about today's talk.
+
+[47:09] First, I will introduce what is ZKTS and why we need it. And there I will briefly introduce how ZKTS works, Maybe involve some mass. And if you guys don't like it, just show your hands and I will skip this part. And also, we'll introduce a bit about what use cases we can build based on this technology and how we can build it with our developer tools.
+
+[47:36] So first, why we need the ZKTRS? Just imagine we are building the WebStreet application. And if we want to have data, most of the data actually are coming from their off chain of the real world. And you can using some Oracle technologies like Chainlink,
+
+[47:59] like Redstone, or as Oracle to bring this public off chain data to your smart contract to the app. But if you want to leverage this off chain private data, so personal data, how we can do it? So and and we believe the decent the web three applications actually require the high quality private data off chain. And the
+
+[48:22] second part is how we can verify this data. I mean, like like the traditional Argo technology, you can have some public note or using some consensus or security technology to aggregate this data from the off chain part. And because this data are publicly accessible, so it's easy to create a such kind of layer to bring this off chain public off chain data
+
+[48:46] to the to the on chain part. And if this data is more about your personal data, your private data, then how we can handle it because there's a lot of issues that we need to figure out in the whole parse. And besides, we have seen web two data. That's a lot of a massive web two data where they would have been involved in the daily life. But actually, that's not so much, but so much in the web three applications.
+
+[49:14] And there yeah. Executives is definitely one of the most efficient and unique technology to solve this issue. So it's focusing on can bring your off chain like identity, like reputation, like your orders in your different commercial
+
+[49:38] websites, your location data, your financial data, everything about your personal or private data footprint. He can he can prove it and then can further bring it to to any any third party or any application. And there so the problem actually derived from such a a a context.
+
+[50:01] So how basically, you can imagine or think about this problem. How to prove your personal data if the data is is in their website? So for example, you have some money in the bank. And there ideally, you can ask the bank to give you or present you some certificate or bank statement.
+
+[50:24] He will generate some some signature or some stamps on that to prove that, okay, you have some kind of money or money flows there. But if the data is relevant about the different social media or different types of websites, how you can ask this service provider to do that for you. And also because this data are more about your sensitive information,
+
+[50:49] which means if you directly share this data to the third party, you will definitely reveal your your privacy. Your your privacy will be broken. So then we might need a a way to selectively disclosure your data. So and also the most important thing is about the authenticity, which means only the authentic
+
+[51:12] or verified data will be the useful, will be accepted. Otherwise, any self claimed or provided data, it has no meaning. Right? So you don't need really need this kind of data in your application. So then based based on these concerns, like handling the universal ality or or structured data
+
+[51:36] or about the data integrity and also more about the the the compliance. So most of issues are around this this proving our data problem. So then here comes the ZKQS. To be to be simple, ZKQS is kind of data verification technology
+
+[51:58] is that it can generate some kind of cryptography proof. You just think it's a proof. Right? And this proof can show that the the corresponding web data is actually retrieved or derived from that data server. So some some some unique feature like you can actually, you can do any type of Internet data source as long as the data is returned from some web page or website.
+
+[52:31] There's some API endpoint that you can do it. And the ZK2S is using some kind of cryptography like ZK or some other like MPC to do such a kind of data attestation stuff to create as a data proof. So so next I would just briefly introduce what is CKTIS and what is
+
+[52:56] how it works. So if you guys are familiar with TLS, which we every day we access the website, we're using HTTPS. The s stand for TOS, the transport layer security, which is a very, very mature protocol. It's a secure protocol we use in the daily
+
+[53:19] Internet communication. And does TOS protocol guarantee that our client, basically your browser or your application talking to a remote server is very secure. So every communication is encrypted within this channel. So TRS is a very commonly used cryptography
+
+[53:42] protocol that I mean, most like 99% of the website, they're adopting this standard. And there and then then what was ZKTOS does? So ZKTUS, that will be a party called a tester or some some some people call it a notary. He works between the TRS client and the TRS server.
+
+[54:06] And usually, the attesters the the the attesters role is to verify that every piece of the data sending from the from this channel is is coming from that server. So like you indicated some data source server URL and you want to talk with him. So you were just doing some encrypt the communication with the exact channel once your TOS
+
+[54:36] handshake session is fixed. And then the tester will just trying to blindly monitoring the whole session and trying to present some proof of say, okay, I have seen this piece of data is really coming from that source. So he will join us as some signature. So that's the whole thing. The test is just a kind of a monitor to do this kind of witness
+
+[54:58] or verification for the data data flow. And they're based on different cryptography algorithm used that will be different to QTUS variance. So one is using with MPC, it's a multiparty computation, which we might use like in the wallet, in the MPC bridge, in the web three. And there
+
+[55:23] as the another type is called the proxy proxy model, which is more relevant to the to the to the naive Zen logic proofs. So premise here using both model because I will explain why. Because these two types can have different advantages. And there'll be some projects within this domain using different
+
+[55:46] ZKTUS models. So then next part, I will explain like some some some some details, some principles about the ZKTUS. And there I'm I'm trying to skip some math, but I will trying to give you the the main idea of how it works.
+
+[56:12] So first, MPC. If you are not familiar with MPC, I will try and explain it. So MPC is a very interesting and innovative technology, cryptography technology. It can allow different parties to jointly work together to do some computation on the same task. So just imagine if you want to
+
+[56:36] calculate the average salary between your team and you don't want to reveal your personal salary amount to everyone, then you can use this. And the result will just be correctly derived if the MPC protocol works properly. And MPC can do any type of computation, which ranging from easily some some kind of computation functions to very complex, like a machine learning tasks. That's a lot of work in this area have been done. So
+
+[57:10] then the MPC based as a QTS usually work like this. I'm trying to skip this part of details because it's too annoying. And let me introduce a bit about how it works. So basically, if the user using the web client and web two servers there,
+
+[57:34] then in the traditional TOS protocol, these two party will be doing something called handshake. So it's more like a you you randomly meet some guy and they want to ensure he is not a bad guy. Right? So you want to verify he has some the server has some certificate and they will you want to conduct a same session key with him to make sure your your your your later conversation will will be encrypted by the session key. So the handshake protocol actually just want to do one thing.
+
+[58:06] The these two parties will conduct the same session key. And so then what does ZKTUS here do? So so in the ZKTUS models, there'll be an a tester, as I explained before. And the session key actually, the traditional ZKTUS session key will be held by both the server and the client. But in this Secure TUS part,
+
+[58:35] the session key from the client will be split into two part. So one part of the session key will be held by the client, and the other part will held by the tester, which means every every kind of protocol message constructed by the client should be under the help of a tester. Right? So because the client have not have the whole key, so he is unable to do the
+
+[59:02] traditional protocol execution like a TOS. Like, the TOS encrypted messages sending and the receiving and the decrypting something something like that. He cannot do it because the key is not fully controlled by him. But every every action take by the client will be under the help of the tester.
+
+[59:25] However, because the tester also have not as a whole key, so he is not able to see the raw data. Every piece of the raw data response sending from the server. So this makes these two party will be should be collaborated together, but also can can prevent as a tester from knowing the details of the session data. So this is the
+
+[59:48] the the main idea of how the a tester here comes. And their and their in their in their traditional TL session, once this session key is established, the the client will be trying to start to request some data from the server. So say, okay, can you give me my my registration time from your from your website? The servers will say yes and encrypted some
+
+[01:00:18] his time data with the session key. And again, because the session key is not controlled by the client, he will forward this inquiry data to the to the tester to prove to to him that, okay, you see this data is from that server URL. So there'll be a lot a lot of proof and verify actions between these between these TUS session.
+
+[01:00:41] And only after a tester will verify or and ensure that the session data is really coming from the server, he will give his half keys, the part of the half key to the client. And as client now is able to recover all the messages. So this is the how the data will be decrypted at the moment and that the client will be able to see the raw data is that is really coming from the server.
+
+[01:01:11] And there also, the tester will generate some signature for him. Okay. He will generate some signature of all that include data. So this is something called attestation because he is endorsed for that data session and he will join a signature. And this is something which we can use in our applications.
+
+[01:01:37] So okay. So so this is the main flow of the MPC based TOS. And as a proxy TOS, a little bit different because the attester now is work stand between the server and the client. So in the MPC model, actually, the attester is just to stand behind the client. And then now he will stand in the as a middleman. Right? So
+
+[01:02:04] so he can he can just relay the traffic, the the TOS traffic between the server and the client. And because he he is some someone who really know the clients who he is talking about, so he is able to share that as a so include the message is really coming from the server. And and he will show in some kind of standard proof
+
+[01:02:27] to the client. Sorry. The client was trying to present something or proof to the attest to showing he's received the data is from server. And if the data is involved to some kind of business or sensitive information, he can also trying to pack this kind of business logic in the in the ZKP, in the ZKP proof. So
+
+[01:02:50] why I present this too? Because MPC and the proxy actually both are the ZKTIS algorithms. And the MPC is much, much complicated than proxy because there's a lot of communication and the cryptography operations in the handshake part. So basically, MPC is not so fast, but it's more reliable because like the proxy, there are some a test is is is is standard between these two. Right? He can he definitely definitely doing some malicious stuff. So
+
+[01:03:23] which means in the trust assumption, the proxy model is something we we we might not prefer. But actually, in in the current stage So proxy based TUS actually is acceptable because it's much faster and we can still use it in some
+
+[01:03:47] some context, which security is might not be the first priority. I'm I'm not saying proxy is not I'm not saying proxy proxy TUS is not secure, but it's it's at least less secure than the MPC. And actually, there's no attack happened in the proxy TUS, so which means we can still using it. And there and there okay. Then then that comes the last problem, which is about the tester.
+
+[01:04:15] So actually, in both MPC and the proxy model, a tester security is a is a problem because we have no way to prevent a tester doing some malicious thing like doing some for example, do conclusion with with the client to issue a fake fake signature. So just imagine if you want to create a application
+
+[01:04:39] which want to prove users financial status in the bank. And if if a tester cheating with the user client, he can issue a fake signature to prove the user have enough, say, money in the bank as long I mean, even even the user don't have money, right, he can still issue the fake signature. So then we need to think about how we can prevent such a such a issue happen.
+
+[01:05:06] So that will be some approaches. So one thing is we can build a decentralized network, which we can reduce the risks of the testers malicious behaviors. And another thing is we can put the attester the the attester node, the software into some
+
+[01:05:30] some some secure environment. The TEE is a trusted execution environment into the TEE. So because the TEE is something we usually use as a kind of secure enclave, which ensures the software running inside the t is secure. Okay. Okay. Good.
+
+[01:06:40] So, yeah, TE is some some very cool secure technology which can ensure any software are running inside TE is is not cheating. So then we we think about how we can combine these two approach together. So and we comes with the premise network. So we put the the KTS test the software in the TEE. We work with some TEE provider,
+
+[01:07:05] Fela. They are a web three TEE provider. And with their technology, we can ensure that even even the attester, he's he has no way to control his private key. I mean, this ensures that as a attester is not able to issue a fake signature. And also, he can do not to
+
+[01:07:28] crack or doing some kind of problem with the with with the software because the software's version control is also maintained by the TEE environment. Then we we have a very strong decentralized approach by working with hardware level securities product. So
+
+[01:07:51] you can and and we we have the related developer tools be build based on this network. Okay. Yeah. Some some conclusion. Why is the KTS a breakthrough? Because the first important thing is it can bring the verified off chain data to you. Anyone can anyone can prove his
+
+[01:08:14] data on any any any source, any web source. And the most important thing is you don't need to do the modification on the data source data source server. Because as long as the user is able to access some web page, then he must be ideally to prove his data. You'll need don't need to modify their data source data data source server side. And also, it's a totally chain agnostic technology because
+
+[01:08:44] every action is happened as a verification is happened off chain, which means you can combine it with different blockchain like we work with EVM chains and the non EVM chains. You can put this verified as a KTUS data on the smart contract and they verify it and you can combine it with your dApp.
+
+[01:09:08] So you can do that. And also, it's ZK friendly. It's we we we're using some cool ZK called Isaac, interactive ZK in this ZK TIS protocol. And also, you can combine it with some other noninterrupt ZK, like ZK Snarks or ZK stocks. You can come out with with it. ZK VM tools, you can further export as a computation taxes
+
+[01:09:32] to that as a JVM to make sure that part is more with better transparency and and the verifiability. So also this the way to bring users off chain data to a dApp is is totally compliant. It's it's follows the data portability and also compliant with
+
+[01:09:56] some data rules like from c d CDP. So yeah, some some real world use cases. I will introduce a bit here. So three g is a landing protocol. So you are building some something called credit lending or under collateralized
+
+[01:10:20] lending. So right now, if user, he want to he want to lend some tokens, he must stick some some some token first. Right? So but if if we want to build some cool, like, credit lending, you need to allow the user to prove his financial status, financial data off chain, and make sure he will not be able to cheat him. So
+
+[01:10:48] Jane SuiJin is building some product based on the KTRS, and the user need to approve his bank or some other credit score or financial data in it to makes the product happen. And also premise, we are building a product called approve op reserve, POR, which we have projects like stable coin,
+
+[01:11:11] like the yield other big projects. If they want to prove their prove their off chain assets is enough, then this will be a very nice option. So just imagine if the projects issue a stablecoin and he
+
+[01:11:34] might use the users USDT or DC within different strategy, deploy the strategy on on chain or off chain. And he has he has the responsibility to prove these assets of transparency. On the other side, he might he might not to review his details like the positions in the in the off chain part or the sensitive information
+
+[01:12:03] of the of the of the strategy. So the KTIS is a very good option to do such a thing. And also, Transcript, which is a web three company, he is building some kind of background checking approach using ZKTUS, which makes users like academic records,
+
+[01:12:27] degree university, or degree information, or some other career information be verifiable. And it will be save a lot of time for the employers. Yeah. So also, we can we can think about how we can using this technology. So you can build ways. So first thing is about finance. Right? You can use a different financial
+
+[01:12:54] data from the bank, from the exchanges, or like KYC data. You can doing some kind of ZKK KYC stuff with ZK TOS using in different d five protocols. And also, you can doing with some identity identity data. You can you can build some kind of gateway protocol,
+
+[01:13:18] allow user to prove his account ownership within different websites, allow him to log in with any log in with anything. Right? You know, not only with Google, with Wallet where you can log is the user is able to log in with any existing web two account. And also, he can bring his personal information if he choose. Like, he can he can you can onboarding some
+
+[01:13:42] Steam users to some web street game. So you can think about anything about that. And there some some more important thing is premise, we we offer different tools. So we have like five no. Maybe more than that. Five SDKs. Right? So we we we we allow user as builders to choose different
+
+[01:14:08] SDKs to facilitate it with different use cases. If you want to prefer some decentralized tester, some secure result, you can use in our network SDK. We have two type of network SDK. So one is network JS SDK and the one is called network core SDK. And the the different
+
+[01:14:32] thing is the network JS SDK is more about the DAP integration. You can just integrate this SDK, import it into your code, and just using very simple code to create a dApp. And the and the user is able to create their attestation from that SDK. And also, you you need to allow the user to install the premise extension,
+
+[01:14:58] which is a Chrome extension. It's it's more like a algorithm execution environment. You can allow some ZKTRS cryptography operations happens there, and the user don't need to access or or open that extension, actually. He just need to that to needed that extension to excuse the algorithm. And the
+
+[01:15:21] network request DKA is more like a a a choice which is is is used for some agent program or self testing program because you can indicate as a data source in the code, data source URL in the code, and there configures the credentials, say, user's
+
+[01:15:43] API key or some other credential like access token in this SDK to allow the user to delegate his data access right to you. But, I mean, based on the security consideration, you can maybe this STIC is better for like POR as a project who want to approve his his own data or some other agent in the program. So it's it's more and it's
+
+[01:16:11] also allow you to avoid the two installing extension. So you can running you can run such kind of SDK program in in your back end server. And there yeah. And also we have our dev docs. You can access our dev docs here. And also we have different SDKs, so by which is more about centralized version.
+
+[01:16:37] So we'll we'll also create a few examples for different SD case here. And also, we have our develop hub, which is a kind of very interesting tool. So the the purpose of premise developer hub is to create a data source template. So because you might have the question like, what kind of data source I can use and how can
+
+[01:17:01] I configure the data source in my code? So then we we we we we we we create such kind of hub because you can create some sync or the data template. You only need to copy the website URL into this hub and you're trying to select the data points or data field that you want to prove, just doing some simple
+
+[01:17:25] click clicking, you can create a template and you use the template ID in your code to enable the whole program work. So this is a very powerful tool to do some fast programming and you can use that. So and from the user's perspective, so basically, because we are
+
+[01:17:49] build as a CK test network based on some blockchain. Right now, we live on the base. So base main net and the base support your test net. So which means the from the user's perspective, he has to pay some fee to the premise network because he leverages the network attested to doing some verification
+
+[01:18:12] task for him. So in the application side, the user need to first pay a very small amount of the fees. This fee will be sending to their contract and will be split into part to their attester. So and there if the if the task fails, fee will be very soon returned to the to the client wallet.
+
+[01:18:37] And there there will be some primary system contract which we are doing some kind of consensus and the task is queue management to select as a tester and doing some kind of verification and and the result to manage stuff to make sure the premise attester network attester works correctly.
+
+[01:19:02] So there yeah. And actually, the the the KTOS session actually happened between the attester and the the and the and the client. So yeah. So this is the flow of the tier the KTOS actions happens in the network. And
+
+[01:19:26] this is some kind of idea of installing the SDKs in your code. And also, this is very detailed of the the KTS code you can use. Also, you can access the examples in our doc, in our dev docs and in our GitHub. And the next, I will show you some example how it it works.
+
+[01:19:58] So so I already created a very simple project here using the vite. And also I using I am using the JavaScript to create a Executives application. Let me show you how it's is so so this is the app. I go ahead and create it and I run it locally.
+
+[01:20:22] And there you can connect your wallet and you can attest doing create some attestation from the web to data source server. And what I did here is I just copy some template ID. You can you can you can explore. There are some there some existing templates in the previous
+
+[01:20:45] dev hub like here. Worry about the network, but okay. Anyway, if you already if you already create the account, you can explore here, but
+
+[01:21:09] you can also see there's some existing templates ranging from the financial exchanges to social to social media and some other data source here. You can using existing templates. And also you can create your own templates like like I does. And just don't forget to copy this template ID.
+
+[01:21:31] And once you got to this template ID, you can put it in your parameters and you're using you're using that to do some attestation. So let me show you how it works. So I I already connected my wallet and I tested my data. You feel first I need to deposit some money to to the contract because you'll requires a tester network work for you.
+
+[01:22:15] Okay. I I build this this on base. Okay. And this is the second time. Just ignore this window. I want to prove my PNL rates, which if I doing some trading in the Binance exchange, trying to prove this three sorry, seven days bought account the p n r rate. So if I doing some trading before
+
+[01:22:43] sorry. I think it's a network is not stable. Let me try it again. Okay. You got verified.
+
+[01:23:36] Takes a little bit longer than I expected. And then you return to this d r page and you can show the test station result here. So this is a test station structure. It contains some metadata like who receives this data. So for here, you this is your wallet address.
+
+[01:24:01] And also, you can identify the data here, which I didn't do anything because I got a zero p and l rate. Also, some other metadata information like timestamp, who is a tester, what is what is the public key, and what is the signature, and some also the
+
+[01:24:23] so this is data API endpoint I request. So this is a basic structure. Actually, you can derive from the attestation and then you can further extract as a, like, data field from this attestation and use that in your DApp. So, yeah, this is a there's a very basic example, like, how you can create a secret to us application from the secret to us part. And therefore, because you are doing dApp, right, you can making it with, like, NFT or some other
+
+[01:24:59] business, like, with AI agent. You can you can you can use agent to to to access your personal data if it's not very sensitive and then to doing some kind of interaction with some other agent. So anything you can using with the security as like the private data is works. So
+
+[01:25:24] yeah. And Let's go back. So yeah. I think the coding is not very complicated because you only need to configure your template. You can you can use things or premise developer hub to create a template or you can using
+
+[01:25:47] if you want to use a network or core SDK, you just specify the data data URL, some some metadata, then you can will be very easy to go step further. And there I don't think there'll be some other personal information need to be configured in this part. And then you can call
+
+[01:26:10] the function called a test, which will be sending to the network. And then everything will happen there, and then you will receive a result. And then and then you can call the verify and the pull task because you you want to make sure the attestation is correctly created. So this this API is
+
+[01:26:34] called after you got the attestation and you can let the system system contract to further verify it for you. So you want to have a more solid or secure result. So I think this is the whole thing about using this premise network SDK. And also, I want to introduce additional features that we support. So just using one line, one code line, you can switch from between the MPC and the proxy TOS.
+
+[01:27:01] And also, we support the native operation like privacy preserving data attestation. So if I don't want to reveal my PNL rates, I can using some hash function in that operation or I can using some comparison operator there. So we have very clean docs to and ex examples to explain this part. So but I because I don't have time, so I I I cannot explain here.
+
+[01:27:29] Yeah. If you have problems, you'll just directly come with me. So also we support a multi URLs because usually you might need to access not only one, but you might need you you want to access two or more data data APIs within within one URL.
+
+[01:27:52] So then we also support that. And also we support like a dynamic arrays. You can collect all the result from the one URL. You can copy that into your into your code. And also, we support some mutual TLS, which is not very usual. But in some TLS session, the the server also want to verify the client.
+
+[01:28:17] So in some in some use cases, then you might need as a thing called a mutual TLS, and also we support that. And also we support this DVC we call the data verification and computation pattern. You can combine this data attestation with another tool. If you are familiar with ZKVM, then we also provide the examples how you can combine the primary ZK
+
+[01:28:43] POS data with CKVM, like a previous, like succinct. You can work with that, but it's kind of you need to do some kind of circuits engineering there. So, yeah, I think I already completed my today's talk. And thank you guys for listening. And this is the premise
+
+[01:29:06] tutor. You can follow that. And also, you can you can find me in the e search in my Telegram group. And also, I I have my yeah. And this is my Twitter Twitter account. You can follow it. And you can if you have any questions, just come and follow me and or send a messages. Yeah. Thank you, guys.
+
+[01:29:40] Yeah. Any any questions? Yeah. Yes. Please. Yes. So hello? Oh, yeah. Can you use it without the permission of the platform where you're where where the session happens?
+
+[01:30:04] Oh, you mean the the ticket to TLS session? Yes. Where is it happens? Like like, for example, you're you're trying to create a proof from an exchange that happened on Twitter. Okay. I will just like create an example. So so for example, if I want to prove your your, say, your balance in the balance,
+
+[01:30:29] so first, you will so the the the flow is more like there's an executive SD app and the dApp will sending some network request to the Binance website. And then because you access user private data, right, so the website will allow you to log in first as user to log in to his account.
+
+[01:30:56] And there and if the private data, let's say, is a wallet sorry, is account balance or some PNR rate or KYC data lies on that page, then the the security has happened. The the tester actually is is kinda working behind the client.
+
+[01:31:19] It's it's a can it's a remote server. And that's in this picture, there'll be three parties. One is the tester, one is your local your local browser, is your client, and then the binance server. Yeah. So the the tier session happens there. Yeah. Yeah. So do you need the, like, a permission from the platform? No. You don't need to do that. I mean,
+
+[01:31:42] because from the from the Binance or from the server's perspective, he is just normally talking with a a a traditional client. Because he is not and he have no idea like, oh, oh, this is some security test. Yeah. So so this is the magic how security test can work. So it's bypass any traditional checks. I mean I mean,
+
+[01:32:07] at least MPCTRS can work like that. Yeah. Okay. Thank you. Yeah. Okay. Anyone else? No? Yeah. Hello.
+
+[01:32:31] Yeah. Am I audible? Hi. So does Primus provide a timestamp for the TLS transcript? So when I generate a proof on Primus, do I get a timestamp of the proof so that there cannot be any replay attack when we make the ZK proof? Sorry. When you join the attestations, what what
+
+[01:32:54] what problem? So basically, when I'm generating a proof or when I'm solving a equation like whether the this thing is greater than this and the output is yes, does a timestamp does Primus give a timestamp of when that activity happened? Okay. When the script was generated? Yeah. Let me try and understand your question. So you're you're asking like,
+
+[01:33:17] that a is there a timestamp when you're using the ZKVM to join the proof? Yeah. Yeah. Okay. I need to check. I mean, because it's usually happens on the ZKVM side and the premise didn't do that. So I need to check the details. I think it should have because I I tried with their local demo. I deploy a
+
+[01:33:41] local server to run the ZKVM and there there's some kind of task measurement, some metadata about the time. Should it be I mean, it's yeah. I think it happens on the network. So I need to check the details and I can later come to Yeah. Alright. Yeah. Thank you. Okay. You. Thank
+
+[01:34:06] you. Okay. Okay. Thank you, guys. Oh, I can just disconnect it.
+
+[01:42:19] Check. Check. Hold on, sir. Hey, everyone. The session is being. So have a seat, please. Thank you. Hi, everyone. I'm Sachin from the ZKB two p team. Z k p two p stands for zero knowledge peer to peer. It's you can think of it as balanced p two p, but it's on chain and it's trustless.
+
+[01:42:43] Also, this talk, think of it as an extension to the previous talk because we rely on the ZK TLS technology to face it to enable trustless via on ramps. And it's production ready. It's deployed. People use it day to day. It's an application that is built on top of ZK and ZK TLS and smart contracts. So I guess Xavier did all the heavy work of
+
+[01:43:08] I guess the hard work of diving deep into the core technology itself, which is ZK TLS. And I will just give a demo and show how you can build an application using some of these very advanced cryptographic tools. Obviously, first start with the problem statement that we're trying to solve. Everybody here knows that fiat to crypto bridging or on off ramping is still very broken.
+
+[01:43:35] The main, I guess, pain issues are that, a, it's very high fees. For example, MoonPay charges anywhere close to three to 4% because they use credit cards which itself has one to 2% fees baked in. On top of that, they have to take care of fraud which adds another one to 2%. Transact in India, for example, charges roughly 6% which is way too high. Also, these on off ramps are very fragmented. Each jurisdiction has its own regulatory issues that they need to take care of, which leads to fragmentation of liquidity, and there are individual players in each jurisdiction.
+
+[01:44:11] It's very intrusive and like they require you to do KYC even though you have already done KYC on your bank. So you have to do your KYC again with Coinbase and they end up leaking all the data on the Internet and then you are, I guess, susceptible to a wrench attack if you have a lot of crypto. And finally, are very slow. When when you introduce your friend to crypto and they try to log in and try to do KYC on these platforms, it takes, like, anywhere close to two to four days to get to your first crypto.
+
+[01:44:44] And even after you have already KYC ed, for example, in The US, if you want to on ramp, they hold your crypto for five days before you are allowed to take it out of Coinbase and then do something on chain. So these are the main problem problems of fear to crypto bridging. One way to solve this problem is peer to peer. The key, I guess, properties of peer to peer is is that it is low fees because there is a coincidence of wants.
+
+[01:45:13] There is a seller that wants to sell USDC, and there is a buyer who wants to buy USDC. So both of them want to do that transaction, so they end up lead that that end up ends up leading to very low fees. There are no middlemen. You do not have to provide your KYC to anyone. You can just transact with with your counterparty. And that's that means it is privacy preserving. You do not
+
+[01:45:39] you do not have to reveal any other information apart from just sending the transaction itself. You do not have to give your entire bank statement, your historical data, your address proof, etcetera, just to send the money. And the finally, it's 24 seven and global as in like the p to p transact transfer that happens in China is not different than the p to p transfers. It's not fundamentally different than the p to p transfer transfer that happens in America, for example.
+
+[01:46:05] There are no very strict regulations on how you do that because there is no custody of assets. And yet it's fairly easy and it's fairly scalable. But the two core issues with p to p transaction is that, one, discoverability. As in, if you want to buy crypto, then you have to find a a willing seller who is willing to sell the same fiat at the same sell the same crypto at the same amount.
+
+[01:46:33] And you you have to find that person. Like, there are telegram groups where basically people come together and they send rates, but those telegram groups itself are like very small and you have to find those groups. And the second is the issue of trust. End of the day, you are transacting with a random counterparty. You obviously have have not met them before. You do not trust them. So
+
+[01:46:56] you like, there is a there is a chicken and egg problem there where you don't know which party will send the transaction first. And if you do end up sending, then that guy might run away with the money. How do we solve the discoverability and trust problem? That sounds exactly as like, that sounds a problem for smart contracts, which all of you would be familiar with. Smart contracts effect essentially solves discoverability and trust for you.
+
+[01:47:21] Because it is on chain, anyone in the world can just connect a wallet, access the smart contract, and everyone in the world can see, okay, somebody is trying to sell some amount of USDC for some amount of fiat and you can see it on the smart contract. You can see it in the blockchain. And obviously, it solves trust as well because the smart contract is immutable. It it does what it's supposed to do as it as it is written. And if we write it correctly, it will it basically acts as the escrow for the transaction. So you do not have the trust problem of who will send the transaction first.
+
+[01:47:54] So one way you can facilitate on chain p two p is that you can request the seller of let's say USDC to escrow their assets into a smart contract and then they provide some tag. For example, wise tag, Alipay tag, grab pay tag, guess, to accept where they're willing to receive the payment, the option payment. Then the buyer comes in, they do the option payment,
+
+[01:48:20] they generate a proof of the payment that I've done the payment to this wise tag or to this grab pay tag to the smart contract. They they essentially submit the proof to the smart contract and that the smart contract is supposed to then give them the escrowed USDC to them. The core is like smart contacts are fairly easy. Ethereum solved that ten years ago. The the main issue that
+
+[01:48:46] you run into is that how do you generate the off chain? How do you generate the proof of payment for the off chain payment? And that's where ZK TLS comes in. Before that, I guess yeah. I guess that's where ZK TLS comes in. In the last talk, you heard how you can generate proofs of off chain data using the ZK TLS. And the good thing is like most of the platforms
+
+[01:49:10] in the world have that data available in their public or private APIs. So for example, this this is an example of a wise transaction where I paid to my friend Richard €0.11. And if you open the inspect tab, you can and you you go to that particular request where that data was fetched from the wise server. You can see that there is the recipient,
+
+[01:49:36] like whom the money was sent to, the amount of the transaction, the timestamp of the transaction, and whether it was settled or not, the status of the transaction. So you have all the data. You just need to generate a proof of it and then you would need to submit it on chain. Yeah. Like, Xavier already went very deep into what is TLS. Basically, TLS is used to facilitate
+
+[01:49:59] this transfer and then ZK TLS allows you to generate a proof of the transfer. I'll not go deep into how it's done. Yeah. So there are three key properties that ZK TLS gives you. One, it gives you verifiability as in you know for sure that that transaction happened on chain. It's that's one of the properties of ZKS NARC which stands for zero knowledge succinct non interactive arguments of knowledge.
+
+[01:50:28] The second thing that it gives you is selective disclosure. It because I for example, in my wife's transaction history, I I have I might have sent money to my mom. I might have sent money to someone else. I don't wanna reveal all of that data on chain. So I want to redact the rest of the data and only prove that I've sent the money to the person I was supposed to send to, which is the seller. So that's where the privacy properties of zero knowledge comes in where you redact everything else and you just prove
+
+[01:50:57] that bit which which is important. And finally, it it is composable. You can you can generate zero zero knowledge proofs over zero knowledge proofs and you can use signatures as an input to zero knowledge proof and you can do additional stuff on top of that. So yeah. Zika and Zika TLS basically enables you to port data from all walled gardens and you you can port that into block chains. You can prove
+
+[01:51:21] x responses. You can prove Facebook data. You can prove in our case, you can prove any sort of payment data. So coming back to the old diagram, the seller locks their assets. The buyer does the option payment and then the buyer runs the ZKDLS protocol with the server and the notary to generate the proof of payment which is then submitted to the escrow contract which
+
+[01:51:49] unlocks the assets. And this this whole bit like the server which could be like wise, Venmo, grab pay, Alipay, pay now, etcetera. And then the node tree is is right now, like you it could be a single node tree or it could be a network of node trees to decentralize the trust. And then the notary notarizes that the transaction happened and then you submit it to the contract which just verifies the very simple e c d s s signature that
+
+[01:52:18] it has all the data and that the transaction was done at the right time to the right person for the right amount of currency. This is the detailed diagram of how z k b two b works. Obviously, it's like slightly more complicated because it's a production ready application. We have the extension which is called PR auth which generates the proof on behalf of the buyer.
+
+[01:52:43] Right now we are using reclaim which is another ZK TLS provider. But you can also use Primus. You can use TLS Notary to generate the proof. And then one more key thing to note here is that we have a unified verifier on chain, which is basically like it it accepts just ECDSA signatures and then the attestation service accepts the proof
+
+[01:53:10] from the extension and transforms that into something that our protocol understands. Which means we can support any of these vendors on the left side and then all of those proofs are then transformed into a spec that our verifier understands which makes us basically vendor agnostic. And it's running in a TE right now which means it's you can trust the code that is running in the TE.
+
+[01:53:36] I'll give a live demo of the app. Yeah. This is our website. Also, one thing to note here is that ZK b two p was built as part of ZK hack Lisbon, which was a hackathon and
+
+[01:53:59] that was two years ago. So if you build something and if you continue building, I guess you can also turn it into a product and project which moves decent amount of volume right now. We're doing like 600 per week. I'll give a example of a wise payment. We support a bunch of currencies and a bunch of payment platforms. I think we also support Thai baht. Yep. We do.
+
+[01:54:25] I'll demo USD using wise. Let's say two. Fetch us a quote. Give me these are the these are my counterparties. I can choose any one of them. Obviously, I'll go with this guy who's apparently giving me 2¢ more. Start the order. We're using a seven seven zero two, which is like
+
+[01:54:50] an Ethereum improvement thingy that helps you sponsor gas on behalf of your users. So I'm signed in using my email address and I'm not paying any gas. The gas is paid by the app itself. The Internet is pretty slow. So let's see if it succeeds. Oh, hold on. It's taking forever.
+
+[01:55:38] I'll connect to my wife hotspot. Hold on. Cool. Let's see if this works. Venmo
+
+[01:56:24] wise to just make sure to select wise. Start order. This was the old transaction that I did. It finally went through. Yeah. The Internet is super slow. I'll just do a I'll
+
+[01:57:16] show you a recorded demo instead from another one of my talks. I guess demo gods did not help us this time.
+
+[01:57:45] Yeah. Just a recorded demo. So this is a demo of Alipay, which is a Chinese payment platform. We have not launched this yet. This is not live. So yeah. Basically, you fetch a quote, you get all the counterparties that are willing to be a seller. Then you can start an order and then you are presented with
+
+[01:58:10] the QR code of the person that you are supposed to pay to. Once you do the payment, in this case, I guess, file you on to someone. You then generate the ZKTLS proof. So first you authenticate using the the payment platform. This is where our extension pops up. It obviously have to sign in on the web page first.
+
+[01:58:38] Yep. This is our x where extension pops up. It first authenticates you, a k it basically understands that it has to generate a proof of Alipay and then it grabs the session token from the session. And then it grabs all the payments that you've done in the in the in your payment platform. So in this case, three payments have been done to someone in January.
+
+[01:59:04] Then you start the notarization process which generates the proof. It takes around ten to fifteen seconds to generate the ZKTLS proof. Once the proof is done, you it's sent on chain which then results in a transaction which
+
+[01:59:26] leads you to get USDC. Yeah. Like we just submit the proof on on your behalf to the chain and then you get USDC. The demo obviously did not work, but there's a decent amount of liquidity. There's a decent amount of volume going through the platform. You can see all the sellers that are listed. It's very similar to Binance b two p where you can see all the in the entire order book and
+
+[01:59:52] you can choose any one of them and start transacting with them, I guess. You can also sell on the platform. So you can also be a seller. You can create a deposit, provide your payment details, and you will receive money in your payment platform. And you don't have to do anything. You can you can be AFK. Cool. Apart from ZK b two p being just an application, it is also
+
+[02:00:22] a kind of a protocol as in because it is on chain, it is it is on smart contracts, very similar to Aave or or what is another example? DYDX for example. You can build on top of z k p two p and you can just use the smart contracts and do additional stuff on top. And also our extension is like it allows you to generate proof for everyone.
+
+[02:00:47] So you just very similar to window.ethereum, you can do window.zktls for extension and then give it a JSON template which basically specifies what you want to prove. And then the extension does the authentication process, generates the proof, and submits it back to your front end via a Chrome message passing API. So I guess just a couple of examples on what you can build with ZK b two p.
+
+[02:01:14] The first one is you can integrate your local payment platform into z k b two p. So right now we support mostly US, Europe, and I guess soon to Chinese platforms. But there are a bunch of other platforms that we can add. And it's fairly easy. You just need to you you need to look at the TLS transcript. You need to figure out where the amount is for the transaction, where the
+
+[02:01:39] currency is, and you just need to write a simple simple JSON which then extracts the data. The the extension does all the heavy lifting of generating the proof itself. You just need to provide the JSON and then you can build that you can build a cool front end on it and then you can use our contracts and our extension to generate like, basically build that application. One, I guess, issue that we always face is that we only have access to US platforms.
+
+[02:02:05] We do not have access to, like, these local platforms. So we rely on local people to generate and integrate that I guess, generate the ZKTLS provider and integrate that into ZKB two p for us. Another thing that you can build is a is a remittance platform. So because ZKB two p allows you to go from US like Venmo USD or Wise USD to USDC,
+
+[02:02:33] what you can do is then take the USDC and then deposit it back, like as in sell it back on ZKB two p, but this time provide the payment details of someone in another country. So you can basically go from like, I as a user can come to ZKP two p, do my wise payment, and someone else receives money in their GrabPay, for example. They do not need to understand what crypto is. They can just do a payment to someone and then crypto takes all the crypto does the middle bit which is it takes the USDC.
+
+[02:03:05] It deposits it back into ZKB 2 p and then the other guy whenever someone from that country on ramps, they receive the money. We have in the contracts or the protocol, have a thing called post intent hook, which is basically after you on ramp, you get the USDC. You can specify what happens with the USDC. You can either deposit it into Aave or or
+
+[02:03:28] do anything with the USDC basically using the post intent hook contract. Another thing that you can build is an agent x z k p two p. So I guess I mentioned that one of the issues that we face while building z k p two p is that we have to have access to the local payment platform to be able to integrate every payment platform.
+
+[02:03:52] But in hopefully, the AI gets good enough so that we can generate these z k t l s providers on the fly. It's an idea that we're still exploring, but I'm happy to, like, help if you are trying to do this or, like, give it a shot if you if you want to. The the core idea is that the the buyer wants like, we need not pro provide the ZK TLS provider
+
+[02:04:18] before as in we we can build it on runtime, just in time, where an agent pops up in the extension. It looks at the entire TLS transcript. It finds the you you the the transaction where it finds the request where the response contains the payment data, and then it generates the provider on the fly. And then it feeds that into the ZKTLS prover which generates the proof.
+
+[02:04:42] Submit you that is then sent to the agent, the seller agent which accepts the ZKTLS proof, verifies the correctness of the ZKTLS proof, also does the business logic verification, which is the right amount, right currency, right time. And, yeah, you can basically, like, your agents can trade crypto on your behalf. You don't need to do anything. Trade fiat and crypto both and not just crypto. Crypto is fairly easy. It's the fiat part that's hard.
+
+[02:05:09] Yeah. You can you can build this. It's fairly hard. I give it give it a shot last week and it it was slightly hard. But it was able to do like, cloud was able to do a good job at it. Yeah. That's all the ideas. You can build it using Primus. I think they have a they have a bounty. So you can use the you can use Primus as the ZKTLS provider and you can use our contracts. As I said, our contracts are agnostic of which particular ZK TLS provider you use. Thanks for listening.
+
+[02:05:37] Also, yeah, docs and we have our client SDK if you want to build on top of ZK b two p. Cool. Anyone have question? Okay. Hello. Yeah. Thank you for talk. Very interesting idea. So I have a question re regarding
+
+[02:06:00] to, crypto to fiat or fiat to fiat, workflow. So, my question is, could you achieve crypto to fiat or fiat to fiat purely relying on CK p two p or you or does it require some support from the underlying fiat platform?
+
+[02:06:24] I think that's a good question. I think the lady sitting in front also asked the similar question as in as in do you need to rely on the platform to be able to integrate it? And the answer is no. Like, ZK TLS is a Cypherpunk technology. It allows you to generate those proofs without the permission of those particular payment platforms. So we never went and talked to Venmo wise. Alipay, I cannot talk Chinese. Like, I cannot speak Mandarin. I never talked to them. I just looked at their API and then generated
+
+[02:06:53] the provider which then which is then fed into the ZK TLS protocol which generates the proof. So I never need to talk. I never need to accept or ask them for an API key. I can just generate the proof. Yes. Yes. I I know. Yeah. For for the flow of from fiat to crypto, yeah, I think this procedure does not require support
+
+[02:07:16] from those fiat platform. But I'm just wondering how to achieve it for the procedure from crypto to fiat without the support from fiat platform. Since to to withdraw some money from the Fiat platform, you need to sign something. Right? You do need to I mean, obviously, you need to have access to the payment platform itself
+
+[02:07:44] as in So oh, yeah. So as it you require some API or some No. You like you just in in the case of ZK p two p as a seller, you just come to the platform. Maybe I'll just show it here. You come to the platform, you create a new deposit, you say 20 USD. I wanna sell 20 USD. And then you provide your Venmo.
+
+[02:08:07] So you provide a Venmo tag and then that's it. You create the deposit. Like, if I if the network worked, this would have sent a transaction, which it will not. But basically, that's it. Like, you provide the USDC and then you provide the tag where you want to receive the menu Yeah. Money. And then the buyer sends the money to you on that tag. Okay. Okay. So it works in Venmo platform. Right? Yeah. Venmo,
+
+[02:08:32] we have bunch of other platforms as well. Revolut, Cash App, Chime. Can it be done in, for example, Alipay or Yeah. I showed a demo of Alipay just now. We are gonna launch Alipay. It's in private beta right now. We are asking a bunch of our friends to test it. And then once it's once we make sure that the ZK TLS proof works all the time, then we'll launch it on the platform as well. Okay. Okay. Thank you.
+
+[02:09:05] Yeah. I have a nontechnical question. It's more on safety. Like, if I if I develop p two p exchange that allows for a local transactions to happen privately, how do I prevent like, how do I lessen the probability of the cops and the regulation regulators going after me? That's a good question. I guess I am standing here, so I'm I'm fine right now.
+
+[02:09:30] Like p two p is not illegal per se. In most jurisdictions, two p is not illegal. Like, if you cannot you cannot it would be stupid to have a regulation which stops something as simple as a simple p two b transfer. In most countries that we operate, US, India, Europe, p two p is legal. It's just that you have to do the reporting and that's on you. That's on your user whether you do the reporting
+
+[02:09:59] for and then file the taxes accordingly for your gains. That's purely on the user. But we just solve the discoverability problem and we solve the trust problem. Thank you so much. Anyone else? Okay. Thank you. Thank you. Alright.
+
+[02:50:11] Think I'm gonna end the stream for today. Thank you everybody that's been watching. This is Shaka here at Yves Chiang Mai Hackathon. Tomorrow, I'll do some more streaming since we got no workshops. So I'll hop on and do some jamming here tomorrow. So feel free to tune in and listen to some music. And this is a pretty cool experience. We've had two month pop up pop up city type style
+
+[02:50:38] activation at four c's, is permanent. So you can pop it up whenever you want, which is pretty awesome. And so we're gonna pop it up again next year. And there definitely is gonna be another Yves Chiang Mai hackathon as well as another two month long, residency you can be a part of here in Chiang Mai. So I'm excited to spend the wintertime here every year where it's nice and warm and super, super, super relaxed.
+
+[02:51:02] So thank you for having me back. Four c's. Shaka, aloha. See you tomorrow. Thanks for tuning in.
