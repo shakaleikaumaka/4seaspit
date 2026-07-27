@@ -1,0 +1,301 @@
+# ETH Chiang Mai Opening Ceremony part 2
+
+Date: 
+Source video: ETH Chiang Mai Opening Ceremony part 2
+Drive: https://drive.google.com/file/d/1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS/view
+Duration: 01:07:41
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Hello, everyone. Please feel free to come back to the stage. Our next panel gonna be star. Well, so
+
+[00:24] let's explore one of the biggest topic of 2025, the intersection intersection of AI and blockchain with speaker Robin, founder of French AI Open Hub, and Dima, the CTO of Neural Browse, and John, the founder of Social Nair. Welcome. Okay.
+
+[00:51] Now let's start with the first question. Why do you think AI and blockchain will come together even faster in the coming year? And what key trends are driving this? Well, maybe then I will start. AI and blockchain. Well, first of all, it is really important to understand, like, what are the problems? And AI as a technology has a lot of them. But the ones which really are important
+
+[01:20] are very, very specific. And the one is probably centralization. You all use your phones. On the phones, there is DeepSeek, OpenAI, any, like, major providers of these chat interfaces. But this company do control basically all the information you get end to end. And this is actually a problem since
+
+[01:45] you get not independent, really, information out there, you get very highly controlled one. And blockchain can literally solve the problem of this information in terms of autonomously. The autonomous AI agents, they are doing something on your behalf. And when you control
+
+[02:09] everything end to end via the blockchain, you can verify what they are doing. So there is no single centralized party which can influence the decisions. And this is probably where it really accelerates from both sides. It is profitable for blockchain since it is adoption, and we do lack adoption in blockchain and AI, I mean, what to say. This is something what you can definitely trust without relying on centralized partners.
+
+[02:38] Cool. I was I was I was just gonna I was just gonna ask you, Maybe you could give the audience rundown on ZKML. You'll cross this. Yeah? Not really, but, maybe you could highlight. I'm not an expert at ZKML. That's all. So hoping I was you were I think we'll we'll talk about it a little bit later. ZKML,
+
+[03:03] on that note on on that note, you know, like, what he said about verification, you know, why it's gonna be very important, And that's why this this area of zero knowledge machine learning, ZKML, this is gonna be very important. And we should be like I know there's a hackathon underneath Chiang Mai. We should be definitely looking at doing more on zero knowledge in the machine learning
+
+[03:28] in in in the space because verification is very important. And, you know, all this stuff like, you know, trusted execution environment. Oh, yeah. You know? And, like and the thing with, like, this trusted execution environment, they still haven't well, from what I remember, haven't really solved the GPU side of it. But it doesn't matter because, like, in the next gen of AI, GPUs are not gonna be so important.
+
+[03:53] That's the thing. I think here, there is, like, a very good example. The agents, they act on behalf of the user. So you give the permissions, but then they work autonomously. And recently at, Neurobro, we launched a very small agent which did research fully autonomously. We binded it with the x four zero two protocol. This is the blockchain technology which basically allows
+
+[04:18] to the any instance of the agent to receive payments and to pay for something. So what we did, like, we did we just put one single goal for the agent. Do research and get payment for that. And, like, why blockchain matters? Yeah. This is exactly where you can verify everything what the agent did. And there is no human in the loop. This is end to end autonomous.
+
+[04:41] So definitely the intersection and synocross, which will matter more and more in the future. Yeah. Yeah. Because here's the thing. Like, ultimately, this is what it comes down to is that, like, to it what we're trying to do here is, like, achieve AGI. Right? Artificial general intelligence. That's what the the goal is here. Right? Human level intelligence. And, like, I remember this time last year, we were sitting around
+
+[05:06] even before this, were like, you know, 2025 is the year of the agents. Right? And it it it sure has been. Right? Oh, yeah. 2026 is not the year of the agents. 2026 is the year of AGI. 2026 is the year of emergent AI. This is really important. That's the that's the compelling thing that's actually going on here that, like, most of the world is, like, completely oblivious to. Like, before I got on got on this stage, you know, we were talking, I was like, man, I don't wanna speak about LLMs.
+
+[05:36] We aren't speaking about LLM. Let's not use the word LLM. That's true. Yeah. Yeah. I know. But I'm just just saying. Right? Yeah. There's there's new stuff coming that's gonna be much more powerful. Yeah. Okay? And companies like NVIDIA and OpenAI and all these closed source fucking cabals that that that that don't have future. It's the future is open source. The future is decentralized.
+
+[06:02] The future is that, you know, it's about cognitive synergy where, like, it's not one super, you know, monolithic system system that's gonna, like, solve AGI. It's gonna be the synergy of a lot of cognitive systems and sciences working together. And This is where I'll tell you guys. That's where you guys come in. Right? Pleasure. Pleasure to hear that.
+
+[06:29] Yeah. Yeah. Yeah. I I totally agree. And I I also want to add that the the AI, changed the way people access the Internet, access information. And now the the chat box, become the main, entry point to the whole Internet to the world. And it becomes so, universal,
+
+[06:51] so so capable and and so, so efficient that people, use AI to access all kind of information. But this also create some new problems like, now the the, more a a very large part of the whole Internet traffic is from the AI agents.
+
+[07:16] Yes. And they are consuming a lot of resources. And and also, this way, we'll allow, so people to have, many, AI agents from Cursor, Cloud Code, and Church, Church GPT, the website, and and, all the stuff. And also the mobile agent in in our our phone.
+
+[07:40] Yeah. So this will become our main way to access the the the Internet. And but, it will allow a multi party collaboration. And this is only allowed by by some some protocol from rep three like x four to
+
+[08:02] a p two a two a stuff. Yeah. For sure. Agreed. Okay. Thank you. And, the next question, what problem in traditional AI do you think blockchain can solve the best? Oh, actually,
+
+[08:25] we already highlighted that, I guess. Decentralization is generally what blockchain as a technology is built for. And maybe it's impossible, I would say, like, such a large claim, it's impossible to control all the data which is being fed to a generalized model. Maybe the data which is even, used for the fine tune or alignments, but what you can control
+
+[08:49] is the execution and the application level. Very, very small short example. It is already possible for the AI agents to trade on your behalf. You just say, please trade this and that. Make me this amount of money in this time. I'm not sure it will, like, happen or not, but at least you can. And then you have to trust
+
+[09:13] this piece of code to do what it actually should do. There is no actual reason to trust any anything, but blockchain at least brings the visibility and transparency to all the actions which are on the way. So at the end, you get the agent, you get the specific smart contract for doing x y z,
+
+[09:40] and you can trust that it will be done exactly in a way you expect it to since this is transparency and this is the exact blockchain technology. I think this is a kind of solution which, could be brought. Maybe you have, something to highlight? Look. The only thing I've got to highlight here is that blockchain
+
+[10:02] is an integral part of AGI because AGI is not a centralized technology. AGI is a decentralized technology. It's a not just decentralized, it's distributed. It's it's, you know, something that tens of thousands or tens of millions or billions of agents are, like, interacting together and, you know, using, you know, You know? Like, this is where this is all going. There's so okay. So here's the deal. Right? The deal is that
+
+[10:32] what most of we are using in AI I mean, the algorithms that that underpin this, they're not new. They've been around for a long time. Like, deep neural nets is something that that that we use a lot. Right? But there's a lot of other stuff out there, a lot of other emergent AI stuff and and and a lot comes from, like,
+
+[10:56] a field called divine mathematics. And what divine mathematics is is it's basically like it's the mathematics of, like, of nature and the universe and that's where the next generation of AI will draw its power from. It's not gonna draw its power from, like, GPUs and these big ass data centers and all that. There's there's, like, gonna be, like, global
+
+[11:22] things. There's things going on now in in in AI. Like, it's got to do with power. It's got to do with power. Right? Power consumption. There's some problems going on with power consumptions at the moment and and a lot of politics around this because of the sheer compute. Right? But, like, that house of cards is gonna fall. It's gonna fall. I think the house of cards is gonna fall next year.
+
+[11:45] I'm fucking sure of it. Yeah. Yeah. It's very that very good points. I I think blockchain will help AI in terms of building trustworths and verifiable AI. And also it will allow us to, solve the data ownership and, and to build out a value flow from contributing the data and consuming the data.
+
+[12:13] And also, our web three or blockchain, they provide unparalleled solution for agent agent the collaboration of agents because the there are so many agents. And the other thing I I I think we we
+
+[12:36] grow very fast is, on device agent or local first AI, because we because for most of the agented tasks, they don't have to be, in the in the cloud data center like, Amazon or Oracle. They can be in our own, laptop, in our own phone. But all those AI, would need to collaborate with each other. Yeah.
+
+[13:02] In a pure decentralized way. Yeah. In a pure decentralized way. Well, in terms of the verifiable AI and and also the on chain AI validation, what are the most realistic near term use cases? That's actually a good one. I will start with an example.
+
+[13:27] At one product, Neurodex, we track 3,000 whales. And these are just different wallets which do different transactions. And to analyze all this mass of the data for one human being, you will need hours in best case. AI is capable of understanding all the technical formulas,
+
+[13:51] all the technical definitions, basically all the technicals to analyze and grasp the data. And you as an end user should have only your, you know, fingers to have the AI on your fingertip and ask the question about this on chain stuff, since blockchain is about transparency. So verification comes exactly at the point where
+
+[14:14] this AI gives an answer for you with a link to the blockchain. So what it gets at the end of the day? Blockchain is very, very hard. It is impossible for mass adoption since people usually tend to have no technical education at all. But with AI, they have the possibility to get to this technical knowledge, and there they get the verification,
+
+[14:39] which is actually coming once again from the blockchain. This is win win win situation where the end users get the real democratization of the information as it is. In a pure decentralized way, they get access to it with no zero like, with zero technical knowledge. And at the end, this is the data you can trust.
+
+[15:03] So I think this is exactly what will happen even more since, this is ultimately the goal of the blockchain to do the best for everyone to get to the masses. Cool. Look. I I I I'd go as far as saying that, like like, the use case of blockchain is AI. AGI.
+
+[15:26] AGI. AGI. Yeah. The use case of blockchain is AGI. That is the use case. The main use case of blockchain. Yeah. There's payments and all that, and there's a lot of stuff going on in blockchain generally. And most of it just looks all exactly the same. But, like, the actual real compelling thing is gonna be AGI and how decentralization via blockchain technologies and other distributed systems
+
+[15:49] are gonna be used to actually create this cognitive synergy that this ensemble that that is creates AGI. And and that's happening. Right? And and we're in it. And and and and and most most most don't know what's going on. Most have no idea. And, so we're we're in the midst of, like, we're in the midst of a technical revolution here. You know?
+
+[16:15] We're all very lucky to be here in each Chiang Mai. You know? Organizers, thanks for putting this together. It's very hard to get a lot of like minded people in the one room so you can have, like, these discussions because, like, these discussions need to be had, you know, and they're being had. And this is gonna go for a couple months. We're gonna run hackathons here at ETH Chiang Mai, and we're gonna build some really compelling stuff.
+
+[16:40] I spoke to some hardware provider before. There's some hardware coming because we don't need GPUs, but what we'll do is we'll we'll we'll hack these we'll hack those that that thing. Yeah. And and we'll make it so that we can we can we we can use more than 50% of the the the memory for GPU stuff. Right? So there's some tricks we can do. Right? We gotta start we gotta get hacking soon. You know? Like, we gotta start hacking. Wow. That's what it's about. Ultimately, this is the goal because as you've said, as you've highlighted, there is a big name like Ilya Sutkova.
+
+[17:12] He has, like, one phrase that AGI should be secure, should be for, like, everybody since this is the next real revolution. Just imagine, we all have jobs. We all go, like, for work because we exist in this world, and we have to get payments to just live your life. With AGI, it will be over. And this is not the phrase for me. I'm just paraphrasing
+
+[17:37] top 100 AGI AI researchers or whatsoever. And we are here, and this is happening exactly as you've mentioned, Robin. Yeah. Yeah. Yeah. Well well, I I really like, your idea. And I also, I would also like to, add, the some something I I recently really like is the Alpha Arena. How many of you have heard of it?
+
+[18:03] Raise your hands. Yeah. So Alpha Arena is a financial investment, experiment, driven by multiple AI models like DeepSeg, Trigibility Cloud, and Quan. And so you can see how, what what is the, decision they are making that those, are making in terms of, investment,
+
+[18:28] in real time. And this competition has been has been going on for for a couple months, I I I think. And this is really amazing. But so, in in terms of, blockchain or, financial, operations, we can introduce AI, but we have to but it had they have to be trustworthy
+
+[18:50] before we can reuse it. Yeah. Because we if we are putting, those AI models, into this critical work or if they are really running the money, if they are really, coming to the the, critical, governance, process, they they have to be verifiable. They have to be reliable. Yeah. And
+
+[19:14] and we also need to make sure they they are not being attacked, or, intercepted by by, malicious, people. Yeah. Very So 100%. AI is the only way to make it, available to this, to this use cases. Yeah. Okay. Thank you. Things we have talked about the most are really the near term,
+
+[19:43] users on the verifiable AI and those are the on chain validation. Right? So then in terms of the AI agents plus smart contracts, then what applications are most likely to appear in the next one to two years? Well, then I could begin once again. Smart contracts in a way is just a set of predefined
+
+[20:09] rules. These are the guardrails for any autonomous systems, also for people, human beings as in general. Now if we put this to the AI agents, the absolutely autonomous agents in this world, we get control of the execution on any basic transaction.
+
+[20:32] Quick example, we put NeuroBra officially on the protocol which allows these agents earn money, spend money with other AI agents. What we did is just to define the set of rules, do a, b, c. And what we achieved was the fully autonomous system, which actually made money,
+
+[20:58] and I can't even say how beautiful it is to see some smart systems working on on your behalf. And there is, once again, no human in the loop. So smart contracts, in a way, is just yet another tool for the intelligent systems, AI, AGI, and anything else, which could then make the real performance and real bring real value in this world. For example, I can buy
+
+[21:27] in seven eleven with, Ethereum. I cannot spend Ethereum in my seven eleven. So it is well, that's a happy man over here in general. You should speak it louder and everyone should make it. You wanna spend your Ethereum, like, good way to do it, like, if
+
+[21:55] is is you you you put it onto re.pay. Re.pay, sign up for that and put the Ethereum on then, store it in the wallet, and then you get, like, a Visa card. Put that into your Apple Wallet or your Google Wallet, and then you can just tap, And you can just pay for things in Ethereum. Well, but in general, just imagine if these smart, like, smart contract guardrails were there,
+
+[22:17] then the whole world is basically accessible for any smart systems. And the AI agents come as one yet another intelligent unit. If we put everything with certain guardrails, we can guarantee that these AI agents behave in a secure way, in a controlled way. And this is very, very, very important. We highlighted this once, like, I know, three more times about verification.
+
+[22:51] 100%. And this is verifiable and transparent for everybody. Yeah. This look. With all the big companies, with the classic traditional finance, there is no chance, zero chance that you'll get the data which the huge institutions have because it is built by purpose. With a decentralized world, the world where there is a block well, chain of blocks,
+
+[23:17] it is accessible for everyone. And even though it is very highly complicated, AI can understand and then do it. This interface is something what AI actually brings for crypto. This is nothing else but the way the bridge between end users and blocking technology, which is beautiful in its own. Wow. I
+
+[23:41] really like. K. I also want to add that, the smart contract today is not smart. Yeah. They they are dumb. Yes. They are dumb contract, but but they but they are reliable in terms of execution. Yeah. And with AI agents, with agent rep, I think we we can really have some smart contract system that can understand
+
+[24:07] our intention and we can interact in a very human friendly way. And we we can be human friendly, and embodied the AI environment that is agentic. Yeah. So we with AI, we can have really smart contracts. Yeah. And this is already coming slowly but steadily.
+
+[24:34] Okay. From your experience, which directions are the most accessible for builders entering AI plus web three? This is truly so so complicated, so to say. Obviously, as a builder, AI works for you now. You have cursor, you have any CLI
+
+[24:58] which helps you to code. So the easiest to build in short term is something what you can wipe code. Just go wipe code any smart contract doing x epsilon set and many more. But then the question comes, why to do it? And in my opinion, the real easiness, this, like, question, what is easy to build, is something on the long term, which is not something what you have to maintain.
+
+[25:25] This is something what values a lot. And this real value is what supports your project. And I can say here then it is probably way more reasonable to build not from the blockchain first perspective, but rather from the problem first perspective. Blockchain is still not a technology which is mass adopted.
+
+[25:49] It is complicated, and it will be forever because it's the beauty as a math, so to say. But AI here is something what can simplify this for the end users. For example, we launched at NeuroBra the product eight months ago with one single goal. We want to onboard 1,000,000 new people to crypto.
+
+[26:13] And to onboard 1,000,000 new people to crypto, you have to really be creative. So we put AI in the first place. This is your go to person or go to system, and everything, everything on the blockchain side is happening behind the curtains. So these people who are coming from TikTok, who are coming from all across the globe,
+
+[26:36] have no clue what is happening actually, but have all the value of these executions. Now back to the question, what to build? Probably what is meaningful in the long term. And the easiest, what you can build for long term is something what values a lot. So focus on real problems and bring the real people to crypto. Then we'll get the mass adoption. And I hope it will be sooner than later.
+
+[27:06] I I was saying yeah. I I would say learning from community is very important. Like, forces, if you are you come here, you you will see a lot of people building building stuff. And you will see how they are designing the product and iterating on the prototypes And learning from the real people,
+
+[27:30] from the committee is very efficient way actually. And it will also guide you to to tons of, other kinds of knowledge. And and I would also mention, Ian, he's building the, open view and the NAN, committee, which is a great resource for for NAN. Yeah.
+
+[27:56] For sure. Yeah. You wanna highlight something, Robin? No. I'll shoot that for a bit. Sorry. Sorry. I think Oh, yeah. But once again, I think, like, this is actually a great perspective. The real people is something what matters. We we said, like, AGI, who knows who the AGI is, but it is coming. And when it will become,
+
+[28:21] everything will change. We are standing in front of the real new revolution, industrial revolution, like, not technological revolution. This is something what will be AI revolution. And with that, we really have to pay attention to what matters. Like, with our product, we onboarded 120,000 users in eight months. The users who are coming from TikTok without any technical knowledge,
+
+[28:45] when we focused on them, we did only one simple thing. Please learn, use, and decide for yourself if you wanna use the product or not. Once again, 120,000 users in eight month spent an average ten minutes on the platform. This is not one question. This is the this is the ultimate session when people come with an interest,
+
+[29:12] they get the answer for their questions and ask even more. They begin to learn. And with learning process, we actually get the knowledge to the people, to the masses. I think this is beautiful. I truly think this is beautiful. I really truly think this is beautiful. Well, then, in the next one, two, three years, which tax stacks do you think builders should invest their time in?
+
+[29:50] Pardon? Sorry. Yeah. Which tech stacks do you think the builders should invest their time in? Well, I can quickly start. Do whatever works for you. There is no magic about complicated, hyped up programming languages. If you can build on c, it will be valid. If you're writing on Fortran,
+
+[30:14] I mean, I have questions for you, but even if it works, like, let it work. So In this day and age, you can code something in in Fortran, and you can just get one of these eugenic tools to port it over into into Rust. To WASM and you can you can do whatever. Right? Like, at this moment, currently, there are no rules. You can do anything,
+
+[30:38] and then you come to the end point. What matters? What is actually what has usage? Who are the real people who come to your products? So I would say, tech stack doesn't matter at all. Pick the one which works, and then iterate since when you get problems, you will learn how to tackle them. And eventually, you'll get to some decent programming languages. But, I mean, it is it is all is different now, man. The programming language is is the programming language is natural language. You know? It's like English.
+
+[31:11] English is the best programming language. But you can you can look. I I I run hackathons here, right, in Chiang Mai, and we we have a product called FetchCoda. This is like our version of Cursor. And it's kind of like ClawCode and it uses our own LLM. We have one, ASI one. It it it uses that. And these guys were writing Ethereum smart contracts in Myanmar language.
+
+[31:42] They were prompting in Myanmar language in in FetchCoda, and it's punching out it's punching out Ethereum smart contracts and solidity version whatever whatever. Right? It's that's the language, man. Language is like what's like language you speak. And all these LLMs now, they they they're good at they're good at language stuff. So, like, I didn't wanna say anything about LLMs, but, like, I I will now.
+
+[32:09] You know one good thing LLMs are for good for now? It didn't used to be. It used to be, like, really shit at this is generation of queries. This is important. Right? 100%. Generation of Cypher queries, graph queries, vector vector queries. All these kind of queries, you can actually generate. And not just retrieval queries you can generate, you can generate ingestion queries.
+
+[32:33] So then you can do things like meta learning and learning how to learn and, like, there's certain things that you can actually do when you can start very accurately generating Cypher queries and graph queries and basically database language you you you can do. And let me me add to this. You would be Yeah. For sure. I actually, like, can bring here a perfect example.
+
+[32:59] The, like, the smart system, the AI, is extremely good in helping you just extend your capabilities. That happened earlier today. I had to check the staging database. There was, like, Postgres. And there was some query with, I don't know, five fields, 10 merges, blah blah blah blah. Really complicated one.
+
+[33:23] It I would spend hours writing this manually just because it's of of this complexity. With AI, it's just one prompt and it does exactly what I want. By the way, like, Curie ran, everything was good. NeuroBrow is stable, so go ahead and use it. But Is it using React? No. No. No. No. Which which is using?
+
+[33:46] It's it's actually a very important one. Please update and look what happened a few days ago and stay safe. But in general, the tech stack doesn't matter at all. Is everyone aware of the security vulnerability in React? Yeah. And also Cloudflare crashed because of their updates for Yeah. Everyone should be aware that there's, like, a very, very big security vulnerability going on at the moment,
+
+[34:11] and it's in React's framework. So Meta really fucked us all, by the way. Thank you, fucking Tuberge, for, like, injecting, like like, a virus in all of our software. And this is why you actually have to think with your own head always and where blockchain helps you. This is, like, something what what exists for everybody. So if something is hacked, it's hacked for everyone.
+
+[34:36] And this is this is sorry. Sorry. Sorry. We we speak, like, about completely different things, but the question was, you know It's relevant. It's still relevant. It is very relevant. This is why this is why focus on the tech stacks which just work for you, and pay attention to the real things. If exactly these bugs happen, if these bridges happen, you have to be fast and be secure. So focus on real stuff and then you'll be good.
+
+[35:01] Me and him were having this discussion earlier a few hours ago. We understand that, like, just use just use pure pure HTML, JavaScript, and CSS. In three files, just use that, and just do it yourself. No frameworks. Minimalistic tech stack. Minimalistic. You you you can actually, like, look at once again, Ilya Suskeva as, as he launched the
+
+[35:26] company, which I forgot the name on, the OpenAI or something. I don't know. There was a joke with OpenAI, by the way. But who got the guard? The Ilya Husqeva. They put with millions of funding the HTML page with, I think, two paragraphs of text. If these multi, multi billion companies can do this, then why not can everyone? And this is safe, and they are independent from React. So once again, text text. Right? You can use whatever whatever works. And I can I can say here, these big guys, they are not stupid at all?
+
+[36:06] If they are doing, this is possible for everybody. So focus on things which matter, and then do what you do. Learn from your mistakes, iterate fast, and you'll be good. Yeah. Cool. Also, I think, the AI, coding assistance, like, how to code or cursor, they have flattened the tech stack,
+
+[36:30] making making them so accessible. And we now people can just deploy the, app in from from the beginning to, to production in in ten minutes, with what's our Cloudflare. But, but as we can see, Cloudflare just crashed, two times
+
+[36:53] this year. And so I think we need more, decentralized, tech stack, for deployment for operation, which is also very important. And we we need to show the capability of the unstoppable, network of of blockchain. Yeah. I had actually a recent post two days ago exactly with this thought.
+
+[37:17] It is so easy nowadays to deploy on Versal because it's one button, Netlify for all the major tech stacks. People are not learning the things which they should. Nobody's looking into why Docker is so powerful. I'm not sure if somebody here deployed on the real server, like, from from no operational system at all, some kind of software.
+
+[37:40] And I can tell you, this is complex. Because of this complexity, everybody started being dependent on the big, big providers. These big providers, well, are the bottlenecks. And we all know what happens when Cloudflare is down. 30% of the Internet. AWS cost, if I recall it correctly, 150,000,000
+
+[38:03] US dollars with one outage in November. Just imagine, $150,000,000. This is a lot. So once again about tech stacks. Right? Focus on something which works, of something. Simple. It's all about Simple. Yeah. The So this new general this new era of AI, right, emerging AI, that's that's that's we're in. This emerging AI,
+
+[38:29] all it's about, it's about creating very complex behavior from simple interactions. It's that's what it's about. It's about simplicity. The next gen AI is all about simplicity. Very simple interactions by sometimes very simple agents, lots of them, and the the behavior manifests
+
+[38:51] in a very complex way. But it it happens in a in a in in a different way than than what's what's usual now. You'll see. This this next year, I would highly recommend just following these neuro bro guys. You'll see some things come from their labs, I think. That's what my prediction is of 2026. There'll be something coming from these boys' labs, something very interesting.
+
+[39:16] Thank you, mate, and, it is honor to hear good words. By the way, you should really see and give it a look since everything what I spoke today about is coming from the experience of building partially in public. We are actually today having our official
+
+[39:39] birthday. This is exactly one year, three hundred sixty five days as we pushed daily updates every single day. Every single day for the last three hundred sixty five, we told our community what is happening next and what was built. And I can I can tell you, this is something what gives you trust?
+
+[40:03] I talked and highlighted it a few times today, but trust is something really important. Because as as more and more you learn technical way, as more and more you understand what our world is built on, you realize how fragile all the systems are. Cloudflare is down. 30% of pages are inaccessible. AWS is down, some data is lost.
+
+[40:27] And this is why trust is not something for granted. Trust is what you earn. And once again, thank you for these, like, very, very warm words. And I'm happy just to say it once again. We earn trust, and you can help us do it. So yeah. Yeah. I'm happy to represent Neurobro. What's the the same question? Oh, yeah. Oh. Could you report to Yeah.
+
+[41:00] I I I I like the idea. Yeah. I I like what you really like what you say. And I the other thing I think is, resilience. Why we did a decentralized, system? Why we need to, why it need to be, distributed? Why it has to be verifiable? Because we want a system that is transparent but also resilient.
+
+[41:24] I I I was a cloud infrastructure engineer before I I do the a rep stuff. I do a lot of things about decentralized, storage, distributed system, and databases. And the most important part is about, it's not only about the consist the CAP stuff, the, the consistency, availability,
+
+[41:48] and party partition tolerance, but also about tolerance, resilience. In in terms of and, the the outage of AWS Cloudflare and and, yeah, the stuff keep reminding us that even though they are super power these are very big platforms, they are very,
+
+[42:10] powerful and easy to use, but they they lack the spirit of, resilience building. Yeah. And we need to own our Internet and own our infrastructure. And we should be we we resiliency is a very core value, Yeah. To to be trust to be to have the trust, yeah, from from people.
+
+[42:41] Yeah. We can see that's like everyone is so obsessed with this discussion. Okay. But like, I I hope this discussion can last forever, but I have to like wrap up this one with the last question now. If Chiang Mai wants to become an important city for AI and web three, what conditions does it need? A while be short this time. Chiang Mai is awesome place
+
+[43:08] which is built around community. Community as four c's, community in general. People are building this world, and we are here to build this world and make it great. So Chiang Mai doesn't need anything new. Just keep doing what it does. That's it. Yeah.
+
+[43:34] I think this is very true. Yeah? Yeah. For me, I I think we are in a we are enter entering the new era of of of AI. But we are also we also need more interaction with the real people. So that's why we have this,
+
+[43:57] committee, hub here in forces. So so learning from the committee and building with the community and, and shipping, your product to in the committee is very good way. Yeah. And I have to highlight here once again for the organizers of four c's. You're doing great job with, bringing the students and official universities since these are the people who build up community.
+
+[44:27] These are the young generations who come and build and do this world a greater place. Every time, every morning, if you stand up and think that, well, I'll leave this day so that I will be, in the evening, a better person in a better world than it began, you'll be doing good for sure for the four c's. Thank you for the organizer.
+
+[44:55] Well, thank you. Thank you so much for bringing up this fantastic discussion. Yeah. Thank you. Thank you. Thank you all. Now,
+
+[45:22] we have the official opening of Etherin Qi My Boot Camp. Let's well let's welcome Tanishong for start opening speech. Okay. Hello. Hello. So hard for me to
+
+[49:11] interpret. They want they are thinking of that Logan to take a video. Thank you so much. Now let's welcome, like, Nova to have a introduction.
+
+[49:52] Can I have this? Sure. Do you have more pages? Yes. I have many. Okay. Okay. And I do I need to help you? Or you Just just show me which one you Yeah. Just like up and down. Like this one. Okay. That's it. Yeah. Hello, everyone. My name is Bradley. I'm from Nerve.
+
+[50:19] The original speaker got sick and allowed to go got sick, so so I'm here. So I know it sound a bit weird. Please bear with me. So a little bit of a short introduction about our project. Nerve is a WiFi IP. It's a story driven. And on our website, you will find a Nerve saga. Nervous saga is a story that depicts a group of number eight, exploring their way,
+
+[50:47] to the third continent, which, would take us the metaphor of web the web free space. And you also find three d collection, which is the three d character that we release as the Stargardt release new characters. And also Nerve Vape. The Nerve Vape is our main asset.
+
+[51:11] It's a Stargardt inspired commercial PFE. It's actually something like a dress up game, but you you got multiple NFT as as we call it gear, but actually equipment that we can put on the the nerve vape and and make it as a bundle. And next, the nerve artifact, which is the what I'm talking about today.
+
+[51:36] So next, Nerve artifact. We have three models right now. We have the original, which is this one. So it reserves the original size and scales, I mean, shape and scales that we as the the first the first physical nerve that we bring to the real world. And the three x, which you will see a lot back there,
+
+[52:06] which has the, three times of the size of the original and the dot. Dot is like a kitchen decoration here. So for the free three x, we have, like, three series. Right? Right now, we have color vibes. Color vibes, we have, seven colors.
+
+[52:29] We have 100 piece of each color, and each color represents a different kind of, power. So for example, white means, empty your mind. Pink means love. Yellow means, money. But, you know and and we have Thai special, which we released last year, in Chiang Mai
+
+[52:52] and, Taiwan special that we are, selling, this year in Taiwan. So the the NerveVax UX is designed with five like, four swappable arms and limbs and with each with an embedded
+
+[53:17] encrypted chip inside that connects you to its on chain identity. So, basically, how it work is, like, you scan the chip and some credential inside the chip change. And then so it's not it's not possible to make a copy of the chip or or the work. And they are made swappable
+
+[53:43] as part of our co value of co creation. And it is also something that we we think we we a solution we have for any pretty much anything that requires a separate physical certification. So
+
+[54:07] due to the the the nature of the size and the meta color, a lot of people also buy it for, house decoration. Some more image. And this is a Thai special I mentioned earlier. We collaborated
+
+[54:29] with a Taiwanese brand called RBY, who is known for the pattern design and also the, the handmade craftsmanship of the camping, furnitures. And this is the Taiwanese special. K. And next, we have NERVET original.
+
+[54:53] Like I mentioned before, the NERVET original has the same shape and size, of the the very first physical NERVET. And, it also has seven colors, and we, we we had this, BDC special. Then we brought you plan b of Bitcoin conference,
+
+[55:17] this year in Lugano, and also the Taiwanese special that we brought to you, at our Taiwanese Papa shop, last month. So here is a it'll be, introduction of the making process of of the NERVEN original. So it it's actually,
+
+[55:43] let's say, a case resin casted, figuring. So it's it's not a high-tech stuff, but it has a lot of more meaning than that. So we depart our physical nerve in 2021, just, like, since the beginning of our project. So, I actually I did several I mean, countless
+
+[56:10] revision and optimization about the making process. Until now, we were able finally able to, like, create, this physical original NerveVIP at a, like, a decent quality. So it's it's like it carries the the the learning and the experiment
+
+[56:32] and also the our spirit of co creation along the way since the beginning. So that is also the reason why we decided to keep make to keep the making of the to myself. So each of this is made by myself by hand and some more image of me working on my garage. And each of the Navier also comes with
+
+[57:00] vest that lets you carry them with you as a personal accessory. And because people tend to carry them, like a personal accessory, we also, put some AI function inside. So this is your, like, general information
+
+[57:23] page. And you'll see a a y a, which we call ask your app anything. It's like a function like a book of answer that you ask you something, x have prepared a question in your mind and you press spot to press the button and you answer your question. And
+
+[57:46] since different color of the nerve represents different type of energy. Denser also, is correlated to the energy it represents. So we will suggest that people that, if you need love or if you need money, you probably need to get a pink one or the or the yellow one. And
+
+[58:09] we we we also give, like, a different AI function for the b d c special. We have, like, every time you ask the app, it gives you some fact based on the, current BDC price. For example, how how many coffee you can buy with one BDC, and also some personal opinion from the Nerve Ape.
+
+[58:34] And for the Taiwanese special, since Taiwan is a country that has a a very diverse Taoism, like, culture, so, we put this, like, fortune telling, feature inside. And next nerve end top is, like I said, it's a it's a metal PVC. It's very soft.
+
+[58:57] It's a kitchen decoration. And we also have some other merchandise, t shirt, tote bag, cap. We are very picky about our design because it's free of of of our of cofounder, our designers. So we are not just, making merchandise, like, free merchandise that we can give out to you on the conference. We are very picky about our
+
+[59:24] stuff. And I yeah. And and and I know a lot of you might be wondering why we are here, why we are not even on ETH, why we are even here. I think, I cannot argue with which is better, POW or POS, but
+
+[59:47] I think we all believe that, the actual user is is those who actually gives a product or a a blockchain its value. So we test ourself to, like, bridge the space between web two and web three, and we think, we'll take a ourselves as, the living proof of web web five p.
+
+[01:00:11] So we are we did a tour this year in in five different city. This is in Beijing, the AT amazing toy show. And this is a common rare market, in Shanghai. And this is a Nugano plan b event,
+
+[01:00:37] in, Lugano, Switzerland. And, one I want to add that, I I think Lugano is a very good example of, how we can, populate this blockchain technology. They are amazing. It's a very small, beautiful, old city. A lot of old people there, but you can pretty much see,
+
+[01:01:01] the options of crypto payment in pretty much, like, every shop in in the city. And the city even has its own, own token. And we got help from an old people, to set up our wallet and buy coffee on the street. So it's it's really cool. Yeah.
+
+[01:01:27] I'm not sure if I can play this. Next is tall and nice yeah. So it's a walk around video of our Taiwan papa. Okay.
+
+[01:02:24] Tony, it's the the time agreed Nerve best top pop up is so far, the biggest event that we have individually. And I think it's it's very successful, because, people in Taiwan, they they are very open to having web free, technology inside the disfiguring.
+
+[01:02:50] And we were very lucky to have a LaVuVu exhibition next to our our shop. And I think people generally think we have a much better quality than LaVue. And some people somehow some people even started to, ask me for my signature, so it's it's very interesting, experience. And yeah.
+
+[01:03:15] Okay. And next, promoting co creation as part of our core value. We did collect artwork from different artists, like having them create based on our nerve rate. We yeah. We we have many
+
+[01:03:40] many many different kind of artists. Some use acrylic paint. Some use tapes. Some of them have their own IP like you see right here. And we are we we even have a visual designer who designed an app, for our I mean, designed a a t shirt for our our survey. So any types of, collaborations
+
+[01:04:04] is well come. Oh, and this one, I think it's interesting that most of the artists we that we work with, they don't know much about web three. And after collaborating with us, they started using this image of Nerve as their
+
+[01:04:27] personal, like, profile image, and they started calling their, calling themselves web free artists. So I think we are doing a good job. And that's sum of a number that we we have this year. It's not very not very big number, but we are at the beginning. We are,
+
+[01:04:51] taking off. And here is long sentence our founder have for for everyone, and nerve is tender now upon the wind. It's this gathering without matter to or boundary is clinging to the sleep of those who pass by, goes on with them, takes a few form under new hands.
+
+[01:05:17] And thank you so much for being here. You. Thank you so much. Thank you, Branley. Thank you, Nav Navate. So now our panel today are finished here, but by 07:00,
+
+[01:05:39] we're gonna have a one more fire chat. So just stay tuned and see you guys later.
