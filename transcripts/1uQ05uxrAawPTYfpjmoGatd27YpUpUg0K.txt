@@ -1,0 +1,513 @@
+# On Cryptocurrency: An Introduction Course — ETHChiangMai on Christmas Eve
+
+Date: 
+Source video: On Cryptocurrency: An Introduction Course — ETHChiangMai on Christmas Eve
+Drive: https://drive.google.com/file/d/1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K/view
+Duration: 01:48:50
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:01] Alright. Welcome, everybody. Merry Christmas from four seas in Chiang Mai. We are here for Yif Chiang Mai, and I'm handing it over to York and TK. Yeah. Yeah. Yeah. Hello, everyone. This is On Crypto Intro Course week two. And every Wednesday from 3PM to
+
+[00:23] 5PM, it will last for seven weeks. And this is part of so I'll give a brief brief introduction about East Istium Mai. So Istium Mai is a two month community driven Ethereum season builder season. It starts from the December 8 to the February 3. Our core idea is co create, cultivate, and connect.
+
+[00:46] Over these two months, we'll bring together builders, researchers, design and creators, and community organizers from all over the world, not to just talk about the Ethereum, but also to use it as a tool for real world experience. And each of my content boot camp on conference, hackathon, and summit. Our hackathon just open call for builders and can check on our x account, And the summit is on the February 3.
+
+[01:13] And along this, like this course, we'll keep the rhythm continuing grounded, and I'll hand it back to York, which is our lecturer today. Hello. I'm York. Hello. Maybe there's there's still some online viewers, I guess. I maybe not. But,
+
+[01:38] but but it's not nothing important to introduce me, but, also, like, Dragon, doctor Dragon. Any major is, like, how to pronounce that word? I'm a PhD student in anthropology. Anthropology. Yeah. Anthropology. And, yeah. It's a quite new word for me, but yeah. And, also, I have our open classroom
+
+[02:05] assistant, Ami, but it seems like she she seems like not here. Ami, it's anywhere like, yeah. Yeah. I have a assistant vice obviously, he's not around, but he's not around, but it's okay. And because my my English is not so good. So if any, like I mean, like, online, you can have a question. Like, you just comment below the Twitter x and
+
+[02:37] and we will, like, read and read it and I will give some kind of answer or or it's not or it's not me or it's doctor Jacqueline to give the reply, I guess. So let's get through straight to the to the to the point. So the first part is like,
+
+[03:01] we're gonna, you know, introduction, like, give introduction like to the Bitcoin and, Ethereum. Of course, to me, like, cryptocurrency is like these two Or, but but but to some people, yeah. It's a little bit boring topic, but, by the way, we have to, like, we we we actually talk a lot about in Bitcoin and Ethereum. Like, to me, it's sort of like the whole industry of cryptocurrency,
+
+[03:30] but, to some people, maybe not. Maybe including some kind of a stablecoin like USDT, USDC, or DAI, or like recently USDE, that kind of stablecoin or or anything. But but but but the the key point here is like, don't don't buy anything what I mentioned. Yeah. Don't buy it. Because
+
+[03:54] if you buy it, you mean losing money. Or you you definitely, probably, like, majority of the time, you are gonna losing a lot of money if you are. If you don't do your own yeah. It's a it's a like the basic culture, like, since bitcoin, like, is do your own research. Do your own research or
+
+[04:17] yeah. Learn from that. And if you trust it, if believe in it, yeah, you can. Yeah. But if you're not if you're not, don't don't buy anything or Bitcoin or Ethereum is not good. So that's so that's one thing. And a second stuff is like this kind of courses is actually something like a
+
+[04:42] like some kind of a dialogue. I mean, I will make a lot a lot of contradictory contradict to like a point of view like so many times. Like, on every sub sub topic, it's it says something similar like to the Socrates and Aristotle or Plato's
+
+[05:05] kind of, you know, that kind of dialogue. It's always like contradictory point of view. So on that, it's like, I'm a scammer, so don't trust me. And and if you want, don't trust anything like talk here, like in these courses because, yeah, you should double check and then you should like thinking
+
+[05:29] for yourself. And don't trust what I'm saying. And, yeah. That's, and I gave some kind of a because it's, I will give some kind of a commentary views, point of views about maybe cryptocurrency, Bitcoin, etcetera, and blah blah blah blah. But don't trust that until you do your own research.
+
+[05:52] You can trust yours your own self. Okay. So that's a that's a scammer warning part. So and and yeah. Don't buy it. Don't buy it. Don't buy it. Yeah. It was part of stuff where you can repeat, like, three times. And and we can go go to the, you know, the the sub topic like we we we want to cover today.
+
+[06:21] Yeah. I will I will always want to, like, start the courses, like, play some kind of a video. And there's a lot of like videos. Today's courses is actually are three or four, five part five part.
+
+[06:44] One part is like it's a scam. It's a it just like a ponzi scheme, isn't it? It's like some kind of a for example, like, maybe Bitcoin is a scam. Maybe it's only a scam. It's a lot of, like, that kind of point of views, like, on the Internet. You can check yourself, actually. And a second one is, like, Bitcoin
+
+[07:10] is actually some kind of a reservoir for exchanges. I mean, a crypto exchange, centralized crypto exchange and a decentralized crypto exchange. And Bitcoin is a is a k I think it's a k casino chip or or for the traders, I I I guess. And a second sec third session is like few points by doctor Dragon.
+
+[07:35] So you can check from here. And the first part is Bitcoin versus Gold. Actually, it's not this one, I will play like was it sees a discussion about that. It's actually gonna play that kind of video and give some kind of point of view, commentary. And a third a fixed party is like cryptocurrency
+
+[07:59] versus stock. And, you know, behind the average stock is a company. So what is behind the offer cryptocurrency? We we can like talk about that to search some kind of answers, I guess. Okay. Let's let's guess. Can I play the video?
+
+[08:24] Oh, cool. Yeah. So the first one is like, why Bitcoin is a scam? Yeah. This one. In the early nineteen twenties, a businessman in Boston had a realization. Everybody wants to get rich without doing any work. So this businessman came up with a brilliant idea to make a lot of money. And like all good financiers, he promised to make those around him really rich too. The businessman told his investors he was buying discounted coupons in foreign countries and making money reselling them in The US.
+
+[09:03] There's a middleman opportunity that he claimed was totally safe and guaranteed a return. The businessman promised his investors a 50% profit in forty five days or a 100% in ninety days. What this businessman was doing was paying the people who got in early with the money for the people who got in later. Those later investors excited by hearing about a guaranteed high return investment were left holding the bag. That businessman was named Charles Ponzi.
+
+[09:30] His name has become synonymous with these sorts of schemes. This Ponzi scheme made millions of dollars in just a few months, but such a con can only go on for so long. Eventually, you run out of other people's money. And for Ponzi, when that happens, you go to jail. A hundred years later, a new bunch of wealthy investors say they too have a brilliant way to make you a lot of money. They promise to make you really, really rich.
+
+[09:55] The best part is, they say, the returns are guaranteed. Anyone can buy with any amount of money. It's called Bitcoin. Bitcoin is a digital token with no physical or government backing that's run by a global decentralized network of computers. These computers keep track of every Bitcoin transaction and can move Bitcoins easily from one user to another. There are a limited number of Bitcoins in the world, 21,000,000,
+
+[10:19] 19,000,000 of which have already been mined. These mining rigs are large systems of computers which perform complex calculations, expending huge amounts of energy to create new Bitcoins. Massive Bitcoin mining farms are set up in places like Siberia and Northeastern China, where people take advantage of cheap electricity in massive wasteful facilities. But how Bitcoin works doesn't really matter that much. All of the stuff you hear about peer to peer technology and the blockchain really only explains how Bitcoin works as a currency. But despite the name, Bitcoin isn't really used much as a currency at all. When people buy Bitcoin, they rarely use it to buy goods and services.
+
+[10:57] They're really buying access to a Ponzi scheme. Only 1.3% of Bitcoin's economic activity is in merchant transactions. The rest is speculation. People buying it just because they think it will go up. And the more it's used in speculation, the less incentive people have to actually use it as a currency. Why buy something with Bitcoin when you can hold it and make some easy money? That's why the peak of Bitcoin being used to buy things was actually back in 2017
+
+[11:23] before its price really took off. And the currency should be stable in value, not bounce all over the place the way Bitcoin does. Rises are nice, but Bitcoin also falls a lot. If you wanna speculate, that's fine. That's your own business. But you don't want the value of your checking account to gyrate wildly and unpredictably just because Elon Musk has tweeted about it. If you have friends or relatives who are into cryptocurrency,
+
+[11:46] you know that the reason that people are into Bitcoin is because they think it can make them a lot of money. Because Bitcoin is just a digital token without any inherent value, they're not really making an investment. They're engaging in a financial betting game. Anything you invest in Bitcoin or Ethereum or Dogecoin just goes into the pocket of the previous holder. There's no real income generating asset behind it. What they're betting on is that other people will bet on it, and the value will keep going up. If more people are joining the market, you can make money. You're not a sucker if the person next in line is a sucker too.
+
+[12:19] And as long as you can make it out on time, the next guy is left holding the bag. The good news for these gamblers is that there are a lot of suckers in the world. The bad news is that eventually you run out of suckers. So to keep the scam running as long as they can, the wealthy proponents of Bitcoin say that it's changing the world. They say that Bitcoin is going to replace fiat currencies like the dollar. They say that it's going to undermine cruel dictatorships and greedy banks and help usher in a libertarian utopia of privacy and security.
+
+[12:49] And most importantly, they say what every scam artist has said since the beginning of time. Get in right now, and you'll make quick and easy money. Don't miss out on this once in a lifetime opportunity. And for the last few years, they've actually been right. If you'd spent a $100 on buying shares of Apple in January 2016, you'd have about $540 now. If you spent that $100 on Bitcoin, then you'd have made more than $9,000.
+
+[13:14] But that doesn't mean that Bitcoin is working. It means that a lot of people have fallen for the scam. And the more people who buy it, the more the price fluctuates and the less usable it is as a currency. The success of Bitcoin as a speculative commodity has made it socially useless. You'd actually have made just as much money buying a parody cryptocurrency called Dogecoin that makes none of the grandiose claims that Bitcoin does.
+
+[13:39] In fact, it explicitly started as a joke. Meanwhile, as more and more people speculate on Bitcoin, it consumes more and more electricity and emits more and more carbon. Because of how complex Bitcoin transactions are, they consume an incredible amount of power. One Bitcoin transaction consumes more electricity than the average American household does in a month. Bitcoin as a whole consumes more electricity than entire countries, Venezuela, Bangladesh, Pakistan, Kazakhstan, and The Philippines.
+
+[14:07] If Bitcoin ever were to be widely adopted, it would consume many times more energy than is produced in the world today. Bitcoin isn't useful at all, except maybe as a symbol of how capitalism has changed from something that could once build factories and transcontinental railroads to a system of pure speculation totally divorced from the real world. Look at this system. Millions of computers emitting huge amounts of carbon making pointless calculations
+
+[14:32] in order to gain access to a digital token with no actual use, all while the infrastructure crumbles and people go hungry. This is a terrible way to organize a society. But because Bitcoin is a Ponzi scheme without any benefit to society does not mean it's going away. Bitcoin has become a culture, an identity. Amid the vast meaninglessness of a society in decline, a lot of people find value in it. In a world where traditional forms of identity are in decline, family, unions, religion, new ones like cryptocurrencies
+
+[15:01] spring up to take their place. The fact that so many lonely, atomized people find community and meaning in Bitcoin means that for the people at the very top, people with millions or even billions of dollars, There's a ready and willing community of suckers to exploit. You can still make money off cryptocurrencies. In an age of low wages and mass underemployment, people will always be lured by the promise of getting rich quick.
+
+[15:25] But there will always be somebody left holding the bag, and it could very well be you. In essence, Bitcoin is a gamble. Gambling can be fun at low stakes with friends, but the people trying to sell you Bitcoin aren't your friends. No matter what you tell yourself, you're just gambling. Not that an asset has value, but that the person next in line is more gullible than you. This is Doug Henwick, author of Wall Street for the Gravel Institute.
+
+[16:04] Okay. Test 1,000,000,000, 2,000,000,000. Okay. So, it's not just, you know, this, like, scary guy he told me. He told us, like, it's a pounce pounce scheme. And, also, I think it's Yeah.
+
+[16:36] It's also like the World Bank also like call it pounce this game. I mean, it should be like the World Bank like in the American, I guess. And it is yeah. This one, this is Hysteria. It's contrary to our
+
+[17:00] white headed opinion, bitcoin is not a delivery pounds. And there is a little to learn by treating it as such, blah blah blah blah blah. Yeah. So and, you know, the world I mean, it's the World Bank. It should be serious. Right? And, yeah, you should you should trust that that
+
+[17:28] that point of view. And the problem is like, if it is a pawns, it should be like controlled by someone. Right? Or if you do do some kind of per perverse, you know, structure of the pounds like, kind of scheme, it should,
+
+[17:51] like, controlled by somebody or some company, some groups or some teams? Otherwise, what's the point like you do some this kind of a pawns scheme? Yeah. You can we we can think of ourselves. If it is a pawns, who control bitcoin? Who is actually control Ethereum? In fact, nobody.
+
+[18:17] Yeah. And the whole idea of decentralization, it's like nobody controlling it. Right? So every little pawns should be somebody somebody, maybe US government controlling it. And, yeah, there are also some kind of a saying or rumor like Bitcoin is some kind of a CIA
+
+[18:41] project. Maybe, yeah, maybe they are controlling it. Maybe CIAs are doing that. Yeah. Who knows? Maybe. Yeah. So some kind of a rumor says that, okay, Satoshi Nagamoto is actually engineer, you know, from CIA. Did you guys know the the CIA? Oh, you you guys know CIA? Cool.
+
+[19:04] Yeah. Maybe maybe Bitcoin. Yeah. You're you're you're yeah. Maybe Bitcoin, it's like, it's controlling by CIA, seriously. Yeah. It's definitely. And and CIA if we say we want to make some money, he will, like, you know, pushing it harder. And if CIA don't want some money, just
+
+[19:27] dump it. Yeah. Something like that. Who knows? But but you can check on the, you know, white paper of Bitcoin, actually. You can yeah. You can say that, like, who are controlling it. To me, nobody. Nobody can controlling it because the whole idea of Bitcoin is like we have some kind of decentralized
+
+[19:51] money. Of course, for example, like and and it's common sense. Yeah. It's some kind of a common sense like, if it is a currency or if it is asset, should be somebody controlling it. For example, like US dollar is controlling by the US government. Yeah. They're the Federal Reserve institution.
+
+[20:14] Right? And for American, and they are controlling US dollar. They are controlling some kind of, you know, the the interest rate. Right? They can resolve their interest rate. They get downward, the interest rate, the monetary policy. Right? And and they can some kind of a printing money by,
+
+[20:38] you know, do what do we call a QE. What is QE actually Stanford, doctor Dragon? What? Oh, yeah. Quantitative easily. Cool. Yeah. Quantitative easily. Yeah. They can Quantitative easily. But I mean, that is like
+
+[21:01] how to do the quantum easily. It's like, you're printing some money. You buy some bond from the US government, you know, the treasury of the US government, and, buy some bond from the maybe big font or company. Yeah. And you can do the quantitative easily, that kind of sort of QE
+
+[21:25] stuff. So, yeah. So a lot of, you know, currencies or assets actually controlling by some kind of a centralized institutions. But, there is actually that not that kind of institution in Bitcoin. Yeah. Of course, we have some kind of, we have the institution called Bitcoin Foundation. But the foundation, they
+
+[21:48] you don't have so much, you know, obligations, actually. The one of your obligations of the is Bitcoin Foundation seems like it's just do some kind of paycheck or payment to the core team. And they don't even do like certain foundation do some kind of event. They don't even do that. They don't they they they just need some kind of institution
+
+[22:13] to to to make a payment to the core team. Yeah. I don't think they they are controlling. But you can you can you can believe that. Maybe they are controlling the Bitcoin. I don't know. So it's up to you to believe. And the second stuff is like, the ponzi game, however, centralized institution.
+
+[22:35] So maybe USD dollars are ponzi scheme. I don't know. Or maybe the the maybe maybe the the British pound. How how we call the the British currency? Pond? Pond. Yeah. Maybe yeah. Maybe the British pond is also or ponzi's game because you you can say yeah. Ponzi's game first, it controlled by somebody. Right? Somebody British
+
+[23:07] government. Right? So central bank. Second, it has a kind of guaranteed interest. Pontoon game, you already have some kind of guaranteed guaranteed interest like returning. Right? So you if you check on that, yeah, US dollar have some kind of, you know, yes, carbon bond. It's guarantee 4.4%
+
+[23:37] of interest. And and yeah. And I also, you know, the British pawn also have some kind of a bond. I mean, British government also have some kind of bond guarantee like four point something percent, you know, returning interest. I'm not saying that these are Ponzi scheme. I'm saying if you check some Ponzi scheme,
+
+[24:00] the two start. One, centralized institution controlling it. Second, guaranteed interest returning. And, yeah. So part of Bitcoin is none of that. Bitcoin didn't guarantee you anything. Bitcoin is just a guarantee. There is, like, 21 mailing of that. Actually,
+
+[24:23] I think part of it are already being lost permanently because people are like yeah. People were dying. Right? So and and and the private case, very hard to cape. So so but, yeah, that's the only guarantee. Like, it have a hard top, that kind of stuff. But it didn't guarantee you any interest at all.
+
+[24:49] Zero, literally. Literally zero. And yeah. Ethereum actually, if you do some kind of POS, you know, proof of staking stuff like Ethereum, it will guarantee like three point something returning. Yeah. Maybe Ethereum is a scam. Punch is a scam. But Bitcoin
+
+[25:14] is not. It didn't guarantee you anything. It's just bizarre, weird, decentralized value keeping stuff, maybe. Do do you want to give some commentary on that, Dark Dragon? Okay. I'll just sit here. That's fine.
+
+[25:41] Well, I I am Draygen. I'm currently a PhD candidate in anthropology from the University of Oxford. I specialize in philosophy of mining. Thanks to the invite of York. So I'm here to have a intellectual engagement with York. And like he has mentioned so many times, none of our discussion forms any sort of, any form of financial
+
+[26:08] advice for you to buy any kind of crypto assets. Just following on upon what York said about a Ponzi scheme, I think, like he has pointed out quite clearly, I think, first of all, one of characteristic of Ponzi scheme is that there is central operator. Second is that there is always a promise. Usually, it's a very high percentage of return. Yeah. Yeah. Yeah. And I think based on those criteria,
+
+[26:38] we can say that Bitcoin is not a Ponzi scheme as as as claimed in the video. Not traditionally. Well, the thing is like There is a new kind of It is a speculative. It is definitely a speculative. Like, I would withdraw I will withdraw kind of analogy to the many centuries back, the tulips the tulips mania in Netherlands.
+
+[27:01] Mhmm. Right? I I think people believe tulip bulbs have a high value and people starting to speculating. And, yeah, there was a time I I believe that it says like a one bulb valued like or or some sort all sorts. But I don't think it's a Ponzi scam. And back to your comment about the critic about our current nation state sovereignty banked
+
+[27:25] currency, like dollars or the steroids by The UK, I think, that's very different arrangement again because I think, usually, from what, the chartist monetary theory that money is essentially backed by the sovereignty of the state. And the the reason why the fiat money has value is because
+
+[27:53] the future the future income generated by the taxation, it's it's what the the the nation state fee amount is anchored upon. So I don't think that's quite different from from other kind of speculative activity. Mhmm. But since we're talking about Bitcoin as asset, I think it's just very important for us to draw a concept what exactly is a asset. I think from economic point of view, asset is a a sort of substance or either
+
+[28:28] material or nonmaterial, I guess, that you can't guarantee a future economic benefit in a different range of time. Mhmm. So but normally, when we think of assets, we only think of material materialistic side of the asset. For example, like, we have physical assets like land or physical
+
+[28:54] assets like a like a a property, like a building of Suhai, this community. Mhmm. But often, what we do not recognize is that the legislative dimension of assets. So for anything that called to be called assets, there should be have a legislative dimension in a sense. It is it it is recognized
+
+[29:18] by official jurisdiction. It it is an asset and who's entitled to what asset. And second is that there is a enforcement right. So when you wanted to claim your benefit economic benefits, you have you have that right. So to to to claim that the the the economic
+
+[29:41] return that have generated through time. But, again, like what we mentioned earlier, it does not guarantee. It's always always a positive return. So I think in that sense, we think, yeah, it's not really quite contract contractatory to call Bitcoin as a asset. Mhmm. But the other part, I think, again, Bitcoin is quite different from the regular asset in the sense it's not backed
+
+[30:10] by the any legislative institution to my understanding. Mhmm. It's not backed by the state the nation state. It's it's it's more of a a regardless how speculative it has been throughout the years, I think it is still a very like, a a a course of collective choice
+
+[30:36] that the value fluctuate throughout the time. There's bear market. There's bull market. It it's not it's not like a Ponzi scam in a sense, like the central operator decided, okay. This is the way we're gonna go, and we're gonna dump. But, of course, there are also big players. People are gonna argue against my earlier statement. So what about mining?
+
+[30:59] What about them when it comes to the big miners that or the whales? I think, yeah, that's that's also something I'm I'm not quite sure. So I I I wanna ask you, York, what do you think about, like, people if people already said, okay. Bitcoin is a asset, but but but it's not a lack of a central operator. Right? Mhmm. But what do you think about the the major players in the mining industry
+
+[31:26] or the big whales who have originally I mean, who have early entry into the crypto industry and gained massive economic advantage over the late introns. Yeah. That's actually the huge problem. Yeah. To be honest, like, that's a huge problem like the Bitcoin community we we are facing.
+
+[31:51] It's like our I have some kind of stat stat stake statistic. How how to say that word? Statistic. Statistic. Yeah. Yeah. That kind of stuff is like the main player of the mining pool actually controlling the the whole network is
+
+[32:14] in the computing computing power of 90. So, yeah, it's kind of irony actually. If those actually are, for example, like a six top top six, I can't mention like any because it's kinda like a, you know, disrespectful
+
+[32:39] way. But I but you can check yourself. Actually, that's a very serious problem we're facing now. It's actually top six, maybe maybe top 10, they are controlling maybe 98% of the whole network is, you know, computing power. And and we can say well, we know that Bitcoin if it is like
+
+[33:04] what do we call like 5051% attack. Yeah. But they already control in controlling. But not a controlling controlling, but, of course, they are compete for each other. And and it's kind of a mining pool for some kind of sense, but it's
+
+[33:27] not really like but but maybe there is some kind of a conspiracy like between them. They are totally agreeing on something, maybe they can make a difference like to the block way. But it didn't happening yet. But but it's concerning, the real concerning, actually. I I I actually don't have any answer
+
+[33:50] to that, but but I it's just point out it's, yeah, it's a real concern, and and it's a real problem, actually, we are facing now. Yeah. Yeah. The same for me. I mean, that that question just came to me randomly as I was kind of articulating my idea. Yeah. I think that's something like a it's difficult to reach to a conclusion right now, like, to to
+
+[34:14] to be objectively assess the current situation of computational power concentration. But at the same time, I think we wanna well, this is gonna be a very tough question Mhmm. To to to really, like, come up with a a satisfactory answer to this question. So I'm gonna move on a little bit and talk about the the the symbolic dimension of any asset. Can
+
+[34:37] can I give a second commentary like Yes. Because that question because you're a very good question, actually. But in Bitcoin, it's something like related to this, like, statistic. But in Serum, it's actually much better. It's much better because the major players like in the mining pool stuff, it's like Lido, Lido. Lido, actually, they are controlling maybe
+
+[35:02] 30% something of the whole POS proof of stake money pool, that kind of stuff. And and we have other players like coming to, like, the treasury company. They are actually buy a lot of, you know, Ethereum and do some kind of proof stake.
+
+[35:26] So you can check online yourself. And and also, you know, ETFs. You have about after now, the ETFs, you know, the certainly ETFs didn't do the proof of stake and stuff, but in the future, they definitely do. And so in this sense, actually, our yeah. In this sense, actually,
+
+[35:49] maybe it's there in more decentralized land than, like, Bitcoin or or, like, in this perspective. But but but different but different. Yeah. Yeah. I think the the other element I like to respond to the video we just watched is also, like, a he made a comment that
+
+[36:13] Bitcoin is not backed up by by any value. It's not like a a a any physical asset or, any financial asset. Well, he didn't actually talk about financial asset. So I would like to challenge that point to to ask, like, what's actually the real value of a financial assets, like a stake bond or or like a like a Tesla
+
+[36:36] stocks, Right? We bought. So it is quite symbolic in the sense that we believe it is valuable. Mhmm. I'm not I'm not saying, you know, all the stock stocks that we buy from the from the the stock exchange market has no value. I'm just saying, like, a lot of value was actually generated from the belief that we believe that this this company gonna continuously perform well. Oh, yeah. Like Apple. Like Apple. Yeah. So Yeah. So I think
+
+[37:02] from the anthropological point of view that any value has its symbolic meaning. It's not purely materialistic. So that's something I wanna point it out. So when we think about assets, you have to think about it is a collective belief system, not purely backed, you know, by by by any the property of a material goods. Yeah. So so I think I'm gonna leave it to you to your
+
+[37:28] No. I mean, I what you just what you just said is actually the first open classrooms subtopic. Actually, it's called intrinsic value. Mhmm. Yeah. You actually just mentioned about that. I think maybe I just quick recap on that. As far as we are talking about intrinsic value of a cryptocurrency, for example, bitcoin,
+
+[37:50] Ethereum, blah blah blah, and Dogecoin maybe. And actually, I love Dogecoin. And and, yeah, I bought this like many years before as are as are interesting. Okay. Not as financial advice. Yeah. Yeah. Not as financial financial advice at all. But to for example, I just quoted like Warren Buffett's view like,
+
+[38:18] he view like anything asset if he have some kind of protective value, it'll go be it will be like some kind of interest of value. That's to Kim. For example, like cash flow of the company like Apple, he bought Apple stock. Right? And but the problem here is like, for example, like Hayview or some kind of a real estate
+
+[38:41] like this one. Like we we having here, like for this for this name of this building is our asset because it's have a productive value. Right? Because we can rent it. We can, like, charge you guys for some kind of coffee if you're if you're you
+
+[39:04] want to attend this event, blah blah blah blah. Yeah. We can do that. But this so called productive asset actually making us like losing money every day. So and and if, for example, like, we we we are, like, we are already this place, like, two years before. If that simple amount of money put in Bitcoin, you can check.
+
+[39:33] Yeah. I think you what we're trying to accentuate here is, like, there are different type of assets. There's, like, physical assets, like property, the financial assets, like stock shares, and also there are monetary assets, which is like currency Mhmm. Or fiat currency or maybe it's questionable to even include any cryptocurrency into this category right now. Mhmm. But I think that's pretty that's exactly the the difficulty to perceive.
+
+[40:05] I mean, to people who have not have who's not quite familiarized themselves with the concept of crypto. I think it's difficult to grasp, like, why is that a currency? It says it has no value. Right? Mhmm. So so I know you you I know your next sub point, you're gonna talk about Bitcoin versus gold. Yeah. So why I think what are we gonna discuss about is probably related to that point. Yeah. Yeah. Why don't you
+
+[40:32] start to share a little bit on your insights about how you see Bitcoin. The Bitcoin or Other crude The analogy of Yeah. Bitcoin as digital gold. Actually, for me but just for me, the intrinsic value offer like a Bitcoin or Ethereum, like, it's it's have some kind of replacement
+
+[41:00] solution to the current fiat. Right? So we have a USD. We have, like, British pawn. And and you can check, actually, British empire, like, years before. It control of colony. Right? And and it and it's continuing.
+
+[41:24] Yeah. It colonized like India. Right? I mean and yeah. And and it it can, like, pushing forward. It's, monetary system, like British pawn. But here's
+
+[41:46] the interesting thought. If, like, hundreds of years before, our the whole world, including India, right, is, like, validated by the British pawn. Right? It's like a it's defined valued by British pawn.
+
+[42:09] The whole, you know, system, global economy system is valued by British pound. It's it's like here now we're valued by USD dollar. Right? So the whole valuation of the British pound up then because America actually suffocated the British Empire,
+
+[42:33] its colony, like after World War two. Right? And so so you you can check on that. It's like before the assets are valued in British Pawn. And the asset valued in British Pawn,
+
+[42:56] now you can compare. It's shrink. Mhmm. Maybe 100%. I mean, like before it's 100%. Now maybe it's 1%. Yeah. Yeah. I I I I understand your I mean, why you drawing attention to to this colonial history of the Great Britain of Britain.
+
+[43:22] Well, I think, for me, was like, let's just, pause for a second to think about what's the nature of money and, what's what was the nature of value? Because if we think about even, like, any kind of steering or or US dollars, basically, is a a a a validated validated or legislate
+
+[43:45] legalized form of IOU. Right? Mhmm. It's basically the IO. If you check I think it's still now. I mean, you could check any bills of official fiat bill that's it still says, like, I promise you, I will give you I don't remember exactly the phrasing of that. But, basically, it's like the queen or the king will promise we're gonna redeem you with blah blah blah blah with this amount of money. So I think from an anthropological point of view that what is money, it is that money is a promise that I made between two parties
+
+[44:17] that will help to allocate value through a different spatial and temporal arrangement. So more colloquially, is today, you come to to you come to my house, and you help me to you help me with the harvest of apple trees in your backyard.
+
+[44:39] I worked for eight hours. And in the future, I I I promise I'm I'm gonna go to your house, help you fishing or something Yeah. Yeah. To to exchange of our labor labor hours. Mhmm. So so like a so from anthropology point of view, we have always viewed money as a flexible social credit. So it's like we have to survive with our with money. It's not even though Elon Musk are saying that, oh, in the future, we're gonna enter in a society that requires no money because I I highly question that it's gonna be reality.
+
+[45:13] Because I think mutual social credit is a foundation of any society. Yeah. And the the the the the point is like what kind of form, what kind of technology, what kind of material embodiment of that value is utilized in different era Yeah. Has changed. Yeah. Yeah. Yeah. So like a long time ago, like imagine that you've been a tribal society,
+
+[45:38] you have very limited amount of tribal members. Mhmm. The exchange network is not so complicated. It's not so intricate. So we can't remember. I can't remember. Oh, Yoke helped me this Tuesday. Next Friday, I'm supposed to help help him with some of the house chores. And Yeah. That's the foundation of social credit because you help me, I'll help you in the future. But we do not need a materialistic
+
+[46:03] medium right now because we have a member of that. Mhmm. But in the future, as the tribe grows bigger, it gets more complicated. I own you another five hours of labor and a less person owe me a lot. So we need a public ledger to to record that. So if we if we think about other pre capitalistic well, okay. When I use tribal society, please take that not as I'm calling some society as primitive. Mhmm. It's just that that's pre industrial
+
+[46:32] societies. They have different arrangement of money. For example, they probably will will ride in a big piece of stone. Yeah. I it's it's viewed by everyone. Actually, I forgot which country exactly. They have a a type of money called Rai. Mhmm. It's a huge massive stone, and it's owned by a different person.
+
+[46:55] And and this this kind of piece of stone could be used to be paid to other party, but the the stone itself never changed the position. Mhmm. So, again, like, what I'm trying to say, I hope I'm making sense, is that money fundamentally, it's still a social credit ledger Yeah. That's trying to record
+
+[47:20] fairly who owns who and what. Yeah. So with technologies development, we started using different kind of materials to symbolize that social credit relation. So initially, probably from verbally, from our memory, we can remember who owns what. Yeah. Till later when the society get more complex, we realize, okay, we have to make sure that people do not fake
+
+[47:44] their social credit. So how do we do it? So in essentially so there are so tribal societies in a landlocked territory. They adopted seashells, which at that point is still a scarce Yeah. Items. Yeah. Yeah. But it's difficult to fake them. So they can still to reuse that to calculate who owns who what. And later on,
+
+[48:08] of course, if if we read a little bit more about colonial history of Canada, we realize the British realize, oh, we can actually go to other island to to use more industrial way of harvesting the seashells. Then we can sell those seashells to the indigenous in North America. And then that's way it's like a if you think of this way, think as like a
+
+[48:35] industrial technology actually forcefully broke down the tribal society's capability to cape their public ledger. Yeah. Because because initially, it's scarce. It's scarce. Right? I mean Yeah. To have those c shells. But then with mass production of c shell, you can okay. I just make I can make as many as possible. I give it to you. And you have to give me your good. So that's that's how we usually conceive as like act of a colonialism.
+
+[49:04] But later on, realize, oh, but wait, there's gold. Because gold have it's very I mean, in general, there's a the term why we think gold is I mean, there are two elements. The first element is that gold is not very easy to extract And it's it's very difficult to Maybe I I won't weigh in a little bit. Yeah. Yeah. Please. Here. Like like gold. Because
+
+[49:30] maybe later, Amit can give some commentary like British pond in India, that kind of history and and now. And a very interesting topic. And I mean, goat, like, years before, like, thousand years before, the whole world the whole world globally, the whole world is valued by
+
+[49:55] gold. Right? Because majority of the empires actually love gold. So it validate by gold. But now, there are just some business is backed by gold or gold is just
+
+[50:17] backed by some business. I mean, by some business, maybe drug business. Yeah. And as you know, something OTC business actually backed by gold too, like in the crypto places. Maybe a little bit bizarre for you guys to have heard about it. Yeah. It's true. And also a lot of other activities,
+
+[50:42] access actually backed by gold is backed by that. But before, I mean, like, hundred years before, thousand years before, any empire, any area, any country, any tribes is backed by gold. Maybe not including African because I think they are a little bit maybe I mean, like the mature
+
+[51:07] society or mature. Yeah. I use that term. Oh, yeah. Yeah. Yeah. Yeah. Yeah. That that term is also now okay, actually. Or sophisticate? Maybe. I'm not sure. Okay. All the empires are actually backed by gold. And now it's just maybe the underworld
+
+[51:30] business or underworld underworld, you know, economy is actually backed by gold. We're using gold. Yeah. Okay. Yeah. The reason that I'm mentioning gold, I think it's very self provoking to think about why gold has been adopted as a medium for storage or value throughout the history
+
+[51:52] is that, what they I'm I'm actually, I I got this idea from another journalist or scholar. She's talk her name is Lynn Alden, and she's talking about the one of concepts called the stock to flow. So, basically, her argument is that why gold throughout history has always had a value. First is because,
+
+[52:16] wait. It's it's it has very low annual production rate. So like, in general, like, you cannot produce as much as gold as you like to. And second is that the already existing stock has been accumulated throughout the year. Usually, they do not demolish. I mean, it's not easy to wear them off. So like this stock.
+
+[52:39] So basically, compared to other kind of goods or items, the gold so far has the lowest lowest stock to flow ratio, which is probably like a one to 2%. So well, this is kind of where you see I mean, I think she has brought up brought she has led
+
+[53:02] us to a very fascinating way to understand why gold is valuable. So basically saying is it's difficult to fake gold. You cannot produce gold at will. Right? Scarcity. So for for a long time so I think her idea or challenges or ideas that gold is money by itself. Mhmm. It's it's gold is not money. From my perspective, gold is not money. Gold is a medium. Gold is a technological
+
+[53:28] endorsement Mhmm. Of that social credit Mhmm. Because you cannot fake it. Yeah. But so in essence, we we we that's why I'm trying to join back to block Bitcoin. Mhmm. So I think, essentially, I I think any sort of substantive iteration of monetary technology has to do with its capability
+
+[53:53] to keep the fairness, the the original or the authentic ledger, the public ledger. Mhmm. So I think is bit Bitcoin is the final answer. Luna, Mike. I
+
+[54:18] mean, like, you can come here. Yeah. You can go on. Yeah. So so that's what that's what I'm trying to say. So when we think about assets, let's think about not just assets as physical assets. It has a it's symbolic element actually comes from the people believe it has value. But why does it have value? Because it keeps the righteous ledger
+
+[54:41] Mhmm. Between the given society. Mhmm. Because we think it's fair. Mhmm. So that I mean, that's how I see it. It has value because it's a fair assessment of who owns what. Yeah. So that's kind of the problem with the with what you're trying to say with the quantitative easing Mhmm. With the well, I think now it's it's commonly discussed about
+
+[55:05] money printing by any nation state. But again, I just wanna point out before I before I finish my my long comment No. It's okay. Is that there is It's actually brilliant. No. There is actually really misleading points. People usually when we when when we referring regarding the money printing process, we always saying that, oh, it's a it's a it's a central bank. It's the federal
+
+[55:32] reserve. Federal reserve. Yes. It's all their fault. Mhmm. But the reality is that what's their printed is a different type of money that's majorly circulated within commercial banks. Mhmm. And I would say maybe 60 to 80% of money actually were created by commercial banks. Mhmm. So yeah. That's just something to take take note.
+
+[55:56] Good. Yeah. Amit, do do you have some knowledge of about, like, the circulating of British pound in India? You you don't want to talk Vale? Shock Vale? Oh, okay. Yeah. Well okay. Yeah. Maybe you can come closer. There is nice ring. It's okay. Yeah. Mhmm.
+
+[56:59] Which any any individual can make inputs into the system and run up through the board, you know, and, can be implemented into their system. Mhmm. So, you know, again, whether it's tulips or seashells or
+
+[57:22] real estate, it all has a perceived value. Right? Everything has a perceived value. Mhmm. And with the acceleration, with the need for, the advancement of technology, what is happening is, is there is a need for what they call the velocity of money. The velocity, the flow of money is accelerating.
+
+[57:45] Right? And digital currencies provides that provides for that acceleration so that a transaction that used to take three to five days now takes three to five seconds. And because there's an acceleration of that flow, more things can be purchased. And there's this there's this generative value within the economy within the economies of,
+
+[58:11] the the global economy, I should say. And, and its ability to be authentic, right, because it's immutable. It's what's called immutable. The blockchain cannot be altered by anyone, by any third party. Right? And so, that also gives it the value that is perceived in within within,
+
+[58:33] quote, quote, the Bitcoin community, the Bitcoin Maxis as they're known. But I would say this that, there is a huge move toward digital currency as we all know. Right? Mhmm. By 2030, I would say no more cash. Everything's gonna be digital, and, it's going to be, an accelerated view. We we won't recognize that system. Right? The the tracks are already laid through XRP and XLM
+
+[59:04] and HBAR and all of these late late developing, cryptocurrencies that are going to provide for this, this new financial system. Right? And so that's what I would say is that, the perceived value of of of Bitcoin now is a is a store of value. It's a store of value. Right? It's not,
+
+[59:28] its utility for as a currency is not so much, but it's perceived as a store of value. Right? These other cryptos are have the utility of providing institutional grade cross border payments and and individual payments and digital ID and and all of this. The Cardanos and and the
+
+[59:51] HBARs of the world are are going to provide for that. So I think that's really what I wanna say is that the the the value the real value of the original, the OG Bitcoin and then Ethereum is its ability to step away from the fiat system, be independent,
+
+[01:00:14] be trustless. I don't need to trust Mhmm. A bank or a third party in order to make my transaction. Right? I don't need to go through a bank. It's it's it's an immutable system by which, I initiate a transaction, and I know because of the technology it's going to go through. If I make a mistake and I send it to the wrong person, that's me. Right? That's on me. But, I don't have to depend
+
+[01:00:42] on a bank or a government in order to trade value in this new system. And so I think that's what really the value of Bitcoin is. Cool. Yeah. Hi. I'd it's very interesting to to hear you. And there were a couple of things. You know? Firstly, this thing about the scarcity value of gold
+
+[01:01:06] and that Bill Still, who's an economist I was looking at, the money masters was the documentary I saw. And, you know, he makes this point about gold being the scarcity of it made it makes it easier to control the supply of, and that was the reason why they weren't gonna base the dollar on silver back in the late nineteenth century.
+
+[01:01:29] People who already control the gold wanted to keep control. And, you know, this idea that there's no hand behind these financial mechanisms, I think, might be a bit erroneous. And the you know, what was the other thing? Hang on. It'll come to me in a minute.
+
+[01:01:59] Think maybe we carry on or do you want No. I think you should carry on. Yeah. I think just carry on. Are you from British? Right? Do do you want to give some comment about, you know, that topic? Like, British pawn, You know? Yeah. I know. Don't know what it is now. The the this idea that the governments like the UK government or the American government that's elected controls the money supply seems seems mistaken.
+
+[01:02:28] The Federal Reserve controls the money supply in America and is not a that's not a state control. That's a private bank. Mhmm. And in The UK, the Bank of England is a private bank, has been since the late eighteenth century Mhmm. And has run money supply without parliamentary control. These are private companies that that issue this currency, that control the currency Mhmm. Not not not government. Yeah. Mhmm.
+
+[01:02:57] Yeah. That's a fact that that it's controlled by a group of, private individuals. Mhmm. Not government. It's not a the federal there's nothing federal about the Federal Reserve. Mhmm. There's nothing, institutional about it. It's all formed by a group of bankers,
+
+[01:03:20] private bankers that got together and wanted to control the money supply. And now based upon what they can do, they can print it out of thin air, then they can tax you on earning it, then they can tax you on spending it. And so, again, Bitcoin was a departure from that system. Mhmm. So that was the value of Bitcoin originally.
+
+[01:03:43] Yeah. Yeah. Stew. I think Stew is the value of that. And, and also, like, it's not that all of them are not Ponzi scheme. I can I I I will show you later, like, now? There there are, like, Ponzi scheme, like cryptocurrency
+
+[01:04:06] also. For example, like this one. Yeah. This one. Yeah. It's very famous one. Yeah. I love that. Spoke on stage, hosted lavish events, and crowned herself the crypto queen. Bitcoin mainstreamed cryptocurrency. But unlike hard physical cash,
+
+[01:04:29] these coins exist digitally or virtually. And they're not controlled by banks or by government, but by a decentralized network of computers. But all of this is high risk, and it doesn't guarantee high returns. Despite the risks, cryptocurrencies have become increasingly popular.
+
+[01:04:51] But is the basic concept something investors always understand? Whilst there's a wide variety of the types of cryptocurrency, the general confusion surrounding crypto itself allows fraudsters to take advantage. Glossy marketing can be used to create a seductive image, making a scam appear like a legitimate investment.
+
+[01:05:18] One enthusiastic investor lived here in Scotland. Jen McAdam has written a book revealing the inside story of how she fell for this international scam. Chen, how did you first come to hear about OneCoin? It was through my best friend who introduced me to someone who had contacted her
+
+[01:05:44] about this cryptocurrency opportunity. And my dad had died previously, the year before, and left money for the salon. He was 92 years old. He was a minor, hardworking man. Yeah. Didn't drink, didn't smoke, and he was my hero. Yeah. And when he died, it was just an awful time. Yeah.
+
+[01:06:09] Well, I love British accent. I wanted to put that somewhere safe as an investment for my family. Okay. Scottish accent. Have any, and I was diagnosed in 2010. I was bedbound for a number of years and then housebound. So when you're you're at that stage and you're facing that, you dig into your savings, and that's what I did. But how much did you understand
+
+[01:06:36] about how cryptocurrencies worked? Well, it doesn't actually. What ticked the box for me, why I invested it, was on their promotional video, OneCoin's promotional video. You see Ruja. This is doctor Ruja Ignatova? Yes. The founder of OneCoin. You're introduced to her on this promotional video, and she stood
+
+[01:06:58] on stage in front of all these high profile business dignitaries giving a speech about cryptocurrency and 1 coin. And, I just thought she was such a clever clever woman. Doctor Ruja Ignatova had studied at Oxford University, has a PhD, and had worked at a global consulting firm. Her credentials clearly form part of the appeal.
+
+[01:07:25] How much in the end did you invest? I was €10,000, but of course, you speak to family, friends, and then they speak to their family and their friends, and it just goes on. This grew like wildfire. So from my investment and the people that I spoke to, it's a collective loss of over €250,000.
+
+[01:07:50] Oh my gosh. Soon, red flags began to arise. Jen was contacted by Tim Curry, a cryptocurrency enthusiast and online vigilante. He'd made it his personal mission to expose Ignatova and warn investors 1 coin was a scam. He never stopped the full weekend day and night,
+
+[01:08:15] and he was giving me information. And you've recorded that, haven't you? Yeah. Can I see that recording? Of course. You've invested $10,000 in this. And I'm happy And you've been awards it. And I'm happy with that. I made a decision. You've been deceived. I will believe that. Did that. What you have to understand, Tom, is you have your opinion,
+
+[01:08:40] and I have met It's not an opinion. It's a fact. Why why do you do this? Because you say you're going to protect people more. I said, but you're No. No. No. This is a scam. Do you understand what I'm saying? Don't believe it. You have no chance. I do not believe it as 100% in my heart. I do not believe it as a scam. How do you feel when you see yourself and you're listening to him? It's a hard watch. It's really hard watch every time I watch it.
+
+[01:09:10] I just think, oh, so gullible, so brainwashed. I didn't know anything about blockchain technology at that point. Blockchain is the technology that underpins cryptocurrencies. It stores transaction data in blocks linked together to create a chain.
+
+[01:09:33] As the amount of transactions grow, so does the chain. It took about three months for it to really register and and comprehend information it gave me, and I was questioning where is the blockchain? I want more information, and I just kept on at it. And eventually, a voice note came back saying,
+
+[01:09:57] Jen, it the blockchain OneCoin's blockchain is a SQL server with OneCoin's technology at the back end of it. Soon as they have the words SQL server, I knew then it's this. Okay. I think I just made my point. It's for example, like this one, it's a Ponzi scheme, definitely.
+
+[01:10:23] Bitcoin, maybe, maybe not. It's up to you, but this one is definitely. 1 coin is definitely the Ponzi scheme. And and about that, I how to identify the Ponzi scheme? For one stuff, cryptocurrency usually backed up by open source softwares,
+
+[01:10:49] And, OneCoin is not. So for starters, if you want to identify that kind of stuff. And second is the high return guarantee. Yeah. 1 coin is guarantee a high return.
+
+[01:11:11] I think maybe 20% or 30% annually, maybe A little bit blur because this game is actually happening like so many years before. I think right behind Bitcoin. And yeah. And also,
+
+[01:11:33] we you're we used to have some state coin called Taro. Yeah. Maybe I do. I I I don't need to give so many examples. Just and and also, like, you know, recently, collapse is called I I I remember it's terror. It's it's founded by our South Korean guy.
+
+[01:11:58] It's called terror or what what do you call? US Star Terror. I'm like, the the Steamcoin are collapsed, like, recently. Yeah. Terra. Luna. Yeah. Luna. Yeah. Yeah. Yeah. Terra Luna. Yeah. And so Luna actually collapsed, like, I think, three or three years before,
+
+[01:12:23] maybe. Right? Yeah. Cool. And and those loan is also like guarantee a very high profit. I think 20% at least. Right? And, yeah, if like because, you know, normally the return of asset or return of anything,
+
+[01:12:49] like, for example, like, Warren Buffett, what he can do? Some kind of, you know, increased circle of confidence is it's about to maybe 10 to 10 to 20 annually. That's Warren Buffett, the god of stock.
+
+[01:13:13] And but if somebody told you, like, he's like he's a better one to be should be cautious about that. And because, for example, like, you guarantee like 20%, two o percentage of the returning. Yeah. You should like be cautious.
+
+[01:13:37] You're already maybe some some something behind that. And, yeah. Carry on. Second stuff is like, I wanna talk about a little bit by, yeah, just start with the I
+
+[01:14:10] don't know why there is no link there. Oh, yeah. Cool. Sorry for the
+
+[01:14:39] the the Wi Fi. So here's here's the thing with Bitcoin. It took me a long time to figure this out. It's like a casino chip. So you go into the casino, put your money on the roll out table, Cupier gives you chips, you bet them. You can win or lose.
+
+[01:15:03] But whatever you have left at the end of the evening, you take them over to the cashier and you get cash and you leave. The problem is if you walked out of the casino with your chips, they wouldn't be worth anything. You couldn't you couldn't buy a cup of coffee with them, and that was it's not really a form of money. So here's here's the thing with Bitcoin. It took me a long time to figure this out. It's like a casino chips. So you go into the casino, put your money on the royal table, Cupier gives you chips, you bet them. You can win or lose,
+
+[01:15:31] But whatever you have left at the end of the evening, you take them over to the cashier and you get cash and you leave. The problem is if you walked out of the casino with your chips, they wouldn't be worth anything. You couldn't you couldn't buy a cup of coffee with them, and that was it's not really a form of money. So here's here's the thing with Bitcoin. It took me a long time to figure this out. It's like a casino chip. So you go What?
+
+[01:15:54] It's repeating. Yeah. Yeah. Yeah. I sorry. Let me I wanted to just say something if I could. Yeah. Yeah. Just, just speak in the speaker. Thousands of of cryptos out there. It's it's kinda the wild wild west of, of finance. Meaning that there's lots of projects out there and there's lots of people that are gonna do what's called pump and dump schemes. Right? Mhmm. They release a coin and they'll
+
+[01:16:24] market it and advertise it and this is the next big thing. And have to get rich quick. And a lot of people throw their money into it and then they just dump it. And they take all the profits and disappear. And so so people just need to be aware of the fact that there's lots of scams out there because this is the new frontier of finance. This is the new the new world. You know? It's the same as the .com bubble. Right? Back in in the day when the Internet came of age
+
+[01:16:56] and people started making businesses online and and everybody's, oh, we're gonna be millionaires because of the Internet and we're gonna make a website and sell tumbleweeds or we're gonna sell tulips or we're gonna sell whatever. And so and and people were throwing money at making websites without a business plan, without any common sense Mhmm. Thinking just because they threw money at the Internet, they're gonna make their they're gonna be millionaires. You know? And so that all crashed.
+
+[01:17:25] And it's the same thing again. It's it's human nature to want to become rich quick. Mhmm. And they see this as an and and many out there will take advantage of that because they know human nature. They know that people wanna get rich quick and, oh, here's an opportunity Mhmm. That we can use to scam somebody. You know? What whatever whatever it is, whether it's a love scam or a or a financial scam or whatever Mhmm. They take advantage of human nature
+
+[01:17:57] and the desire for what would you call it, instant gratification Mhmm. In order to leverage that and and then and then make their money and scam you. Mhmm. It's it's it's the same. You know? But there is a reality to cryptocurrency that can be cannot be denied. Mhmm. Right? And that is that all of these major corporations, these big the biggest banks in the world and and countries in the world
+
+[01:18:27] investing in this technology Mhmm. As they are in AI and and and all kinds of things. And and the big thing that's coming is going to be tokenization. Mhmm. Right? Everything is gonna be tokenized. Like he said, everything is gonna have a casino chip. Mhmm. It's gonna be the land. It's gonna be the water. It's gonna be the air. It's all gonna be represented by a casino chip. Mhmm. It's gonna be on the blockchain
+
+[01:18:52] Mhmm. Or or on the hash graph in the future. And that is, you know and so everybody's gonna have a share. I'm gonna have a a share in in a painting. Mhmm. I'm gonna have a share in a country. Mhmm. I'm gonna have a share in a building. Mhmm. And every so it's gonna elevate people, right Mhmm. In that way. And so that is really the future of finance Mhmm. In this technological
+
+[01:19:15] world that we're in now. Mhmm. This digital world. And so but in the meantime, there's gonna be lots of scams along the way. So it's like you said at the beginning, it's imperative that you do your own research. Right? Don't listen to somebody on YouTube about an investment. You have to do your own research and find out the the nuts and bolts of what this thing really does and find out that it has utility,
+
+[01:19:42] not just some video that you see on YouTube. Good. Very good commentary. Actually, I I think I don't need to to give a commentary at all. But but still, yeah, I prepared some few words for this video. It's like, Bitcoin deciding or define
+
+[01:20:08] is whole evolution of above that. It's not it's not just, for example, like, it's not just for the beginning, the Bitcoin is an asset. Because like, at the beginning, like, 2009, it's just a software. And it just, some kind of strange point of software
+
+[01:20:32] offering. And you have no value at all. Right? And but but but, you know, those are early adopters like the some kind of evangelist or some kind of, like, a believer in the technology guys,
+
+[01:20:55] are start that and putting some kind of a computer power to mining, right, the whole history of Bitcoin. And then some guy, you know, use Bitcoin buy a pizza. 2,000. 20,000 Bitcoin buy a pizza. Yeah. Then you can say that
+
+[01:21:17] Bitcoin is backed by a PISA. Very important tick point because you have a real value, right? Because it's backed by our pizza. So and, yeah. So then, we have, I mean, like, you know, the early adopters, like, or like enthusiasts
+
+[01:21:45] offer like technology guys, they put in computing power. So it's backed by computing powers. Right? And second, it's backed by your PISA. And then the majority of the important things happen is like for example, like Warren Buffett view the stock market as our casino, right, up and down, up and down. And if you view our stock as a company,
+
+[01:22:10] maybe you're true what we call, like like a value investor, something. But if you view it as a casino, yeah, it's a casino because up, down, up, down, dump and a pump, something like that. And the main role like exchanges like casinos play like in Bitcoin is like it's the
+
+[01:22:35] most decentralized casino chips because container chips are controlled by casino. And it it didn't have value like outside. And and there is a people who decide this casino chases. But Bitcoin is a decentralized casino chips. Nobody controlling it. It's a very fair game.
+
+[01:23:00] If you're losing, you blame nobody. But for example, like in the casino, you're losing, maybe you can blame the casino because they are they are not always trustworthy, right? Like in Las Vegas, like in Macao. Yeah. Yeah. Yeah. So so but this is fair game, like here. Nobody
+
+[01:23:23] controlling it. Although, like, we have a concern, like, the main mine pools stuff, like I mentioned, by it it didn't really happen. And the major, like, mining pool, I think it's just controlling a lot of computer power, maybe 30% tops. And and and the the the as conspiracy
+
+[01:23:46] stuff, it didn't really happen. But yeah. So it's, like, most decentralized. So so what? So I don't think in, like, asset, you need to take some kind of a moral standard. Or for example, like for example, like Warren Buffett and Charlie Munger, he he they hate, like, gambling stuff. I'm like, I I I don't do gamble at all, but but I view it as our, you know, decent business. It's just it's just business. Right? And so
+
+[01:24:17] so I just want to point out, you know, the the Bitcoin is becoming our asset or is becoming a money. It's becoming some kind of a digital gold. It's not out of the starters like the true believers said. It's just a digital goal. It's becoming. So three different roles
+
+[01:24:39] actually are very important is the early adopters, like they are putting computer power back there. And PISA, yeah, PISA is very important. And the other is like Coinbase. Coinbase, like, 2012 are started. And and a whole lot of, like, exchanges, like like ten or twelve years before are started.
+
+[01:25:05] So it have it it gave it some kind of a price. It gave it some kind of value. And then last like last time, I played it. It's like a sick road. Sick road is backed by the underground drug business. And so the Bitcoin is becoming an asset, Evolution
+
+[01:25:28] to be an asset. Yeah. I think just little bit boring. Maybe you you should. A few few point to your section. Few point. Are you oh, you you you you already talk about your field. Yeah. I already did. Oh, you already did. Okay. So this section?
+
+[01:25:55] Video. I mean, do do you have any commentary to this last section, like, the casino stuff?
+
+[01:26:17] Okay. Pretty pretty full crowd.
+
+[01:26:41] Well, it's a small room. It's a small room, but I think there's a lot of people upstairs as well. Well, first of all, Peter, thank you so much for coming. I feel like I'm kind of a host here. Woah. So I wanna keep it a a bit civilized at the beginning. We'll see how how you evolved. So first of all, I wanna thank you for taking your time to come over here. And I think it was very courageous of you to step on this stage in this crowd. It feels like there's definitely a home home court advantage for me here. Yeah. Well, I got some supporters in the crowd. Absolutely. Absolutely. Even if they disagree with me on Bitcoin, they agree with me on a lot of other things. But I definitely appreciate and thank you for, hosting this event and, bringing me out here. And at least, you have the courage. I mean, I've been, you know, trying to get Michael Saylor to debate me for years, and he's afraid. But No. You've got no you've got no problem. I can arrange that for later tonight. Try. Is he still in town? He is. He is. Oh, alright. Yeah. Yeah. So yeah. I wanna give you a little bit of opportunity first. I I know you're doing a digital, digit eventually, you were doing a tokenized gold, like a, project. Right? Yeah. That that's how this whole thing got started because Yeah. Yeah. I was talking about that
+
+[01:27:49] on on a crypto podcast Yep. That you I guess you happen to see it. Yeah. Yeah. Yeah. But yeah. So I have you know, my website is tgold,tgold.com. Yeah. Yeah. So the t actually is for tokenized gold. Yeah. I was actually surprised Tethr never grabbed that URL, but anyway, I I I took it. So ttgold.com. And and right now, if you go to tgold.com,
+
+[01:28:11] you can buy physical gold and silver. Yep. And we store it for you. Yep. And, ultimately, people who own gold and silver in this form and it's all it's segregated and vaulted. It's not it's not commingled. It's not you know, it's it's it's it's it's allocated gold, not unallocated gold. So you own it. It's stored, you know, in in a vault. But, ultimately,
+
+[01:28:34] there'll be two ways that you can withdraw your gold. Other than sell it, you can sell it and just get dollars. But one way is to withdraw in physical form. Mhmm. You can take delivery of bars or coins in whatever denomination that you want, or you can also take delivery in the form of a token. Yep. And so when you take delivery of the token, and now you can deposit it in your wallet or put it on an exchange to the extent that we get it listed on an exchange, but you can withdraw the token. Right? And what the token represents
+
+[01:29:06] is ownership of gold. Yep. You know, you own the gold. It's in a vault, but the token is the evidence that you own it. Like, if you check, you know, your your your your coat and they give you a a claim check, the claim check isn't a coat, but it it's redeemable in a coat. Sure. And so the the the tokenized gold now is your your ownership of gold. But if you want, you can transfer that token or any portion of it because it's divisible.
+
+[01:29:34] You can transfer part of that to somebody else, And now that other person owns the gold. And so you transfer the ownership of the gold rather than the physical gold. The gold sits in a vault, but the ownership can change hands. And now you can use your token as a medium of exchange. And so now you have a viable monetary unit that is a store of value because it's backed by the gold Mhmm. That that's in the vault that you that anybody can can take delivery of. But in the meantime, you know, you've taken gold, and you've now made it more,
+
+[01:30:07] transportable Mhmm. More divisible, more fungible. You've improved on all of its monetary properties, but you don't lose the most important property, which is it's a store of value because its its value is the gold Yeah. That the token represents. So what I'm hearing you saying is actually the tokenized gold is actually almost better than the gold itself, you know, in the ways that it's divisible, it's transferable, transportable, it's it's a medium of exchange,
+
+[01:30:33] etcetera. Right? Yeah. As for money purposes, yes. Obviously, if you wanna actually do something with the gold, if you're a jeweler, you can't you do you have to take the token and redeem it. Yeah. Yeah. Right? If you're, you know, if you're manufacturing computer chips and you need gold Yeah. Yeah. You have to redeem the token. Yeah. Yeah. But as far as using it as money Yep. Yes. It improves on on gold just like the old blacksmiths.
+
+[01:30:59] Yep. Right? Originally, when people had gold and they would have it stored with a blacksmith, the blacksmith would write out of IOU, a piece of paper Yep. Which could then circulate in place of gold because it was more convenient. Yeah. Yeah. And that that was currency. And when governments started currencies, they were legitimate because they were backed by gold. So instead of, you know, engaging in com derived its value from the gold that backed it up. Now fiat currency is paper currency backed by nothing. And so there's nothing that gives it value other than faith and confidence.
+
+[01:31:32] So tokenized gold takes that to the digital level, where instead of having a paper representation of ownership, I have a digital representation. Mhmm. And I don't have to be in the same room to Bitcoin is like the fiat currency because it's back for it. But what Bitcoin is like, Bitcoin is like the fiat currency because it's backed by nothing. Right? Whereas a tokenized gold is legitimate because it's backed by something. It derives its value from gold. Yeah. Bitcoin derives its value from confidence, from faith. If people think it has value, then they're willing to buy it. We can get to the Bitcoin in a second. Yeah. But I I just wanna I think we actually agree on this point that the digitized gold might be actually better than gold in some in a lot of ways. Because the the tokenized the the version on the blockchain is transferable, is divisible,
+
+[01:32:20] It's it's more useful. Right? As long as the gold is there to back it up. Correct. Right. Yes. And and and so it improves on gold. It makes gold better. Yeah. Yeah. Just like paper made it better. Yep. Except, you know, once the government came in and corrupted it, right, then that was a problem. But it wasn't a problem for gold. It was just a problem with government. But the
+
+[01:32:42] Okay. I think I'm just to make my point here. It's like this this respectful guy view like Bitcoin as a fiat, and it's literally think it's backed by nothing, but it's okay. And I actually I just gave my commentary actually about the gold
+
+[01:33:07] a couple of minutes before. It's actually it's very simple. Like, those kind of assets to me to to me is actually you you have to check what it is back up with. For example, like Warren Buffett's stock. Stock is backed up by
+
+[01:33:31] company. Each one stock have a company behind it. And and if you don't trust the business, if you don't trust the people, if you don't have a good price, you don't buy it. Yeah. And so it's backed up by some kind of economic activities,
+
+[01:33:56] actually. For example, like, why Warren Buffett view this kind of real estate is our have some kind of intrinsic value or is value is because it back up by the activity we are having now, like the event. Yeah. Like the this boring courses.
+
+[01:34:23] And it's back up to some kind of economic or human being activities. And to me, actually, are, you know, some of the years before or couple of hundreds of years before, like or gold are backed up by all the human activity
+
+[01:34:47] or majority of them. But now it's just a few and a few, I believe. But I I still believe in gold, of course. But Bitcoin, to me, is actually by the whole back of the whole cryptocurrency economic ecosystem. So, yeah, very simple view, maybe. And,
+
+[01:35:10] yeah, you wanna give some? Was just gonna say that it's well known that that the government of China and the government of Russia have been buying gold hand over fist as as much as they can get. Yeah. In the past ten, twenty years. Yeah. In order to, I believe they're going to back their currency with gold. Mhmm. The US came off of the gold standard in '72
+
+[01:35:35] and that just unleashed all this speculative buying and selling and which has caused inflation. Right? Price of a house in The United States in the thirties was $20,000. Now it's $350,000. That's not the house hasn't changed.
+
+[01:35:59] The money has. Right? The value of the money has decreased to make the price higher and that's what they're that's called inflation. Right? Mhmm. They've inflated the price of these they deflated the currency and that inflates the price Mhmm. Of whatever asset you're trying to buy. Uh-huh. So China and Russia, the BRICS countries
+
+[01:36:23] have been looking at backing their currency and probably a digital currency if I'm, you know, if they're smart. It'll be just like what he's talking about, a digital currency that is backed by gold and or precious metals, you know, silver, platinum, palladium, things like that. Mhmm. And so that is really the future because the bane of the existence of the world is the US dollar. Right? The the Mhmm. The US has abused
+
+[01:36:50] its privilege as the world reserve currency Mhmm. And is is now causing people to flee the dollar and find alternative ways to to pay for goods and services. Mhmm. And the BRICS countries, of which China and Russia are the leading ones and India are the leading countries, are now
+
+[01:37:13] breaking finding a way to break away from the US dollar, which is the world reserve currency, and go around it by backing their currency with gold. And and so that's that's really what's happening. And so it's of I think digital currency that is backed by gold and silver is very, very powerful. Very, very powerful asset to own. Good. So we go
+
+[01:37:37] into the, next section. It's like cryptocurrency versus stock. Yeah. Towards the end of twenty eighteen,
+
+[01:38:03] you mentioned that you guarantee you could make a 50% annual return if you had to start again with under $1,000,000. The question is, if tomorrow you woke up in the body of of of Pure body. Put it on America. Pure body. But that's fine. And your name was now Warren a la carte,
+
+[01:38:30] and you had some money to invest on a full time basis. What method or mythos would you use to achieve that return? Would it involve flipping through 20,000 pages of Moody's manual or similar publications Yep. Or finding, you know, you know, two five gigawatts? Or would it be hunting for great companies at a fair price as mister Munger would, or would it be a combination of both with opportunity cost serving as the final arbiter of which method to use given that your investing opportunity has now broadened significantly?
+
+[01:39:03] Thank you, Copenhagen. Good question. I'm glad you came. The answer would be, in my particular case, it would be going through the 20,000 pages. And since we were talking about railroads, you know, I went through the Moody's transportation manual a couple of times. That was 1,500 or 2,000 pages or no. Probably 1,500 pages.
+
+[01:39:27] And I found all kinds of interesting things when I was 50 or when I was 20 or 21. And I don't imagine here there's anybody here that knows about the Green Bay and Western Railroad Company, but there were hundreds and hundreds of railroad companies, and I like to read about every one of them. The Green Bay and Western,
+
+[01:39:51] in those days, everybody had a nickname for for railroads. I mean, that was that was just what Northern Pacific was the nipper, and, you know, Phoebe Snow was I'm in the East that used to go up to Cornell. And the Green Van Western was known as grab baggage and walk and GB and W.
+
+[01:40:16] And they had an they had a bond that was actually the common stock, and they had a common stock that was actually a bond. And, you know, that that could lead to unusual things, but they wouldn't lead to unusual things that would work for you when many millions of dollars. But but if you collected a whole bunch of those,
+
+[01:40:40] which I set out to do and, actually, that's what impressed Charlie when I first met him because I knew all the details of all these little companies on the West Coast that he thought I would never have heard of. But but I knew about the Los Angeles Athletic Club or whatever it might be. And he thought he was the only one that knew about that and that that that that became an instant
+
+[01:41:04] point of connection. So to answer your question, I would I would I I don't know what the equivalent of Moody's manuals or anything would be now, but I would I would try and know everything about everything small, and I would find something. And with a million dollars, you could earn 50% a year. But you have to be in love with the subject.
+
+[01:41:30] You you can't just be in love with the money. You really gotta just find it like a trip. You know, essentially, like, you know, people find other things in other fields because they just love looking for them. A biologist looks for something because they they may they they wanna find something. They and it's built in. I I don't know how the human brain works that much, and I don't think anybody not understands too well how the human brain works. But but there's different people that
+
+[01:41:58] that just find it exciting to expand their knowledge in a given area. We've you know, I know great British players. I know great chess players actually. Kasparov came to Omaha and met missus b. I've had the luck of of meeting a lot of people that are unbelievably
+
+[01:42:22] smart in their own arena and do some unbelievably dumb things in other areas. So all I know is the human brain is complicated and but it does its best when you find out what your brain is really suited for, and then you just pound the hell out from that point. And that's what I would be doing if I
+
+[01:42:47] if I had a small amount of money and I wanted to make 50% a year. But I also wanted to just play the game. And you can't do it if you really if you don't find the game of interest, whether it's bridge or whether, you know, whatever it may be, chess or, in this case, finding securities that are undervalued. But it sounds to me like you're on the right track. I mean, anybody who'll come all the way to this annual meeting
+
+[01:43:13] has got something in their mind other than Bridge or Chess. So I'm glad you came and come again next year. Okay. Good. Test. Yeah. Actually, our I think I just gave a commentary before. It's like it's just to remind you guys, like,
+
+[01:43:40] you know, Warren Buffett like cash flow behind, you know, those stocks, actually. And and we we do have some kind of cash flow projects actually in the crypto spaces, actually, for example, like
+
+[01:44:03] but but totally different from maybe Bitcoin and the Ethereum. Ethereum is a little bit by digital audio stuff because it will consume. It will be consumer like Ethereum. If you want to do anything like within the ecosystem
+
+[01:44:26] of Ethereum. So it's a little bit like oil kind of asset, but it's not traditionally. And bitcoin is like gold. It's kind of keep value stuff and holding and using the major countries are using it to purchase.
+
+[01:44:49] For example, gold and bitcoin to purchase the oil. For example, like China purchase oil from Iran using bitcoin and the gold, that kind of stuff, Iran is forbidden using SWIFT, you know, the US dollar system. And and there is an other,
+
+[01:45:12] you know, asset, DeFi DeFi kind of project is actually have a and also like exchanges exchanges in like crypto area. They actually have some kind of cash flow. But the problem is like the stocking about is that, for example, like a stock. Stock is
+
+[01:45:37] yes. Of course, you have profit and cash flow behind stock. But but if you don't have a good people managing that, they actually they don't give, you know, the returning to this kind of stock, actually. I I think anybody, like, do some kind of research, like, in stock knew about what I'm talking about. Because, for example, like yes. Of course. For example, like Apple.
+
+[01:46:06] Yeah. It generate a lot of cash, of course. But if the people, they don't they don't do returning to the shareholders, actually, you're you're you're you're gonna fuck it off. So and the same, yeah, same logic, like, happening in the crypto space also. Like, yeah, of course, there there are good projects like behind the
+
+[01:46:32] for example, like some project, defined project, for example, like, Uniswap, blah blah blah, Binance, BNB. Yeah. But you have to be cautious. Like if if the people are managing the company or the protocol or whatever the project or anything we're calling it, if they don't do returning, yeah, just be cautious.
+
+[01:46:56] It's not so good at all. And what about yeah. And the other difference is I mean, like the cash flow and the returning, I think, is almost the same with stock. But the other stuff are totally different, I think, is the ownership. Because stock, when you have real stock, actually, the ownership is a little bit blurred
+
+[01:47:19] or to me. I mean, yeah, of course, the stock and the share actually is have is backed up by the the law. Right? For example, like, the company law of United States and company lore, maybe China, maybe England, something like that, British.
+
+[01:47:42] But still the pro yeah. And in the lore, it give you the ownership of their some kind of company. Yes. But the problem is like, just what I mentioned, the people are behind it. If they if they have to some kind of a scheme or cheating stuff, yeah. But, yeah, the the the difference is like that. It's a stock have the ownership
+
+[01:48:08] and yeah. Yeah. Yeah. Cryptocurrency seems like so much. But still, we have some kind of governance currency. They actually have some kind of ownership to the project. But you should check out, check it out and to figure out what's this kind of protocol are really are.
+
+[01:48:34] Okay. So those these boring courses are ending. Let's let's do some kind of music stuff. Yeah. Bye bye. Mhmm.
