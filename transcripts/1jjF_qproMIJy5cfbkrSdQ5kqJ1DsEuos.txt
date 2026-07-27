@@ -1,0 +1,205 @@
+# ETH Chiang Mai Opening Ceremony Part 3
+
+Date: 
+Source video: ETH Chiang Mai Opening Ceremony Part 3
+Drive: https://drive.google.com/file/d/1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos/view
+Duration: 00:43:42
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] And get us toward a truly decentralized future. Now let's warmly welcome our speakers, York, the core contributor of Flanker, and Michelle Bonas, the founder of p two p founders, and also, David, the sorry. The the the contributor. Welcome. Who starts?
+
+[00:27] Yeah. Me? Yeah. So so we start with introduction. Like two minutes. Yeah. Just who you are. Okay. I'm York. And as she said, I'm a core contributor of a planter. I think that's word. And and a Pronter is some kind of a developers community
+
+[00:50] within, ECM. I think that's word. Alright. So my name is Michel Bowens. I'm originally from Belgium, but I've been living here for twenty three years now, longer than Shane, I think. And I'm the founder of the p two p foundation, so I'm kind of observe the scene, you know, p to p stuff, commons oriented stuff without being a technical person myself.
+
+[01:19] Hi. I'm David. I'm a software engineer. I love open source, and I try to make everything open source, and I think open source is the future. So I discovered the Nix a NixOS project, five years ago, and it solved a lot of problems for me, so I became a contributor. But I don't wanna talk too much about that specifically today.
+
+[01:44] More about, open source in general and why it's important, and maybe like, yeah, how we need to shift our mindsets to to make more use of open source in the future. Yeah. I don't we don't have a host, so Yeah. Maybe I can introduce a little bit more about the P2P Foundation because I just read in some book.
+
+[02:09] I think Satoshi is like maybe it's like 10 or more than ten years before he 2009. 2009. Yeah. He announced some kind of open source software called e cache or right? Yeah. That was on that was on the p two foundation site. Yeah. I think it's 0.1
+
+[02:33] version of client. That piece of software he call. He just announced that on p w p foundations firm. Right? Yes. And he gave a different version of introduction than other firm. And yeah, it's actually whole start off, you know, the blockchain in industry.
+
+[02:57] Yeah. Okay. Yeah. Maybe I'll I'll give some kind of assessment like, what's the difference between open source and then decentralized crypto. So I think, for me, the importance of open source is, you know, it's much more than sharing. It's basically a technology for globally coordinating,
+
+[03:20] labor, labor and code. And so what that means historically as a pivot for me is the capacity for trans local self organization. So we used to be able to create physical communities, you know, at scale by traveling fast and stuff like that. But the actual capacity to have real time self organization
+
+[03:42] dates from, in my view, '93 with the browser and the web, and then this capacity to to basically work together through signaling. Right? Mutual signaling, sometimes called stigmerges, the language of the bees and the ants. So this was, I think, the first step. The second step for me was in Bitcoin. So as you said, it it was published,
+
+[04:05] on my site. And apparently, I'm the first and the last person to have communicated with Satoshi outside of the crypto mailing list. But what's important about Bitcoin is, of course, the first scalable globally scalable socially sovereign currency that didn't depend on a state or a corporation. But more importantly, or as importantly,
+
+[04:28] the the blockchain ledger was the first universal ledger. Right? So the first time in history, we have a global accounting system. We can all be connected. We can all exchange value and see the impacts basically in three d. So the problem that we had with open source in my view is that the people who interacted with the market could make a living, but the people who were doing the core collective work
+
+[04:55] had difficulties. Right? And that was like an open invitation for these big multinational corporations to come in. I'm not saying they control, open source, but they have an inordinate influence because they're, for example, in the index paying 2,000 people every year, you know, IBM and etcetera etcetera. And so I think where crypto then comes in is to create an economic model
+
+[05:19] to pay for the people in the core. First to the ICO model, which, you know, reserve usually 40% for the workers, in these projects. So that was already like an enormous innovation. And then secondly, with public goods funding, which is basically the way I see the self taxation, and then, putting that money, for collective,
+
+[05:42] action, for for collective infrastructure. And I think this is where we are today. So today, Kevin O'Wockey wrote, I think, an important article. He's saying the party is over. So what he meant is, if you haven't seen it in On X, is that the public goods funding is actually seriously drying up at this particular moment. It's I'm not thinking it's gonna disappear because all these projects will need a collective infrastructure.
+
+[06:11] But let's say this kind of luxury that we had to experiment and not be very efficient and start over a few times, which by the way, a very good thing. Right? If the I know if you noticed, but the reason we have rock and roll is because we had unemployed money in in the sixties and the seventies, and so young people could actually not be efficient and play music.
+
+[06:34] And so the whole culture, the whole counter culture is actually linked to that kind of financing. And so I think the way I look at crypto financing as it is gigantic r and d lab. A lot of things don't work, but the amount of creativity, you know, in cross fertilization that it allowed is really important. Okay. I'm just gonna finish with something that I feel is very important.
+
+[06:59] So my critique, on crypto is basically that it's too detached from the physical world. So, you know, I went to a few fun funding the commons, and typically, you'll have people like us, saying, oh, we should do this. We should do that. And then coming up with great ideas. Let's have software to connect organic consumers and producers. Right? Great idea. Yeah. Except there are 300 of them already.
+
+[07:26] And so people don't do their homework. They're not connected to the physical world. They're not connected to real communities. And for me, this is the big change. So this is what I call cosmo localism. What is heavy is local and what is light is global and shared. We really need to connect in my view to decentralized physical production, to all these thousands and tons of communities of people who are regenerating our planet, you know, healing the soils,
+
+[07:56] producing organic food, renewable energy, and they need stuff. They usually don't like crypto and don't like Web three. They have not always prejudices because there's a lot of fraud and crime in it. So they have, you know, justifiable critiques, but they also need it. They need globally coordinating
+
+[08:20] technology that makes them stronger. And so okay. I'll finish. So I see basically a connection between localism, so relocalizing physical production, bioregionalism, creating complementary solidarities within an eco region or a bioregion, and then cosmolocalism being the link, basically with global knowledge sharing and even capital sharing. So my dream is the following, is to have fractal capital
+
+[08:48] that is able to go from the, you know, the 5,000,000,000,000 that is floating, in web three and actually go down to these local, product projects without changing their nature. So by respecting their values and and principles, and probably to some forms of fractal, ownership
+
+[09:11] where we can have micro ownership that doesn't control the local projects. So so that's kind of what I wanted to say and, whoever wants to intervene next. Are there any questions towards what Michel just talked about? Okay. Then I'll continue with an with an with another issue that I see as an operating system developer.
+
+[09:37] I'll I'll start with a little story that explains the issue, I think. So roughly one year ago, during some of the some some crypto hype, friends of me in Chiang Mai, they they they they started, using using Bitcoin a little bit. So, like, I I helped friends here and there to install a Bitcoin wallet and then when we I don't know. When you paid for stuff for each other,
+
+[10:01] we were paying each other back in in Bitcoin or whatever. So when there was this one friend, which I say, oh, yeah. Cool. You wanna you wanna you wanna join this as well? I'll I'll help you install the Phoenix Wallet because it's the one that works the best for Lightning. And it wasn't available in in the App Store. He had an iPhone. It wasn't available in the App Store. And I was like, that is very strange. We just installed it on another friend's iPhone. Like, how how can that be? So I I researched a bit and I found out I don't remember the reason. But for some reason, because he was a US citizen,
+
+[10:38] this Bitcoin wallet was not available. One of the most famous Bitcoin wallet was not available on the App Store for him. So there was no way for him to install it. So he ended up not using Bitcoin because of that. And while right now that might not be the biggest issue because he can just use another Bitcoin wallet, it it it kind of shows the amount of control that,
+
+[11:02] Big Tech has. So what what I'm worried about is, whatever we are building here, whatever cool stuff we develop, whatever cool smart contracts, zero knowledge, whatever we we're developing, if we're in a situation where big tech can just prevent us from installing it on the devices, which they already do to some degree, like, what's it all worth? And and my kind of what
+
+[11:29] what I would like to see is or or my question would be, like, what what is the plan of the Ethereum community to prevent that long term? And what what what what can we do to to not be in that situation? I think maybe the short answer is like just like an open source moment is a
+
+[11:53] is a routine like a free software. Right? You have to control the whole control of your code, source code, full control of your software. Yeah. If if the future is like, you know, the big tech company just control everything, control everything like on your laptop, control everything like on your phones, I the answer is like is that maybe
+
+[12:18] decentralized applications. And, and obviously, the decentralized applications, if you trust those kind of applications to be decentralized, you it happen have to be like open source. The logic is very linear. It's very simple because, maybe that is one,
+
+[12:41] I don't know, solution. And another solution is like, okay, the Big Tech actually already control our laptops and, and our phones. And in the future, they are gonna control artificial intelligence for sure. And, so what kind of I don't know. Maybe blockchain or open source community can do about that. Yeah.
+
+[13:08] Yeah. I so in in my view, the, you know, kind of the dream of a global decentralized technology is, in a sense, not realistic because the control is firmly in the hands of these big companies. But I wouldn't under underestimate the capacity of small communities tooling together.
+
+[13:30] And of course, it's invisible. You're not visible to the outside world, but you can build very strong alternative infrastructures. And I I just came back from five weeks in China, traveled with Uncommons for a book tour. And you know what? The first thing I noticed is that all the people that I met know everything, basically. Right? So any anybody who has an image that Chinese people are not aware of current affairs because they, you know, there's a firewall and all these things,
+
+[14:05] they find ways. Right? So some sometimes people say in Thailand, sorry for the Thai men here, you know, you have two phones, one for the wife and one for the mistress. And in China, it's, sorry. It's one one for, you know, for China and the western phone. Right? So they have a second phone which is basically dedicated to monitoring the nodes,
+
+[14:30] the other nodes that they can normally access. And maybe they do it only once a week, but things circulate. And so I think this is I I don't think we're much more free here in the West, by the way. I think we since four, five years, we have an extraordinary amount of censorship in the West. I met an American professor who says he's more free to speak to his students in China than he was in New York. So we're not free.
+
+[14:54] We're no longer free either. And but we have this capacity to link peer to peer. And it's never gonna be perfect, but, you know, for people actually like me who have been deep bank, deep PayPal, deep platforms, there are ways. And for me, Bitcoin has has been a lifesaver. I I could no longer make a living and get paid,
+
+[15:18] and now I can. And I think this is it's never a dream situation, but it's something very real if you're in that situation. So I I would just say we have to continue to self organize, make these horizontal connections. And, by the way, I don't I don't remember what exactly happened last week. You know, technology outing and it turned out half of the decentralized apps were out as well. So in other words, they were not decentralized.
+
+[15:46] And I and but I think that's normal. I don't think there's a fireproof way. But, you know, where there's a will of human beings that want to do something, then we make the effort to go around the obstacles and that's the only way. Yeah. I think there will always be some way. I'm I'm I think I'm generally just worried about that that the
+
+[16:10] only way that will be left For example, if if Apple one day decides that all these crypto apps are not available anymore and Google decides it as well, then it will not be available for 95% of the devices or 99% of the devices. Right? And then, of course, there will be ways, but maybe it you have to be a software engineer or maybe you have to be a tech geek, in order to to use that. Right?
+
+[16:35] And and, like like, reason I'm talking about this because I think there is there there there's there's a there's a good way to prevent that and I think most people are not aware of this, and that is making sure that all of the software that's on your device is open source. Alright? That's a very simple fix for that that problem because if my device runs open source software,
+
+[16:57] I am in control. I can decide what I install on this device and what I don't want to install on this device. Right? And I feel, I feel a lot of people, even if they do cool things, they develop on a cool crypto project, they don't really think about that. They like, there's there's lots of developers who who develop apps, but they're not even using an open source operating system for themselves.
+
+[17:21] So if if if if if if we are not switching to open source operating systems, then then how can it ever get adoption? And so I'm just worried that this could develop into a problem. Yeah. Actually, Michelle just mentioned about, you know, public goods and public goods funding. Yeah. Yeah. The simple solution is like against the tech, big tech companies control is like open
+
+[17:47] source, right? But the problem is always open source is like is always not being funded. For example, a lot of as far as I know, I I I'm also a engineer before. A lot of, you know, are not well funded. That's one thing. And I think it's like it's kind of prevent,
+
+[18:10] you know, people entering in this. Of course, for example, Linux is very prevailed like in the servers in our tree and part of the desktop. Right? I guess. Yeah. And but but it's not enough. It's not enough. Yeah. Yeah. But why I think
+
+[18:33] that maybe decentralized application can be a contribution is like, okay, we we can criticize critics, you know, say, the crypto is always hype and always dumps that that kind of stuff. It's like gambling or or it is gambling. It's it's a casino. But
+
+[18:56] from other point of view, maybe it's it's a open market and and maybe you can provide some kind of, you know, funding mechanism to, you know, for the open source. That's we are and as I just said Right. Yeah. Yeah. As I just said, okay. The solution maybe to the big tech big big scary tech companies like decentralized applications with open source. And maybe
+
+[19:23] another stuff is like with the decentralized application, open source is like, we can, you know, use the the energy of our crypto. I don't know. Yeah. I'll make a confession. I'm actually not using open source. I I used to. And then I spent maybe ninety minutes a day solving all kinds of technical issues,
+
+[19:46] which, you know, is fun for a lot of you guys, but not for me. I just hated doing that. And so, yeah, I went back to even Microsoft. And I I can actually tell you when I was using open source, the person who installed Ubuntu on my laptop also installed the Keylog software.
+
+[20:11] So there I was with open source, but, I had to spy on my open source computer. I won't tell you the details, but it was pretty bad. My emails were hacked. My income was filtered. Many things happened. So I I why am I saying this? Because I I I really want to stress it's not an issue of technology alone. It's,
+
+[20:36] for example, I like logos. I don't know about their technology if it's good or bad. I know I rarely speak with Jared Hope and Sterling, but what I like is they do both. They, have privacy software so they can communicate safely, but they also have circles. Right? They have like 20 different groups in the world and I think that's the way to do it. It's never technology alone. It's this combination of, you know, collective action
+
+[21:04] enabled and aided by technology and thus I think, ultimately how we should see see things. Okay. Do we have any questions, interventions? It I think it's very hard to change people's minds, but, you know, I I I I'm a next start up for myself.
+
+[21:50] And, you know, I was talking to somebody in, like, biology start ups And, you know, his experience was if I had known what I know now, which is I had to spend $80,000,000 to protect my IP, if I had done open source, I would have been, like, 20 times further today. Right? So I I you can change people's minds,
+
+[22:15] but I think there's plenty of examples that you can show, right, that open source is a viable strategy and that in many many successful industry sectors, open source is actually very widespread. But, you know, people have prejudices. For example, I like coops. I get other people in China say, oh, coops, they never work.
+
+[22:39] Say, what? There are more people working for coops in the world than for multinationals. What are you talking about? Coops don't work. So people have prejudices. They they have, you know, fixed ideas. And so, yeah, know, give them examples of actual things that are actually happening. I think that's always, powerful, information that they can use. I think I
+
+[23:03] believe one thing that, can't be underestimated is is what do the people want. Right? Like, if if if more people demand open source, then there would be more business models automatically around open source. Right? For example, right now, I don't I don't see a lot of people who say, oh no, I don't want to prove I do not want to use a proprietary messenger. I want to use an open source messenger because it's better for my privacy. I can trust encryption and and and and I think it's a mind shift and I think
+
+[23:36] what what what we can do is just start using it and advocating it to our friends and family to use that. Right? I I I think it's a little bit similar to to fast food. Right? Or I guess originally when fast food was was invented, the the people did not know about it a lot. They went to the fast food restaurant, ate the fast food. It tastes it tastes great. I feel good. That's cool. That's the way to go. And I feel we have a bit similar situation where this fast food is the proprietary software that we can consume every day. And and I think,
+
+[24:12] if we manage that we we develop a kind of a thinking in the society that that this is not really good for me. I I I demand open source for certain things. If more people do that, I think more businesses would automatically, have to deliver that. And I I think that that that's what we as an individual can can do. Just just use it and and promote it.
+
+[24:42] I think one solution to attract more engineering open source or team team or source is like, we have to change some kind of commercial commercial paradigm. For example, like, why all those, big tech company are controlling the desk
+
+[25:07] desktops? You know, you're using like Microsoft. Of course, I'm using also, you know, also Mac. It's because actually they are commercially prevail. They are actually distributing, everywhere around the world actually. It's it's not just because like yeah, frankly speaking, we are not to be we we don't have to be like a ideologist
+
+[25:35] to say that to to say that that that kind of a prevail. But the central stuff is like they're going through the market competition and they are beating their competitors And they come come up with a better business model
+
+[25:58] and though and so they are prevail. Of course, these these are obviously, but the problem is, like, we have to come up with, you know, a better paradigm. Paradigm shifting commercial model to to to say, okay, for example, like a messengers. Okay. The open source ones are beating the
+
+[26:23] actually they are beating. I think signal, teragrams actually, they're beating the the not the closed source ones. But we have to, you know, to introduce more that kind of a paradigm, I guess. And so so I I think the first thing is like we'll
+
+[26:45] have to find some way to get to the open source teams finally. And second is like, we have to seek some kind of, you know, commercial paradigms to to have it to prevail or or otherwise we have to accept the the truth. It's like the big tech tech company control the artificial intelligence.
+
+[27:11] And from my friends, Jen's point of view, maybe their artificial intelligence is gonna destroy the human being. So so is that maybe that's the end of the world. I I don't know. Well, maybe just a good example and, you know, I don't I don't follow it very closely, but it seems to me that the Chinese open source AI Mhmm. You know, is really challenging the
+
+[27:34] the proprietor model of The US companies. Ah, yes. DeepSeek. Yeah. DeepSeek. And today, I was actually talking to some friends, in France, and they they, they are talking about community managed AI. They were giving me examples. For example, a group in New Zealand where they're kind of, you know, restoring their language, you know, one of these
+
+[28:01] native New Zealand languages. I'm not sure how which one it was. But they've used the community AI, you know, open source AI. They manage it themselves, and they they seem to have been very successful doing that. Right? So I think there's always ways around. Right? So that's the thing. It's like if you have some goal in mind
+
+[28:25] and yeah. Then it's safer for you to use open source. Definitely. Right? If you don't use open source, you will always be vulnerable to, you know, if you're if you're deranging some people that they will just cut, the faucet. And if you use decentralized open source tools, you you have a way around it.
+
+[28:50] So, you know, I used to think that, because you I'm I used to be more of an activist. And so the idea was, okay, everything you do public facing should be on the big public platforms. You know, Facebook, x, because that's where the people are. So that was my idea. But everything you do internally should be open source and decentralized because you don't want to be you don't wanna be destroyed,
+
+[29:15] by people who are, you know, who don't agree with what you're doing. I think that's no longer the case. I think certainly in the world that you move in, you know, I work with Uncommons, what you know, 400 people, 80 channels on Telegram. I needed I think I would need a full time day just to follow
+
+[29:38] one group. And so I think, unfortunately, the time of this public media is is finished. Like, that's not where it's happening. You know, it's I go back to my old Facebook groups. They're dead. On X, there's no discussion on X. Only place where I I find dynamic discussions without,
+
+[30:02] anger is Substack. I don't think it's I'm not sure it's open source. I don't think so. But that seems to that's the only thing that works for me. And then, you know, I yeah. It's great to have telegram and signal, but everything is balconized. Right? And this is a big problem. Like, I'm very sad that the old world is no longer there because people are not it's it's very hard to circulate,
+
+[30:28] knowledge now again. Everybody is in their small groups and they don't know what what the other group is doing. And so that's my example, you know, from the Funding the Commons that these developers, they don't know what's happening and they don't they're not even looking it up. And so everybody is now in these very small islands. And, yeah, I have no solution for that. I think this is for the moment what the situation is.
+
+[30:58] Okay. Is there other any opinions or questions from the audience? Training data, you mean the machine learning training data or For AI. For AI. I I
+
+[31:21] think part of open source has to be that you need to be able to reproduce whatever you consume. Otherwise, the source is there to make that thing. That's what open source is about. It's it's not it's not available. Right? So it's not open source. The model the the the the artifact is available, but I think open source is about you being able to change things, to control things, to modify things.
+
+[31:50] So I think it's not open source. So I I don't know. Yeah. I I don't know the name, but maybe just something and I'm maybe a lot of of you know this already, but I didn't. I just got this recently. So I think it's called data spaces. And I so I'm just discovering that there are hundreds and hundreds of coalitions now,
+
+[32:19] bundling their data. And it's not necessarily open source open source, but they are like open source within within themselves. Right? They they, and this is I think very good. They so a few years ago, I proposed a new type of license. It it it's, basically, it's called copy fair. And so, you know, just to,
+
+[32:42] to explain the logic of it, you know, the more communistic your license, the more capitalistic the practice. Right? So if you allow everybody in, the big companies come in and they dominate your your open source, and then copy left, you can only use it if you pay or if you have private permission. So in between, I think there is space
+
+[33:05] for copy fair and that is it's basically open source within a cooperative environment. Right? So so basically, in French we say, reciprocity en francais. So stronger reciprocity requirements. Like, you can use so the knowledge is still free, but if you wanna make money with it, you have to contribute to the building of it. Right?
+
+[33:30] The the the license didn't make it, but, actually, if you look at the Creative Commons, you will see that the combination of commercial and non commercial is the same thing. Right? It's it's basically saying, everybody can use it non commercially, but if you wanna use it commercially, there's added. So that's actually what it is. It's copy that's copy fair principle. So in practice, it's used a lot.
+
+[33:55] And, what I just discovered is that indeed these data space coalitions, that's what they're doing. And I think that's very good news because that means that, you know, anybody who has an immaterial interest is actually organizing themselves against these big tech takeovers. Right? To me, actually, I used to be our
+
+[34:20] deep learning training engineer. The problem with the open source code here is I think maybe we need a new kind of license or or or protocol. Or what I mean by that is actually do you guys know why all those LIMs actually getting better and better in coding? It's actually they are training or we are training because I also doing
+
+[34:47] that kind of jobs. We're training based on the open source code actually, MATLAB or Samsung. GitHub or all those kind of open source code or projects. But but they actually didn't pay anything, I guess. Or I'm not guessing, I assume.
+
+[35:10] They didn't they didn't pay anything on the open source code. They just use it and do some kind of, you know, deep learning training and to gather your model around better and better and and and yeah. May and make another
+
+[35:33] other people are charging other people to using it. So one thing it's, you know, in the open source world is like it's hard to suit them because because because it's there. And and and I I I don't think that they
+
+[35:55] are the license now or the protocol now, for example, MIT for the license and preventing that kind of conduct. And another stuff is like, if you if you it didn't feel well, it's because like, okay, I use those kind of codes. I have a better,
+
+[36:20] you know, coding LLM and I charge people to using it. And the the the source data, I don't have to it didn't feel good. But but I think maybe we we should have some kind of protocol to to do that. I don't know. Yeah. The question is always how to how that if the protocol is technically feasible. Right?
+
+[36:47] But I I I I generally think is like as having stuff as open as possible is is is is a good way. And sometimes people don't make money off of it. But still, in the end, it results in something that's useful. And I also think like, if people would demand open source more, like the the amount of there is a funding issue around open source, but but if you think about it, there's also much less funding needed for open source because
+
+[37:17] if company don't use open source, what they usually do, they pay for a company $1,000,000 to to to to build a solution that has already been built by 100 other companies. So it's basically a waste of money. Instead, these 100 companies could have been investing maybe just $5,000,000 together to build a solution that fits all of them. Right? So I think
+
+[37:42] I think good software doesn't need that much investment as many people say. It like, if enough people demand it, a little bit of investment by different entities is enough. I think we have five minutes left, so maybe we can take one question. Yeah. Okay. So
+
+[38:07] I I do want to live in a decentralized world, but there are so many different decentralized worlds. Like, for example, like, Cosmo Localism. Yeah. It's I think it's a good decentralized world for me if it can be implemented. And there are some bad ones like a dark forest. Like, everyone just runs on this, like, a self interest
+
+[38:32] and the world follows the rules of the Darwinism. So people have to hide their identities and not being seen. And look at today's society, I feel like we're running on this like bollock mode. It's basically just like competition, accumulation, optimization, and control.
+
+[38:56] And this is a meta attractor which is also inhibits within the the mind to the collective consciousness. And we with having this kind of way of thinking, what kind of decentralized world our approach will lead us to? Yeah. That's the question. Yeah.
+
+[39:20] Difficult question. Yeah. So okay. This is kind of a profound question. You know, how utopian can we be? So I you know, when I, for example, look at Bitcoin and why it's successful, I think it's successful because it combines motivations.
+
+[39:44] Right? It's open source. It's community driven, but it's also you can make money with it. And it's it's that precise combination which had made it super successful. If you do it purely, let's say, in an utopian way based on the altruistic, motivations alone, I'm
+
+[40:09] not sure it works. I mean, it can work for a time. You know, for example, what you see in a nonprofit world is very typical. It's like, you know, people create something, they're in you know, I'm the same. You're passionate, you're enthusiastic. And then after five years, people are exhausted. Right? And either you succeed in having a new leadership or or your project is done. Right? And it's it's those projects that actually succeed in creating
+
+[40:36] this kind of mix. And so, you know, philosophically, depends on your position. You know. So the critique of the present system, of course, could be, you know, the the liberal ideas that if we're all selfish, then we create wealth and that will be good for everybody. Right? And that's unique in the history of civilization because even empires as violent as they were, they believed in something. Right? They had these
+
+[41:02] Buddhism, Christianity, they had these high ideals that that were motivating them. And, yeah, I think it's time to get to get back to something more balanced in in our civilizations. Alright. Let's conclude it like this. Thanks for the discussion. Thank you, guys. Thank you. Thank you.
+
+[41:40] Thank you so much for joining us today and it's been very, very great discussion. And, so we truly appreciate all of the insight and energy you brought to this room. And now let's wrap up with the music and DJ time. Thank you so much. Enjoy the rest of the time.

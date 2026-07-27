@@ -12070,6 +12070,1406 @@
   "we're gonna have a one more fire chat. So just stay tuned and see you guys later."
  ],
  [
+  9,
+  0,
+  "And get us toward a truly decentralized future. Now let's warmly welcome our speakers, York, the core contributor of Flanker, and Michelle B"
+ ],
+ [
+  9,
+  15,
+  "onas, the founder of p two p founders, and also, David, the sorry. The the the contributor. Welcome. Who starts?"
+ ],
+ [
+  9,
+  27,
+  "Yeah. Me? Yeah. So so we start with introduction. Like two minutes. Yeah. Just who you are. Okay. I'm York. And as she said, I'm a core cont"
+ ],
+ [
+  9,
+  40,
+  "ributor of a planter. I think that's word. And and a Pronter is some kind of a developers community"
+ ],
+ [
+  9,
+  50,
+  "within, ECM. I think that's word. Alright. So my name is Michel Bowens. I'm originally from Belgium, but I've been living here for twenty th"
+ ],
+ [
+  9,
+  62,
+  "ree years now, longer than Shane, I think. And I'm the founder of the p two p foundation, so I'm kind of observe the scene, you know, p to p"
+ ],
+ [
+  9,
+  73,
+  " stuff, commons oriented stuff without being a technical person myself."
+ ],
+ [
+  9,
+  79,
+  "Hi. I'm David. I'm a software engineer. I love open source, and I try to make everything open source, and I think open source is the future."
+ ],
+ [
+  9,
+  90,
+  " So I discovered the Nix a NixOS project, five years ago, and it solved a lot of problems for me, so I became a contributor. But I don't wan"
+ ],
+ [
+  9,
+  100,
+  "na talk too much about that specifically today."
+ ],
+ [
+  9,
+  104,
+  "More about, open source in general and why it's important, and maybe like, yeah, how we need to shift our mindsets to to make more use of op"
+ ],
+ [
+  9,
+  115,
+  "en source in the future. Yeah. I don't we don't have a host, so Yeah. Maybe I can introduce a little bit more about the P2P Foundation becau"
+ ],
+ [
+  9,
+  127,
+  "se I just read in some book."
+ ],
+ [
+  9,
+  129,
+  "I think Satoshi is like maybe it's like 10 or more than ten years before he 2009. 2009. Yeah. He announced some kind of open source software"
+ ],
+ [
+  9,
+  143,
+  " called e cache or right? Yeah. That was on that was on the p two foundation site. Yeah. I think it's 0.1"
+ ],
+ [
+  9,
+  153,
+  "version of client. That piece of software he call. He just announced that on p w p foundations firm. Right? Yes. And he gave a different ver"
+ ],
+ [
+  9,
+  166,
+  "sion of introduction than other firm. And yeah, it's actually whole start off, you know, the blockchain in industry."
+ ],
+ [
+  9,
+  177,
+  "Yeah. Okay. Yeah. Maybe I'll I'll give some kind of assessment like, what's the difference between open source and then decentralized crypto"
+ ],
+ [
+  9,
+  188,
+  ". So I think, for me, the importance of open source is, you know, it's much more than sharing. It's basically a technology for globally coor"
+ ],
+ [
+  9,
+  199,
+  "dinating,"
+ ],
+ [
+  9,
+  200,
+  "labor, labor and code. And so what that means historically as a pivot for me is the capacity for trans local self organization. So we used t"
+ ],
+ [
+  9,
+  210,
+  "o be able to create physical communities, you know, at scale by traveling fast and stuff like that. But the actual capacity to have real tim"
+ ],
+ [
+  9,
+  221,
+  "e self organization"
+ ],
+ [
+  9,
+  222,
+  "dates from, in my view, '93 with the browser and the web, and then this capacity to to basically work together through signaling. Right? Mut"
+ ],
+ [
+  9,
+  232,
+  "ual signaling, sometimes called stigmerges, the language of the bees and the ants. So this was, I think, the first step. The second step for"
+ ],
+ [
+  9,
+  241,
+  " me was in Bitcoin. So as you said, it it was published,"
+ ],
+ [
+  9,
+  245,
+  "on my site. And apparently, I'm the first and the last person to have communicated with Satoshi outside of the crypto mailing list. But what"
+ ],
+ [
+  9,
+  255,
+  "'s important about Bitcoin is, of course, the first scalable globally scalable socially sovereign currency that didn't depend on a state or "
+ ],
+ [
+  9,
+  264,
+  "a corporation. But more importantly, or as importantly,"
+ ],
+ [
+  9,
+  268,
+  "the the blockchain ledger was the first universal ledger. Right? So the first time in history, we have a global accounting system. We can al"
+ ],
+ [
+  9,
+  277,
+  "l be connected. We can all exchange value and see the impacts basically in three d. So the problem that we had with open source in my view i"
+ ],
+ [
+  9,
+  287,
+  "s that the people who interacted with the market could make a living, but the people who were doing the core collective work"
+ ],
+ [
+  9,
+  295,
+  "had difficulties. Right? And that was like an open invitation for these big multinational corporations to come in. I'm not saying they contr"
+ ],
+ [
+  9,
+  304,
+  "ol, open source, but they have an inordinate influence because they're, for example, in the index paying 2,000 people every year, you know, "
+ ],
+ [
+  9,
+  313,
+  "IBM and etcetera etcetera. And so I think where crypto then comes in is to create an economic model"
+ ],
+ [
+  9,
+  319,
+  "to pay for the people in the core. First to the ICO model, which, you know, reserve usually 40% for the workers, in these projects. So that "
+ ],
+ [
+  9,
+  329,
+  "was already like an enormous innovation. And then secondly, with public goods funding, which is basically the way I see the self taxation, a"
+ ],
+ [
+  9,
+  339,
+  "nd then, putting that money, for collective,"
+ ],
+ [
+  9,
+  342,
+  "action, for for collective infrastructure. And I think this is where we are today. So today, Kevin O'Wockey wrote, I think, an important art"
+ ],
+ [
+  9,
+  351,
+  "icle. He's saying the party is over. So what he meant is, if you haven't seen it in On X, is that the public goods funding is actually serio"
+ ],
+ [
+  9,
+  361,
+  "usly drying up at this particular moment. It's I'm not thinking it's gonna disappear because all these projects will need a collective infra"
+ ],
+ [
+  9,
+  370,
+  "structure."
+ ],
+ [
+  9,
+  371,
+  "But let's say this kind of luxury that we had to experiment and not be very efficient and start over a few times, which by the way, a very g"
+ ],
+ [
+  9,
+  380,
+  "ood thing. Right? If the I know if you noticed, but the reason we have rock and roll is because we had unemployed money in in the sixties an"
+ ],
+ [
+  9,
+  389,
+  "d the seventies, and so young people could actually not be efficient and play music."
+ ],
+ [
+  9,
+  394,
+  "And so the whole culture, the whole counter culture is actually linked to that kind of financing. And so I think the way I look at crypto fi"
+ ],
+ [
+  9,
+  403,
+  "nancing as it is gigantic r and d lab. A lot of things don't work, but the amount of creativity, you know, in cross fertilization that it al"
+ ],
+ [
+  9,
+  412,
+  "lowed is really important. Okay. I'm just gonna finish with something that I feel is very important."
+ ],
+ [
+  9,
+  419,
+  "So my critique, on crypto is basically that it's too detached from the physical world. So, you know, I went to a few fun funding the commons"
+ ],
+ [
+  9,
+  428,
+  ", and typically, you'll have people like us, saying, oh, we should do this. We should do that. And then coming up with great ideas. Let's ha"
+ ],
+ [
+  9,
+  438,
+  "ve software to connect organic consumers and producers. Right? Great idea. Yeah. Except there are 300 of them already."
+ ],
+ [
+  9,
+  446,
+  "And so people don't do their homework. They're not connected to the physical world. They're not connected to real communities. And for me, t"
+ ],
+ [
+  9,
+  455,
+  "his is the big change. So this is what I call cosmo localism. What is heavy is local and what is light is global and shared. We really need "
+ ],
+ [
+  9,
+  464,
+  "to connect in my view to decentralized physical production, to all these thousands and tons of communities of people who are regenerating ou"
+ ],
+ [
+  9,
+  474,
+  "r planet, you know, healing the soils,"
+ ],
+ [
+  9,
+  476,
+  "producing organic food, renewable energy, and they need stuff. They usually don't like crypto and don't like Web three. They have not always"
+ ],
+ [
+  9,
+  487,
+  " prejudices because there's a lot of fraud and crime in it. So they have, you know, justifiable critiques, but they also need it. They need "
+ ],
+ [
+  9,
+  498,
+  "globally coordinating"
+ ],
+ [
+  9,
+  500,
+  "technology that makes them stronger. And so okay. I'll finish. So I see basically a connection between localism, so relocalizing physical pr"
+ ],
+ [
+  9,
+  510,
+  "oduction, bioregionalism, creating complementary solidarities within an eco region or a bioregion, and then cosmolocalism being the link, ba"
+ ],
+ [
+  9,
+  520,
+  "sically with global knowledge sharing and even capital sharing. So my dream is the following, is to have fractal capital"
+ ],
+ [
+  9,
+  528,
+  "that is able to go from the, you know, the 5,000,000,000,000 that is floating, in web three and actually go down to these local, product pro"
+ ],
+ [
+  9,
+  540,
+  "jects without changing their nature. So by respecting their values and and principles, and probably to some forms of fractal, ownership"
+ ],
+ [
+  9,
+  551,
+  "where we can have micro ownership that doesn't control the local projects. So so that's kind of what I wanted to say and, whoever wants to i"
+ ],
+ [
+  9,
+  562,
+  "ntervene next. Are there any questions towards what Michel just talked about? Okay. Then I'll continue with an with an with another issue th"
+ ],
+ [
+  9,
+  574,
+  "at I see as an operating system developer."
+ ],
+ [
+  9,
+  577,
+  "I'll I'll start with a little story that explains the issue, I think. So roughly one year ago, during some of the some some crypto hype, fri"
+ ],
+ [
+  9,
+  586,
+  "ends of me in Chiang Mai, they they they they started, using using Bitcoin a little bit. So, like, I I helped friends here and there to inst"
+ ],
+ [
+  9,
+  595,
+  "all a Bitcoin wallet and then when we I don't know. When you paid for stuff for each other,"
+ ],
+ [
+  9,
+  601,
+  "we were paying each other back in in Bitcoin or whatever. So when there was this one friend, which I say, oh, yeah. Cool. You wanna you wann"
+ ],
+ [
+  9,
+  610,
+  "a you wanna join this as well? I'll I'll help you install the Phoenix Wallet because it's the one that works the best for Lightning. And it "
+ ],
+ [
+  9,
+  618,
+  "wasn't available in in the App Store. He had an iPhone. It wasn't available in the App Store. And I was like, that is very strange. We just "
+ ],
+ [
+  9,
+  627,
+  "installed it on another friend's iPhone. Like, how how can that be? So I I researched a bit and I found out I don't remember the reason. But"
+ ],
+ [
+  9,
+  635,
+  " for some reason, because he was a US citizen,"
+ ],
+ [
+  9,
+  638,
+  "this Bitcoin wallet was not available. One of the most famous Bitcoin wallet was not available on the App Store for him. So there was no way"
+ ],
+ [
+  9,
+  647,
+  " for him to install it. So he ended up not using Bitcoin because of that. And while right now that might not be the biggest issue because he"
+ ],
+ [
+  9,
+  656,
+  " can just use another Bitcoin wallet, it it it kind of shows the amount of control that,"
+ ],
+ [
+  9,
+  662,
+  "Big Tech has. So what what I'm worried about is, whatever we are building here, whatever cool stuff we develop, whatever cool smart contract"
+ ],
+ [
+  9,
+  672,
+  "s, zero knowledge, whatever we we're developing, if we're in a situation where big tech can just prevent us from installing it on the device"
+ ],
+ [
+  9,
+  682,
+  "s, which they already do to some degree, like, what's it all worth? And and my kind of what"
+ ],
+ [
+  9,
+  689,
+  "what I would like to see is or or my question would be, like, what what is the plan of the Ethereum community to prevent that long term? And"
+ ],
+ [
+  9,
+  701,
+  " what what what what can we do to to not be in that situation? I think maybe the short answer is like just like an open source moment is a"
+ ],
+ [
+  9,
+  713,
+  "is a routine like a free software. Right? You have to control the whole control of your code, source code, full control of your software. Ye"
+ ],
+ [
+  9,
+  723,
+  "ah. If if the future is like, you know, the big tech company just control everything, control everything like on your laptop, control everyt"
+ ],
+ [
+  9,
+  734,
+  "hing like on your phones, I the answer is like is that maybe"
+ ],
+ [
+  9,
+  738,
+  "decentralized applications. And, and obviously, the decentralized applications, if you trust those kind of applications to be decentralized,"
+ ],
+ [
+  9,
+  751,
+  " you it happen have to be like open source. The logic is very linear. It's very simple because, maybe that is one,"
+ ],
+ [
+  9,
+  761,
+  "I don't know, solution. And another solution is like, okay, the Big Tech actually already control our laptops and, and our phones. And in th"
+ ],
+ [
+  9,
+  773,
+  "e future, they are gonna control artificial intelligence for sure. And, so what kind of I don't know. Maybe blockchain or open source commun"
+ ],
+ [
+  9,
+  786,
+  "ity can do about that. Yeah."
+ ],
+ [
+  9,
+  788,
+  "Yeah. I so in in my view, the, you know, kind of the dream of a global decentralized technology is, in a sense, not realistic because the co"
+ ],
+ [
+  9,
+  799,
+  "ntrol is firmly in the hands of these big companies. But I wouldn't under underestimate the capacity of small communities tooling together."
+ ],
+ [
+  9,
+  810,
+  "And of course, it's invisible. You're not visible to the outside world, but you can build very strong alternative infrastructures. And I I j"
+ ],
+ [
+  9,
+  820,
+  "ust came back from five weeks in China, traveled with Uncommons for a book tour. And you know what? The first thing I noticed is that all th"
+ ],
+ [
+  9,
+  830,
+  "e people that I met know everything, basically. Right? So any anybody who has an image that Chinese people are not aware of current affairs "
+ ],
+ [
+  9,
+  840,
+  "because they, you know, there's a firewall and all these things,"
+ ],
+ [
+  9,
+  845,
+  "they find ways. Right? So some sometimes people say in Thailand, sorry for the Thai men here, you know, you have two phones, one for the wif"
+ ],
+ [
+  9,
+  855,
+  "e and one for the mistress. And in China, it's, sorry. It's one one for, you know, for China and the western phone. Right? So they have a se"
+ ],
+ [
+  9,
+  865,
+  "cond phone which is basically dedicated to monitoring the nodes,"
+ ],
+ [
+  9,
+  870,
+  "the other nodes that they can normally access. And maybe they do it only once a week, but things circulate. And so I think this is I I don't"
+ ],
+ [
+  9,
+  878,
+  " think we're much more free here in the West, by the way. I think we since four, five years, we have an extraordinary amount of censorship i"
+ ],
+ [
+  9,
+  886,
+  "n the West. I met an American professor who says he's more free to speak to his students in China than he was in New York. So we're not free"
+ ],
+ [
+  9,
+  894,
+  "."
+ ],
+ [
+  9,
+  894,
+  "We're no longer free either. And but we have this capacity to link peer to peer. And it's never gonna be perfect, but, you know, for people "
+ ],
+ [
+  9,
+  904,
+  "actually like me who have been deep bank, deep PayPal, deep platforms, there are ways. And for me, Bitcoin has has been a lifesaver. I I cou"
+ ],
+ [
+  9,
+  915,
+  "ld no longer make a living and get paid,"
+ ],
+ [
+  9,
+  918,
+  "and now I can. And I think this is it's never a dream situation, but it's something very real if you're in that situation. So I I would just"
+ ],
+ [
+  9,
+  927,
+  " say we have to continue to self organize, make these horizontal connections. And, by the way, I don't I don't remember what exactly happene"
+ ],
+ [
+  9,
+  936,
+  "d last week. You know, technology outing and it turned out half of the decentralized apps were out as well. So in other words, they were not"
+ ],
+ [
+  9,
+  945,
+  " decentralized."
+ ],
+ [
+  9,
+  946,
+  "And I and but I think that's normal. I don't think there's a fireproof way. But, you know, where there's a will of human beings that want to"
+ ],
+ [
+  9,
+  956,
+  " do something, then we make the effort to go around the obstacles and that's the only way. Yeah. I think there will always be some way. I'm "
+ ],
+ [
+  9,
+  966,
+  "I'm I think I'm generally just worried about that that the"
+ ],
+ [
+  9,
+  970,
+  "only way that will be left For example, if if Apple one day decides that all these crypto apps are not available anymore and Google decides "
+ ],
+ [
+  9,
+  979,
+  "it as well, then it will not be available for 95% of the devices or 99% of the devices. Right? And then, of course, there will be ways, but "
+ ],
+ [
+  9,
+  988,
+  "maybe it you have to be a software engineer or maybe you have to be a tech geek, in order to to use that. Right?"
+ ],
+ [
+  9,
+  995,
+  "And and, like like, reason I'm talking about this because I think there is there there there's there's a there's a good way to prevent that "
+ ],
+ [
+  9,
+  1003,
+  "and I think most people are not aware of this, and that is making sure that all of the software that's on your device is open source. Alrigh"
+ ],
+ [
+  9,
+  1011,
+  "t? That's a very simple fix for that that problem because if my device runs open source software,"
+ ],
+ [
+  9,
+  1017,
+  "I am in control. I can decide what I install on this device and what I don't want to install on this device. Right? And I feel, I feel a lot"
+ ],
+ [
+  9,
+  1025,
+  " of people, even if they do cool things, they develop on a cool crypto project, they don't really think about that. They like, there's there"
+ ],
+ [
+  9,
+  1034,
+  "'s lots of developers who who develop apps, but they're not even using an open source operating system for themselves."
+ ],
+ [
+  9,
+  1041,
+  "So if if if if if if we are not switching to open source operating systems, then then how can it ever get adoption? And so I'm just worried "
+ ],
+ [
+  9,
+  1051,
+  "that this could develop into a problem. Yeah. Actually, Michelle just mentioned about, you know, public goods and public goods funding. Yeah"
+ ],
+ [
+  9,
+  1061,
+  ". Yeah. The simple solution is like against the tech, big tech companies control is like open"
+ ],
+ [
+  9,
+  1067,
+  "source, right? But the problem is always open source is like is always not being funded. For example, a lot of as far as I know, I I I'm als"
+ ],
+ [
+  9,
+  1079,
+  "o a engineer before. A lot of, you know, are not well funded. That's one thing. And I think it's like it's kind of prevent,"
+ ],
+ [
+  9,
+  1090,
+  "you know, people entering in this. Of course, for example, Linux is very prevailed like in the servers in our tree and part of the desktop. "
+ ],
+ [
+  9,
+  1104,
+  "Right? I guess. Yeah. And but but it's not enough. It's not enough. Yeah. Yeah. But why I think"
+ ],
+ [
+  9,
+  1113,
+  "that maybe decentralized application can be a contribution is like, okay, we we can criticize critics, you know, say, the crypto is always h"
+ ],
+ [
+  9,
+  1126,
+  "ype and always dumps that that kind of stuff. It's like gambling or or it is gambling. It's it's a casino. But"
+ ],
+ [
+  9,
+  1136,
+  "from other point of view, maybe it's it's a open market and and maybe you can provide some kind of, you know, funding mechanism to, you know"
+ ],
+ [
+  9,
+  1146,
+  ", for the open source. That's we are and as I just said Right. Yeah. Yeah. As I just said, okay. The solution maybe to the big tech big big "
+ ],
+ [
+  9,
+  1157,
+  "scary tech companies like decentralized applications with open source. And maybe"
+ ],
+ [
+  9,
+  1163,
+  "another stuff is like with the decentralized application, open source is like, we can, you know, use the the energy of our crypto. I don't k"
+ ],
+ [
+  9,
+  1174,
+  "now. Yeah. I'll make a confession. I'm actually not using open source. I I used to. And then I spent maybe ninety minutes a day solving all "
+ ],
+ [
+  9,
+  1184,
+  "kinds of technical issues,"
+ ],
+ [
+  9,
+  1186,
+  "which, you know, is fun for a lot of you guys, but not for me. I just hated doing that. And so, yeah, I went back to even Microsoft. And I I"
+ ],
+ [
+  9,
+  1199,
+  " can actually tell you when I was using open source, the person who installed Ubuntu on my laptop also installed the Keylog software."
+ ],
+ [
+  9,
+  1211,
+  "So there I was with open source, but, I had to spy on my open source computer. I won't tell you the details, but it was pretty bad. My email"
+ ],
+ [
+  9,
+  1222,
+  "s were hacked. My income was filtered. Many things happened. So I I why am I saying this? Because I I I really want to stress it's not an is"
+ ],
+ [
+  9,
+  1234,
+  "sue of technology alone. It's,"
+ ],
+ [
+  9,
+  1236,
+  "for example, I like logos. I don't know about their technology if it's good or bad. I know I rarely speak with Jared Hope and Sterling, but "
+ ],
+ [
+  9,
+  1245,
+  "what I like is they do both. They, have privacy software so they can communicate safely, but they also have circles. Right? They have like 2"
+ ],
+ [
+  9,
+  1254,
+  "0 different groups in the world and I think that's the way to do it. It's never technology alone. It's this combination of, you know, collec"
+ ],
+ [
+  9,
+  1263,
+  "tive action"
+ ],
+ [
+  9,
+  1264,
+  "enabled and aided by technology and thus I think, ultimately how we should see see things. Okay. Do we have any questions, interventions? It"
+ ],
+ [
+  9,
+  1291,
+  " I think it's very hard to change people's minds, but, you know, I I I I'm a next start up for myself."
+ ],
+ [
+  9,
+  1310,
+  "And, you know, I was talking to somebody in, like, biology start ups And, you know, his experience was if I had known what I know now, which"
+ ],
+ [
+  9,
+  1321,
+  " is I had to spend $80,000,000 to protect my IP, if I had done open source, I would have been, like, 20 times further today. Right? So I I y"
+ ],
+ [
+  9,
+  1333,
+  "ou can change people's minds,"
+ ],
+ [
+  9,
+  1335,
+  "but I think there's plenty of examples that you can show, right, that open source is a viable strategy and that in many many successful indu"
+ ],
+ [
+  9,
+  1345,
+  "stry sectors, open source is actually very widespread. But, you know, people have prejudices. For example, I like coops. I get other people "
+ ],
+ [
+  9,
+  1356,
+  "in China say, oh, coops, they never work."
+ ],
+ [
+  9,
+  1359,
+  "Say, what? There are more people working for coops in the world than for multinationals. What are you talking about? Coops don't work. So pe"
+ ],
+ [
+  9,
+  1368,
+  "ople have prejudices. They they have, you know, fixed ideas. And so, yeah, know, give them examples of actual things that are actually happe"
+ ],
+ [
+  9,
+  1378,
+  "ning. I think that's always, powerful, information that they can use. I think I"
+ ],
+ [
+  9,
+  1383,
+  "believe one thing that, can't be underestimated is is what do the people want. Right? Like, if if if more people demand open source, then th"
+ ],
+ [
+  9,
+  1392,
+  "ere would be more business models automatically around open source. Right? For example, right now, I don't I don't see a lot of people who s"
+ ],
+ [
+  9,
+  1401,
+  "ay, oh no, I don't want to prove I do not want to use a proprietary messenger. I want to use an open source messenger because it's better fo"
+ ],
+ [
+  9,
+  1410,
+  "r my privacy. I can trust encryption and and and and I think it's a mind shift and I think"
+ ],
+ [
+  9,
+  1416,
+  "what what what we can do is just start using it and advocating it to our friends and family to use that. Right? I I I think it's a little bi"
+ ],
+ [
+  9,
+  1425,
+  "t similar to to fast food. Right? Or I guess originally when fast food was was invented, the the people did not know about it a lot. They we"
+ ],
+ [
+  9,
+  1434,
+  "nt to the fast food restaurant, ate the fast food. It tastes it tastes great. I feel good. That's cool. That's the way to go. And I feel we "
+ ],
+ [
+  9,
+  1444,
+  "have a bit similar situation where this fast food is the proprietary software that we can consume every day. And and I think,"
+ ],
+ [
+  9,
+  1452,
+  "if we manage that we we develop a kind of a thinking in the society that that this is not really good for me. I I I demand open source for c"
+ ],
+ [
+  9,
+  1464,
+  "ertain things. If more people do that, I think more businesses would automatically, have to deliver that. And I I think that that that's wha"
+ ],
+ [
+  9,
+  1476,
+  "t we as an individual can can do. Just just use it and and promote it."
+ ],
+ [
+  9,
+  1482,
+  "I think one solution to attract more engineering open source or team team or source is like, we have to change some kind of commercial comme"
+ ],
+ [
+  9,
+  1497,
+  "rcial paradigm. For example, like, why all those, big tech company are controlling the desk"
+ ],
+ [
+  9,
+  1507,
+  "desktops? You know, you're using like Microsoft. Of course, I'm using also, you know, also Mac. It's because actually they are commercially "
+ ],
+ [
+  9,
+  1519,
+  "prevail. They are actually distributing, everywhere around the world actually. It's it's not just because like yeah, frankly speaking, we ar"
+ ],
+ [
+  9,
+  1531,
+  "e not to be we we don't have to be like a ideologist"
+ ],
+ [
+  9,
+  1535,
+  "to say that to to say that that that kind of a prevail. But the central stuff is like they're going through the market competition and they "
+ ],
+ [
+  9,
+  1550,
+  "are beating their competitors And they come come up with a better business model"
+ ],
+ [
+  9,
+  1558,
+  "and though and so they are prevail. Of course, these these are obviously, but the problem is, like, we have to come up with, you know, a bet"
+ ],
+ [
+  9,
+  1570,
+  "ter paradigm. Paradigm shifting commercial model to to to say, okay, for example, like a messengers. Okay. The open source ones are beating "
+ ],
+ [
+  9,
+  1583,
+  "the"
+ ],
+ [
+  9,
+  1583,
+  "actually they are beating. I think signal, teragrams actually, they're beating the the not the closed source ones. But we have to, you know,"
+ ],
+ [
+  9,
+  1596,
+  " to introduce more that kind of a paradigm, I guess. And so so I I think the first thing is like we'll"
+ ],
+ [
+  9,
+  1605,
+  "have to find some way to get to the open source teams finally. And second is like, we have to seek some kind of, you know, commercial paradi"
+ ],
+ [
+  9,
+  1618,
+  "gms to to have it to prevail or or otherwise we have to accept the the truth. It's like the big tech tech company control the artificial int"
+ ],
+ [
+  9,
+  1630,
+  "elligence."
+ ],
+ [
+  9,
+  1631,
+  "And from my friends, Jen's point of view, maybe their artificial intelligence is gonna destroy the human being. So so is that maybe that's t"
+ ],
+ [
+  9,
+  1640,
+  "he end of the world. I I don't know. Well, maybe just a good example and, you know, I don't I don't follow it very closely, but it seems to "
+ ],
+ [
+  9,
+  1649,
+  "me that the Chinese open source AI Mhmm. You know, is really challenging the"
+ ],
+ [
+  9,
+  1654,
+  "the proprietor model of The US companies. Ah, yes. DeepSeek. Yeah. DeepSeek. And today, I was actually talking to some friends, in France, a"
+ ],
+ [
+  9,
+  1665,
+  "nd they they, they are talking about community managed AI. They were giving me examples. For example, a group in New Zealand where they're k"
+ ],
+ [
+  9,
+  1676,
+  "ind of, you know, restoring their language, you know, one of these"
+ ],
+ [
+  9,
+  1681,
+  "native New Zealand languages. I'm not sure how which one it was. But they've used the community AI, you know, open source AI. They manage it"
+ ],
+ [
+  9,
+  1691,
+  " themselves, and they they seem to have been very successful doing that. Right? So I think there's always ways around. Right? So that's the "
+ ],
+ [
+  9,
+  1702,
+  "thing. It's like if you have some goal in mind"
+ ],
+ [
+  9,
+  1705,
+  "and yeah. Then it's safer for you to use open source. Definitely. Right? If you don't use open source, you will always be vulnerable to, you"
+ ],
+ [
+  9,
+  1717,
+  " know, if you're if you're deranging some people that they will just cut, the faucet. And if you use decentralized open source tools, you yo"
+ ],
+ [
+  9,
+  1728,
+  "u have a way around it."
+ ],
+ [
+  9,
+  1730,
+  "So, you know, I used to think that, because you I'm I used to be more of an activist. And so the idea was, okay, everything you do public fa"
+ ],
+ [
+  9,
+  1739,
+  "cing should be on the big public platforms. You know, Facebook, x, because that's where the people are. So that was my idea. But everything "
+ ],
+ [
+  9,
+  1748,
+  "you do internally should be open source and decentralized because you don't want to be you don't wanna be destroyed,"
+ ],
+ [
+  9,
+  1755,
+  "by people who are, you know, who don't agree with what you're doing. I think that's no longer the case. I think certainly in the world that "
+ ],
+ [
+  9,
+  1766,
+  "you move in, you know, I work with Uncommons, what you know, 400 people, 80 channels on Telegram. I needed I think I would need a full time "
+ ],
+ [
+  9,
+  1777,
+  "day just to follow"
+ ],
+ [
+  9,
+  1778,
+  "one group. And so I think, unfortunately, the time of this public media is is finished. Like, that's not where it's happening. You know, it'"
+ ],
+ [
+  9,
+  1790,
+  "s I go back to my old Facebook groups. They're dead. On X, there's no discussion on X. Only place where I I find dynamic discussions without"
+ ],
+ [
+  9,
+  1802,
+  ","
+ ],
+ [
+  9,
+  1802,
+  "anger is Substack. I don't think it's I'm not sure it's open source. I don't think so. But that seems to that's the only thing that works fo"
+ ],
+ [
+  9,
+  1811,
+  "r me. And then, you know, I yeah. It's great to have telegram and signal, but everything is balconized. Right? And this is a big problem. Li"
+ ],
+ [
+  9,
+  1821,
+  "ke, I'm very sad that the old world is no longer there because people are not it's it's very hard to circulate,"
+ ],
+ [
+  9,
+  1828,
+  "knowledge now again. Everybody is in their small groups and they don't know what what the other group is doing. And so that's my example, yo"
+ ],
+ [
+  9,
+  1838,
+  "u know, from the Funding the Commons that these developers, they don't know what's happening and they don't they're not even looking it up. "
+ ],
+ [
+  9,
+  1848,
+  "And so everybody is now in these very small islands. And, yeah, I have no solution for that. I think this is for the moment what the situati"
+ ],
+ [
+  9,
+  1858,
+  "on is."
+ ],
+ [
+  9,
+  1858,
+  "Okay. Is there other any opinions or questions from the audience? Training data, you mean the machine learning training data or For AI. For "
+ ],
+ [
+  9,
+  1880,
+  "AI. I I"
+ ],
+ [
+  9,
+  1881,
+  "think part of open source has to be that you need to be able to reproduce whatever you consume. Otherwise, the source is there to make that "
+ ],
+ [
+  9,
+  1891,
+  "thing. That's what open source is about. It's it's not it's not available. Right? So it's not open source. The model the the the the artifac"
+ ],
+ [
+  9,
+  1901,
+  "t is available, but I think open source is about you being able to change things, to control things, to modify things."
+ ],
+ [
+  9,
+  1910,
+  "So I think it's not open source. So I I don't know. Yeah. I I don't know the name, but maybe just something and I'm maybe a lot of of you kn"
+ ],
+ [
+  9,
+  1923,
+  "ow this already, but I didn't. I just got this recently. So I think it's called data spaces. And I so I'm just discovering that there are hu"
+ ],
+ [
+  9,
+  1936,
+  "ndreds and hundreds of coalitions now,"
+ ],
+ [
+  9,
+  1939,
+  "bundling their data. And it's not necessarily open source open source, but they are like open source within within themselves. Right? They t"
+ ],
+ [
+  9,
+  1949,
+  "hey, and this is I think very good. They so a few years ago, I proposed a new type of license. It it it's, basically, it's called copy fair."
+ ],
+ [
+  9,
+  1960,
+  " And so, you know, just to,"
+ ],
+ [
+  9,
+  1962,
+  "to explain the logic of it, you know, the more communistic your license, the more capitalistic the practice. Right? So if you allow everybod"
+ ],
+ [
+  9,
+  1972,
+  "y in, the big companies come in and they dominate your your open source, and then copy left, you can only use it if you pay or if you have p"
+ ],
+ [
+  9,
+  1981,
+  "rivate permission. So in between, I think there is space"
+ ],
+ [
+  9,
+  1985,
+  "for copy fair and that is it's basically open source within a cooperative environment. Right? So so basically, in French we say, reciprocity"
+ ],
+ [
+  9,
+  1996,
+  " en francais. So stronger reciprocity requirements. Like, you can use so the knowledge is still free, but if you wanna make money with it, y"
+ ],
+ [
+  9,
+  2006,
+  "ou have to contribute to the building of it. Right?"
+ ],
+ [
+  9,
+  2010,
+  "The the the license didn't make it, but, actually, if you look at the Creative Commons, you will see that the combination of commercial and "
+ ],
+ [
+  9,
+  2019,
+  "non commercial is the same thing. Right? It's it's basically saying, everybody can use it non commercially, but if you wanna use it commerci"
+ ],
+ [
+  9,
+  2027,
+  "ally, there's added. So that's actually what it is. It's copy that's copy fair principle. So in practice, it's used a lot."
+ ],
+ [
+  9,
+  2035,
+  "And, what I just discovered is that indeed these data space coalitions, that's what they're doing. And I think that's very good news because"
+ ],
+ [
+  9,
+  2046,
+  " that means that, you know, anybody who has an immaterial interest is actually organizing themselves against these big tech takeovers. Right"
+ ],
+ [
+  9,
+  2057,
+  "? To me, actually, I used to be our"
+ ],
+ [
+  9,
+  2060,
+  "deep learning training engineer. The problem with the open source code here is I think maybe we need a new kind of license or or or protocol"
+ ],
+ [
+  9,
+  2071,
+  ". Or what I mean by that is actually do you guys know why all those LIMs actually getting better and better in coding? It's actually they ar"
+ ],
+ [
+  9,
+  2083,
+  "e training or we are training because I also doing"
+ ],
+ [
+  9,
+  2087,
+  "that kind of jobs. We're training based on the open source code actually, MATLAB or Samsung. GitHub or all those kind of open source code or"
+ ],
+ [
+  9,
+  2101,
+  " projects. But but they actually didn't pay anything, I guess. Or I'm not guessing, I assume."
+ ],
+ [
+  9,
+  2110,
+  "They didn't they didn't pay anything on the open source code. They just use it and do some kind of, you know, deep learning training and to "
+ ],
+ [
+  9,
+  2125,
+  "gather your model around better and better and and and yeah. May and make another"
+ ],
+ [
+  9,
+  2133,
+  "other people are charging other people to using it. So one thing it's, you know, in the open source world is like it's hard to suit them bec"
+ ],
+ [
+  9,
+  2148,
+  "ause because because it's there. And and and I I I don't think that they"
+ ],
+ [
+  9,
+  2155,
+  "are the license now or the protocol now, for example, MIT for the license and preventing that kind of conduct. And another stuff is like, if"
+ ],
+ [
+  9,
+  2170,
+  " you if you it didn't feel well, it's because like, okay, I use those kind of codes. I have a better,"
+ ],
+ [
+  9,
+  2180,
+  "you know, coding LLM and I charge people to using it. And the the the source data, I don't have to it didn't feel good. But but I think mayb"
+ ],
+ [
+  9,
+  2192,
+  "e we we should have some kind of protocol to to do that. I don't know. Yeah. The question is always how to how that if the protocol is techn"
+ ],
+ [
+  9,
+  2205,
+  "ically feasible. Right?"
+ ],
+ [
+  9,
+  2207,
+  "But I I I I generally think is like as having stuff as open as possible is is is is a good way. And sometimes people don't make money off of"
+ ],
+ [
+  9,
+  2217,
+  " it. But still, in the end, it results in something that's useful. And I also think like, if people would demand open source more, like the "
+ ],
+ [
+  9,
+  2226,
+  "the amount of there is a funding issue around open source, but but if you think about it, there's also much less funding needed for open sou"
+ ],
+ [
+  9,
+  2236,
+  "rce because"
+ ],
+ [
+  9,
+  2237,
+  "if company don't use open source, what they usually do, they pay for a company $1,000,000 to to to to build a solution that has already been"
+ ],
+ [
+  9,
+  2247,
+  " built by 100 other companies. So it's basically a waste of money. Instead, these 100 companies could have been investing maybe just $5,000,"
+ ],
+ [
+  9,
+  2257,
+  "000 together to build a solution that fits all of them. Right? So I think"
+ ],
+ [
+  9,
+  2262,
+  "I think good software doesn't need that much investment as many people say. It like, if enough people demand it, a little bit of investment "
+ ],
+ [
+  9,
+  2276,
+  "by different entities is enough. I think we have five minutes left, so maybe we can take one question. Yeah. Okay. So"
+ ],
+ [
+  9,
+  2287,
+  "I I do want to live in a decentralized world, but there are so many different decentralized worlds. Like, for example, like, Cosmo Localism."
+ ],
+ [
+  9,
+  2298,
+  " Yeah. It's I think it's a good decentralized world for me if it can be implemented. And there are some bad ones like a dark forest. Like, e"
+ ],
+ [
+  9,
+  2308,
+  "veryone just runs on this, like, a self interest"
+ ],
+ [
+  9,
+  2312,
+  "and the world follows the rules of the Darwinism. So people have to hide their identities and not being seen. And look at today's society, I"
+ ],
+ [
+  9,
+  2324,
+  " feel like we're running on this like bollock mode. It's basically just like competition, accumulation, optimization, and control."
+ ],
+ [
+  9,
+  2336,
+  "And this is a meta attractor which is also inhibits within the the mind to the collective consciousness. And we with having this kind of way"
+ ],
+ [
+  9,
+  2349,
+  " of thinking, what kind of decentralized world our approach will lead us to? Yeah. That's the question. Yeah."
+ ],
+ [
+  9,
+  2360,
+  "Difficult question. Yeah. So okay. This is kind of a profound question. You know, how utopian can we be? So I you know, when I, for example,"
+ ],
+ [
+  9,
+  2374,
+  " look at Bitcoin and why it's successful, I think it's successful because it combines motivations."
+ ],
+ [
+  9,
+  2384,
+  "Right? It's open source. It's community driven, but it's also you can make money with it. And it's it's that precise combination which had m"
+ ],
+ [
+  9,
+  2397,
+  "ade it super successful. If you do it purely, let's say, in an utopian way based on the altruistic, motivations alone, I'm"
+ ],
+ [
+  9,
+  2409,
+  "not sure it works. I mean, it can work for a time. You know, for example, what you see in a nonprofit world is very typical. It's like, you "
+ ],
+ [
+  9,
+  2417,
+  "know, people create something, they're in you know, I'm the same. You're passionate, you're enthusiastic. And then after five years, people "
+ ],
+ [
+  9,
+  2426,
+  "are exhausted. Right? And either you succeed in having a new leadership or or your project is done. Right? And it's it's those projects that"
+ ],
+ [
+  9,
+  2434,
+  " actually succeed in creating"
+ ],
+ [
+  9,
+  2436,
+  "this kind of mix. And so, you know, philosophically, depends on your position. You know. So the critique of the present system, of course, c"
+ ],
+ [
+  9,
+  2445,
+  "ould be, you know, the the liberal ideas that if we're all selfish, then we create wealth and that will be good for everybody. Right? And th"
+ ],
+ [
+  9,
+  2453,
+  "at's unique in the history of civilization because even empires as violent as they were, they believed in something. Right? They had these"
+ ],
+ [
+  9,
+  2462,
+  "Buddhism, Christianity, they had these high ideals that that were motivating them. And, yeah, I think it's time to get to get back to someth"
+ ],
+ [
+  9,
+  2481,
+  "ing more balanced in in our civilizations. Alright. Let's conclude it like this. Thanks for the discussion. Thank you, guys. Thank you. Than"
+ ],
+ [
+  9,
+  2499,
+  "k you."
+ ],
+ [
+  9,
+  2500,
+  "Thank you so much for joining us today and it's been very, very great discussion. And, so we truly appreciate all of the insight and energy "
+ ],
+ [
+  9,
+  2516,
+  "you brought to this room. And now let's wrap up with the music and DJ time. Thank you so much. Enjoy the rest of the time."
+ ],
+ [
   10,
   3,
   "Welcome to EJMI. It's like I'm feeling like the second time since we had Hello. Hello, everyone. Good afternoon. Welcome to Etherin to my 20"
