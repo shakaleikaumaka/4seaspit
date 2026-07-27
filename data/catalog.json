@@ -125,13 +125,14 @@
     "id": "1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI",
+  "duration": "01:39:23",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": false,
   "thumb": "thumbs/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI.jpg"
  },

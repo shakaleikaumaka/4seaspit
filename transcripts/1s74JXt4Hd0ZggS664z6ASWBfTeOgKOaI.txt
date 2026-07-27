@@ -1,0 +1,257 @@
+# ETH CHiang Mai OpenBuild One Day Hackathon Demos
+
+Date: 
+Source video: ETH CHiang Mai OpenBuild One Day Hackathon Demos
+Drive: https://drive.google.com/file/d/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI/view
+Duration: 01:39:23
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:05] Okay, guys. Hi, everyone. And Hello, everyone. The first end, the cutest project of this hackathon is here. Alright. Who here show of hands, who here loves cats?
+
+[00:30] Yeah. Most people love cats. Okay. Well, you'll be pleased to know this presentation. This project is about cats. But sadly, we all love cats, but the reality for them can sometimes be tough. And Ethan here is going to tell his story. Thank you, Anna. And a few months ago, me and my friend, we met a cat. She's a homeless cat. But, unfortunately,
+
+[00:57] this cat got bitten by the dog, and she was seriously injured. Like, she's lower body. Her lower body cannot even move. And we were really hesitant that we don't have much money, and especially he's a monk. He cannot touch money at all. And so we're thinking about, should we should we save this cat? Should we pick him pick her to the hospital? And in the end, we make a decision to help this cat.
+
+[01:22] And luckily, right now, she recover really great. Like, this photo, she's in acupuncture. And but at the same time, we find that saving a cat cost a lot of money. Like, you can see the total amount of the surgery is, like, $440,040 thousand Thai bucks. That is, like, 8,000 Chinese yuan. And but we are really lucky that we got some super super sugar daddy or sugar mommy to help us. And
+
+[01:50] but for another cat, they might not be lucky enough. So we're thinking about what if we can gather the power of the micro pavement? What if we have some platform to gather everyone's little power and we can save more cats? And luckily, we do have this kind of products. Let's give a welcome to Anna again. Okay. Do we need a Chinese translation, by the way?
+
+[02:16] Okay. No? Okay. Yeah. So, thankfully, we have a solution. Welcome only polls. We finally found a solution where people can stop scrolling for free and they can start doom scrolling for the calls, helping those cats. So finally, microtransactions can be utilized
+
+[02:38] for a good cause for cats. This is how it works. You can watch cat videos for free. But if you want to help, you can connect your wallet and link payment methods link your payment. Then you can tip cats using micro payments while you watch and enjoy your cat videos. You can also help them. And, of course, you have the combo that, you know, there is no limit of your spending. All that there is is that every like is a micro transaction.
+
+[03:08] So you can also choose how the tip the tips are split for creators, for a Fully, or that the some some parts are, essentially taken for charity Fully or creators get some as well. Now we have created a demo here of the landing page and the payment method itself. Let me show you how it works.
+
+[03:38] Right. As you can see, we have a full landing page and we have the ability for player for for users to watch cats as much as they want. Right? You can support them. There is all a a AI verified rescues as well. So you can you can see if that's people that are posting are genuine or not.
+
+[04:00] And so this is our, desktop version demo. One second. As you can see, with cats, live streams are endless. Right? So you can start doing that. But now let us show you how the payment x $4.00 2 is utilized. Okay. So imagine
+
+[04:25] you have your cat cats, you know, a gazillion, kind of different videos that you can watch and like. I like this cat. I can now sponsor the cat and go and give money for donation for this creator immediately using the base sepoya. As you can see, Morgan here, has has his wallet. Right? He can now immediately donate
+
+[04:52] for this cat owner and do well for the carrot for the cat. Yes. Your payment was successful. This cat is happy. So with with OnlyPaws, finally, we are making cats happy. We're bringing them back to life.
+
+[05:17] Of course, we know that cats are really popular popular in Asia, but really we're looking at the global target market with more than 1,000,000,000 people that like cats. Let me welcome, our team here, the perfect team, Morgan, Ethan, Charlotte, Vijay, and Quinn. Thank you very much.
+
+[05:48] Come. Come. Any questions?
+
+[06:28] Yeah. Lovable. No. Sorry. Landing page creation? And for and for the coding, we used Claude code. And for the UI's design, we use Nano Banana. And
+
+[06:58] And and and for the video, are are there real cats involved? Or No. So these videos are from Grok. Makes sense. But the The cat image? That you saw the cat playing on on the floor, the black one, that's a real cat. That's a real cat. Yeah. Yeah. Okay. Okay. That's that's a rescue cat, but Yeah. This one is a when we generated That's the cat.
+
+[07:21] The Yeah. Yeah. These these are all AI, everything. Great. And even you have the our the video in in the demo when when she did the the the payment, even that is all. Yeah. Mhmm. Mhmm. Yeah. That is all. Think in your project, maybe you don't use the
+
+[07:51] like, x four zero two if you're a smart contract for for this project, it will be better. If you're using smart contract, you can more how to say it? It's easier payment method you're saying? Because,
+
+[08:17] like, easy payment? Yeah. Tony Blair's suggestion is, like, actually, you you guys can use, like, smart contract to do,
+
+[08:56] you know, to settle much, you know, a span of, you know, the the the amount. So on chain, and then maybe they'll do it much better that way, I guess. Time time up. So for your team, time up. Yeah. Okay. Okay. Yeah. But we do that with the first. Thank
+
+[09:24] you. You. The first team is always stressful. But you are perfect. So next one is display. Hello,
+
+[10:11] everyone. Welcome to Discipline. When I talk to people I'm a options trader and the defined farmer, the first question people always ask about is how to start to trade. And that's a reason we are building a community and also a product to help people to start to learn about trading. And, basically, we want to peep also help people build ability to be self disciplined. And this market is super huge.
+
+[10:43] Look like look lay look those apps. The Forrester, they have, like, over 40,000,000 downloads and have have Habitica have, like, over 4,000,000 downloads. So, overall, the global self discipline market is over $45,000,000,000, and habit tracking is over 5,000,000,000. And almost everyone need their financial security. They need to build their financial skills. It's a lifelong skill.
+
+[11:17] And the reality is so depressing. Most users quit learning early. 90% of users abandon their self discipline apps within three months. Most traders lose all. About 90% of SAX user gets liquidated to $0,
+
+[11:40] like almost lose everything within one month. Okay. Yeah. Not working? Okay. I I can I can do it by myself? And there are three key pinpoints.
+
+[12:05] The first one is we always like the good news about ourselves. We always like the real consequences, and we don't have a tangible incentives. And we also don't have we also have low very low accountability. That's why discipline comes out. We want to help people turn the self driven goers into the on chain accountability.
+
+[12:34] And we don't want the middleman and the one that, like, scammy YouTube financial content creators. What we want is transparent rules. Rewarded can be distributed on chain, and we can trust AI. We can always trust AI. They are improving, and they're gonna be there forever. Okay. Let's go into the architecture
+
+[12:57] of our tech. The first thing user gonna do is we have a commune we we want to build a community, and this community have two lowers. The first lower is community authority. So he will create a learning plan. And first thing he gonna do is in the front end, he will set all the learning plan schemas.
+
+[13:20] And the list can if if okay. List can be stored in in our wave and put all the things on a smart contract. And then we also have AI lesson creator. All the contents is created by AI and all, like, learning contents and learning plans. And also, when you're starting with AI tutors, he can also evaluate how good you are. It's better than just mid led by low scammers.
+
+[13:48] Second thing is community members can join the learning plan. It's quite easy. Just connect wallet and choose the one you want to join. If you have money, you our our mechanism is that is about you need to stake money at first. And if you can if if you can be be you can you can make you can be the become the top student, you can get all the money in the pool. If you don't follow your plans for starting, you will lose everything.
+
+[14:17] So third process is, like, can the members kinda learning? Yeah. And the first thing is successful members can claim the deposit and rewards. And the logic the money distribution logic is processed in blockchain. And the data can be verified by lots of tours like miracle proof. And I can show you, like, our demo simply.
+
+[14:49] As the community authority wait. You can create a plan by putting, like, trading, whatever. Just you make everything. And after that, the plan will generate generate based on AI, and you can join join a plan.
+
+[15:13] After that, you need to deposit some money. And if you can finish the learning process, you're gonna get rewarded from other kind of losers, and then you can check your earnings on the website. And, also, there's some data analytics.
+
+[15:39] Alright? Okay. Those are our team. The coder and the viper. We are web coder. Our plan is store on the chain? Yes. Okay. You
+
+[16:04] have shown the website. Like, do you have anything implemented in code other than the website? Is that mock data or you actually have a small contract somewhere? But we are all that's okay. The website is a mock HTML, but there is also implemented Appian points for the so and also front end is in React.
+
+[16:27] Also, some you guys already implemented and solidity contract for the pool manager. And what kind of, like, AI tooling you use in building this? I used Perplexity. Like, for collecting a researcher or search material It can generate code also. So I use it completely to generate the whole portals.
+
+[16:52] Okay. Could you tell me how to how to how to join your pen? Can you share me how Yeah. Okay. Okay. Actually, what was your question about, you know,
+
+[17:19] trading to actually something something related to, I think, investment. And I mean, the problem is what kind of, you know, angles you guys are in for this trading? For example, like, it's it's is it like a daily trading or something? I think it's more about very basic things. People always miss we don't do that you need fancy strategy to to do trading? But, actually, the most important thing, I think, is self discipline. Like, if you can control your emotion, if you don't overly trade, you already save a lot of money. And if you can make good choice, like, if you cannot do something, you don't do it, you already save a lot of money. That's in long term is, like, good investment.
+
+[18:00] So it's it's like a technical analysis, that kind of stuff, or it's fundamental analysis or I mean, like, it's what kind of approach you you guys are? It's okay. No. No. Wait. I can explain it like Yeah. I mean, like, there are several strategies, like, when you are trading or Yeah. I'm also
+
+[18:24] Time off? Time's off. Yeah. It's okay. We can talk later. Yeah. Okay. Yeah. Okay. Thank you. The next team is Rens three, please. Okay.
+
+[19:48] Hello, everybody. I'm guessing Oh, that's why in the back they were talking. Because you couldn't hear me. Okay, guys. Welcome to Chiang Mai. We're we're new to Chiang Mai, and we all had problems booking a property here for rent. Have any of you had some problem where the price is high or you can't find the property?
+
+[20:17] You're searching where to look. So we all had that problem. And you know this problem exists because on Airbnb, there's high prices because it's marked up for high season and it's short term rent. And you look on Google, you see some real estate agents. I've talked to all of them. And, there's some Facebook groups, and the agents send you a bank from, like, k bank, and they want you to do an international transfer,
+
+[20:41] but we can't even do that for swift transfer or it costs too much. And there is trust issues because I don't know who I'm talking to on Facebook. They could be a scammer. So that's the problem. Solution for it called Rent three. So in the solution, we are gonna power the rent with a smart contract, out of the smart contract, and make it transparent on the chain and verify its trust.
+
+[21:07] Demo flow. So basically so this is our front end UI. So basically, it's just a kind of like a MBMB.
+
+[21:30] So first, you can you can go to your my properties. And you can add a new properties. And after adding it, then the property will be listed on the home page. So this is like a
+
+[21:55] user a, and then we are going to the user b. This is another user. Then the user can buy the contract. So let's let the entity show the transaction party.
+
+[22:28] Okay. Wait a moment now. Now we're gonna show you the back end of how it's gonna be verified on chain with the smart contract and verify the transaction. Wait. Change change or change. So, actually, when he bought the
+
+[22:51] transition and the answer is is a a piece of is called breaker chain. And like this like this, in test the ETH, if this is one one account, we can connect. Now they have they they say one e p h. We can such as
+
+[23:16] now there is many loans. We can transfer one, like at least. We can use the lease now. I we can pay. We can pay actually, we can we can oh, you use the matter must. Actually, wait about ten
+
+[23:42] seconds. We're gonna check on ETH scans. Flow flow flow
+
+[24:07] flow flow and then yes. We can check that in this is actually transition. Okay. Okay. Okay. Okay. So as you can see, we're doing this with RWAs because in the future roadmap, this can be built to trade
+
+[24:29] amongst users. Like, you have to go to another country for three months. You can it's gonna show the remaining date on the contract, what it's gonna show, and then you can buy and sell or send it to your friends. So they own the rental verified RWA, the presentation. So that's so we've taken you through what the idea phase was and how it's gonna look on the front end and the back end.
+
+[24:54] And then now why now? Right? So we we know in January, the Nomad Summit is coming up. A lot of digital nomads are coming to Chiang Mai now. The hotel occupancy since COVID is increasing every year in Chiang Mai. So which means a lot of experts and tourists are coming and either they're gonna build more hotels or this rental business is gonna be in demand. And third, the crypto users are
+
+[25:18] are reaching high numbers with the wallets and crypto. So they're if we integrate this crypto payment like we did with the $4.00 2, it's gonna be an easy payment that's verifiable, doesn't have to use international bank transfers for the deposits. Okay. And the use cases, we use the cloud on Cursor for the coding. And just to show you how you can use this, we use even the slide titles for the prompts, even the design from the
+
+[25:48] RENT three using Grok and ChatGPT. So all those titles you see there on the slide, like, why now? You have it there, for example. Right? So okay. That's our demo. And we have our team, Eddie, Andy, and Buwe. Thank you, guys. It seems like it's a new payment to, like, use stablecoin
+
+[27:23] to do that. But but what if, like, Airbnb, they add this kind of a new payment? So actually, it's not only about the rental property, a rental platform. It's also like we can exchange the contract. For example, user a rent the apartment, right, for one year, but he's going to leave next month, and he's going to sell
+
+[27:50] his contract to another user. And this this user also can sell his contract to me. So it's kind of like a market. It's an exchange market. That's the point. Okay. Yes. So yeah. So this is our you can't see here. But this is our whiteboard that we're drawing, and we address that exact question on here because we put Airbnb up top. See high you see this chart, high prices. Airbnb prices are crazy high. And the cancellation fees, they have strict cancellation during high season. But then the Facebook
+
+[28:23] ads are a little bit lower on the side. And then the agents sell maybe 30% markup. So we that's where we drew this area right there in the circle. That's where our area is, where we're lower priced than Airbnb, But we can charge higher for the value of this because you don't have to deal with anonymous people on Facebook or Thumbs up. Thumbs up. Thank you, guys. Thank you.
+
+[28:49] So next team is twelve weeks here. Thank you. Hello,
+
+[30:21] everyone. My name is Ping, and I'm a digital nomad, also a UI UX designer. And today's my project is called twelve weeks planning. Maybe some of you know this book. And why I do this project? Because 2025 is ending and 2028 is coming.
+
+[30:44] What do we usually do now? This month, maybe we will review this year and plan for next year, especially for our digital nomads since we are our own boss. Right? Okay. Now let me see. Who has reviewed the year
+
+[31:07] 2025? Show your right raise your hand. Let me see. Good boss. And who's preparing or completed the year 2026 plan? Let me see. Good boss. Good boss. You will be rich. Okay. So maybe some of you know this very popular book, the twelve week years.
+
+[31:35] And if you search these keywords on Google, you can see that like this. This keywords is over million results. So it's very, very popular. And but this kind of things you can see, this is a Notion template,
+
+[32:02] and the the other three is just the article teach you how to do this twelve weeks plan. But we are in AI area now. So using templates and the following articles, step by step is simply too tedious. That's why my website help you to create a clear twelve weeks plan with the help of AI,
+
+[32:26] and AI will generate very, very detailed exclusion plan for you down to the weekly level. And this part's a little difficult for my poor English, so I speak it in Chinese. Let me show my demo.
+
+[34:08] This is a cover. Why twelve weeks? Because twelve months is too long, And we procreating it because there is still time. But twelve weeks is is more perfect. It's Chris' health urgency is short enough to focus, long enough to achieve achieve
+
+[34:33] your ego. So let's begin our twelve weeks journey. There, you can choose to use my templates or write freely. If you use the template, you have to write down your ordinary day in three years. Maybe you wake up at Bali or Chiang Mai, and I
+
+[34:57] was gently wake up by maybe sound sunlight or and while my cat is sleeping by my side in the air, the mouse, What can you looking out the door, and you see what? What you hear? And so this template is help you to write down a day, a ordinary day in three years,
+
+[35:24] and help you to build your goals. And next step, you can set your goals. Choose one or three goals. Maybe it's about your business. You want do some social groups or in the hacking or make maybe language learning
+
+[35:46] or maybe, like, work out every day. You can choose. Like, I choose this social groups, and I put my number. I hope I can post maybe 100 notes on my IG or write notes, maybe get more
+
+[36:09] 5,000 followers and complete five monetization. And after that, you can oh, you also can customize goals by yourself and generates the master plan. Wait a moment, and the AI will generate the detailed plan for you. And you can also
+
+[36:33] demo. Yeah. Yeah. For this one, what's the final delivery? Does it give me a one pager, or do I have to come back and check the goals? Or or what happens if I just finish this and
+
+[36:56] I left? The AI will generate a schedule, like, give you week one. You have to do what? And okay. I done it. Maybe I didn't post my I didn't post every day, but I down five days, and it will give me a
+
+[37:21] backup with the one. Yeah. And then you also can export this to Notion. Yeah. And the expert need to pay paywall. But the the result is is judged by yourself? It it is mean I mean, the task you you come with a task, you would The task. You tag is you You mean this? Yeah. Yeah. Yeah. Yeah.
+
+[37:51] I I mean, the Okay. Thank you. I know.
+
+[38:16] Maybe oh, thank you. The next team is wife. So the next team is about postpaid. Is here? Yeah. Okay.
+
+[46:20] So next team is a count is here. You? Oh, no. I know. I know. Yeah. We still have two teams and the the next one is a account is here. Okay. Hello? Okay.
+
+[49:09] Is it like this? Time is up. Okay. Thank you.
+
+[52:37] So next is the a cons. Hello.
+
+[58:41] Okay. Okay.
+
+[59:38] Thank you. Okay. We have the last team. No. No choice. Hi, everyone.
+
+[01:01:04] My name my name is Jack. So in our life, we have a lot of choice to make. Today, this morning, I feel so starving. And what I'm think I'm gonna do is to go to KFC and have, like, six extra crispy chicken, dark. And but instead,
+
+[01:01:27] I went to seven Eleven and had grilled salmon salad with two bananas. I think I'm making a good choice here. But good choice is hard to make. It doesn't came with dopamine, and bad choice come come with dopamine. And I'm just thinking of a way to counter this dopamine by dopamine,
+
+[01:01:54] which is gamification of real life choices. Introducing Life Choice Elo. This is a this is a app that rates your decisions, rates your every decisions based on your life journey. For example, if you have
+
+[01:02:17] alcohol addiction and you just choose to not drink tonight in this party, you will get points. You'll get scores. And if you're a very emotional person, you choose to count to 30 and take a deep breath during confrontation and, and conflicts,
+
+[01:02:41] you get points. Okay. Let's go. Life choice LO, it comes with three ranks. Recover is for people who wants to get away from addictions and bad habits, And builder is for people who wants to build habits. And biohacker is for people who wants to become alpha
+
+[01:03:07] and has no zero bad habits. Go to gym every day, Always health healthy food. Always good choice. I'm a I'm a recover. So right here, you can log your choice. So what if I I had KFC? What if I had KFC today?
+
+[01:03:41] Six chicken, dark, extra crispy. I'm losing points here. And right here, can see this is my ELO score.
+
+[01:04:07] 972. Not good. So I decided to go to the gen. Nice. We're making a good choice here.
+
+[01:04:31] So it balanced out, but I can still make all these good choices like eating salad. And here is the is the dashboard. This is the it's like a stock market diagram. And here's the recent trade. And it not only it can log our choices. It it can only be it it it can also be our
+
+[01:04:58] mentor, let's say. So here are a lot of food advice because I just asked what should I have for dinner.
+
+[01:05:23] And what if I got sick? What what's the point? Like, what's the point that's gonna be loose if I got sick? I had fever, but it doesn't take any points off because
+
+[01:05:46] being sick is not a option. It's not a choice. It happens naturally. So this is my software. This is my app. I hope you guys outplay your old self and start trading for the better future. Thank you. Okay.
+
+[01:06:15] So this one, there's a there must be a standard. Right? Like, what goes right, what goes wrong, and you you judge the score based on a certain standard or the AI tell you what the score is. There's a We can't tell you what the score is because Based on your goals. Tell AI what's your condition is. Like, if you're
+
+[01:06:39] So it's a addiction and the build build for what? What kind of stuff? Sorry? I mean, like, addiction part, I think I got a little bit built. You you said the second part is built built for what? I mean, like, a built for a body? Oh, the builder mode is people wants to build good habits.
+
+[01:07:14] Okay. Thank you. Okay. Okay. Okay. Thank you for you. So all our demo is over and we have we need the ten minutes for the final results. Still one? Hi,
+
+[01:07:37] Okay. What you was done? Last chance. You have you fill up the form? Yeah. I can't check. Okay. No problem. Okay. Alright.
+
+[01:08:09] Yo. Yo. Yo. So my colleague is somewhere, so I'm gonna start myself. The hackathon project that was actually made was to prove patterns that are emerging in cracking of algorithms. And it actually stems from Doug, come on in. Come on.
+
+[01:08:33] Yeah. Okay. The patterns that emerge when cracking algorithms, It actually stems from one research paper that is called Stan, and it's a use of pheromones as means to attract the AI LLM or any cracking algorithm to choose a certain path that has been proven through true in the previous attempt.
+
+[01:09:01] Now how we did it is actually we melded two specific ontologies. One is Tony's ontology, and the second one is the STAN algorithm that actually attaches, we call them pheromones, to certain paths. And this is
+
+[01:09:22] all to actually reduce the amount of attempts that it takes to brute force an algorithm. The downside is you actually have to brute force it first in order to find an emerging pattern. But once you do that, you are actually able to steer the algorithm towards a certain path. So you might want to join me on stage. No. No. It's okay. You seem to have a lot of control.
+
+[01:09:49] Perfect. So it's part of two things, and that's the stand stand framework and the one ontology. What is r s I 32, which we choose as kind of an example on how to take this approach. It's a very simple shoddy lock.
+
+[01:10:11] Like, it's nowhere near the current standards, but it's a good enough example to actually find emerging patterns and attach pheromones to it. Now it was brute forced on this machine, which actually allowed us to run multiple cracking algorithms at the same time. And we were able to optimize
+
+[01:10:34] the amount by about 83% in the first 5,000 runs. Obviously, we need to do millions of runs in order to attack an algorithm of a larger size, but this was good enough as an example. Now the way it compounds is it basically attaches the pheromone towards a better path.
+
+[01:10:59] So every time it goes a certain way, the next emerging pattern basically takes that as an example and tries to use that as a founding and starting point to get to the correct result faster and better. It's essentially very simple. You can think about it as of reinforcement learning or caching in a sense.
+
+[01:11:27] But the idea behind it is that these patterns, once they emerge, they should stay persistent. It is especially powerful when it comes to reinforcement learning. So yeah. Why why even do this in a in a first place? Like, we have good enough hardware to brute force pretty much everything nowadays,
+
+[01:11:52] especially when it comes to basic basic encryption like RSI 32. But the problem becomes very apparent when you try to scale it up to more complex algorithms and more complex encryptions where you run into bottlenecks in terms of CPU usage, in terms of memory used, and in terms of hardware
+
+[01:12:19] total power input in general. This actually helps us reduce it and and optimize it should we want to do reinforcement learning or brute force something like this. Now the actual run results, as you can see them on the screen, we can reduce
+
+[01:12:42] the factor of brute force runs by about 90%. I actually run one more simulation that was able to reduce the runs by 97% on a sample of 100,000 keys. But that was that was a different MELD since it's a hackathon. You know, we tried multiple different paths.
+
+[01:13:06] The text tag that was used was Stan, which is the framework for the pheromones, mGraph, Cloud Agents, and AVerMachine, which is a hardware that's basically allows you to scale up faster with the Strix Halo three ninety five processing unit. The key insight is that the swarm intelligence emerges
+
+[01:13:31] from very simple rules. You've you're following the strong pheromones. You're not specifically going towards the exact number, but you are trying to estimate and guesstimate which way to go on the sample of the previous runs. Have you tested on real data or you have a benchmark dataset that that you tested for their performance?
+
+[01:14:07] Uh-huh. This is form of scholarship paper. So they have a verified okay. Well, great. So we will have ten minutes, and then we'll have the result, and we'll find a top three team.
+
+[01:32:10] Wait. Wait. Hello. Hello. Hello. Hello, everyone. We have the final results. And but before we announce the results, please, we can take a photo together on the stage. Thank you, everyone. So everyone, please come to the stage and we can have a photo together. Thank you.
+
+[01:33:36] What? We got together. Okay.
+
+[01:34:37] Okay. So, everyone, so every team, come be the front of the stage, and we will announce the final results. So, actually, we have four teams winners, not three. Yeah. We added one special prize for the best of Webber. Best of Webber prize. So
+
+[01:35:00] let me Ollie Paws. Congratulations. Yeah. Yeah. And you will have guess the price is the $16. So you have team six team. Okay. Six people. Six Yeah. Yeah. Yeah. Yeah. You can can to get get some photo together? Yeah. Okay?
+
+[01:35:26] Yeah. Okay. Thank you.
+
+[01:36:09] The third price is a range three. Is it here? Thank you. Yeah. Yeah. Andy and the lady, please come to the stage. Oh, I I sorry. I
+
+[01:36:36] can't get the photo together. The second prize is the wife's.
+
+[01:37:09] No. Try. Second. Try. Okay. Okay. And the first
+
+[01:37:40] price is sorry. Wait. Sorry. Congratulations.
+
+[01:38:14] Congratulations. Okay. Okay. Thank you. That's all. And, okay, thanks, everyone. Thanks for joining. And we will still have this hackathon series in other city if you yeah. Please come join us. And also,
+
+[01:38:38] please follow us. Okay. I know we also have a offshore website, aiweb3.tvdev. So you can visit this website, get to the last unit news of us and the tutorials about the AI anniversary.
+
+[01:39:01] Yeah. And also, if you have any suggestion and advice about our events, please, you can fill this fill out form about the feedback. Thank you, everyone. Thank you. Thank you. Thank you.
