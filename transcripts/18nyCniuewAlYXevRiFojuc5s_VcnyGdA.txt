@@ -1,0 +1,301 @@
+# EthChiangMai Hackathon Workshops at Chiang Mai University
+
+Date: 
+Source video: EthChiangMai Hackathon Workshops at Chiang Mai University
+Drive: https://drive.google.com/file/d/18nyCniuewAlYXevRiFojuc5s_VcnyGdA/view
+Duration: 01:01:49
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Good morning, everyone. On the next workshop, we will welcome Martin to show us how to deploy local AI for defined SOPs. Thank you. Hello, everyone. I'm gonna take this to my hands. I just want to test if this works.
+
+[00:31] Nope. I don't see it here. Okay. Perfect. So hello. My name is Martin. And I'm gonna post more open ended questions than actually explain things. But it's alright. You'll fill in the gaps. So
+
+[01:02] I'm from a company called Avere. And Avere is an l one blockchain project that is effectively been established to further the cause of spreading intelligence. Now this is a very hard task to actually achieve. So we are going to lean on a crutch of an AI. The way we do it is actually very complex and convoluted.
+
+[01:27] Please see me at our booth so I can explain to detail. But the topic of today's presentation or workshop, however however you want to call it, is going to be deploying local AI for defined SOPs. Because there is a very first thing that we have to take into consideration. There are effectively three different layers of AI. It's not just AI.
+
+[01:54] The way we understand it, and I assume most of us in this room are using it, is by the way of large language models, LLMs. So we have your frontiers, which is the Gemini, ChatGPT, CLOTH, DeepSeq, Minimax. And those are what we called the big boys. Then we have the middle layer, which are a little bit more defined, but still well rounded.
+
+[02:22] Those are usually the ones that you can take and deploy yourself on a fairly inexpensive hourly rental. And there is the third category. Third category is fully local AI. That is an AI that is actually deployable on your individual MacBooks. Because I can see that pretty much everybody here has a MacBook.
+
+[02:45] Local AI oh, one's an One's an ire. That's fine. Pretty much every AI out there falls within these three categories. Frontier models are usually too big and too complex and oftentimes gated. Then we have open source models. That's your DeepSeq, Minimax, GLM,
+
+[03:08] which are open source, but to effectively run them is still far too expensive because they are super big. The third category is the ones that you can run locally. But unfortunately, they are just not up to the par in terms of the intelligence that you're actually expecting from the LLM. And that's where the SOPs come in. SOPs
+
+[03:31] are standard operating procedures. It's effectively your small pipeline that you have to have defined in order to pluck a little bit of pockets of an intelligence every step of the process. So we're gonna go through with or without SOPs, how to embrace the bias of a model,
+
+[03:55] best use cases for local AI, how to actually go about training and defining the LLM's intelligence for a certain subject. I will share a little bit about AVIAR. And then we whether we'll go through back end terminology, that's your CUDAs, RNDAs, MLX, so you know what's what we're talking about.
+
+[04:18] And I'll showcase how to deploy a little bit at the end. Okay. So without SOP, Frontier wins. And this is a blanket statement, but also it's very true. When you code you come to your Gemini chat GPT or Claude,
+
+[04:40] you can pretty much pose any question. It doesn't matter what question you ask. You are going to get some level of reasoning and a decent enough answer. That's unfortunately not the case for private models. And in private, I mean I'm meaning truly privates, the ones that you can get up and running on your computer.
+
+[05:03] When you pose a random question to a 7,000,000,000 parameter model, which is roughly the barrier of what you can get up and running locally, you are going to get kind of a mixed answer. Like if you were asking a baby, because the neural pathways are just not there. The pre training data did not encompass all of the information that the big models have.
+
+[05:28] So we have to look a little bit more deeper into ourselves, into our practices, into our projects, into our business, and start to define SOPs. And how do we define SOPs? There is a very simple way of doing that. It's effectively when you think of brushing your teeth.
+
+[05:51] When you're brushing your teeth, every singular step of grabbing the toothbrush, grabbing the toothpaste, squeezing it out, actually putting it into your mouth is a step of a process. Now we can take all of the steps that you have within your project, business, or daily life, and you can boil it down to the primitives, to the very simple building blocks.
+
+[06:17] And then we have to look at which of these building blocks are receiving fuzzy data where we would actually utilize LLM. And then we start building our pipeline. This is how we can actually achieve something with local LLMs. Otherwise, you basically have a pseudo intelligent chatting friends and pretty much nothing else.
+
+[06:41] There is very little value in small models unless they're clearly focused. And this is where they actually excel. Because if you want to build a project, be it a blockchain project or a web two project, what you're looking at is utilizing the best of AI. But that doesn't necessarily mean it's going to be the best model out there.
+
+[07:06] You can actually scale down, get a more focused model that is specific for the task that you are trying to solve. And this is very apparent when we are doing things other than text processing. If we're doing image processing, if we're doing voice processing, or any sort of audio, soon enough, you'll start to realize that, oh,
+
+[07:30] I can't just send it to Gemini API for processing because that's gonna be very costly. But I can utilize this smaller model that actually can reason within the image way better. It can identify things within the image way better. And it's one tenth of a cost. And the cost is one thing that we'll get back to. Because doing it locally is way cheaper.
+
+[07:57] But yeah. So without SOPs, if you have fuzzy data, Frontier is going to win. Because you can throw anything at it, and you'll get decent enough answer. Because it is so big. If you have a local small model, you just can't really do that. You're not going to be happy with the result. And ultimately, it will not help you further your cause.
+
+[08:21] It will not help you in the business. It will not help you in your daily life. It's just useless. But that's such a bad statement because these small models are not useless. They are great. It's just we have to learn how to work with them. So define your SOPs, and afterwards,
+
+[08:44] you can have success with local models. A clearly defined sequence of steps with predictable inputs and outputs, an SOP. How are we parsing incoming data? And this is one of the things where AI excels at. If you have a well defined input and output,
+
+[09:07] then you can know the boundaries of data that you are going to parse through an LLM. Now, there is a very thin line that we are threading with local LLM. What is suitable for a language model or what is suitable for AI? And what is just better off being a script?
+
+[09:30] Because this is a a true statement that I've seen repeat over and over. Why would I even need an LLM? Why would I even need AI if I can just script it out? And the answer is usually in the fuzzy things, in the fuzzy bits, in the data sanitation, in the uncertain
+
+[09:54] inputs being a certain output. And this is where local AI actually shines. Not out of the box, or very rarely out of the box, but more often than not oh, we have some echo here. More often than not, why is it echoing quite a lot?
+
+[10:18] More often than not, you are going to get to a deterministic result. Now, me saying this, and if any of you ever tried local AI, you might actually say, well, that's a load of crap. It always outputs some bad things. But that's not necessarily the case if you know how to work with it and how to operate your local AI,
+
+[10:44] which is post training and my favorite low rank adapters, which we'll get to in a moment. But yeah, parsing data is one of the strong suits of the LLM. You can throw a defined boundary, a defined range that doesn't have to have a very clear
+
+[11:07] up and bottom boundary. It can be fuzzy to a certain extent, and LLM will handle it. It will know how to reason with the data and actually deliver results. And where it actually shines, local, very small application, is when the user is the one that is asking in a natural language. So this is the key differentiating
+
+[11:30] factor between a script and AI. If the modus operandi of your app or a project is something that the user needs to interact with, with not predefined boundaries of click here, you're going to get this. Click here, you're going to get this. Pick an item off the list. If you let them use a chat box,
+
+[11:55] this is where NLM shines. So this is where you actually use your local AI. Now a very good example for this would be actually a life assistant for yourself. And this is something that I actually had a talk about. Very good and possibly one of the best use cases for these chatting and reasoning models,
+
+[12:19] is actually for them to be used locally for your own stuff. Connecting them to your calendar, talking to them. Oh, I need to have a meeting with Mark at five. An LLM should know that Mark is my business partner with the project x, and we need to meet as soon as possible so my previous
+
+[12:45] commitment at five can be pushed to six and execute on this task, all within the same span. Now this will be way harder with the scripts. It's much easier with an AI. And you don't even need a super powerful model to do this. All you need is a very basic small AI agent
+
+[13:08] and a very basic small LLM running locally to actually finish this task. So fuzzy, unclear input, but still within the range, actually gives you a good output using small models. These are the pipelines that I'm talking about. If you're taking individual bits and pieces,
+
+[13:31] defining those bits and pieces, you can give your AI sort of boundaries of reasoning, sort of boundaries of execution of tools and other supporting software. So you can automate portions of your life way easier. And not even talking about like the big elephant in the room, it actually democratizes
+
+[13:56] quite a lot of the development process. Beforehand, if you wanted to have something like a personal assistant, you either had to take what is on the market and be kind of bound to that service, or you needed a help of a developer. So someone who understands the code and can actually put everything in
+
+[14:20] into a nice, neat package. Now an AI bay basically does that for you or can that can do that for you. And if you are again, if you are unclear, I want to make my personal assistant, you offload that to the Frontier AI. Because that's the big, that's expensive, that's something that can take your, I want to take, make a personal assistant,
+
+[14:46] and actually start building on top of that. But if you clearly define every individual step, tech stack, if you are able to do all of these granular tasks to kinda narrow down the individual outputs to be very precise, you can achieve the same thing with local model.
+
+[15:19] Exactly. That that's exactly the best use case for local AI. Especially if you're from non tech or pseudo tech, which is a new thing. So that someone who's tech savvy, but is not necessarily a coder, but can understand the patterns and understand the principles of coding, then yes, 100%. And it's actually highly recommended. So
+
+[15:43] a very good example that follows this principle, you can use local AI private model if you're working as a programmer on, let's say, a governmental project. You kind of have to use local AI. You are not allowed for sensitive data that is under NDA and everything else to be passed away to Google, Anthropic,
+
+[16:06] and OpenAI. You have to use something local. But agentic local is something that none of the computers in this room would be able to run efficiently. So the best use case is actually pair programming. If you have clearly defined tech stack, and again, we are narrowing the scope of input, you can use pair programming to
+
+[16:32] code more efficiently. And for that, you don't need a massive model. You're completely fine with a smaller model. You're completely fine with a well defined and precise seven to 14,000,000,000 parameter model, which is something that you can run on your MacBook. So yeah, one white task, definitely go frontier. Or you can go open source, but pretty much none of the open source is
+
+[16:58] truly private unless you are the one hosting it. And that is very expensive. To put things into perspective, let's say, GLM, I think that runs at around 700 or 800 gigabytes. So you would need to rent out at minimum 11 very expensive cards, which cost about $4.50 or $5 per hour.
+
+[17:25] So by self hosting something that is not at the level of the frontier, but quite close, is open source. It's just a server somewhere. So you're deploying your code on it. No one knows it's AI, or they claim to, at least. You're deploying that, but you're paying $50 an hour at minimum. So, yes, it is open source. Yes, it is private.
+
+[17:51] But at the same time, it's super expensive. What I'm trying to get to is how do we use AI to be feasible for us, to be private, and to be run on any machine. And this is kind of the way. Just narrow it down. So well defined SOPs. Local is more powerful,
+
+[18:16] and we can basically just go next. Embrace the bias. So this is a very favorite topic of mine. Everybody would like a model that is a PhD scientist. That is absolutely perfect. I think everybody is wrong. I think nothing pretty much changed from the way we were doing things
+
+[18:39] a couple of years ago. The only thing that changed is that there is a proverbial router layer on top of everything, which basically aims at the correct portion of the big LLM brain to activate it and bias it towards towards the answer. If you are asking Gemini about Python,
+
+[19:02] you're going to get answer about Python. And now let's say it's a coding language from the context of the conversation and not the snake. Hope none of you meet it, you know, around here. What is different to actually having an expert, an expert small model that is trained only on Python
+
+[19:27] and basic conversational patterns. I think bias, especially with local LLM, is not unwanted. It's necessary. It is very necessary that your local models will be heavily biased towards your training data, towards your specific tasks, and towards your purpose.
+
+[19:50] And this is the difference between the generalist mixture of experts, which is pretty much most of the mainstream models on the market currently. It's pretty much every every model on the market currently. And we have some wee.
+
+[20:15] Hello. Hello. There is not that many of you out here. I mean, I can continue like this if you're sure. Yeah. Hey. Hey. Hey. Hey.
+
+[22:36] Alright? It's cheaper, it's faster, and it actually helps to lower the cost of inference. It's better for companies, and long term is actually better for us. It's a good architecture. What I propose is rather have a biased local model. It is something that is way smaller, but you activate it fully
+
+[22:59] as if it was a dense model, which it usually is, and you slap an adapter of an expert to be biased for a certain query. So if you are asking about Python, the coding language, it will always answer within those boundaries. Always. And it will be very specific to its post training dataset.
+
+[23:24] So if I want to have someone's particular style of coding, it will always answer me in that style of coding and in nothing else. This is what we call biased local models. They're achieved quite easily, actually, on consumer grade hardware in a sense of post training,
+
+[23:48] adapter creation, or fine tuning. These are three different techniques that you can use to actually skew local model to be more specific and more biased towards a certain task or rather a certain output, which is ultimately what we want. If I have a friend that is super proficient
+
+[24:11] in a certain style of coding and I want to utilize his knowledge and his intelligence, I let him create a dataset for post training, create an adapter for it, and I'll ultimately, every question that I'll ask my local model, which is very private, will go through this adapter, adjust the weights, adjust the folds of the brain
+
+[24:36] in a sense that it will output the question with the same pattern of thinking as my friend had. And this is very beneficial. And there are two very important breakthroughs in this area, which we are actually utilizing in AVR as well. One of them came from LAMA CPP, and the second one came from VLLM. And those are effectively
+
+[25:00] routers that allow you to take a smaller model and adjust infinite amounts or close to infinite amounts of these adapters to be used at the time of inference. So think about it as a conveyor belt. And on that conveyor belt, you have plethora of experts.
+
+[25:23] Some of them are for a specific business sphere. Some of some of them are for coding. Some of them might be for blockchain. Now you're asking the same brain. You're asking the same bottom line that has the conversational capacities to talk to you, but you are parsing everything through each individual expert depending on what the question is. And this is what actually mimics
+
+[25:47] the frontier generalist mixture of experts and makes it available on local hardware. So please do embrace the bias. Make your own bias and apply it. Best use cases for local AI. This is where we get a little bit more specific
+
+[26:12] because the specificity of private and local models is something that is very, very much encouraged. A generalist local model usually is not going to have the same kind of performance as the frontier guys. We went through that. So how do we make it specific? Which use cases are actually
+
+[26:35] good to be employed with local AI. Off the top of the head, voice, image, text, and basic agentic tasks. So with voice, the basic go to that you can get up and running on any of the laptop is called Whisper. Whisper is absolutely fabulous, works in many languages. There are English specific ones.
+
+[27:00] There are also multilingual ones. And you can use and utilize it in your applications with a very, very small memory footprint. Usually with local AI, there is an eightytwenty rule. So if it gets you 80% of the way for 20% of the cost or 20% of the effort, do it. Whisper is kind of similar to that. There are different
+
+[27:27] sizes of this model. And this model can be quite useful if you are, for example, if you need a dictation tool that will be specially catered to your needs or if you are building kind of a listener to your business conversations that needs transcribing and sorting of the data, sorting of the text
+
+[27:52] later on. Bless you. Whisper transcription is something that is very easy to employ. Ask your frontier model to do that. And from that point on, you can have all of your transcribing needs done locally, pretty much. It can also do voice commands. It has an always on
+
+[28:15] mode in which basically you can do your own hey, Siri, hey, Google, and employ it in any app or any use case that you would you would be looking at. For image, there are different models of different grades. Very good and notable ones would be QUENT three thirty b Omni.
+
+[28:40] So OMNI. That is one of the best models when it comes to visual recognition. And when we're talking about deploying something on your local machines, the one that you can for sure fit would be from GLM. You can get all of these that I mentioned on Hugging Face, GLM 4.6
+
+[29:03] V. And that is specifically a visual model for image recognition if you need to process a huge amount of images, extract data from that. Or you can, again, create a pipeline and actually feed it frames of a video to be annotated. So these are very powerful. And all of them can be run locally.
+
+[29:27] You don't need to pay for an external service. You don't need to necessarily run this on the cloud. These are doable locally. There are also various grades and flavors of these models. Some of them are more suited for technical drawings. Some of them are more suited for wide shots. Some of them are better suited for facial recognition
+
+[29:50] and gestures. And all of these can be employed in your mini apps, dApps, or whatever you're building. Text. When it comes to summarization of the text, and that is one of the easiest and most applicable uses for text based LLMS and text based AI.
+
+[30:14] If you have a huge amount of text, you can chunk it, feed it, summarize it, summarize the summarization, and it's usually quite good. You don't need, again, a massive model to do this because even massive models are employing the same practices that you will be using locally. None of the models today are able to
+
+[30:38] employ a massive context window. The context window is actually what makes all of this expensive. It's also one of the most trickiest areas of LLMs and AI. There is a thing that's called context poisoning. And if the context window is too big, LLM starts to fail. There is even a paper about that on Axif called RLM,
+
+[31:04] which I highly encourage to read. At about 30,000 tokens, so think of it as 30,000 words, the many to many connections of any frontier model starts to fall short. The same boundary is present for small models as well. So again, no point in frontier models for this specific use case.
+
+[31:31] And my personal favorite is AgenTeq. AgenTeq use case is essentially what I described with your personal assistant. I need something to go into my calendar and reason if my meeting with Mark is more important than my gym session at five and make this decision.
+
+[31:54] This can be done very simply. An LLM can reason with itself about weights, about individual strength, and individual importance of each task. You can employ local model and plug it into the process, plug it into this pipeline.
+
+[32:17] So when you're creating your personal assistant, you don't actually have to give all of your personal data away to Google, OpenAI, Clot. This is something that I feel strongly about. And I actually want to make it as open as possible. So in terms of local AI,
+
+[32:39] please stop giving away your personal data. It's just free data for them. Training is absolutely paramount when it comes to local AI. It is the number one thing that you should be doing if you decide to use private models.
+
+[33:02] There is a very simple and very useful utility. I don't know if I have it here. It's called LamaFactory. Possibly it's in the next slide. LamaFactory is something that allows you to very, very easily fine tune a model
+
+[33:24] or create the bias depending on your data set. Do you want shorter answers, longer answers? Do you want it to be biased towards a certain thing that is important to you? Very easy. It literally even has GUI, a graphical interface. So once you get it up and running, it is very simple to actually click through, create the data sets,
+
+[33:51] take a model, run the training, and then basically run the inference every time with your own bias depending on the use case. So my best advice would be to do a low rank adapter. A low rank adapter is essentially an appendage, an extra arm that you're giving the LLM
+
+[34:13] in a sense that it always has to use the arm to do something. And that's maybe a bad analogy. It's sort of a plane that adjusts the weights of the initial training. And that plane adjusts towards your bias. It is also a very inexpensive,
+
+[34:37] very fast, and very low footprint thing to do. Because every time you are doing this training, you have to take a full precision model. A rule of thumb, if a model has 7,000,000,000 parameters and you want full precision, it's going to be seven times two
+
+[35:01] in the necessary RAM capacity that you have to have on your local machine. So a 7,000,000,000 parameter model plusminus 14 gigabytes of RAM will be occupied during the training process, plus a little bit of overhead for the actual training process. This kind of helps you estimate
+
+[35:23] how big of a model you can run locally. Now on our AVR machine, we have 128 gigabytes of RAM. So we can go way up. That brings different problems. But it also allows us to basically run big models and train decently sized models.
+
+[35:46] With regular consumer grade laptops such as MacBooks, which again, like 95% of people have here. Yeah. Looking at you. So with consumer grade laptops such as MacBooks usually are in the range of roughly 16 gigabytes of RAM. So I would recommend something a little bit smaller,
+
+[36:10] like 3,000,000,000 or 4,000,000,000 parameter model. If you can find it on Hugging Face, this will be a very good training for you to actually get it, try to train it, create a LoRa, and try to run some inference and see the outputs. Do some benchmarking. It's actually very fast. And if we're talking about the data set of, let's say, 1,000 samples,
+
+[36:37] which is something that you can write out yourself, there are templates on Lama Factory that will allow you to take left side, right side, like in accounting. Like if this happens, then this is the output. That becomes the training data. And you can write it out yourself. Or you can let AI do that in a process what we call is synthetic data creation.
+
+[37:04] But if you actually do that or you derive that from an actual data set that you have within your company or within your life, you are able to create this low rank adapter. So LoRa adapter is super efficient. It's usually anywhere from 50 to 500 megabytes.
+
+[37:27] And again, we're looking for something that can run on your local machine. So it's a vast difference. Also, good thing about LoRa, it actually works with lower quantization of models, which allows you to basically save a bit of RAM and actually have your laptop be usable while you are running an LLM.
+
+[37:52] Because this is something that a lot of people are omitting. Like your system eats some memory. Your Brave browser or DuckDuckGo, it eats some memory. Right? So you need to leave a little bit of overhead. You can't run a full precision model after training with an adapter and have one gigabyte of RAM overhead and think everything is going to be fine.
+
+[38:17] It's not. Everything will be super slow. You'll not be happy. And you'll basically say, oh, screw this. I'm gonna go with Gemini. But that's not what we want. So try to go LoRa lightweight and then quantized. And it will be highly usable on your local machine. So yeah,
+
+[38:40] LoRa's definitely a way to go. So everything that I was talking about is essentially what we are doing at Aeveer. We are creating a decentralized mixture of experts. What that means is we are taking a smaller dense model that can be run on our machine quite easily
+
+[39:03] with a decent tokens per second that is highly usable for daily use. And we're creating a marketplace, a massive layer of these individual experts. So people train with their private data, create this low rank adapter, and then they're able to trade them, buy them, sell them
+
+[39:26] without ever touching the original data. And because we are doing it like this at the point of inference, at the point of your question, it is being routed through one of these experts. And it's only up to you, like, which experts do you actually acquire. You can create your own very specified and sorry. Highly specific
+
+[39:49] AI that will work on premise. It will work for your business, can work for your life OS or personal agent. Now in terms of back end terminology, there are three main things that you will be bombarded with.
+
+[40:16] And why I wanted to stop here and let you know is that if you are running AI privately, you are most likely you will be in need of one of these three, depending on what graphics cards do you have or what systems are you running. What most of you
+
+[40:39] will be looking for is a thing called MLX. MLX is basically a framework that allows you to run models locally and allows you to run local AI outside of whole LAMA on the Macs. This is incredibly powerful. It is very lightweight. It is specifically made for Apple silicon. If you are going the way of a bigger model,
+
+[41:05] if you have a revenue generating business or if you are creating a consumer grade app, you might have to go a little bit outside of your laptop. And you will most likely deploy one of these smaller models on cloud infrastructure. First that comes to mind, it's called run pots dot I o. That allows you to basically containerize,
+
+[41:31] employ multiple GPUs, and just get it out there. What they are using is either CUDA or Rockham RDNA. Rockham for RDNA is what we are using with our machine because it's AMD based. CUDA is the OG. That's effectively what most
+
+[41:54] of the world uses for AI inference right now because everything runs on NVIDIA now nowadays. So CUDA is the immediate answer if you are running on NVIDIA GPUs, which is actually quite feasible using local laptops as well. So
+
+[42:18] on RAN ports, there are multiple ways of going there and trying these things. And you can change run ports to pretty much every other cloud's GPU provider. But what you do is basically you define the boundaries in a Docker container. This is a little bit more technical, but
+
+[42:41] don't worry. LLM will help you. You basically employ some or multiple of these GPUs into a cluster and then deploy the model on that. It produces an endpoint with which you can communicate using your local apps or whatever you are building. Here is a rough estimate of the prices.
+
+[43:05] If you want to match what we have at 128 gigabytes, you are looking at around 3 to $3.50 an hour. But it being a GPU is going to be a little bit faster than a local machine, However, more expensive. If you are just trying out, testing out, if you're playing around
+
+[43:30] and you want to employ a little bit, let's say, grade model, so something that is a little bit more beefy, I do advise going for a singular fortyninety. It's roughly 40¢ per hour on the community clouds. You can get it up and running very fast.
+
+[43:53] It's inexpensive in terms of just trying out. Even 40¢ per hour kinda adds up, you know, if you let it run like I did and forget about it like I did. And all of my credits were were gone, like, in my case. So it kinda adds up, but it's
+
+[44:15] a decently inexpensive way of breaking into deploying your own models for under $10. So MacBook, again, if you want to just play around and try out, Olama might be the best choice.
+
+[44:39] You can either do it programmatically, but I think Olama has a client that you can download and run. Effectively, these these two commands are what is the most important about this whole process. Once you get Olama up and running, pulling and running the models
+
+[45:03] is something that you possibly want to do headless. You don't need the whole overhead of OLAMA. Again, we are trying to be economical because Apple, especially on MacBooks, has a caveat. You can actually employ more RAM than what your paper says.
+
+[45:25] But this is something called swap memory. And swap memory is not fast. And you are highly advised to think within the boundaries of just your raw metal memory when it comes to loading in these local models. Swap memory is going to make your experience absolutely bad.
+
+[45:48] The moment it starts touching it, it becomes super slow. To put things into perspective, read and write speeds or the memory bandwidth of a MacBook is usually 200 gigabits per second. Disk is what is used for
+
+[46:12] the actual swap memory. And that's super slow. That's super slow. That's usually, what, five gigabit per second? So it's incredibly, incredibly slower. So try to stay within the boundaries of the raw metal memory. And try not to
+
+[46:37] touch your swap memory when it comes to MacBooks and a LAMA. LAMA factory. So we talked a lot about, or I talked a lot about memory and local models and everything else. But it all culminates in the bias that you are going to give your private and local LLM.
+
+[47:00] Lama Factory is the go to tool that is easiest to employ, easiest to use, easiest to post train. You can get it from GitHub, from Haiyoga, and then basically just run LamaFactory CLI web UI. It will produce you a link. Click it, And you have a nice web interface that basically does everything for you. You define what you want to train, which model you want to train. It will pull the model for you so you don't have to worry yourself about
+
+[47:33] finding the individual model. Try to aim at something that is within the boundaries of your computer's RAM. Or if you have a beefier machine, then you can go wild. But Lama Factory is definitely the go to that I learned the hard way. When I tried to not use it, it actually
+
+[47:57] took me twice as much time to do training, which kind of compounds. If you're creating fifteen, twenty adapters and you are spending three plus hours training one instead of an hour, it's going to take some time. So definitely use this highly, highly, highly
+
+[48:21] recommend. When it comes to training, there are certain examples. So when you go Lama factory train and through examples, they already have premade examples and sample data sets that you can take to see the template. And this is actually very important because not every data set is correct. It has to have a certain structure. It has to have a certain annotation.
+
+[48:51] So don't try to kind of guesstimate or don't even try to use Gemini or GPT to tell you the structure of the data set. If you are using a tool like this and they provide samples, use the samples, just modify the samples. It's going to be way easier and actually produce good results.
+
+[49:20] Open code. So let's say we've gone through all of this. We have our local model. We have our 3,000,000,000 parameter lama or something or quen. We did the post training. Now we want to use it. We actually want it to do stuff. How do we do that? Well, we can chat with it, and that's pretty cool.
+
+[49:45] But that doesn't paint the whole picture. Like, it's not doing anything else. Like, we're just chatting with it. And I'm very happy that it knows how to tell me the square root of something or writes down a physics paper, but that's not what I want. For my use case, I want it to operate a calendar.
+
+[50:08] I need it to do stuff with my computer. How do I achieve that? For that, we have tools that are called harnesses. And you can think about the harness as your web UI. So for example, in chat GPT, the whole chat bot, the whole chat box, everything is just a harness for AI.
+
+[50:33] It has defined boundaries. You're going to get text, runs a system prompt, give me text back. That's the output. Now what do we do with local AI? We can do a lot of things, but we need to increase the amount of appendages that it has. We need to give it arms, legs,
+
+[50:56] head, eyes, everything. OpenCode is actually a very good open source tool that you can use to give it appendages. You are running your local AI. It has an endpoint. These are usually classified, because it's the industry standard, into OpenAI
+
+[51:19] compatible and Anthropic compatible endpoints. So OpenAI compatible endpoint is pretty much every model out there that you'll be running locally and every tool out there that will be running those models, such as VLLM or LAMACPP, they produce these endpoints. They have a certain standard when it comes to the data structure.
+
+[51:44] So pretty much all of the tools know that if they're compatible with OpenAI endpoints and you're pointing at LaMaCPP, know what they're going to get. They know where to plug in. Right? But on OpenCodes, the specific things is you can actually plug a lot of things into the OpenCodes. So suddenly,
+
+[52:08] your AI has access to your file system. Suddenly, you can give it access for a web search. Suddenly, you can give it access to use all of these wonderful MCPs and CLI tools in your system. And you are increasing the number of appendages. But then again, you are using a small model.
+
+[52:30] So each appendage that you make, you kind of have to do the training for the model so you know what the output is going to be. A lot of work, a lot of routing, but it kind of works. And it can work on the local machine as well. So get OpenCode, play around with it.
+
+[52:53] It's effectively a terminal based interface for AI agents, similar to ClothCode, Codex, Gemini CLI. Roughly the same thing. A little bit better than a lot of them, I would argue. And it's very pluggable. So you can put a lot of things in a lot of the extensions. And I think that's pretty much it. I'll just
+
+[53:20] You have to base a walk through. You can grab the models, run them on your Macs, deploy them to run pods. And from that point on, whatever you build, whatever you do, you can run completely privately. And I think that's what's going to matter the most in the coming years. So thank you very much. Hope you've got something out of that.
+
+[53:47] And if you have any questions, feel free to ask. Yeah. Yes. But when change or train the model. The Lama factory runs locally. So it's not it's not an app somewhere
+
+[54:12] made by someone. With Lama factory, you are not uploading the data to a certain server. You're uploading the data to the app that is running locally on your machine. So data stays like nothing leaves. You can unplug from Internet if you already downloaded the model. Yeah? So you download the model from Hugging Face.
+
+[54:36] You unplug from Internet and run Lama factory. None of the data leaves. Like, it's all within a local process. So it requires a rather cap capable laptop for but what happens to normal people
+
+[55:01] that that that doesn't have a strong laptop? Yeah. So the capability of a laptop is directly correlated to the size of a model that you're training. So better the brain, stronger the PC would be my correlation. If you're fine with a small model, let's say,
+
+[55:26] Gemma. Gemma is a model made by Google, and they are made to be run on phones. So those models are inherently trying to be as little, as compact, and as dense as they can get. Now if you want to do training on a GLM,
+
+[55:51] you would not be able if all of our computers here connected, we would not be able to train GLM model or minimax or deep seq. Unfeasible. On the small laptop, which I can see you have a Mac, so I am going to assume 16 gigabytes of memory,
+
+[56:14] roughly, you will be limited. There is a ceiling of how strong model you can run. And that, again, it's a direct correlation. So if you don't have a strong laptop, you can still kind of do it, but you have to go lower with the model. And that that's where the specificity of what you are trying to
+
+[56:40] what you are trying to do will matter. If you want a chat body, if you want to have something to talk to, possibly even a smaller model if you're okay with talking to a five year old kid. Even a very small model will be okay. But there are small models that are incredibly efficient that you can train.
+
+[57:02] And this would be my very first use case of voice or text in terms of language processing. So if you want to make your specific translation app, because a lot of times these major models, they are trained on many languages, yada yada yada. But the specificity
+
+[57:26] of, let's say, a certain region in Thailand and their slang, that's never there. They have to go wide. You can use a small model which will be, let's say, 1,000,000,000 parameters. Very small. But it will be made for a specific region of Thailand to be translatable
+
+[57:48] into English. Thank you very much. Maybe I comment on that a little bit. I understand that it's important to train a local assistant for individuals, but in the end, maybe people need to cooperate. So no matter how private it is, if you ever wanted to join a community or make an impact on the society,
+
+[58:11] your agent might need to work on other people's PC as well because you want to employ your knowledge to earn money or to help others. And in the end, you also don't want to use hardware to label whether you can have an agent or not. So this limitation of hardware is obviously there, but maybe there's another way
+
+[58:36] to go past that. Maybe using, say, blockchain, cyberpunk, or, you know, crypto methods to do a zero knowledge certificate, then you can train on cloud. And then you can also use this
+
+[59:01] crypto agency to work with others. Yeah. That's Well put. Absolutely well put. That's what we're trying to do at Javier. Great. Basically, if you have some knowledge that you want to pass on, we are trying to keep the the model size as low as possible, but still usable. And we want to we want you to have the option
+
+[59:23] using blockchain to upload your knowledge, your specific agents to the clouds. Well, not clouds, but Hashit, you know, IPFS and everything else. And then for someone else to basically just get that knowledge in a in a different part of the world. And then you can also make a living out of there. Yes. Exactly. Actually, I'm I'm implementing an AI platform for individual to do that, and I'm looking for someone from blockchain to do a privileged
+
+[59:55] or ascent authentication of knowledge share. So I don't know if you are in this hack soon. Maybe we can have a discussion. Yeah. We can have a chat. No problem. Cool. Thank you very much. Alright. Thank you very much, and happy hacking. Thank you.
+
+[01:00:30] Yeah. Thank you, Martin. We will have a lot of our launch session soon and we will be back at 2PM this afternoon. And as everyone can see, there's a TV, so feel free to use the TV if you wanna pitch some ideas or do some presentation. And we can also see there are four whiteboards.
+
+[01:00:55] So feel free to use these whiteboards if needed. And we have some new joiners today. If you haven't got a team, feel free to connect with others or use the TV to present your idea and to find your teammates. Yeah. Thank you so much. We'll see everyone in the afternoon at 2PM.
+
+[01:01:20] I Oh, lunch will start at 12:12 to two 2PM. So two hours. Remember to like, subscribe, and turn on the notifications, and stick around until the end. And enjoy.
