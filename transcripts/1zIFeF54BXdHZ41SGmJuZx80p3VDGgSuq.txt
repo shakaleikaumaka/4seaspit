@@ -1,0 +1,315 @@
+# TogETHer Tuesday — a shared Zuzalu tradition
+
+Date: 
+Source video: TogETHer Tuesday — a shared Zuzalu tradition
+Drive: https://drive.google.com/file/d/1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq/view
+Duration: 03:10:32
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[04:00] Okay. Hello, everyone, and
+
+[05:49] welcome to join today's Together Tuesday. And this UN is part of East so let me do a brief introduction. So HTMI is a two month community driven Ethereum season, build around a once upon idea, co create, cultivate, and connect. Over the two month, we'll bring together builders, researchers, designers, creators, and community organizers
+
+[06:12] around the world. Not just talk about Ethereum, but to use a tool for real world experiments. The HDMI combined four parts, boot camp on conference, hackathon, and summit. And for today's event, it's together Tuesday. In the most weeks, our format is really simple, three projects each ten to fifteen minutes, and people share what they're building their projects or what they're experimenting with and followed with a small dinner and open discussion and informal conversations.
+
+[06:44] And today's Together Tuesday is slightly different. Instead of three separate project demos, we are deciding today's event to be a one shared topic to Zallo as a social experiment. ZhuZulu is often talked about as a pop up city, but we're less interested in labels and more interested in what it actually feels like and its history.
+
+[07:08] And probably some of you guys know Fosys as part of the ZhuZulu movement as well. And especially this is a very meaningful for for us to have the conversation adding forces, which is actual experiments for many Tuzalo star activities and gathering. So we'll start with Ity and Kebas talk about the Tuzalo, And then we'll have a small we have drinks over there and foods later probably around 05:00.
+
+[07:35] And today we'll have I assume it's pork curry, I think. And then after the easy dinner and Jason, Shaka, and give a discussion and open conversation about the Tuzhou. So Ity. And Ity will talk in Chinese.
+
+[07:58] And if you guys we have two ways. We'll turn on the translation over here, but another easy way is that you guys can turn on your Tencent meeting or Zoom and then turn on the subtitles and then they will have the translation. Hi. I was speaking in Chinese.
+
+[35:03] Yeah. Yeah. I have a question that maybe you can translate.
+
+[53:22] What do you think, one, the possibility of it happening, but then two, what it could look like if Suzalu could almost become like this credential system between US and China where no. I'm I'm I'm, like, serious. We're, like, you instantly get a visa to either China or US
+
+[53:45] if you're also a Suzhou resident because we actually bring it forth to both governments saying, look at what we're we're building. Right? And we have, like, we have, like, the best poster child to represent all of us, Metallic. So, you know, like But how how'd Why?
+
+[55:16] I I have a count I have a little bit of a counter, argument. Is that I don't believe that, like, the future of the network state is to gain its own sovereignty. I think that the future of the network state is actually like, a a great description of the network state is actually that it's like Internet intermediation between all of us the nation states. Like, the Internet is already something that we share globally. So the network state could become something that has, like, that
+
+[55:41] borderless it doesn't need to gain sovereignty amongst the nation states. It doesn't need to become a nation state. Right? Like, the network state is almost like this cause more local thing that my counterpoint would be that we could actually, in the future, properly represent ourselves to all governments because of that, sovereign fact that we're not trying to overtake any nation state territory.
+
+[56:04] We're trying to bind what the network state is, which is Internet intermediation amongst all nation states. I mean, that's that's actually been Balaji's
+
+[57:30] prediction of western society. He thinks that it could happen that western society goes to, like, a mad max level of destruction that, like, the reboot of western society is the network state. Right? Like, they're just the government structure. He actually thinks that governance in in the East is is more will be more stabilized to a point where, you know, that connection point with the network state,
+
+[57:56] I just I think I agree. It does it needs to gain recognition. But, like, what for one question, what about, like, the special economic zone? I heard there's a new one in China being developed. And then, like, in Bhutan, there's, like, what what do you think about there being more, like, this idea of connecting all the special economic zones? Like, there'll be one in Bhutan. There is one being developed in China, Honduras. This Chiang Mai could become a special economic zone for Thailand.
+
+[01:01:02] Shanghai or, like, maybe not. Uh-huh. Right? So it's it's it's it's bordering Russia. But, like, you know, that part of China, like, bordering Russia is not very, you know, it's not very it's not very sensitive. I mean, right. Like, I feel like economic growth in these rural areas is one great example of positive sum. That's where I feel like we really need to find that intermediation
+
+[01:01:26] level where we're trying to find the positive sum, which includes everyone, you know, including including both governments, both parties, both both communities. Like, on a on a scale, like, we should be thinking about technology that, like like, the open Internet open Internet established to be initially. Like, you know, when you when you think about governance that is open,
+
+[01:01:52] and that's where, like, the network state concept really can, like, catch on. It was when, like, technologically and innovationally, makes no sense. I mean, sorry. It makes it makes complete sense that it's a positive sum. Right? It's just a complete no brainer. It's like, hey. This is great for everyone. Yeah. Like, I think it's it's called the idea of what Caesar know?
+
+[01:02:16] Give us a senior way Caesar. Yeah. Yeah. Like, give Caesar what Caesar. Aspect of, you know, of running, like, the globe. Yeah. They're very good at that. But let me just put it that way. The Chinese government
+
+[01:02:41] is really good like, you know, at figuring out the idea of land ownership, figuring out, like, the idea of material ownership. I mean, yeah, like, they're and I think, like, at at at the state in which we're right now, I think there's a lot of humility calling you an experiment.
+
+[01:03:07] And, also, I think it's really important, you know, like, power kind of keepers saying we're not trying to onboard everyone in the and the idea of the Infinite Garden being go beyond are bigger than what Ethereum is as just like a foundation level. It's actually thinking about that human level of how it's positive. How is this safe driver?
+
+[01:03:33] In fact, people positively are in that open inclusive level. It's not like we're trying to onboard the world in this is all of either. Like, like, we're trying to onboard the world into openness and the shared kind of alignment of moving tech towards public, you know, public rights and positive, you know, thinking that actually
+
+[01:03:59] makes turns the light bulb while everyone's buying. It's kinda like an obvious thing. Like, wow. This is great. I think, yeah, I think it's a great idea. Think you're right. Like, are talking about? Like, going up in that area in Northern China, like, we should do it. You should, like, launch some forestry or, like, another or you can honestly, like, there's always a centralized. Is recording. But if I want, I can go
+
+[01:08:20] I think as long as they have a stream key. So if if it needs to have a stream key or TPM URL, as long as it has that, then they can likely do a stream. So, like, Instagram live works, but I need to get, like, the So I thought TikTok used to be up here. For whatever reason, TikTok's not here. Yes. I know. So okay. You do have a Chinese platform.
+
+[01:08:43] Maybe. You you go here, so they're like you go Yeah.
+
+[01:10:44] I mean, content We are looking for the editor. Yeah. I would say, like, I'm I'm really good at content recording. Mhmm. I haven't quite mastered editing. Mhmm. And because I'm not I don't speak Chinese Yes. I think you want the person who's editing to be Chinese. Yeah. I But I can work with them. Right? So, like, I I record, they edit. So that that's actually the dream because, like, usually, like,
+
+[01:11:12] if it's happening that, like, we have programming every day, that's a lot for me to edit because editing is, like, double the type of work. Yes. Yes. So usually, I just, like, record, and I just drop it in the Google file. Record, drop it the Google file. Okay. So there's already, like, a lot of bits, like, from the opening ceremony that someone could grab that little bit, translate it in subtitles in Chinese, and then make, like, a nice little twenty second clip from the content we have in that Google Drive. This is recording right now. So, like, this could have,
+
+[01:11:41] content that's, from this is all we talk today. Like, maybe there's some, like, little short clips that come out and work really good. So I can definitely help get recording and even, like, kinda, like, direct it, you know, like, tell them what tell them what I want and what story we wanna tell. We we we should do that to collaborate. Right? We should collaboratively be able to tell a story. But, yes, having a a Chinese editor is one of probably blasted out all the Chinese forms and the Chinese subtitles.
+
+[01:12:11] But I I'd love to help with the production side and the storytelling side. Editing editing does a lot of work. Right? I feel like editing is someone who can, like, sit in the corner on their computer so that I I can still focus on what's happening in their lives. Mhmm. Mhmm. Only
+
+[01:12:35] one camera will record. And then if you wanna two more camera, for example. Phones are good. And then maybe someone just to come to walk around and take some videos and put something together. What
+
+[01:43:47] does zoozalu mean to you? I see beauty, simplicity, and humility, self organized, sustainable flight for longevity. Conversations, connections new.
+
+[01:44:17] ZuZulu spirit, pure and true. Under the ZuZulu sky, we gather you and I, Zoo.
+
+[01:45:15] Yeah. Zooza. Look around. See the ties. Friendship's bond, it never dies. From this moment, let it be a beacon for community Alright.
+
+[01:46:26] Thanks to ZuZulu. We are inspired here at four c's for zoo Tuesday together Tuesdays, and we're gonna have a little more discussion on what means to means to us and you. Hey. Hey. Hey. Hey. Check one, check two, check three, check four.
+
+[01:47:15] Hey. Hey. Hey. Alright. Alright. Yep. Yep. Yep. Yep. Yep. Yep. Yep. Oh, yeah. Well, that one's much louder. Check one, check two.
+
+[01:49:50] Alright. Hello, hello. Okay. So I want to start with a very simple questions
+
+[01:50:14] because, like, now we just heard what is, but most of them, like, never experienced it. And so I want to ask you guys, what was the moment when you personally believe, like, okay, this is different. Like, I get the spirit of what Tuzalu's Tuzalu movement is. Yeah. This yeah. Or you can just do it like a longer story like how you first got
+
+[01:50:40] encountered with the experience or the word itself or the pop up cities like how you're personally connect with Tuzalu. My story is kinda long. Do you wanna go first? It's a complex to express your feeling to after you
+
+[01:51:13] Oh, okay. It complex to try your feeling after two months, stay many many guys, you know. I got many shocks, you know, culture shock and some not only culture shock. You know, many guys in different personality,
+
+[01:51:38] different topic. And in first two weeks, the only feeling is I'm burning my oil out. I just it's like a battery out of power. Why? Because I'm not a social guy, you know. So many guys, afraid people, face. And they are so so eager to communicate and create some relation between each other
+
+[01:52:06] in any place in the back breakfast table, in the dining room, in any any place. I don't know. And so firstly, it's just like paired. And the second is like, I think to the comment many, like, questionnaire or some stated for
+
+[01:52:31] the all the the the member to get some feedback for your feelings. I think I joined two meeting to get some feedback from other guys like so many social guys, but they feel lonely, including me. Because, you know, I'm a programmer. I my daily job is coding and encoding.
+
+[01:52:57] I almost never out. But sometimes we have many many friend, like coming from different countries. They have different project to talk about the technical question. So it's it's great to talk this. But if out out of this question, it's hard to communicate
+
+[01:53:20] with each other. So for short, I think it's like that feeling. Yeah. Shake it. Well, the first time that I heard about Zuzalu was around East Denver in 2023, which is around the end of February. And, I had been in a journey of 2021
+
+[01:53:48] and 2022 just with a lot of conviction about blockchain technology, traveling the world, volunteering, at as many events as I could. And ETH Global was the one that I, became very, close with and was always welcome to support. And they would also welcome me to bring music instruments to share with the community. That's a big reason why it was,
+
+[01:54:14] very welcome is that it's also very open, the music spaces that I create in Ethereum. And so I started doing that voluntarily at ETH Global. And Kartik, founder of ETH Global, gave me a recommendation, for Zoo Connect. I did not I did not attend ZooZulu one, but I did hear about it. And then I was ironically
+
+[01:54:37] watching the livestream, for a lot of the main ZooZulu while it was going. I was friends with the streaming team. We had collaborated on some projects. I usually only like, sharing it, in person to person audiences. I don't really go around, shilling myself on the Internet, but, I created a music video NFT before the Bored Apes did in 2021.
+
+[01:55:05] And with the, live streaming team StreamEth, I was the first artist to ever live stream on a smart contract NFT alongside what we call a tradition of the open source orchestra. So Wesley and many friends are there, and Pablo, put the code together, and he's the livestreamer. So I was watching the livestream, due to my friendship with Pablo, but was not in Montenegro.
+
+[01:55:30] And Kartik, gave me the recommendation to join the ZooConnect activation. So DevConnect happens periodic or every year or or every other year alongside DevCon. And that was gonna be, like, actually in a in a in a beautiful way, like, the most sustainable
+
+[01:55:57] way for me to actually go to Turkey. And, what was actually kind of occurring for that moment me for me in 2023 was that, like, I had traveling around the world for 2021 and 2022 voluntarily kinda like all on my own, funding. And it was starting to, you know, not be fully sustainable,
+
+[01:56:21] to be continuing. And thanks to the invitation to go to Zoo Connect, you know, I've actually now seen, two years later that it's beautifully just continued in this beautiful adventure all over the world where I've now actually lived in Zuzalu inspired pop up cities since Zoo Connect in Turkey. So Zoo Connect in Turkey
+
+[01:56:45] was a month long activation. We had a space very similar to this. It actually paired with a library. So I think that's actually beautiful that we're gonna have a ZuZulu library here in Chiang Mai. And it had this very beautiful environment. And actually, the the lyric of the song I just sang, which is a community inspired song about Zuzali. But that first first verse I did right myself,
+
+[01:57:10] and it started with that question, what will Zuzali do? Because that's literally like the question I was asking while I was there. And in a cool way, like, actually, that was only the first third of the song that I wrote, and then the rest of it, Timur, who's cofounder of Edge City, he put together a ChatGPT prompt. So actually Chat Chippity was able to very beautifully describe Zuzalu and said many things like, look around, see the ties, friendships bond, it never dies.
+
+[01:57:38] And like also amazing things like conversations that inspire kindling or collect a fire. And under the Zuzaalu sky, we gather you and I talking about shared unity and dreams. Like, fact that chat GPT is able to say these things is, I think, quite important testimony to, like, the technology that we're actually building in this community. And that's what really Vitalik was inspired to start Zuzalu for.
+
+[01:58:08] It was so that we could gather in person to actually start dogfooding and improving our own technology. Right? To, like, actually move to this place where we operate in a decentralized manner. We we move these centralized middlemen that are extracting value out of what we, as a community, all contribute. So this, that's been my
+
+[01:58:31] open door to this space is contribution, and many of it is actually more permissionless than you than may appear in the forefront. Like, I actually think it's very beautiful how permissionless social layer is that any of us could go start an event and share some topics as long as it doesn't conflict with other events, but that's actually
+
+[01:58:54] the beauty of social layer that it filters out the schedule very well. And, you know, TK has been working really hard to make sure that we have a great schedule, but there's a lot of open times outside of that schedule that's actually open and permissionless. So the first thing that I kinda permissionlessly try to contribute in at Zoo Connect in Turkey was I brought a bunch of ukuleles.
+
+[01:59:19] I've been a musician for a while and used to teach music, so had a relationship with the Kala ukulele brands and received the donation of 18 ukuleles that I shared that with the Zoo Connect community. And then we shared it with the DevConnect community, and then we donated it to a foundation where kids suffer from being blind. And the fact that they
+
+[01:59:42] were so sensationally lit up by music playing the ukulele. And then also these are the same ukuleles that even Vitalik got to play one of them while at Zoo Connect and everyone was sharing them at DevConnect. That was just something that I simply contributed as an artist, and I feel like that can translate to all of us. You know? Anyone anyone all of us have these passions and these abilities that kinda are rooted in our hearts, in our childhood that as we grow up and we're looking for the path to there's that d x side or the dystopia side,
+
+[02:00:14] I actually believe that it's those passions and those things that excite us and brings out the child within us that we like to contribute and give and plant in this world. That's what's gonna take us to the utopia because we all can get to this open source narrative where, hey, I can actually contribute this. You know, I can be in this community, and there's an opportunity for me to share the passions that I've, had root within me. And, you know, so the values of Ethereum is why I have dedicated
+
+[02:00:41] my life to specifically following Ethereum around in the blockchain is because of values like the infinite garden and building for a positive sum and that Vitalik himself fought for it to be decentralized. And so part of the Zuzaalu story is that after ZuConnect in Turkey, we actually had to have a town hall. At the very beginning of December in 2023, we had a town hall and Vitalik
+
+[02:01:05] got on the town hall and he spoke of Zuzaalu decentralizing. There was a little bit of, you know, may maybe conflicts and consensus on what Zuzaalu was gonna do after those first two iterations. And so I think Vitalik in his, wisdom and values that he holds true,
+
+[02:01:28] got on the town hall and said, hey. Let's decentralize this. And now you've seen it scale all across the globe where there's been Zoo Grandma in India, Zoo Kaj in Turkey, Zoo Afrique in Africa, the Mu and Megazoo and Shanghai Wu and all and Edge City. We were all here in Chiang Mai last year. And for me, that was really a strong example of that the spirit of ZuZulu was really alive. And it took me kinda two years to understand what that spirit is. And it's it's not that ZuZulu is anything
+
+[02:02:01] as far as, like, a brand or anything that you would be marketing. It's really a tradition. It's really a culture. It's really something shared and open. And it's kind of like we all share this network state of mind. Right? Like, we all wanna try and find that better path, that also has more cypherpunk, more, more privacy. That's where I why I'm wearing sunglasses.
+
+[02:02:26] If you if you know, you know. And I think that there's a yeah. The beauty of the ZuZulu is that it's everywhere and nowhere all at the same time, and it's something we all can zoo now. Because one, we believe in the values of things like Ethereum, but I think that's what you really see true here at four c's. You just see that the value of ZuZulu is super true, and that's why it's exciting what four c's gonna keep doing.
+
+[02:02:57] Sorry. I told you it was gonna be a long story. Yeah. 2,000 maybe is a a good vision to get many over 2,000. I I forget the number. But many, many guys joined the event. The vision is to meet up together to get diversity
+
+[02:03:20] ideas, culture, projects, and something else. Two, get some crash or get some new things to help the CRM to create the human digital future. Maybe. But I think honest, I think 50%
+
+[02:03:45] or even lower they gave the target. It's chaos, you know. And many many too many events or technical question or meetup holding every day. You cannot join three day, I think you will bring out. Why? Because two technique. Mhmm. And also,
+
+[02:04:10] they are so many, I think, maybe new things like longevity. Some guys agree, oh, we should searching for the longevity too to get healthy life. I think it's okay. I agree. But I think I'm fear of that the future fear of the future is like
+
+[02:04:37] the Richmond get the longevity. The permit get the longevity. I say it's dangerous. The technical it's not only the technical question, it's a social question. So I don't know if you know the problem in that day. Some guy don't agree to
+
+[02:04:59] meet up for longevity. Also, some investment and many many memo call. I don't know. They just want to like for maybe. So that's the thing I don't want to see in the zoo that loop. And so many guys want to gather org grasp grasp some benefits from the Zudal brand.
+
+[02:05:26] But why we create? Why we want take our time to meet up to do something into that. Why? I think for the innovation, for the future, you change our idea and mindset to crash or get something new. Not only the technical guy, developer to meet up, oh, my program my product.
+
+[02:05:53] No. Not only that. It's like some I don't know the academy metaphor of conception. You know, in the ancient of the earth, there will be a soup like original live soup. And from the soup, the nature get a protein
+
+[02:06:19] and some other things made up of the human life or not not only human life, the life. I think sometimes the evolution of life or the society or the mindset of technical technology or something else, we should mix different culture. You're coming from Mac. I'm coming from China. Many of the guys. I think
+
+[02:06:43] in do that maybe 80, I don't know, 80 countries. And I also joined the Turkey DevKen, it is global. I missed it to connect because I only have two or three days to join the Hakason. And
+
+[02:07:08] and also in the many many Zoom Telegram group. But I think the too many events. I don't know what the answer or some result or some something can help me or can have society,
+
+[02:07:30] the human life, the general guy's life. I don't know. For now, maybe we have got some idea like Zoo Africa. So even something to help Africa guide to to get better life maybe. But it's a question. Yeah. In my in my head. Yeah.
+
+[02:07:54] Yeah. I totally agree. Like, there's too many events. And, you know, I've actually specifically also decided that when I go to places like ETH Denver or ETH Prague or ETH CC now and then also DevConnect and DevCon is that I wanna find something specific like a corner where I can kinda help hold and contribute and be a part of stewarding a space
+
+[02:08:22] where I'm just in one place in the main venue. And I actually don't feel like I need to go all over the place to all the different side events. I skip it all. I just stay right in the main venue. I love being at the hackathon and just like being in the hackathons, staying there all night and just seeing the magic magic that comes out of that. And so the what what Zuzalu can do to be an answer to that or or Zuzalu culture,
+
+[02:08:49] which Zuzalu culture is also like a pattern and a protocol that we're experimenting and coming up with collectively as we go, you know, so there isn't like some written code of law that we're following. I think it's actually quite a humble take to call it experiments because then we can actually take both good and bad data and put it towards progressing forward.
+
+[02:09:14] So we don't need to, like, give any sense of of any one project or place having any dictator or anything. Like, it's actually Zuzalu itself is just a culture that's very shared. And I see that that same kind of culture is shared at places like this in four c's. You know, like Nicholas and Zeke
+
+[02:09:38] are not towering over this place like dictators at all. And it's beautiful how community operated this place is. So that that that's what should be eventful. Right? Like, the events should just be like how eventful the community is. Like, I I just saw this video of someone who was covered in ladybugs,
+
+[02:10:01] they were saying like, the idea was that you shouldn't be using pesticides to help the growth of your garden. Instead, add life to your garden, add life to your soils. And so, like, by putting tons of ladybugs on this garden, it actually did the same thing that pesticides would do. And like dragonflies are very similar thing. I wrote a song about how we can pollinate and grow the infinite garden with butterflies and love. Right? Like, we should never fight war
+
+[02:10:29] or or we should we should wage war with butterflies and love. Right? Like, that's how we can counter a lot of the negativity of when I decided to write that song. And so the, you know, adding life to the soil so the Infinite Garden grows, that's what should be eventful. Right? It should be the community organizing things, the the community contributing things, doing all kinds of things. So, like, what we're actually what Zulu culture
+
+[02:10:53] can actually do to answer that is that the focus isn't so much on the event itself. The the focus is on it's locational, but it's also, you know, it it it kinda has, that network state connection point already where it's global. Right? Where, like, it can be activated anywhere that someone whose value line wants to start activating things. So we should actually take that initiative to start, like, building a Zuzalu library right next door and having a four c's mountain village,
+
+[02:11:25] you know, and all kinds of beautiful things that are happening. Like, in India, there's gonna be activations in Goa and Bangalore all leading up to DevCon in Mumbai. So, like, literally, we can zoo it wherever we want a zoo. And, I think, like, that's kinda cool. No reference to the zoo by an actual animal zoo or whatever, but, like, a zoo is made up of all kinds of different animals, and it's just like this beautiful ecosystem. So,
+
+[02:11:49] you know, there there's and there's not even, like, ones like, some zoozales have been more longevity focused. Right? And some and some have been more cypherpunk privacy and like Invisible Gardens that was here last year. That was very much about ZK and privacy. So it doesn't have to be one event. Right? It shouldn't be about so much about the event as much as about like, alright. Where do we where do we make the territorial,
+
+[02:12:14] physical location occur so that we can be eventful and and build and and and likely what's beautiful about being in the same spot is that it actually becomes very transparent how humble and how how, like, beautiful this movement actually is. Like, you have to, like, actually see it in person to, like, feel a part of the community and then wanna keep being a part of the community. And, like, that's what's made me just say, you know what? I figured it out. I can live in this community
+
+[02:12:41] and I can I have, like, a global passport, which is just friendship, to be able to go and but also it's contribution? Right? Like, there that's that's actually the biggest ticket is that everywhere I go, I try and offer and what I can contribute. You know? And there's music and there's a camera, that's are kind of, like, easy no brainers for an event, but we're not thinking about events anymore. We're thinking about building a city. So that includes everything and everybody.
+
+[02:13:14] It's just a a small event to talk about think, totally beautiful. It's a good idea, but we have many many imagination, beautiful imagination about the future. One to get some response or feedback or some idea to put into your reality to get some new things. But
+
+[02:13:37] I think the good thing is now that to the loop around the world is happening. Yeah. I think it's a good idea, but including to my the four c community. I think it's a good thing for many, many small experiment in society to have me. Because if you want to
+
+[02:14:00] put into reality, you must think about the circumstance like the different weather, different location, different economics, different people, different culture, many many things. So I think, you know, Wu, which you might something else, also China guy. And all the things happening, I think
+
+[02:14:24] it goes in, but we should think another side. Why we take our life, our time, our attention to do these things. Do I wanna make new friends? I don't know. But I don't wanna make new friends because it's valuable. It's no value to get some new relation.
+
+[02:14:48] But why we meet up? Because we want to get some help, knowledge, or some something. We want to get not to mix so many new friends. Why? Take my time. Time's valuable. So local impairments maybe enforcing like that.
+
+[02:15:13] We have had to find our answer or what we want to get it from the impairment. Think to the loop, it's not only focused on the Ethereum future, human digital future. It's love all about yeah. To the and the first time they do the meetup or conference or some
+
+[02:15:36] I think safety person is technology. You know, I meet up many many, like, developer teams to have new projects and new idea. Even Metallic and make many small meeting with us to talk about the, like, the a a c four three seven and account blah blah blah. The future of the issue.
+
+[02:16:02] Even though I can see the routing about the evolution in to the meetings, many many. It's been we benefit from the meetup person inside outside. Yeah. But if you want to know more about DudaLu, you take time to to listen to us talking about that. I think
+
+[02:16:27] not only to search on the Internet or talk with AI, but also to join some local events or activity to reach to reaching out many guides. You change some idea. How do you think about the future? How do you think about the event to do that? And if you want to get to
+
+[02:16:50] I think not only communicate, but also we should make some cooperation. If, like, we can create a a music, something else, I don't know. Yeah. It's my idea. Yeah. Yeah. I mean, one thing I think is definitely important, and I like how you mentioned it, like like the reason shouldn't be just to come to make friends and like that has been an important thing. Like,
+
+[02:17:20] actually, I will I I mean, I word this not as like a negative thing because I I I like I love friends and I love parties and like big shout out to Block Ravers because we have these beautiful carpets here at 4 Seas because Block Ravers hosted the Love Punks residency in Chiang Mai, and they're really great party hosts and great DJs. Right? But, like, that that shouldn't be
+
+[02:17:45] the draw. That should be, like, kind of, like, what just, like, ends up becoming part of the outcome. You know? Like, community should be the solution and the outcome to collective contributions happening collectively. Right? And so, like, the friendships and the parties and the community itself and just, the connections you feel, that should be the outcome.
+
+[02:18:10] But what what what we should actually be coming into this with like, reason we're doing this, because we are actually trying to bring the world into this mentality of openness and having this shared technology that will help all of us, you know, to actually, like, create things that are open source, share it so it's knowledge built on knowledge, and then how do we find and create new senses of governance that, one, protect our privacy,
+
+[02:18:37] but also find ways that we as humanity can find unity. You know, like we should be very intentionally a part of these things. So we're not just coming to have parties. We're not just coming to hang out here. It's not just for fun. You know, like the Infinite Garden is not just for fun. That's a lyric I wrote in that same song. You know, like, it's decentralized, permissionless, and open source. Like, we should be coming very intentionally here to build things. Like, we we should enjoy the next week. Right? Like, we're we're here to celebrate this week. We're gonna have a Christmas party tomorrow night for New Year's Eve. We're gonna have a new or so so Christmas Eve tomorrow. We're gonna have a a gathering here. So I invite all you all to come and enjoy. We're gonna have a New Year's gathering. So we should really enjoy this week. But January,
+
+[02:19:18] we should all, like, buckle up and get intentionally ready to, like, start 2026 with this big goal that we're gonna fix this world, you know, that we're gonna build new technology that is actually gonna change the way that we operate society. And we do that by testing and dogfooding in our own small communities. Right? We get to have open source hackathons where we all get to share ideas. Maybe you'd actually win a bounty, but the purpose is not for competitive,
+
+[02:19:46] winning a prize. You know? Like, actually, what you'll win a prize if you are actually building something that's gonna impact all humanity. Not only will you win a prize, but if you do something that's a gift and is gonna actually benefit humanity, you likely that's your best chance to become a billionaire. Right? All you come here wanting to trade and buy meme coins or start your own meme coin or start your own startup thinking that you wanna be a billionaire. No. I think, like, the next people that wanna that actually become billionaires are, like, Vitalik,
+
+[02:20:12] that they fight with their ideas, but also try and make it so that it's open and available for all humanity. So, you know, we think very openly in these communities with what we're building. And so, like, yeah, we we're gonna have teams for the hackathon, but we shall be collaborating. We shall be sharing ideas, leaning on each other when we need help in building something. And, definitely come here intentionally
+
+[02:20:36] wanting to build something. And the outcome will be we'll have fun parties. We're we're gonna get great really great connections. We're gonna have fun. You're gonna have the most amazing adventure of your life traveling the world building on Ethereum. But, you know, that's the outcome of what you come in, to to really build and be a part of. So That's the reason why why we need musician.
+
+[02:20:59] Yeah. Yeah. Because, you know, different culture. West culture, like, we hold a party. We run many many party parties. Yeah. Full of party. Party not only for fan. I think but most of the target is for fan. And for Chinese guy, they are just searching for the directly
+
+[02:21:27] benefit, not only for fan. I think all Chinese guy is boring. But we need music. We need cooperation. We need feeling of humanity to price or touch or reaching out with each other, living with each other together. And not only the coding, the project, the money, but also the the feeling with the life. I think I totally agree about what you talk about. It's it's really good thing.
+
+[02:21:59] So there were many many impairments and locally small events or big events happening for for these two year program. Maybe to get some new things, not only a music, a song, or something else, but also I think, like, get some
+
+[02:22:22] touch from other guys. Like, I think I get some real requirements from the African guys. So they looking for me to get some help. Shout out Michael and Eric. Too happy. Yeah. And it's a lot of story about I think, oh, there were
+
+[02:22:48] be so many real difficulties around the world need help. So I think it's a good thing to communicate with each other to get. Yeah. Thank you. Well, yeah, I guess I can
+
+[02:23:13] what what what I do know, looking at 2026, there's gonna be Zou AFRIC, as you mentioned, as well as Zoukage in that April, May period. So ZuAfrique is in Kenya, and ZuKaj is in Turkey in this beautiful coastal city called called Kaj.
+
+[02:23:37] I really wanna be in both of them at the same time. So I will if if possible, I'll go to both, but I'll definitely be, at Zoo Kaj and then maybe at Zoo Afrique. And then the Moo is also doing something in China, around May, I believe. And Switzerland is acquiring
+
+[02:24:00] location, and there's also Ether Ether Locken, which is a big complex also in Switzerland. Zoogramma is a team in India that their team will be kinda like basing themselves in Goa starting in March. And then there and so if anyone wants to go
+
+[02:24:24] host something in the city of Goa leading up to DevCon, that'll be kinda like archipelago's opportunity, similar to Chiang Mai. It's a beautiful beach town, super mellow. And that will be a great place to be the month of March. Also, Edge City, where I think I'll be contributing. We'll also be doing something on the month before DEFCON.
+
+[02:24:47] But I'm I'm I'm gonna be trying to go to India probably, like, four months next year, also as well as in March for East Mumbai and to support the Zoogramma team. Zoogramma had their first initiation in India in Trivandrum in the Southern Coast. And, Denver of DevFolio who's helping us with the hackathon. They'll be doing lots of great, act events and activities. And so and and that's where, like,
+
+[02:25:17] you even can get to this strong point of definition that you need to see Zuzalu kinda like as a tradition or an experiment as just kinda something that kinda like gathers us value wise and and more culturally because there's gonna be actually so many things happening in India that I can actually see it as kinda being under one beautiful umbrella, which is not Zuzaldu, which is not Ethereum, which is humanity
+
+[02:25:42] and its innovation in building brilliant technology to change the future. So it isn't actually about all about the currency. It's all about the technology that, you know, our markets are important. That's how we trade, and that's how we, you know, are able to pave the way for cities to be built.
+
+[02:26:05] But the markets are just human mechanisms. So, like, that's actually also why I love ZuZulu because I feel like it brings a real human layer to this technological space. And that's why I've found, like, a niche fit. Right? Because I I come with music and production, but I I see that as, like, an infinite liquidity
+
+[02:26:29] that I have that I can give and contribute. Right? So, like, that's where we can find within our community and with our humanity infinite liquidity of what we can give technologically and creatively and open source, hopefully, so that, you know, collectively, it actually becomes this narrative where that infinite liquidity of contribution becomes to a a marketplace in an economy that just, like, continually expands the, the pie.
+
+[02:26:57] And I think that yeah. Like this I constantly just, like, look up when I'm at these events, I feel like I'm just looking at the whole world, and it's beautiful. And and, like, you know, here, it's probably more predominantly Chinese in the room, but there's actually been many times where I'm in the room and I see, like, Eric and Michael from Africa
+
+[02:27:21] and, you know, Eilah from Switzerland and Veronica and Burns who helped to do Georgia and Yash and Casey who helped to do grandma in India and Audrey and Drew who did Shanghai Wu. You know? Like, when we really started just, like, seeing all these people in the same room, which I actually had many times, I've I I just like open my eyes and I just feel like I'm looking at the whole world. So like that's why I like it that little dog fooding in this little circle
+
+[02:27:48] becomes very beautiful when we break scale it to actually be global. I and, you know, so yeah. I I I I would figure out what time you have to explore next year. Obviously, this is gonna be operating and open here at four c's all year long. But, like, yeah, I would think about, you know, not just going to India for the event.
+
+[02:28:13] Go to India to, like, be a part of the community there for a whole month or two months. You know? Don't just go to Europe for, ECC. Maybe go and see if there's a pop up city occurring for the whole month. Like, that's what's made my nomad life where it's I'm not based in one spot very sustainable is that I've been able to continue going to these big events,
+
+[02:28:39] but living in a pop up city in between or in duration. That's, you know, it's definitely gonna be the model between every DevCon and every DevConnect now from the future that we're all just gonna be able to go gather and live in that place before and after. And I think that that I think it's already has scaled. It will scale like people were in Brazil. They were Agree. Agree. Pat, I don't agree. It's a future. It's a it's a future we want to have. Yeah. Like to
+
+[02:29:06] many many capacity. We can live in the year half year, three months, some place just to not only the parties even to the meetup, but also we can get some essence or some nutrition from the local. Also, we can make some contribution to local. I think it's a good exchange
+
+[02:29:28] and a circulation for for two events, for two that. Yeah. Yeah. Yeah. I think I don't know if some guy has some question to 2001 thing, in short, it's play together. Yeah. Yeah. If someone has some question, I have a little bit of boring question. It's just
+
+[02:29:55] or yeah. Because it's it's any, like, those kind of, you know, those other type of publicities or permanent hubs like for cities are self sufficient. I mean, like, up to you guys' experiences. I've I heard that seems like the Edge City actually
+
+[02:30:18] break a one or I don't know. You can can keep it. I can keep it. Edge City is, apparently, yes, break even. I think
+
+[02:30:43] there's I don't know. It's it it is a little bit hard because I don't know if you can, like, build society fully with the Ed City model because, there are a lot of people who, like, aren't able to attend Edcity because it costs around, like, maybe $700 a week. Right? So that ticket price definitely helps, and they also have some great supporters and backers. So I think I think maybe like,
+
+[02:31:12] an incubator model could be, an approach that I've heard Vitalik talk about in Zoo Grama in Switzerland. And even if Citi has kinda like that that maybe you wanna start bringing in more people too. And I think that I actually really like the model here. Like, I love how open four c's feels.
+
+[02:31:37] And I feel like that actually really is, like, kinda like the local blessing that four c's is making to the local community in Chiang Mai. You know, I've met even just a couple people here tonight who just said, oh, yeah. I didn't know anything about Ethereum or this, but someone brought me to four c's and now I know. So I think they're like that that doesn't happen at Edge City because you don't have you have the ticket costs. But we do lots of we do at Edge City, we do lots of things to impact the local community. And many residencies have that opportunity to kinda like reach out and figure out things where they can like maybe go teach the local, school how to vibe code. That happened in Patagonia.
+
+[02:32:14] But the yeah. Right now it is, definitely reliant on, you know, some generous supporters. And the model of renting out expensive resorts or hotels and then gathering people for six weeks has not had the outcome that we would wanna see. Right? Like, that amount of investment
+
+[02:32:39] of usually sometimes 200 k to a million dollars just for two months, going into the location itself so that we can have a nice hotel and and meals and all these other things. I don't think it's quite had the turnaround just like you would wanna see hopefully in an incubator type model where you're putting that much investment and to hopefully see people build something that,
+
+[02:33:02] makes a huge impact for our our collective, structure. It shouldn't it shouldn't be about just like the individual startups. I think like that amount of money going into things. So I think like the permanent structure in the long run, like, I yeah. I know it would yeah. I'm not surprised. And I think, like, surprised to know that, like, four c's
+
+[02:33:26] doesn't have a strong, you know, bottom line, at this current time. But, you know, what it has created, which is a huge asset, is its community. And then, like, the physical space for that community to continue continually operate, I think, is worth every penny because, you know, you're actually giving more time of that investment of building something to come to reality where it's kinda like a normal VC, you know, where, like, one little angel investment pays for all all the other bets that they've made. You know, like, that's more of like a timeline scale. Right? Like, so ten years of
+
+[02:34:03] of struggling to make breakeven at four c's could all be paid for when we launch like the new governance model that's gonna impact all of Asia. Not saying that we're doing that, but we could. You know? So, like, there's those are the types of things that we wanna see longer lasting is the building towards things that need to be built. So the pop up cities have have been great. I that's why I like to use the term experiments because,
+
+[02:34:29] you know, like, one of the bad data results is that we burned a lot of cash in some of these locations, or burned a lot of crypto in some of these places. And the turnaround, probably to get to sustainability, I think is gonna come with our shared technology.
+
+[02:34:53] Right? Like, ZooPass didn't quite get to a profitable structure, but I think that there's some things out there. Like, I was talking to you about this the other day. Like, I would love to see because I do a lot of live streaming. I would love to see, like, a more strong way for me to do a public transmission, you know, for the actual live streaming and the stream keys and the RTPMs? How can we actually not be reliant on, Twitch and Amazon or YouTube?
+
+[02:35:17] And how can we think about one stream meeting infinite platforms using some sort of ERC mechanism. Right? Where, like, the the data and the streams occurring on chain, and then that can go to everywhere including YouTube, including Twitch. But, like, we shouldn't you that's that's one thing that if you like if you decentralize media. So like there's actually many DEAC
+
+[02:35:41] needed things. DEAC stands for decentralization, democracy, and defensive acceleration, a term coined by Vitalik similar to a term Zuzalu coined by Vitalik, but he specifically chose Zuzalu because it means nothing. Diak has also become kinda like a meme that we're all excited about that I am most excited about the decentralization
+
+[02:36:04] and the democracy for sure because I feel like that's what's open opens it up for all communities. So, like, what we're building, if it you know, like, that's that like, that that's the value of Ethereum. Right? But because we all we all give value to Ethereum because we believe its value. That's why it has value. So we should be there like, a project will come out of four c's
+
+[02:36:28] and it should come out of most pop up cities eventually. That adds so much value that it becomes around. That hasn't happened yet. You know, not one of the pop up cities has just been like, wow, we made so much money. Like, no. That has not happened. So but that's the I don't feel like that's that that's the point of it. Right? Like, obviously, it's gonna take a lot of money to build a city,
+
+[02:36:54] and the city is not gonna become profitable until it's fully operating, when people are living there and it's it's generating something. Right? So that that's also part of the pop up problem. Right? So, like, Four Seas is no longer a pop up city. Four C's is, a permanent community.
+
+[02:37:17] So now what's what what are what are we gonna actually start producing here? You know? Like, that that is something that is really important. We shouldn't get complacently just happily coming here every day to co work together. Like And I I think once once the first pop up city to really take that open initiative of building something that isn't negative sum of, like, making their own pop up city cool, but, like, cracking the code on something that helps all the pop up cities. That's gonna I think my bet is that's gonna be the pop up city that could become where the most profit or first profitable pop up cities is the one that starts releasing technology
+
+[02:37:55] that maybe they receive a little small API that helps sustain that protocol. But, you know, those are those are the things that we need to start looking towards to become profitable, not charging more money for the ticket or figuring out how to have better food at the coffee shop. Like like, those things are all very important, not what we should be looking at to turn profitability. I think it's the technology. That's what's bringing us all here in the first place. So it is kind of like an angel investor bet, you know, like that we're we're waiting for that little
+
+[02:38:26] unicorn to take us away. I think the good question for the certain ability, not only pop up one by one and fail out one by one. But also we should create some not leaving a local community, but also we're co leaving,
+
+[02:38:51] Cooperation and living. Maybe you can take your productivity into the community and get the living cost from the community to embed it into the economic model. Maybe transfer the new patent from pop up to, like, your long term local community. Not only just one time event with high price ticket for everyone. You're just a traveler.
+
+[02:39:18] Not only like what the two that want to maybe impairment or change the future to get some employ something to I think maybe in complexity science, it means emergence. Yeah. From the last diversity
+
+[02:39:41] to emergence, new things, new innovations. Maybe for c, can you pull more focus on the, like, the co leaving, cooperation, and living here together to event. I don't know. Some new economic model to get long not not long. So tell me. Yeah.
+
+[02:40:04] And I think that's my answer. Anyway Longevity for the pop up city. Where where it's no longer a pop up city. It's a city. It's an infant garden. Alright. Well, see you all tomorrow night at the Christmas Eve party. Yeah. Merry Christmas. Yeah. Good night. Yeah.
+
+[02:40:28] Tomorrow. Okay. The event is finished. So thank you everyone to come and to enjoy it.
