@@ -416,13 +416,14 @@
     "id": "10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO",
+  "duration": "00:02:23",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": false,
   "thumb": "thumbs/10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO.jpg"
  },
