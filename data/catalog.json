@@ -606,5 +606,28 @@
   "featured": false,
   "note": "Mandarin-language session 🇨🇳",
   "thumb": "thumbs/16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf.jpg"
+ },
+ {
+  "id": "1tBw0NJYvuoT9wObiOw4hVetvat25l2kI",
+  "title": "Vitalik at the Zuzalu Library, Chiang Mai",
+  "date": "2026-01-25",
+  "week": 2,
+  "source": "ETHChiangmai 2025–2026 · 4Seas",
+  "media": [
+   {
+    "id": "1tBw0NJYvuoT9wObiOw4hVetvat25l2kI",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": true,
+  "speakers": [
+   "Vitalik Buterin (Ethereum co-founder)"
+  ]
  }
 ]
