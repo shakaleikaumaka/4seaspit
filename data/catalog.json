@@ -554,13 +554,14 @@
     "id": "1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg",
+  "duration": "01:22:24",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": false,
   "thumb": "thumbs/1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg.jpg"
  },
