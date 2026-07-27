@@ -1,0 +1,431 @@
+# ETHChiangmai Hackathon Top Demo Presentations 2026
+
+Date: 
+Source video: ETHChiangmai Hackathon Top Demo Presentations 2026
+Drive: https://drive.google.com/file/d/1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e/view
+Duration: 01:47:01
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Hello, everyone, and welcome back. And this is from East QMai. Thank you for being here this afternoon. After reviewing all the demo from earlier today, we are excited to move into our second round of public demos. From all the 44 submissions, we've selected 14 project to continue and present their work in this session. This team represent a wide range of ideas from infrastructure and privacy to local communities, real world coordination,
+
+[00:30] and creative applications. Making it to the stage already reflect this quality, focus, and effort each team had put in over the past few days. Before we began, we also want to take a moment to thank the other team who are not present in this round. There were around 30 additional projects and overall quality across this hackathon was generally impressive. Not being in the top 14 doesn't mean doesn't mean lack of potential. Many of these projects sparked meaningful discussion and strong interest during the week.
+
+[01:01] Just to clarify how the award works, the main eight prizes will be selected from this top 14 projects presenting now. That said, in total, we have 24 awards including collaboration and partner prizes, which are open across a border sets of team. So this round, each team will have three minute to show their demo and the chance to communicate what you've built and why it matters and where it could go next. With that, let's get started.
+
+[01:28] Please welcome our first project, Witness Protocol to the stage. Hello, everyone.
+
+[02:01] Good good afternoon. Thanks for having me. My my name is Beau, and I built witness protocol because last week, I saw a report that, like, a man had been killed in Minnesota who was filming police. And I went to look for that video on x, and it was not loading. And then I went to look at it on TikTok, and it had clearly been edited.
+
+[02:27] And so then I thought, like, well, I when I eventually did see the video, I thought, well, where was this guy's perspective? He was clearly, you know, taping as well. And so here's witness protocol. The idea here is that you can create a small group of trusted individuals, and you can live stream and share video evidence that you've created with them with a durable record that is stored to IPFS,
+
+[02:57] with a Merkel route that is you know, that that proves that it wasn't tampered with, and with attestation that allows for, like, ZKDID and journalist credentials to be added to the Symaphore group. So the first thing to do here is to register with the content registry. This is all gasless. I implemented Privy, which is the wallet provider, and then Pimlico, which is the bundler, and
+
+[03:24] the paymaster. So I've created my on chain, you know, like, registrar. Then I'm gonna create a group. And let's say this is, like, neighborhood watch. Okay. So I have created this group, and I have a separate,
+
+[03:50] say, like, trusted friend who is also running just a PWA right now. It should be a native app, but right now, it's not. I need to register it on chain quickly. Then I scan to join the group. It's, my hands are a little shaky.
+
+[04:31] Okay. And I can join the group. You can't see it here. I'm submitting a transaction, which adds me to the Symaphore group. Okay. It's done. So then now I'm going to add the Symaphore group to my recording output, and then I'm gonna make a record of, hey. Hi. It's Yith Changmai. Say hello, everybody.
+
+[04:58] Hello. Okay. And then I'm gonna stop the recording. It is currently chunking and writing to IPFS. And then it will it's also committing a Merkle root to the content registry. And then as soon as it's done processing two second block times are even too long. Okay.
+
+[05:23] Then we're gonna look on this device, which is pulling it directly from IPFS. We're downloading the chunk. We're decrypting the chunk. We're checking it against the Merkle root, on chain verification. And, hey, there you guys are. So then I, as a trusted friend, would say, look. I think this is a real video. I think it was submitted at the time that it was submitted,
+
+[05:46] and so I'm gonna attest to that. You can have different levels of attestation. So you could have a journalist credential, for instance, and give an attestation, and you could count the number of journalist credentials which had attested to it without revealing which journalists or which wallets had actually attested to it. Right now, this functions basically as, like, how many durable copies, distributable copies of this raw video exist sort of in the world. So, yeah, that's witness protocol.
+
+[07:11] Okay. My question was, can you add more people into the verifier group? Okay. This is, like, less technical, but more about, like, how do you manage information flow inside the app. For example, after you create app,
+
+[07:34] if you have related video, for example, for the same, like, social events, do you, like, create a new group with a new, like, the address, or do you add to the same group? I mean, like, I think that this is, like, a pretty slim implementation. I think there's a lot of different directions you could go. I think, like, my my thought at first is, like, in its sort of current or, like, next state,
+
+[07:56] the best use of it is, like, sort of just self destructing groups. Right? Like, groups you use once to disseminate information for a specific event or disseminate video for a specific event, and then you just create new groups. There's sort of no I mean, like, you know, there's a cost. Someone has to maintain, the gas and the paymaster, but there's no cost to an individual user for spinning up any number of new groups or anything like that. Okay. Okay. Can you Thank you so much.
+
+[08:29] Can I start? Okay. Hi. This is Cleanfield. Cleanfield is a solution that rewards farmers for not burning their crops. Every year in Thailand, crop burning is a big problem. 40,000 hotspots a year and AQI 300 over three hundred hundred hectares air affecting, like, millions people in Thailand.
+
+[08:52] And then Thai government actually incentivize farmers for not burning their crops, but the process too slow. That's the problem. So solution. So farmers register their land on the GISTA, which is a Thai government satellite government space agency website. And they monitors and publishes HASPA data.
+
+[09:15] And then through that through the kit TLS, it it it it extracts proof. And then smart contract verifies on chain, and then The US is U S USDC will be paid to the farmers directly. In this case, doesn't need to do anything. Data is already public. GKTLS instructs the proof government website data with cryptographic guarantees.
+
+[09:41] No API needed and no server changes. So text deck, Next. Js for front end, solidity for smart contract, famous JKTLS base layer two network, ESD sits, stablecoin. Yeah. Gizda TypeScript, Taewon. Let's see the live demo. This is a manager's page. You can see farmers
+
+[10:05] and then where they're located and the system status clean or burning or eligibility. Let's see the first eligible farmer page. First, you connect your wallet. It's on base at Polya. And then let's see if this farm farmer is eligible for reward
+
+[10:28] through GTLS. So no burning detected is eligible. Now we can claim. Like a sign, confirm. Now claimed successfully.
+
+[10:51] So you can see the hash. And then let's see the ineligible farmer page. So so two incidents of fire. Let's see if it's eligible. So burning detected. So this farmer is not eligible for rewards. Yeah.
+
+[11:17] This is Yeah. It's over. Any questions? Yeah. I think it's a really interesting idea. So one question is how to make sure the geographic data that is collected from website is accurate?
+
+[11:52] Is there any way to approve that for example satellite or something else? It's actually satellite data from government website. And then there's also audits. And then all this data is on act organic and there's different, like, website you can get the data from. So you well, first, are data. So remote sensing data plus audits. So make sure the data is correct, verifiable.
+
+[12:22] What is the existing solution? Like, are does grants like this existing right now and how governments are encouraging farmers to claim those rewards? Is it more like manual right now? Yeah. Just curious. Yeah. That's manual. So slow process of pain bottleneck. So that's why I want to solve that problem. I see. This is very interesting. So it sounds like farmers doesn't need to prove by collecting their own data as well. This seems like Yeah. They need yeah. Farmers also submit their data not burning on the website. And then these auditors actually sit on-site
+
+[12:57] audits. They and then both get need to prove. So this is probably like a register resolution, then satellite cross check, field inspection, certification. It takes like six to sixteen weeks. What data does do farmers need to submit? Just not burning? Not burning. Yeah. That's their just self register. Self yeah. And then there's all the data that's actually come to their I see it. You. Yep.
+
+[13:23] Anyone else? Okay. So basically, this one is escrow system. So government need to, let's say, put the money here Mhmm. And then let the audit from, let's say, the self not self, let's say, governance, govern API to unlock the payment. Yes. Right?
+
+[13:46] So what exactly the problem you try to solve? You try to solve the problem of the waiting time. Right? Yes. But can you elaborate more about who suffer from this waiting? Farmers. This is actually farmer Yes. Farmers. Or the logical process? Farmers yeah. They're spending a lot of time to prove better prove for not burning process
+
+[14:14] not burning status. And and then they yeah. Because of that, they just kinda give up on their grants or insensitive they cannot actually get. So they just burn it. It's easier because burn in slash and burn is the easiest way to just for usually farmers do in order to I mean, from from the what from what you have said. Right? Yeah. The data is already there. Yes.
+
+[14:40] The the satellite image is something that government provide. Yes. Right. So the problem is not about the data, but about the process. Correct? Yeah. Process also the payment is also slow. Payment is slow. So one question is like, did you engage with the farmers where people on the ground to actually understand the questions like throughout the process when you're doing this project? Did you interview anyone? Oh, I haven't interviewed in person yet. Yeah. It was like a hackathon project, so I if it works well, I would love to meet them in person. Oh, how how did you figure out there's a problem like this?
+
+[15:19] I searched online. Okay. Got it. Thank you. Yep. Testing. Testing.
+
+[16:30] Okay. Okay. Good morning, everyone. My name is Wai Hizman, and we're building Orbit. So there's two problems that we're trying to solve. Let's make it clear. Public blockchain overexposes data. Everything you do visible on the blockchain. Imagine you are a boss. You're trying to give your employees money, but then your employees can check your balance, can check which other employees you have given money to. So and encrypted blockchains fail to comply with regulations like AESTEC. The ecosystem is small. It fails to comply. So we have to think of a way to make private transactions on a public blockchain.
+
+[17:08] Yeah. Next. So what we do is, starting first, we have our Orbit card, which allows us to add funds. We have integrated ZK p two p on ramping to allow seamless UX, of people on ramping without trust, without having to trust centralized exchanges so they could on ramp using p two p. And then we allow merchants
+
+[17:31] to wait. Okay. Okay. We allow merchants to collect crypto by, k, by using NFC. So let's say this is a merchant terminal that trying to collect money. And here, Munn is scanning, Munn is scanning his phone with this NFC card. As you can see, we we've written this card with hex data. And then
+
+[18:00] k. Share screen. Which which k. I think something got some problem with the screen sharing, so I just show like this. You can just type in your six digit PIN. And then it will start finding the buyer so it can transfer crypto into the escrow, and then the buyer will transfer the fiat on behalf of the seller to the merchant. So the identity of seller is total totally anonymous.
+
+[18:32] Okay. Now we've done the off ramp and on ramp part. Let's move to how we make secure payments and private payments on chain. So what we've did is ZK Wormhole technology, which lets people make private payment on chain using Waku Relayers and Railgun protocol.
+
+[18:54] We allow private payment by unlinking the sender and the receiver while keeping everything proven on the chain. So yeah. And you can look at this video to see how the transaction works. So here, we allow batch transfers so you could transact to multiple address at the same time using ZK proof to prove everything on chain without exposing any of the wallet's details.
+
+[19:26] And here, it's it's going through a POI phase which proves that the funds are innocent and a ZK proof to prove the transaction, and everything is visible on chain like this. And you can see that the funds are unshielded to different accounts while keeping the sender anonymous. And
+
+[19:48] yes. And another cool thing we do is an extension. An extension that acts as an adapter so that people could privately and anonymously interact with different DeFi protocols. Imagine you're interacting with a learning protocol, but you wanna keep your details secure. This is what you need. So yeah.
+
+[20:14] So about the ZK wormhole wait. And ZK swap, we also make a ZK swap. Imagine you're trying to swap something, but still wanna keep it private. So we've we've built z k swap. It basically works like z k wormhole, but it supports multiple tokens and multiple chains using Stargate as our intent engine. So Stargate will help us find the most efficient path across
+
+[20:40] decentralized exchanges and will then give the intent to our destination chain so that the execution can be happened here. And then it will be unshielded to the recipient. And Wakuri layer as the unlinking point to unlink the sender and the receiver. Yep. So this is basically our product. Okay. Uh-huh. I think Railgun has already integrated with many DeFi protocols.
+
+[21:09] So can you elaborate more about the difference? Okay. So our difference is people don't actually have to create a Railgun wallet in order to use those DeFi protocols. For every transaction, you actually only need an EoA and MetaMask. So you can use a MetaMask to make private transactions on chain without relying on Railgun. Yeah. So for every transaction, we auto generate a mnemonic generated
+
+[21:36] ZK wallet to allow that interaction to happen anonymously. So after that interaction, the wallet will be burnt. And for every interaction, this repeats a random wallet. Yeah. How do you incentivize the relayer to submit the transaction on your behalf? Like, is there a gas payment? What? Is there a Yeah. Yeah. Gas payment. So for the relayer, Waco actually have a 0.25
+
+[22:01] takers fee so that the relayers can actually earn from from being a relayer. Yeah. So every time I send a transaction of $100, I will only get 99.75. Yeah. Yeah. Yeah. Yeah. Okay. Thanks. That's it. You guys have any question left?
+
+[22:30] Okay. Thanks. The next one is Mary Punk. Okay. Yeah.
+
+[23:32] No. I wanna stand out. Yeah. Okay. So a few years ago, I dated a girl. We we had a happy moments for several months, and one day I wanna elevate our relationship. By then, she asked me a question. How much money do you have in your bank account? So
+
+[23:56] marriage is a financial relationship, but managed with no financial systems. These days I'm from China. I know that these days in China, the marriage system is breaking. Young people are reluctant to more and more young people are reluctant to enter into this relationship. The diversity is so high. You know why? Because it's unlimited time and uncontrolled
+
+[24:19] risk legal relationship. So how we're gonna solve this problem? Mary Punk is a time bound commitment protocol for relationships. Built on smart contract based multi signature escrow architecture. We believe commitment is the core of marriage.
+
+[24:44] So when a commitment is created, both partners deposit assets into a multi stick wallet where no neither party can move the funds you'd unilaterally. So all those funds, all the moving of those funds are governed by predefined
+
+[25:09] rules, such as time based releases, mutual confirmation, or, separation confirmation, separation, outcomes. We do not custody assets. We just define the logic. See how it works. So this is about commitment.
+
+[25:32] We can easily to create a commitment, I can fill out my name, Neil, Joe, and also a content ID, which is the matching point. We know who is whom. And also, for for example, this, Alice Wong, here is the magic point. We define a commitment duration. This is quite different. Because in today's world, young people are like,
+
+[25:57] they're encouraged to young people who has never drugs for two miles in their life are encouraged to join a marathon. This is exactly marriage. Today's marriage system. What we wanna do is that, why why don't we just start from shorter period? Say, six months. Six months. A year. Maybe three months. Whatever. You can define the duration.
+
+[26:19] And then okay. The starting date might be, for example, June. Yeah. Okay. Next. And you can here's the next magic point. You can claim a stake target for your relationship. For example, 2,000 east. Oh, that's a lot of money. Then go to the next page and go say, oh, yeah. Then you can stake. Oh, I don't know why they they they do not oh, I have two two I do not repeat the the staking process. We already done that, actually. So
+
+[26:49] the this is what we're doing. Thank you for the questions. Any questions? How is it different than Gnosis Pay? What? Like, Gnosis Pay already allows me to sorry. Gnosis Safe already allows me to create a multisig.
+
+[27:14] What is what have you built on top of the multisig contract? Like, are there adapters, time based adapters? Adapters. Like, what are the diff like, you mentioned there are different ways of, like, it it could be time based commitment. It could be, goals based commitment. No. The the both are the same. You you have need to have both. Both duration,
+
+[27:36] time commitment, and stake commitment. This is the the same. So and another thing I wanna add is that, you know, in China, when you get married, you receive a lot of red pockets. Right? These days, you can only receive in cash. But when we set up this safe wallet, so all your friends and relatives can send their funds to your wallet. So they can make money by that. So one thing I wanna say that marriage is very important because we wanna start from Chiang Mai, start from digital nomads.
+
+[28:07] Yeah. The reason is that we wanna do that in this summer. We we wanna organize a event called, love summer in Chiang Mai to invite all the young people around the world to come to Chiang Mai to try this new type of a commitment protocol. So in the year 2009, Satoshi invented decentralized money, which is Bitcoin. And today, 2026,
+
+[28:30] we wanna be here to reinvent marriage. We invent a decentralized marriage. Thank you, guys. Yeah. Like safe. No safe. Yeah. Okay. I got it. Good point. You take a look at the today's sandbox. You know, I am a product manager.
+
+[28:54] The web tool people, the common people is not gonna use it. They're not gonna use it. And also they are not specific designed for the marriage relationship. So we're built on the giant's shoulder. We specifically build a product for marriage for relationships. Thank you. Any questions? Okay. Just just one one quick question. How many of you wanna try this? Please raise your hand.
+
+[29:26] Wow. I can see some hands. Okay. Thank you. Alright. Thank you. So we're coming on to the fifth project, DID boot loader, ZK card. And next one is Neuroset. Okay.
+
+[30:21] Hi, everyone. So our project is DID port loader and ZK card. So we want to make real world identify verification verifiable on chain. So now so in the past four years, so a lot of decentralized society system published on chain. But all of them designed very complex mechanism to prevent
+
+[30:45] severe attack. So we want to solve that. Yeah. And we can use passport to partially solve the problem because we we can prove that they are exist and passport, and we can prove some information about that passport and also bound that passport
+
+[31:09] to a event address, for example. And they use the hash of the password as a nullifier to prevent the cyber attack. But the problem is that the key password is approved from digital to digital. So you can use others passport
+
+[31:31] to create an account and bound that account to your to the passport. So you can collect collect some others passport to to acquire many many accounts in some application. And and so because they are they are not a proof from a reality to to
+
+[31:56] to digital. So our solution is that we we use digital to digital proof like a Ziggy proof, like a Ziggy passport proof, a t attestation to ensure that you the owner of the passport is the prover. So so
+
+[32:21] so we use so we use the TEE to bridge the reality to digital. Okay. So here's our demonstration. So yep. So here, you can download the software and scan your passport. After scanning, then we'll read your your digital information, your passport chip.
+
+[32:47] Finial scanning, so there's your photo in your passport. And our unique is we check the health of our of our project, And we do the face matching with our passport. After doing that, so we can combine your passport and your EVM address together. So after we have the combination,
+
+[33:10] so we use premise to prove your asset from under another CX. So we create the proof and a link with your unique online identification. Yep. And I want to emphasize that someone will may ask, we already use TEE. Why we we also use the key? We can use all TEE in
+
+[33:39] in all application. But but the other two proof. One proof is digital to digital. And that proof we use ZK. We don't use TE. We so if the TE breaks, the digital to digital proof will not break. So so it it will partially prevent the the cyber
+
+[34:04] attack in a more concrete base. And the second proof relative to digital proof, we need to trust the device we use. Yep. Any question? Does the app just only work on iOS? Or And you also do it on Android. I believe it's not secure on Android. Right? Okay. So now we use iOS
+
+[34:28] device because I don't have an Android phone. Yeah. Yeah. By the way, we have a plan to use Android versions like It would not work on Android because you can jailbreak Android. It's not Sorry? You can jailbreak Android so it's not safe to run an app test on Android. It it depends on t it depends on OEM. So it it really depends on the t effect t features for from the OEM
+
+[34:55] OEM. Yeah. Hello. Can you elaborate on the local face recognition model? Like, is it Yeah. Actually, it's just FaceNite. FiSNITE from Google. And I translate to the core ML so I can let it use on the iOS device. Yeah. Okay. That's it. Thanks. Okay. Thank you.
+
+[35:29] The next one is our six six project no set. The following is locked east found in five minutes. Okay.
+
+[36:07] Hello. So the name of my project is null set and it allows for reusable privacy preserving exclusion checks. And the reason I did this is that a lot of platforms still filter out the bad users through KYC. And as we all know, KYC is a little yeah. It it it violates a lot of privacy
+
+[36:30] of the users, and it's not efficient as well. User data becomes a liability to these platforms, and the the the solutions available to them are mostly also also ZK protocols that proves that, say, I have a certain identity. I passed KYC. I have done certain things, but some platforms
+
+[36:52] actually need that to prove to prove that a user is not part of a bad actor set. And we we see this being implemented now in a lot of protocols. For example, Tornado cache is already implementing exclusion set. But the thing is a lot of these circuits are one off compliance circuits and it cannot be reused by many protocols.
+
+[37:16] So we are missing reusable lists and we we are also missing platform agnostic proving systems. And yeah. It's it's also timely because platforms are already using blacklist. But the thing is that this blacklist are not are not shareable to other platforms. So each platform have their own KYC or their their own blacklist and it doesn't it doesn't update that easily.
+
+[37:47] Also, there's a privacy privacy issue is very obvious for the users, but also it's a liability for a lot of businesses. So ID systems can be very expensive for for platforms. And now we ZK is also mature enough for real workflows and for obstruction in many cases.
+
+[38:10] So I'm going to show a demo of how we're using it. And usually there's an administrator. It can be anyone. They can just upload a band a band wallet set and they can check it. But the thing is this list is private and and cannot be seen by the platforms that integrate with it.
+
+[38:35] So Noset can build a sparse Merkle tree from this set and this Merkle tree is not published. It knows that only publishes the root and that roots get integrated by any any platform permissionlessly. So there's a way for platforms to integrate permissionless exclusion set without
+
+[38:59] without having to wait for platforms to approve them. Yeah. So how you use it is that, say you have an innocent user named Alice, and what happens is Alice creates a Merkle witness for her ID and her ID
+
+[39:24] she comp she computes for the Merkle path that that proves that her leaf is empty. So we're using sparse Merkle trees to make it fast. But yeah. Alice can prove her innocence without revealing anything about her identity. What about a banned user? Say, Donkey is a banned user. So her access is automatically denied
+
+[39:48] because she cannot create a proof that her leaf is an empty empty leaf in the Merkle tree. But this this has loopholes. Oh, okay. It's it's time time's up. I'll I'll just I'll just wrap it up and there are many use cases to this. So you have compliance without surveillance at scale. You don't need you you don't need very complicated
+
+[40:16] engineering to be able to to integrate with the exclusion list. So you can use it with gating infrastructure, API access, preventing decentralized platforms from abuses. You can also use it for anonymous forums and markets. There are also non penalizing users like if you want to exempt certain users from from anything,
+
+[40:40] then you can use null set for that. So yeah. Thank you so much and let me know if there are questions. Mentioned the the loopholes. Yes. So this is the manual demo and what it does is that it checks whatever the user inputs against the against the exclusion list. And the user can just enter anything
+
+[41:11] even if it's they're not it's they're not it's not their account. Say, Donkey claims that he is Bob and that will that will circumvent the check. So I did another another demo where you log in with you sign sign in with your wallet and that can prove that you actually own the account. So that's one. And there are other many ways to bind the identity of the user to to
+
+[41:40] their to their to their account and ID. Yes. I like your tech stack if you can. So my tech stack initially, I planned for Aztec Aztec's Noir, but I had some I had some problems with incompatibility
+
+[42:03] of the hashes. So I ended up redoing it in CIRCOM. And I I use yeah, I also I also use a proving system called GRUT 16. Yeah. So those those are my tech stack. Thank you.
+
+[42:44] And the next ones are the seventh lost is found and the following one is relief mesh. Hello,
+
+[43:09] everyone. I'm Seyd. It's nice to be here. In this hackathon, I I built lost is found. It's basically a global lost and found registry. And, of course, it's privacy preserving. And the problem I'm solving with this project is that we lose stuff all the time. When I was working on this project,
+
+[43:32] just walking around Chiang Mai, I started noticing all the missing signs online, all the missing item signs. A lady came to ask me if I could call Grab support because she lost her phone in Grab. So I decided to make this public registry on Eth. So how it works, first you register your item. You get a code that you put on the item, and then you answer five questions
+
+[43:59] on the item. And then this allows you and the finder to verify that you both are talking about the same item. You get an NFT that proves that it's yours. And then if you mark it as lost, finder can put on your tag that you minted that that is on the item and answer the questions.
+
+[44:23] And then he gets a pop up p to p chat with you, and you can sync and meet and get the item. And since my Internet is not the best, maybe I will show the video of how it works. So, basically, we have here two accounts. The account this account is going to add a tag or create an item. He's saving his code just for the demo,
+
+[44:51] adding a bounty for the item so you can put bounties if somebody find you give him. Then you answer questions that are specific on your item. I wrote here the same answer so it would be faster. And then you basically mint your NFT that proves that you have the item. It's an SVG
+
+[45:15] that shows you always the status of your item, as you see here. And then if you go to the dashboard, you can mark the item as lost. Yeah. And then if somebody finds the item, you see the second screen. He can put on the tag of the item. And then he has to answer the zero knowledge proof questions
+
+[45:42] that we answered before on the item. It generates the proof, push it on chain. It verifies it. It shows that it's indeed an item that exists and it belongs to our user. And the user who published the item
+
+[46:04] get notification that the item was found. He can now open a peer to peer chat and talk to the person who found the item and hopefully get it back. And that's it. Which proving stack you're using and what stack is for p to p chat? Okay.
+
+[46:28] So actually, the p to p is right now a server that everyone can run using WebSockets. I tried some different stacks, but nothing really worked out of the box. So for now, it's just WebSockets that you can download, like, the app and use. And I use Sercom, basically, and yeah. Solidity.
+
+[47:02] No more questions? Okay. Thank you. Thank you. So it's project relief mesh and the next one is is Kraton. Hello.
+
+[49:08] I am Lilith Mast. The the problem is this has that we are fed to to to critical feature. Centralized server has data Internet got out, leaving with its fight silent and don't need a slow.
+
+[49:31] So we all have solution to the release map decentralized if decentralized in a platform that cannot be taken down. So we about we we we view our serverless peer to peer network. So the dot the data can
+
+[49:54] connect with device. So a call feature is decentralized and s o s map, peer to peer map network, trustless note, donation, and privacy and data. So a demo is
+
+[50:24] user hand for someone have for the needed you can so it was cast. So you can add the detail what you want for the health. And for donator, you can donate by don't donate to
+
+[50:48] someone helping by the Ethereum client and you would some are contact. Yeah. Yes. Okay. Any have question? I wonder because right now, it's the support or donation is multi.
+
+[51:20] Right? It's like supporting with money. Is it possible to support with other resource, which is something people usually need in, like, a like, actual emergency? People need something more than just money. How do you match that? What do you think about that? For the the need help, like Yes. For
+
+[51:43] the people who need help, if done you the Ethereum call, you can you can you can connect with the website and hand kick what how FOF and what care to the anyone by peer to peer device. So does that mean they send money to
+
+[52:08] to help them and then they go buy the water by themselves? Or do they deliver water? What is the process? Because you okay. So they the needs are water, medical aids, and food. So what actually happened? Is it that people deliver water, medical aids, or food? Or is it delivering money and then
+
+[52:30] the the person receiving the money go buy water themselves? Yeah. It's been together, but it's have two option to to help. And the one is volunteer to help to go to Wix team. Yeah. To help. And and
+
+[52:55] second option is a donate, yeah, to help Wix team. Yeah. To volunteer Yeah. Or to donate? Yes. Yes. This is very useful because I remember when I was doing disaster relief for, earthquake before, it's very hard for people to really,
+
+[53:21] know which sites or which location do people need help with. I would recommend you definitely check out some dataset regarding, like, how, like, how harsh the infrastructure is, destroyed because that may affect if people can actually access where the, you know, the victims are or, like, is it still possible to walk over there? Like, I don't can you elaborate on what map data are you, you know, connected into?
+
+[53:51] And how do you plan out to maybe connect more data into it? Let me translate for you. Okay.
+
+[56:08] Do you have any technical details of the mesh network part, especially the wireless protocol you choose? The Bluetooth or what kind of other things? Yes. If if can do can use a Bluetooth or wireless as wireless
+
+[56:31] via behind like, behind the IoT network, may you can use this. Any questions? Any question? No question. That's fine. Okay. That's it. Thanks. Thank you. Thank you. And our ninth project
+
+[56:55] is East Kraton. The ninth project is Yth Creator. We have five more project left.
+
+[58:31] Okay. Alrighty. Right. Hello, everyone. So our project is a DeFi aggregator. There's bill on 7702. And we offer to create any transactions you want similar to
+
+[58:56] Thai traditional Kraton festival, where you can customize your Kraton before releasing it to the river. So we want to aggregate all the possible contracts or protocols and let you create your own transaction that supports conditional logic and and encryption between the sharing devices. So currently, this is for the DeFi enthusiasts who like to maximize their DeFi strategies or interact in one transactions with multiple protocols.
+
+[59:28] And, yeah, we support a bunch of them out of the box, but it's actually works with any contracts that we're gonna see. And, yeah, let's try it out. So, yeah, I already have one of the one of the strategies. Let's maybe create something from from scratch. Okay. I'll delete this one. Right.
+
+[59:54] Let's make a new one. So, yeah, we'll start with connected wallet and let's say, once you first swap some assets to use the c, so I'll interact with the uniswap from here and swap to UDC. And then after that, I'd like to perform a deposit into lending protocol. So we can do that right away. And we're just creating our transaction flow. It can be anything you like.
+
+[01:00:19] And it's up to your imagination what you like to create. So since I'm swiping to EDC, I will deposit it to Morpho right away. And let's say, alright, so we get a quote and that exact amount will go to the next protocol. So we'll try to execute it. Okay. I got a confirmation, so we can see this transaction request will
+
+[01:00:45] include several steps. We can also make something more complicated. Let's say, we want to add one more swap here and maximize the use d c output. So we'll we'll make another swap and then route this money also to more form. Say we like to convert to USDT to USDC
+
+[01:01:08] and then use specific amount. And see my amount that I can use in this protocol increases proportionally to the swaps. So you can pass it all on. Yeah, we can create also more sophisticated examples, but also you can share this with anyone in the public. So if you like to continue editing, you can just create a BFS entry and then anyone can scan this and edit it on your phone before releasing on the blockchain. It also works with mobile, so you can easily modify
+
+[01:01:38] your strategies and make any connection between multiple protocols in one transaction. And, yeah. That's about it. Can you give me an example
+
+[01:02:02] where you need to create a flow to complement or try to orchestrate the transaction with that complex? Yeah. So if you would like to do this right now manually, you would have to go separately and say in this example, you'd go to other, you would perform a deposit, then you would need to make another transaction to borrow money. And maybe after that, you borrow a specific API and
+
+[01:02:29] then you wanna put it to another protocol to maximize your output. So all of these actions, you would have to do one by one to go to every d five protocol, make three transactions. And this one, you can make all in one in one step. And you can create other more complicated strategies like or something simple. Let's say you wanna lend money and then you wanna borrow one and same transaction. So if you would do it manually right now, you'll have to do one by one. Right? But this allows you to combine all the steps in one transaction.
+
+[01:03:04] Are there any benefits apart from like just having to click multiple times? Like does it save me gas? Does it Yes. Yes. Does save the gas. It has a more visual representation and this is the only platform that allows you to combine it visually that you can then save this strategy and replay anytime you like. So for instance, this one I can later export as a JSON
+
+[01:03:28] and then I can load it and replay anytime you wanna repeat it. And yeah, of course, you save on gas because you save around 21,000 gas for each transaction because it's all batched in one. But but also it's also because it's atomic, so you don't lose between the steps. By the time you deposit the first protocol, the other might already change the scope. So this ensures everything is done atomically.
+
+[01:04:00] And so you might use conditional logic, so we cannot actually checks that deposit only happens if specific logic is met. So you can add if else statements to this as well. The most simple use case would be mass transfer. Let's say you wanna transfer multiple coins at the same time in one transaction. So you can build something like
+
+[01:04:29] let's take example of a simple dual transfer. So here I'm transferring two assets at two different addresses. But you can add logic when each of them happens or you can add another. It's like completely up to you to design it and share with the others. I guess. I don't know. Any other questions?
+
+[01:04:56] I think we need to cut off here. Thank you for the presentation. And the tenth team is local life protocol. Now we have four more projects. Something wrong with the color or?
+
+[01:06:27] Hello, everyone. I'm Sanjay. I will my team Alex. Mhmm. Okay. I will introduce the local live protocol. We are a programmer trust for local live. So imagine if I'm my coworker, time massager provider cannot speak English. So I'm very
+
+[01:06:51] I don't know English marketing or global algorithm, so I'm very hard to reach the global marketing. And if someone no show, if they book my service and then no show, I will get nothing and waste my time and my energy. And also because I'm microwave, I my revenue, we are cut it. Credit credit is not portable, so it's credit loss. And
+
+[01:07:16] our solution for this part is, like, we provide x four zero two to log fund. We provide the ERC 84 8004 and the AI agent. Okay. So our AI agent will be the microwave microworker, the 24 digital broker.
+
+[01:07:39] So everyone can list their service while the local long way try the way easy. And we also do the internal log. So not only translate the needs and also store the agreements on chain. And the x four zero two protocol is our income guarantee. This one can log fund at a booking and also instant pay out upon the confirmation.
+
+[01:08:09] And the ERC $8.00 $0.04 can be the created assets ascitation. So it's kinda every cryptocurrency or the means digital on the badge and the credit owned by the individual, not the platform. So it's that carried by the is portable trust. And, also, the AI can be the meditation.
+
+[01:08:33] If we meet some, like, malicious reformed, the AI intend a lot of solve that. And our protocol is not only a app. We are also as a plug in. So we can integrate to WhatsApp, LINE, Telegram. Everyone can use it very, very easy because it's chatbot. And it's invisible web three. We use the EIP
+
+[01:08:59] three zero zero nine to do the no gas free no gas worry. And what do we want to build is we want to building the first delivery first, say, to let the programmer create data system for micro workers globally, locally. And, also, I think a one can be the micro worker.
+
+[01:09:22] Aid agent that would be the your CMO or your sales partners. This is the whole process we create. So fast.
+
+[01:11:54] Okay. Thank so much. Any question? Like, can you hear? Yeah. Yeah. Yeah. Can you elaborate on, like, first question? You use, like, x four zero two for the payment part. Right? So it solves a problem of, like, the service providers know they are guaranteed to be paid if the service is completed. But how do you solve the problem of, like, trusting whether you should trust the quality of the service in the beginning?
+
+[01:12:27] Okay. We do have the ERC 848004. It's kind of create a review system and the ID system for the agent. So, like, I provide a time message for the first people. They can give me the review bag and blah blah blah blah. And then I will set up my
+
+[01:12:49] create data system. So how's it different from, like, the existing platforms? Where does the agent part play? Does it accelerate the process? Does it, you know, help you marketing? Or For every seller, you can create a seller agent. Yeah. And that's on the ERC eight zero zero four
+
+[01:13:14] protocol. Yeah. And Oh, so it so the agent helps you to do the customer service, like questions and, you know, selling process. Right? Yeah. Yeah. Agent will be your seller in this prime form. So you have a SA for you, like, representatives for you. Social. Social. Okay. Mhmm. I see. Thank you. Yeah.
+
+[01:13:43] What what would happen if it expand beyond Chiang Mai? Is it possible to have different locations? And then how would it look like within this? Or is it only designed for Chiang Mai based activities? From Chiang Mai to globally. Yeah. Because right now, the actually, the Chiang Mai local people, they want to transfer the cryptocurrency to the filed currency
+
+[01:14:06] is quite easy because the bank allow them to do that. Oh, I I mean, with the local services, is it possible that it expand beyond just two one? Of course. Yeah. Of course. Yeah. And then what would it look like? Is it that if you go to a city and you you choose It's like you you can you can move it to every city and even globally. Like, you you you can create,
+
+[01:14:29] for example, a service in Chiang Mai or you can create it in Bangkok or maybe mobile somewhere else. It's okay. Yeah. Thank you. Yeah. Which, I guess, AI agent are you using? Like, are you using Claude in the background, Gemini?
+
+[01:14:52] Or You can choose, actually. Yeah. Now we are using Gemini, but you can choose it here. Yeah. So you have different models. Gotcha. And you just put your API key inside. Yeah. Mhmm. Any question? That's it. No question. Next Okay. One. That's all good. Thanks. Thank you so much. Nice. Thank you.
+
+[01:15:20] And for our eleventh team, Zug Suo. Three more team is left. Hello.
+
+[01:15:53] I have what you need and you have what I want. This isn't technology. This is just human nature. But then humans created p two p for various reasons. For money, they created crypto. For data sharing, they created TOR. But the problem was with humanity itself. They exploited Bitcoin. They exploited Tor. And now because of that, we come to centralization
+
+[01:16:18] where there are platforms who store data and governments who control data because we cannot stick to these p to p networks. They've enforced this by barriers of copyrights, licenses, APIs, paywalls, etcetera. So they log the data and the key, which is money, they hide it from us. And now comes AI. AI needs data to be open source.
+
+[01:16:40] But, hey, the world has logged it for us. So how do I open up data and solve the money problem? This is the problem that LLMs need data, but sources are fragmented so they can't give proper reasoning because their sources are not good. And hence, our idea, which is making money programmable, unlocking data for LLMs, and creating reputation.
+
+[01:17:03] Introducing Zugzuang. I'm here to solve two problems. One is identity and reputation. First, identity. I've created a registry of two things, on chain, which is my DID and wallet, and off chain superpowers, which are my a two way and MCP protocol. So if you can see over here, I can create a AI agent which I've already created. I can prefill this and have an DID made. And I can give certain superpowers to them. And I can create a ready made
+
+[01:17:34] JSON. I can just write Kanye West here. So this means Kanye West has a new song and you have to you want to access it. Now, let's take a demo. Here's the radio. You you have a car. You want to listen to the best song. So I go listen to the best song and I want to select Kanye West stronger. So when I select this, it directly goes to a metamask. And here is the beauty of x four zero two that I can select two seconds of a song and pay exactly for it and not the entire song. And here,
+
+[01:18:05] this is deployed on mainnet. So you play the songs, you pay pay the money. I've created weather agents if you want see, your transaction is complete and it is on chain. Now second now coming to the second problem, the a to a economy, that MCP if you are a creator of music, art, etcetera, you can expose it to the world to,
+
+[01:18:29] x four zero two and get the data. Now problem comes with reputation. How do I trust? How do I discover? How do I hide my identity? And this is what is my solution is, which is an open source ledger. Let's say in the world, there are billions of agents who do millions of transaction. What my point is, reputation cannot be governed by a central authority. A Grammy cannot say that Kanye West music is better than a local artist. It has to be on chain. And that is why we have created a reputation model of ourselves, which you can see over here, which has live transactions, which is which are on Etherscan
+
+[01:19:02] and of two parties. So basically, if I want to pay Kanye West for three seconds of his song, I just have to enable my protocol, register his MCB on on chain, register my m my okay. You know what saying? Okay. And then the beauty of it happens that I am paying someone in the world for the correct source and there is no intermediate in between. Like, Spotify can't take my money. Netflix can't make my money. I am opening the data for LLMs and I'm paying the correct source, the real source for it. And this is our reputation model. Thank you.
+
+[01:19:44] This is the transaction. This is the app and this is the registry and this is the reputation model. All of these are on chain and I've deployed this on live so that any one of you can use it. This is not on virtual or not on local host. This is live. So I'm open to questions. Can you dive a bit deeper into the privacy angle? Like, I don't wanna Yeah. The world to know that I'm Yes. Anonym number d is,
+
+[01:20:09] for example, if you are listening to a song, it's okay. But if you are listening to looking at some illicit material, I count to pay him, but my identity should be hidden. So what we can do here is in ZK p two b, which I was very interested in, I can hide the from identity, but I can keep the to identity. So Kanye West, if millions of people listen to Kanye West, Kanye West will appear here on this ledger 1,000,000 times. But all of those who want to be hidden from Kanye West songs for example, you're in North Korea and you can't listen to Kanye West. What do you do? You come to my protocol. You can listen to Kanye West. I'll hide your identity, and you only pay for those three seconds of Kanye West or any artist you want. And this can be go this can be for local artist. Kanye West is famous. If I make a music and I want to make it discoverable, Grammy cannot say that Carnivas is better than me. It should be the truth should be on the ledger. If my transactions are million and Carnivas are only 100, I win over here. So this is what an open source ledger looks like when centralization or central authority doesn't give reputation.
+
+[01:21:12] So here's to answer. Oh, I am not sure if I missed it, but does it only is it only applicable on, like, music or art? Or is it also for social media blocks and, like, other use cases? Okay. So we I am providing an identity layer. So for example, if you make MCP servers on line chain or any of the sources of MCP creation you have, you can just attach an MCP endpoint over here. I've given many m c so if you want to have a DID, if you want to have a email attached, if you want to have a social media link attached, if you want to have a git report attached. So basically,
+
+[01:21:55] per URL or per second, I can have a pricing schema. So to answer your question, if I want to say Reddit MCP and I say for fetching a comment, only three comments, I want to pay only 0.003. So I can define it in my JSON over here, which is downloadable by the way, that you can only say that one comment cost 0.001 ETH. So when an LLM you ask a question to a LLM. He had fetched me data from this site.
+
+[01:22:20] He has to pay for 1,000,000 tokens to Reddit to get that data. So this is subscription based model. We can we only skip the subscription and pay only for what we want. So it is open to social media. It depends on how you make this. So DID is identity. MCP is source agents. And as you said, social media can be a Twitter subreddit or
+
+[01:22:44] comment probably. So anything is you can make it over here. Alright. If there's no question okay. Thanks. Let's move to the next one.
+
+[01:23:12] So it's our twelfth team everything canvas. We have two more port poll x .ai and t x three. Sorry.
+
+[01:24:19] Hi, everyone. My name is Hazel, and I want to introduce you to my project submission for this hackathon, which is everything Canva Canvas. So whenever I think of what the crypto technology means to me or means to the human race, I think the crypto technology enables us to keep what's valuable for us
+
+[01:24:44] for eternal for eternity. And it comes to me that it's not only those financial transactions that's worth keep that's worth worth being kept, but also the things that we love, the things that makes us who we are right now and today. So for me, what I really wanna keep using this technology is
+
+[01:25:08] everything that's ever occurred in the magical conversations for me. We've had we've all had those moments when we had those night long conversations with our friends and we come up with ideas, But then eventually, we lost the process. We never we never remember how those great ideas that's that shapes who we are today come into place. So everything Canvas is gonna be a Canvas that's
+
+[01:25:37] that keeps all the interactions, all the process that when when you put ideas together, collaging on the canvas, keep the process and you can upload it on chain, to forever crystallize the process, make it a time crystal of what's actually happened. So imagine
+
+[01:26:00] you're jamming ideas with the community and you wanna remember the process of how the great ideas ever come up. And you don't want this process to be a really rigid linear process. It's not a document. How can we imagine a co living space for ideas? Because, we know that all of us don't think completely linearly.
+
+[01:26:26] So I am bringing this Canvas based tool for collaborative creatives or for any community members for creating together. So this is the landing page for everything Canvas. The and entering this, this is the actual interface. You can put pictures or text text coming
+
+[01:26:49] into this with preset styles. So you can put make them really pretty. It's like Instagram style or or something like that. And then you can jam ideas with your friends. And so this also, you can find connections between different elements. And, also, it comes with this time machine feature
+
+[01:27:15] which enables enables you to keep keep track of how ideas come from nowhere to to where it is right now. And so technology brings a few different interesting features to this as well. So I've used the InstantDB, which is the database that allows allows us to
+
+[01:27:41] to to go local first. So all the changes can happen locally, they and can upload it to cloud later. This gives us persistence and resilience. And I've also built an AI agent on the side of the canvas, which can give us insights and find hidden connections for us to prevent us from getting into echo chambers.
+
+[01:28:05] And also at the end of any jamming session, you can always mint this canvas as a static picture as well as its entire URL to which comes with this entire time evolution of ideas so that you can remember what's valuable to you and to have eternal ownership of the
+
+[01:28:28] everyone's contributions. So now I'm gonna give you a little tour in this Canvas since my time's up. So this is it. And then I'm I'm gonna show you this time evolution, which is really cool, and it's not very long. So this is how I wish all my conversations, all the cool ideas coming up is gonna be kept for me and for my friends so that we never lose track of how we've come here,
+
+[01:28:59] how we come to who we are today, all those conversations as shaped. I hope those are kept as time crystals. And so for a session like this, you can just invite friends here or upload just, you know, mint it as NFT so that it's it's gonna live on chain forever.
+
+[01:29:22] And that's everything everything Canvas, and I can take questions now. Thanks. So every element on that Canvas is NFT by native or it does HTML element until minted? Ah, I see your question. So not everything on this canvas will be minted as an NFT. It's just the entire canvas,
+
+[01:29:52] as a whole and as a web page is gonna be minted as an NFT. It it is to it's it's not to remember any of the isolated pieces, but to remember this whole picture as a as a as a unity. Yeah. As a process. Okay. Thanks.
+
+[01:30:19] Sorry. Oh, okay. Okay. Because I'm just wondering because now there's already a lot of, like, very similar tools around. Is it the the main difference that you can mend it as NFT? Also, it comes with this AI agent that can, give you insights. I I find this feature pretty valuable and, useful because,
+
+[01:30:47] I use it to generate ideas and it can tell me if there's anything I've missed on this canvas that's from my friend that I haven't noticed that's actually related to my other idea. And also, it can record this process. And also, it comes with a few social features as well. Like, you can add comments and add, like, add comments and add reactions.
+
+[01:31:11] Those are pretty social features. So you can think of it as an alternative to a social media where you can connect and communicate with your friends, but it's not like a linear timeline feed but flattened onto this canvas. So it's a new form. And also it has this really cool feature that I forgot to mention just now, which is you can add URL to, to any elements. So you can here jump into another web page or another Canvas. So it becomes a nested web of Canvas,
+
+[01:31:43] which is pretty interesting. Thank you. Okay. Thank you. Let's welcome the last two. It's POWERX AI. K. Hello. We are paw x dot a I. We track KOLs, verify alpha, trade first.
+
+[01:32:35] Why are we upgrading this? When users, trading coins, they always there is a information gap. User cannot keep up with the real time updates. There's no accountability. Some KOLs cost can go wrong. They just deleted it. But we want to tackle this. And, also, monitoring multiple social accounts is kinda difficult. Our solution is to offering a real time KOL signal tracking.
+
+[01:33:01] And, every time a KOL calls, we can record it on chain. You can verify it. And, also, we will execute the, trade for you. This is our pipeline. When, monitored Twitter user sends a tweet, we will check with our recorded, say, mappings and send AI for analysis. Then if it triggers the signal, we will send a notification
+
+[01:33:26] to the user and help users to trade and also record a blockchain. This is our preparation. There is no public info about which trader account is associated with which contractors. We want to, manage a public repository. People can contribute. That will be a public info for everyone that's want to use it.
+
+[01:33:53] There's three ways for us to trigger the signal. First one is, the CA mentions. Second one is to interacting with any accounts that's associated with the project or, KOLs, send a tree containing some keywords. And our AI will, extract the keyword, a c a, from some texts and also analysis the sentiments.
+
+[01:34:19] This is the processing. When we have the signal, we will do the, trade for the user. We tried multiple AI models for extracting the keywords, and we finalized with the BERT based bar for this. This is our team. I'm Alan. This is another Alan, Alan Chew.
+
+[01:34:42] We are two Alan's. Okay. Demo. Okay. So right now, let's see our demo. Because of Internet issue, our web socket has some runs too slow, so we just use a video demo. So right now, you can see this is our main page, and you can see we have collects a lot of Twitter's accounts, especially two accounts I will show, which is one of our judge
+
+[01:35:05] from this hackathon. Yeah. So yeah. Oh, we have integrated MPC wireless. So you you can see that this is like a telegram logging. So we have built our own telegram logging system to make sure that everything is running smoothly. So we provide the best UI UX experience. So you can right now see our our sniping boss page. You can see, like, the target KOL you want, and you can also see, like, chain you like and, like, a CA or keywords and some and some kind of things and also the amount. Like how much GMB you want to use for sniping, how much Solana you want to use for sniping. And this is one of our example. So we just use a PowerX AI to post a tweet like QUQ since QUQ is one of our main coin on BSC.
+
+[01:35:47] So after we post up QUQ and LFG, and we have detect this KOL, like, powers. And so he will start analyze this KOL. So and everything will be start in the back end, and everything will be done with we very fast. So, yeah, we can see that everything is transparent and you can see a lot of our back end style. We can truly integrate this. Yeah. So we we just wanted to prove that we have truly done this. And you can see that a lot of transaction hash, a BSC churns or an odd churn. And you can see, I guess, so I think seconds before. So we have proved that everything is transparent. You can track all of our transaction hash in the past. Yeah.
+
+[01:36:23] So yeah. And this is our demo. And yes. And thank you, everyone. Yep. And yeah. And if you guys have some Twitters, please scan it. Yeah. Do I have to pay for the Twitter WebSocket or API? Yeah. We have paid for our Twitter's WebSocket. Yeah. So yeah. For this hackathon. Yeah. How much is it? How much is this? So so we we do offer this ourselves.
+
+[01:36:49] We have been doing Twitter stuff for for a while, and WebSocket is the one of the service that we offer. And if you use our service for sniping, it's free. But if you wanna use our WebSocket, you have to pay for use this service. Yeah. We have several clients already using this our WebSocket API. Yeah. So yeah. Maybe we can contact data if you want to use it. Yeah. We we needed some clients, yeah, right now.
+
+[01:37:18] And this is our yeah. This is our main page, and you can select, okay, all you want. Alrighty. Okay. Okay. Are there any other question? Okay. Thanks. Okay. And now is the last
+
+[01:37:43] last team is TX-ray, and the awarding session will be really soon also. Hi.
+
+[01:38:49] Hi, everyone. I'm Link, and this is DDD. I come from u the UCAS. Today, I'll show you the t x-ray. An x-ray, we run for on chain transactions. It turns tran transaction hash into explanation with evidence in real time. As we all know, the on chain transaction data is public,
+
+[01:39:16] but it it is not easy to understand. And the deep calls that require multiple tools such as RPC, it's a scan, and tenderly. And if you ask an IOLM, you may find it struggle with complex core races and explanations without evidence are untrustworthy.
+
+[01:39:44] So our goal is very simple. Why input transaction hash and we will get an explanation aligned with trace evidence. Now this is the live pipeline. Just submit a transaction hash and the the RPC
+
+[01:40:07] will fetch the data such as block number, gas price for us, and then they're asked to go and call the contract. Like here, it identify the a a v u s three flash loan and uniswap v three rows contract, and it gives all the internal transactions. And if that's not enough,
+
+[01:40:33] tender dissemination will give all the internal traces. Then the neural engine will work to match the specifics patterns like under return conclusion like here, I'm UE upcharge detected. Here the architecture, the front end is next dot j s. The back end is express
+
+[01:41:01] and the ring is long graph. When the back end runs, it it use it uses SSE to push all the events like RPC as a scan to the UI. So the users can see the progress immediately. Alright.
+
+[01:41:26] Quick recap. File takeaways. One, it is a long graph driven agent with reliable, you reach to explain to verify loop. Two, it is a long, it is is a timeline driven pipeline with real time progress via SIC stream. Three, it is
+
+[01:41:49] evidence first. You can drill down into call list, route trace. Besides our product is riding with EIP eight zero zero four and X402. Last but not least, it is live. You can try it through this URL.
+
+[01:42:15] Looking ahead, we will expand to block level analysis real time monitoring contract completion, and the UE bundle analysis. You know, in a word, transaction rate TX-ray is a long graph driven rhyme evidence for TMU analyzer with the IPs 8004
+
+[01:42:42] and X402. Feel free to try it. Thank you. Okay. I will show the live demo, but we can take questions in the meantime because the time is up. Yeah.
+
+[01:43:17] Do you have any questions? I mean, like, I definitely see real need for this product because I still, like, struggle with kind of, like, understanding, like, what exactly happened for every transaction. Did you, like, try to connect with some regular security
+
+[01:43:44] teams like SlowMist or some company that offer that existing solutions and see, like, what are some solutions they are giving? Yeah. We see some products like some Chrome extensions that they integrated to user scan and they try to explain
+
+[01:44:06] a transaction using like chat GPT. But we don't think it's it's it can understand, like, complex transactions. And the deep call trace is just a word summary to transaction. It's really simple. But what we're trying to do to is help
+
+[01:44:35] developers or the arbitrage learners to understand complex transactions. So do you just to follow-up a little bit, what you re what do you suggest is the kind of the purpose for this tool? For example, like, experienced traders who want to understand others arbitrage
+
+[01:44:56] strategy so they can learn from it? Or can you elaborate more? Yeah. Kind of. Because I I do this this project because I I like to do some smart contract audit sometimes. But I find it is really
+
+[01:45:23] confused when I look into some, like, large arbitrage transaction. So I want to use LLM to help me to understand it. Yeah. I see. Thank you. Alright. Thanks.
+
+[01:45:47] That's it. Alright. That wraps up the demos for our full team project. Thank you again to all the team for the energy and the work we shared today. We're going to take a short break. So please feel free to stretch, grab some water and some fruit or chat with each other. We'll be back around 03:30
+
+[01:46:09] to announce and present or all 26 awards. So please stay nearby. See you in a bit. And also goodbye to the audience online on the live streaming and looking forward to see you guys on the third
+
+[01:46:55] tomorrow, the summit. We'll have live streaming as well. Bye bye.

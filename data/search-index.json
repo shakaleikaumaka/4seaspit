@@ -14490,6 +14490,2771 @@
   "it still mink? Come sue me, me to me, surviving. Yeah. Come shoot me. You wanna"
  ],
  [
+  13,
+  2,
+  "Hello, everyone, and welcome back. And this is from East QMai. Thank you for being here this afternoon. After reviewing all the demo from ea"
+ ],
+ [
+  13,
+  11,
+  "rlier today, we are excited to move into our second round of public demos. From all the 44 submissions, we've selected 14 project to continu"
+ ],
+ [
+  13,
+  20,
+  "e and present their work in this session. This team represent a wide range of ideas from infrastructure and privacy to local communities, re"
+ ],
+ [
+  13,
+  29,
+  "al world coordination,"
+ ],
+ [
+  13,
+  30,
+  "and creative applications. Making it to the stage already reflect this quality, focus, and effort each team had put in over the past few day"
+ ],
+ [
+  13,
+  38,
+  "s. Before we began, we also want to take a moment to thank the other team who are not present in this round. There were around 30 additional"
+ ],
+ [
+  13,
+  47,
+  " projects and overall quality across this hackathon was generally impressive. Not being in the top 14 doesn't mean doesn't mean lack of pote"
+ ],
+ [
+  13,
+  55,
+  "ntial. Many of these projects sparked meaningful discussion and strong interest during the week."
+ ],
+ [
+  13,
+  61,
+  "Just to clarify how the award works, the main eight prizes will be selected from this top 14 projects presenting now. That said, in total, w"
+ ],
+ [
+  13,
+  70,
+  "e have 24 awards including collaboration and partner prizes, which are open across a border sets of team. So this round, each team will have"
+ ],
+ [
+  13,
+  78,
+  " three minute to show their demo and the chance to communicate what you've built and why it matters and where it could go next. With that, l"
+ ],
+ [
+  13,
+  87,
+  "et's get started."
+ ],
+ [
+  13,
+  88,
+  "Please welcome our first project, Witness Protocol to the stage. Hello, everyone."
+ ],
+ [
+  13,
+  121,
+  "Good good afternoon. Thanks for having me. My my name is Beau, and I built witness protocol because last week, I saw a report that, like, a "
+ ],
+ [
+  13,
+  132,
+  "man had been killed in Minnesota who was filming police. And I went to look for that video on x, and it was not loading. And then I went to "
+ ],
+ [
+  13,
+  143,
+  "look at it on TikTok, and it had clearly been edited."
+ ],
+ [
+  13,
+  147,
+  "And so then I thought, like, well, I when I eventually did see the video, I thought, well, where was this guy's perspective? He was clearly,"
+ ],
+ [
+  13,
+  158,
+  " you know, taping as well. And so here's witness protocol. The idea here is that you can create a small group of trusted individuals, and yo"
+ ],
+ [
+  13,
+  168,
+  "u can live stream and share video evidence that you've created with them with a durable record that is stored to IPFS,"
+ ],
+ [
+  13,
+  177,
+  "with a Merkel route that is you know, that that proves that it wasn't tampered with, and with attestation that allows for, like, ZKDID and j"
+ ],
+ [
+  13,
+  187,
+  "ournalist credentials to be added to the Symaphore group. So the first thing to do here is to register with the content registry. This is al"
+ ],
+ [
+  13,
+  197,
+  "l gasless. I implemented Privy, which is the wallet provider, and then Pimlico, which is the bundler, and"
+ ],
+ [
+  13,
+  204,
+  "the paymaster. So I've created my on chain, you know, like, registrar. Then I'm gonna create a group. And let's say this is, like, neighborh"
+ ],
+ [
+  13,
+  221,
+  "ood watch. Okay. So I have created this group, and I have a separate,"
+ ],
+ [
+  13,
+  230,
+  "say, like, trusted friend who is also running just a PWA right now. It should be a native app, but right now, it's not. I need to register i"
+ ],
+ [
+  13,
+  256,
+  "t on chain quickly. Then I scan to join the group. It's, my hands are a little shaky."
+ ],
+ [
+  13,
+  271,
+  "Okay. And I can join the group. You can't see it here. I'm submitting a transaction, which adds me to the Symaphore group. Okay. It's done. "
+ ],
+ [
+  13,
+  284,
+  "So then now I'm going to add the Symaphore group to my recording output, and then I'm gonna make a record of, hey. Hi. It's Yith Changmai. S"
+ ],
+ [
+  13,
+  296,
+  "ay hello, everybody."
+ ],
+ [
+  13,
+  298,
+  "Hello. Okay. And then I'm gonna stop the recording. It is currently chunking and writing to IPFS. And then it will it's also committing a Me"
+ ],
+ [
+  13,
+  311,
+  "rkle root to the content registry. And then as soon as it's done processing two second block times are even too long. Okay."
+ ],
+ [
+  13,
+  323,
+  "Then we're gonna look on this device, which is pulling it directly from IPFS. We're downloading the chunk. We're decrypting the chunk. We're"
+ ],
+ [
+  13,
+  332,
+  " checking it against the Merkle root, on chain verification. And, hey, there you guys are. So then I, as a trusted friend, would say, look. "
+ ],
+ [
+  13,
+  340,
+  "I think this is a real video. I think it was submitted at the time that it was submitted,"
+ ],
+ [
+  13,
+  346,
+  "and so I'm gonna attest to that. You can have different levels of attestation. So you could have a journalist credential, for instance, and "
+ ],
+ [
+  13,
+  370,
+  "give an attestation, and you could count the number of journalist credentials which had attested to it without revealing which journalists o"
+ ],
+ [
+  13,
+  394,
+  "r which wallets had actually attested to it. Right now, this functions basically as, like, how many durable copies, distributable copies of "
+ ],
+ [
+  13,
+  418,
+  "this raw video exist sort of in the world. So, yeah, that's witness protocol."
+ ],
+ [
+  13,
+  431,
+  "Okay. My question was, can you add more people into the verifier group? Okay. This is, like, less technical, but more about, like, how do yo"
+ ],
+ [
+  13,
+  446,
+  "u manage information flow inside the app. For example, after you create app,"
+ ],
+ [
+  13,
+  454,
+  "if you have related video, for example, for the same, like, social events, do you, like, create a new group with a new, like, the address, o"
+ ],
+ [
+  13,
+  462,
+  "r do you add to the same group? I mean, like, I think that this is, like, a pretty slim implementation. I think there's a lot of different d"
+ ],
+ [
+  13,
+  470,
+  "irections you could go. I think, like, my my thought at first is, like, in its sort of current or, like, next state,"
+ ],
+ [
+  13,
+  476,
+  "the best use of it is, like, sort of just self destructing groups. Right? Like, groups you use once to disseminate information for a specifi"
+ ],
+ [
+  13,
+  486,
+  "c event or disseminate video for a specific event, and then you just create new groups. There's sort of no I mean, like, you know, there's a"
+ ],
+ [
+  13,
+  495,
+  " cost. Someone has to maintain, the gas and the paymaster, but there's no cost to an individual user for spinning up any number of new group"
+ ],
+ [
+  13,
+  505,
+  "s or anything like that. Okay. Okay. Can you Thank you so much."
+ ],
+ [
+  13,
+  509,
+  "Can I start? Okay. Hi. This is Cleanfield. Cleanfield is a solution that rewards farmers for not burning their crops. Every year in Thailand"
+ ],
+ [
+  13,
+  520,
+  ", crop burning is a big problem. 40,000 hotspots a year and AQI 300 over three hundred hundred hectares air affecting, like, millions people"
+ ],
+ [
+  13,
+  531,
+  " in Thailand."
+ ],
+ [
+  13,
+  532,
+  "And then Thai government actually incentivize farmers for not burning their crops, but the process too slow. That's the problem. So solution"
+ ],
+ [
+  13,
+  543,
+  ". So farmers register their land on the GISTA, which is a Thai government satellite government space agency website. And they monitors and p"
+ ],
+ [
+  13,
+  553,
+  "ublishes HASPA data."
+ ],
+ [
+  13,
+  555,
+  "And then through that through the kit TLS, it it it it extracts proof. And then smart contract verifies on chain, and then The US is U S USD"
+ ],
+ [
+  13,
+  566,
+  "C will be paid to the farmers directly. In this case, doesn't need to do anything. Data is already public. GKTLS instructs the proof governm"
+ ],
+ [
+  13,
+  577,
+  "ent website data with cryptographic guarantees."
+ ],
+ [
+  13,
+  581,
+  "No API needed and no server changes. So text deck, Next. Js for front end, solidity for smart contract, famous JKTLS base layer two network,"
+ ],
+ [
+  13,
+  594,
+  " ESD sits, stablecoin. Yeah. Gizda TypeScript, Taewon. Let's see the live demo. This is a manager's page. You can see farmers"
+ ],
+ [
+  13,
+  605,
+  "and then where they're located and the system status clean or burning or eligibility. Let's see the first eligible farmer page. First, you c"
+ ],
+ [
+  13,
+  618,
+  "onnect your wallet. It's on base at Polya. And then let's see if this farm farmer is eligible for reward"
+ ],
+ [
+  13,
+  628,
+  "through GTLS. So no burning detected is eligible. Now we can claim. Like a sign, confirm. Now claimed successfully."
+ ],
+ [
+  13,
+  651,
+  "So you can see the hash. And then let's see the ineligible farmer page. So so two incidents of fire. Let's see if it's eligible. So burning "
+ ],
+ [
+  13,
+  669,
+  "detected. So this farmer is not eligible for rewards. Yeah."
+ ],
+ [
+  13,
+  677,
+  "This is Yeah. It's over. Any questions? Yeah. I think it's a really interesting idea. So one question is how to make sure the geographic dat"
+ ],
+ [
+  13,
+  703,
+  "a that is collected from website is accurate?"
+ ],
+ [
+  13,
+  712,
+  "Is there any way to approve that for example satellite or something else? It's actually satellite data from government website. And then the"
+ ],
+ [
+  13,
+  723,
+  "re's also audits. And then all this data is on act organic and there's different, like, website you can get the data from. So you well, firs"
+ ],
+ [
+  13,
+  734,
+  "t, are data. So remote sensing data plus audits. So make sure the data is correct, verifiable."
+ ],
+ [
+  13,
+  742,
+  "What is the existing solution? Like, are does grants like this existing right now and how governments are encouraging farmers to claim those"
+ ],
+ [
+  13,
+  751,
+  " rewards? Is it more like manual right now? Yeah. Just curious. Yeah. That's manual. So slow process of pain bottleneck. So that's why I wan"
+ ],
+ [
+  13,
+  759,
+  "t to solve that problem. I see. This is very interesting. So it sounds like farmers doesn't need to prove by collecting their own data as we"
+ ],
+ [
+  13,
+  768,
+  "ll. This seems like Yeah. They need yeah. Farmers also submit their data not burning on the website. And then these auditors actually sit on"
+ ],
+ [
+  13,
+  777,
+  "-site"
+ ],
+ [
+  13,
+  777,
+  "audits. They and then both get need to prove. So this is probably like a register resolution, then satellite cross check, field inspection, "
+ ],
+ [
+  13,
+  786,
+  "certification. It takes like six to sixteen weeks. What data does do farmers need to submit? Just not burning? Not burning. Yeah. That's the"
+ ],
+ [
+  13,
+  796,
+  "ir just self register. Self yeah. And then there's all the data that's actually come to their I see it. You. Yep."
+ ],
+ [
+  13,
+  803,
+  "Anyone else? Okay. So basically, this one is escrow system. So government need to, let's say, put the money here Mhmm. And then let the audi"
+ ],
+ [
+  13,
+  816,
+  "t from, let's say, the self not self, let's say, governance, govern API to unlock the payment. Yes. Right?"
+ ],
+ [
+  13,
+  826,
+  "So what exactly the problem you try to solve? You try to solve the problem of the waiting time. Right? Yes. But can you elaborate more about"
+ ],
+ [
+  13,
+  838,
+  " who suffer from this waiting? Farmers. This is actually farmer Yes. Farmers. Or the logical process? Farmers yeah. They're spending a lot o"
+ ],
+ [
+  13,
+  850,
+  "f time to prove better prove for not burning process"
+ ],
+ [
+  13,
+  854,
+  "not burning status. And and then they yeah. Because of that, they just kinda give up on their grants or insensitive they cannot actually get"
+ ],
+ [
+  13,
+  864,
+  ". So they just burn it. It's easier because burn in slash and burn is the easiest way to just for usually farmers do in order to I mean, fro"
+ ],
+ [
+  13,
+  874,
+  "m from the what from what you have said. Right? Yeah. The data is already there. Yes."
+ ],
+ [
+  13,
+  880,
+  "The the satellite image is something that government provide. Yes. Right. So the problem is not about the data, but about the process. Corre"
+ ],
+ [
+  13,
+  889,
+  "ct? Yeah. Process also the payment is also slow. Payment is slow. So one question is like, did you engage with the farmers where people on t"
+ ],
+ [
+  13,
+  898,
+  "he ground to actually understand the questions like throughout the process when you're doing this project? Did you interview anyone? Oh, I h"
+ ],
+ [
+  13,
+  907,
+  "aven't interviewed in person yet. Yeah. It was like a hackathon project, so I if it works well, I would love to meet them in person. Oh, how"
+ ],
+ [
+  13,
+  916,
+  " how did you figure out there's a problem like this?"
+ ],
+ [
+  13,
+  919,
+  "I searched online. Okay. Got it. Thank you. Yep. Testing. Testing."
+ ],
+ [
+  13,
+  990,
+  "Okay. Okay. Good morning, everyone. My name is Wai Hizman, and we're building Orbit. So there's two problems that we're trying to solve. Let"
+ ],
+ [
+  13,
+  999,
+  "'s make it clear. Public blockchain overexposes data. Everything you do visible on the blockchain. Imagine you are a boss. You're trying to "
+ ],
+ [
+  13,
+  1007,
+  "give your employees money, but then your employees can check your balance, can check which other employees you have given money to. So and e"
+ ],
+ [
+  13,
+  1016,
+  "ncrypted blockchains fail to comply with regulations like AESTEC. The ecosystem is small. It fails to comply. So we have to think of a way t"
+ ],
+ [
+  13,
+  1025,
+  "o make private transactions on a public blockchain."
+ ],
+ [
+  13,
+  1028,
+  "Yeah. Next. So what we do is, starting first, we have our Orbit card, which allows us to add funds. We have integrated ZK p two p on ramping"
+ ],
+ [
+  13,
+  1038,
+  " to allow seamless UX, of people on ramping without trust, without having to trust centralized exchanges so they could on ramp using p two p"
+ ],
+ [
+  13,
+  1049,
+  ". And then we allow merchants"
+ ],
+ [
+  13,
+  1051,
+  "to wait. Okay. Okay. We allow merchants to collect crypto by, k, by using NFC. So let's say this is a merchant terminal that trying to colle"
+ ],
+ [
+  13,
+  1065,
+  "ct money. And here, Munn is scanning, Munn is scanning his phone with this NFC card. As you can see, we we've written this card with hex dat"
+ ],
+ [
+  13,
+  1079,
+  "a. And then"
+ ],
+ [
+  13,
+  1080,
+  "k. Share screen. Which which k. I think something got some problem with the screen sharing, so I just show like this. You can just type in y"
+ ],
+ [
+  13,
+  1092,
+  "our six digit PIN. And then it will start finding the buyer so it can transfer crypto into the escrow, and then the buyer will transfer the "
+ ],
+ [
+  13,
+  1104,
+  "fiat on behalf of the seller to the merchant. So the identity of seller is total totally anonymous."
+ ],
+ [
+  13,
+  1112,
+  "Okay. Now we've done the off ramp and on ramp part. Let's move to how we make secure payments and private payments on chain. So what we've d"
+ ],
+ [
+  13,
+  1124,
+  "id is ZK Wormhole technology, which lets people make private payment on chain using Waku Relayers and Railgun protocol."
+ ],
+ [
+  13,
+  1134,
+  "We allow private payment by unlinking the sender and the receiver while keeping everything proven on the chain. So yeah. And you can look at"
+ ],
+ [
+  13,
+  1146,
+  " this video to see how the transaction works. So here, we allow batch transfers so you could transact to multiple address at the same time u"
+ ],
+ [
+  13,
+  1158,
+  "sing ZK proof to prove everything on chain without exposing any of the wallet's details."
+ ],
+ [
+  13,
+  1166,
+  "And here, it's it's going through a POI phase which proves that the funds are innocent and a ZK proof to prove the transaction, and everythi"
+ ],
+ [
+  13,
+  1177,
+  "ng is visible on chain like this. And you can see that the funds are unshielded to different accounts while keeping the sender anonymous. An"
+ ],
+ [
+  13,
+  1188,
+  "d"
+ ],
+ [
+  13,
+  1188,
+  "yes. And another cool thing we do is an extension. An extension that acts as an adapter so that people could privately and anonymously inter"
+ ],
+ [
+  13,
+  1200,
+  "act with different DeFi protocols. Imagine you're interacting with a learning protocol, but you wanna keep your details secure. This is what"
+ ],
+ [
+  13,
+  1212,
+  " you need. So yeah."
+ ],
+ [
+  13,
+  1214,
+  "So about the ZK wormhole wait. And ZK swap, we also make a ZK swap. Imagine you're trying to swap something, but still wanna keep it private"
+ ],
+ [
+  13,
+  1224,
+  ". So we've we've built z k swap. It basically works like z k wormhole, but it supports multiple tokens and multiple chains using Stargate as"
+ ],
+ [
+  13,
+  1234,
+  " our intent engine. So Stargate will help us find the most efficient path across"
+ ],
+ [
+  13,
+  1240,
+  "decentralized exchanges and will then give the intent to our destination chain so that the execution can be happened here. And then it will "
+ ],
+ [
+  13,
+  1251,
+  "be unshielded to the recipient. And Wakuri layer as the unlinking point to unlink the sender and the receiver. Yep. So this is basically our"
+ ],
+ [
+  13,
+  1262,
+  " product. Okay. Uh-huh. I think Railgun has already integrated with many DeFi protocols."
+ ],
+ [
+  13,
+  1269,
+  "So can you elaborate more about the difference? Okay. So our difference is people don't actually have to create a Railgun wallet in order to"
+ ],
+ [
+  13,
+  1279,
+  " use those DeFi protocols. For every transaction, you actually only need an EoA and MetaMask. So you can use a MetaMask to make private tran"
+ ],
+ [
+  13,
+  1288,
+  "sactions on chain without relying on Railgun. Yeah. So for every transaction, we auto generate a mnemonic generated"
+ ],
+ [
+  13,
+  1296,
+  "ZK wallet to allow that interaction to happen anonymously. So after that interaction, the wallet will be burnt. And for every interaction, t"
+ ],
+ [
+  13,
+  1305,
+  "his repeats a random wallet. Yeah. How do you incentivize the relayer to submit the transaction on your behalf? Like, is there a gas payment"
+ ],
+ [
+  13,
+  1315,
+  "? What? Is there a Yeah. Yeah. Gas payment. So for the relayer, Waco actually have a 0.25"
+ ],
+ [
+  13,
+  1321,
+  "takers fee so that the relayers can actually earn from from being a relayer. Yeah. So every time I send a transaction of $100, I will only g"
+ ],
+ [
+  13,
+  1339,
+  "et 99.75. Yeah. Yeah. Yeah. Yeah. Okay. Thanks. That's it. You guys have any question left?"
+ ],
+ [
+  13,
+  1350,
+  "Okay. Thanks. The next one is Mary Punk. Okay. Yeah."
+ ],
+ [
+  13,
+  1412,
+  "No. I wanna stand out. Yeah. Okay. So a few years ago, I dated a girl. We we had a happy moments for several months, and one day I wanna ele"
+ ],
+ [
+  13,
+  1426,
+  "vate our relationship. By then, she asked me a question. How much money do you have in your bank account? So"
+ ],
+ [
+  13,
+  1436,
+  "marriage is a financial relationship, but managed with no financial systems. These days I'm from China. I know that these days in China, the"
+ ],
+ [
+  13,
+  1445,
+  " marriage system is breaking. Young people are reluctant to more and more young people are reluctant to enter into this relationship. The di"
+ ],
+ [
+  13,
+  1454,
+  "versity is so high. You know why? Because it's unlimited time and uncontrolled"
+ ],
+ [
+  13,
+  1459,
+  "risk legal relationship. So how we're gonna solve this problem? Mary Punk is a time bound commitment protocol for relationships. Built on sm"
+ ],
+ [
+  13,
+  1473,
+  "art contract based multi signature escrow architecture. We believe commitment is the core of marriage."
+ ],
+ [
+  13,
+  1484,
+  "So when a commitment is created, both partners deposit assets into a multi stick wallet where no neither party can move the funds you'd unil"
+ ],
+ [
+  13,
+  1499,
+  "aterally. So all those funds, all the moving of those funds are governed by predefined"
+ ],
+ [
+  13,
+  1509,
+  "rules, such as time based releases, mutual confirmation, or, separation confirmation, separation, outcomes. We do not custody assets. We jus"
+ ],
+ [
+  13,
+  1525,
+  "t define the logic. See how it works. So this is about commitment."
+ ],
+ [
+  13,
+  1532,
+  "We can easily to create a commitment, I can fill out my name, Neil, Joe, and also a content ID, which is the matching point. We know who is "
+ ],
+ [
+  13,
+  1543,
+  "whom. And also, for for example, this, Alice Wong, here is the magic point. We define a commitment duration. This is quite different. Becaus"
+ ],
+ [
+  13,
+  1554,
+  "e in today's world, young people are like,"
+ ],
+ [
+  13,
+  1557,
+  "they're encouraged to young people who has never drugs for two miles in their life are encouraged to join a marathon. This is exactly marria"
+ ],
+ [
+  13,
+  1566,
+  "ge. Today's marriage system. What we wanna do is that, why why don't we just start from shorter period? Say, six months. Six months. A year."
+ ],
+ [
+  13,
+  1575,
+  " Maybe three months. Whatever. You can define the duration."
+ ],
+ [
+  13,
+  1579,
+  "And then okay. The starting date might be, for example, June. Yeah. Okay. Next. And you can here's the next magic point. You can claim a sta"
+ ],
+ [
+  13,
+  1589,
+  "ke target for your relationship. For example, 2,000 east. Oh, that's a lot of money. Then go to the next page and go say, oh, yeah. Then you"
+ ],
+ [
+  13,
+  1599,
+  " can stake. Oh, I don't know why they they they do not oh, I have two two I do not repeat the the staking process. We already done that, act"
+ ],
+ [
+  13,
+  1608,
+  "ually. So"
+ ],
+ [
+  13,
+  1609,
+  "the this is what we're doing. Thank you for the questions. Any questions? How is it different than Gnosis Pay? What? Like, Gnosis Pay alread"
+ ],
+ [
+  13,
+  1625,
+  "y allows me to sorry. Gnosis Safe already allows me to create a multisig."
+ ],
+ [
+  13,
+  1634,
+  "What is what have you built on top of the multisig contract? Like, are there adapters, time based adapters? Adapters. Like, what are the dif"
+ ],
+ [
+  13,
+  1643,
+  "f like, you mentioned there are different ways of, like, it it could be time based commitment. It could be, goals based commitment. No. The "
+ ],
+ [
+  13,
+  1652,
+  "the both are the same. You you have need to have both. Both duration,"
+ ],
+ [
+  13,
+  1656,
+  "time commitment, and stake commitment. This is the the same. So and another thing I wanna add is that, you know, in China, when you get marr"
+ ],
+ [
+  13,
+  1665,
+  "ied, you receive a lot of red pockets. Right? These days, you can only receive in cash. But when we set up this safe wallet, so all your fri"
+ ],
+ [
+  13,
+  1674,
+  "ends and relatives can send their funds to your wallet. So they can make money by that. So one thing I wanna say that marriage is very impor"
+ ],
+ [
+  13,
+  1683,
+  "tant because we wanna start from Chiang Mai, start from digital nomads."
+ ],
+ [
+  13,
+  1687,
+  "Yeah. The reason is that we wanna do that in this summer. We we wanna organize a event called, love summer in Chiang Mai to invite all the y"
+ ],
+ [
+  13,
+  1697,
+  "oung people around the world to come to Chiang Mai to try this new type of a commitment protocol. So in the year 2009, Satoshi invented dece"
+ ],
+ [
+  13,
+  1706,
+  "ntralized money, which is Bitcoin. And today, 2026,"
+ ],
+ [
+  13,
+  1710,
+  "we wanna be here to reinvent marriage. We invent a decentralized marriage. Thank you, guys. Yeah. Like safe. No safe. Yeah. Okay. I got it. "
+ ],
+ [
+  13,
+  1725,
+  "Good point. You take a look at the today's sandbox. You know, I am a product manager."
+ ],
+ [
+  13,
+  1734,
+  "The web tool people, the common people is not gonna use it. They're not gonna use it. And also they are not specific designed for the marria"
+ ],
+ [
+  13,
+  1746,
+  "ge relationship. So we're built on the giant's shoulder. We specifically build a product for marriage for relationships. Thank you. Any ques"
+ ],
+ [
+  13,
+  1757,
+  "tions? Okay. Just just one one quick question. How many of you wanna try this? Please raise your hand."
+ ],
+ [
+  13,
+  1766,
+  "Wow. I can see some hands. Okay. Thank you. Alright. Thank you. So we're coming on to the fifth project, DID boot loader, ZK card. And next "
+ ],
+ [
+  13,
+  1814,
+  "one is Neuroset. Okay."
+ ],
+ [
+  13,
+  1821,
+  "Hi, everyone. So our project is DID port loader and ZK card. So we want to make real world identify verification verifiable on chain. So now"
+ ],
+ [
+  13,
+  1833,
+  " so in the past four years, so a lot of decentralized society system published on chain. But all of them designed very complex mechanism to "
+ ],
+ [
+  13,
+  1844,
+  "prevent"
+ ],
+ [
+  13,
+  1845,
+  "severe attack. So we want to solve that. Yeah. And we can use passport to partially solve the problem because we we can prove that they are "
+ ],
+ [
+  13,
+  1859,
+  "exist and passport, and we can prove some information about that passport and also bound that passport"
+ ],
+ [
+  13,
+  1869,
+  "to a event address, for example. And they use the hash of the password as a nullifier to prevent the cyber attack. But the problem is that t"
+ ],
+ [
+  13,
+  1883,
+  "he key password is approved from digital to digital. So you can use others passport"
+ ],
+ [
+  13,
+  1891,
+  "to create an account and bound that account to your to the passport. So you can collect collect some others passport to to acquire many many"
+ ],
+ [
+  13,
+  1906,
+  " accounts in some application. And and so because they are they are not a proof from a reality to to"
+ ],
+ [
+  13,
+  1916,
+  "to digital. So our solution is that we we use digital to digital proof like a Ziggy proof, like a Ziggy passport proof, a t attestation to e"
+ ],
+ [
+  13,
+  1933,
+  "nsure that you the owner of the passport is the prover. So so"
+ ],
+ [
+  13,
+  1941,
+  "so we use so we use the TEE to bridge the reality to digital. Okay. So here's our demonstration. So yep. So here, you can download the softw"
+ ],
+ [
+  13,
+  1956,
+  "are and scan your passport. After scanning, then we'll read your your digital information, your passport chip."
+ ],
+ [
+  13,
+  1967,
+  "Finial scanning, so there's your photo in your passport. And our unique is we check the health of our of our project, And we do the face mat"
+ ],
+ [
+  13,
+  1979,
+  "ching with our passport. After doing that, so we can combine your passport and your EVM address together. So after we have the combination,"
+ ],
+ [
+  13,
+  1990,
+  "so we use premise to prove your asset from under another CX. So we create the proof and a link with your unique online identification. Yep. "
+ ],
+ [
+  13,
+  2006,
+  "And I want to emphasize that someone will may ask, we already use TEE. Why we we also use the key? We can use all TEE in"
+ ],
+ [
+  13,
+  2019,
+  "in all application. But but the other two proof. One proof is digital to digital. And that proof we use ZK. We don't use TE. We so if the TE"
+ ],
+ [
+  13,
+  2033,
+  " breaks, the digital to digital proof will not break. So so it it will partially prevent the the cyber"
+ ],
+ [
+  13,
+  2044,
+  "attack in a more concrete base. And the second proof relative to digital proof, we need to trust the device we use. Yep. Any question? Does "
+ ],
+ [
+  13,
+  2056,
+  "the app just only work on iOS? Or And you also do it on Android. I believe it's not secure on Android. Right? Okay. So now we use iOS"
+ ],
+ [
+  13,
+  2068,
+  "device because I don't have an Android phone. Yeah. Yeah. By the way, we have a plan to use Android versions like It would not work on Andro"
+ ],
+ [
+  13,
+  2078,
+  "id because you can jailbreak Android. It's not Sorry? You can jailbreak Android so it's not safe to run an app test on Android. It it depend"
+ ],
+ [
+  13,
+  2088,
+  "s on t it depends on OEM. So it it really depends on the t effect t features for from the OEM"
+ ],
+ [
+  13,
+  2095,
+  "OEM. Yeah. Hello. Can you elaborate on the local face recognition model? Like, is it Yeah. Actually, it's just FaceNite. FiSNITE from Google"
+ ],
+ [
+  13,
+  2113,
+  ". And I translate to the core ML so I can let it use on the iOS device. Yeah. Okay. That's it. Thanks. Okay. Thank you."
+ ],
+ [
+  13,
+  2129,
+  "The next one is our six six project no set. The following is locked east found in five minutes. Okay."
+ ],
+ [
+  13,
+  2167,
+  "Hello. So the name of my project is null set and it allows for reusable privacy preserving exclusion checks. And the reason I did this is th"
+ ],
+ [
+  13,
+  2178,
+  "at a lot of platforms still filter out the bad users through KYC. And as we all know, KYC is a little yeah. It it it violates a lot of priva"
+ ],
+ [
+  13,
+  2190,
+  "cy"
+ ],
+ [
+  13,
+  2190,
+  "of the users, and it's not efficient as well. User data becomes a liability to these platforms, and the the the solutions available to them "
+ ],
+ [
+  13,
+  2201,
+  "are mostly also also ZK protocols that proves that, say, I have a certain identity. I passed KYC. I have done certain things, but some platf"
+ ],
+ [
+  13,
+  2212,
+  "orms"
+ ],
+ [
+  13,
+  2212,
+  "actually need that to prove to prove that a user is not part of a bad actor set. And we we see this being implemented now in a lot of protoc"
+ ],
+ [
+  13,
+  2222,
+  "ols. For example, Tornado cache is already implementing exclusion set. But the thing is a lot of these circuits are one off compliance circu"
+ ],
+ [
+  13,
+  2233,
+  "its and it cannot be reused by many protocols."
+ ],
+ [
+  13,
+  2236,
+  "So we are missing reusable lists and we we are also missing platform agnostic proving systems. And yeah. It's it's also timely because platf"
+ ],
+ [
+  13,
+  2248,
+  "orms are already using blacklist. But the thing is that this blacklist are not are not shareable to other platforms. So each platform have t"
+ ],
+ [
+  13,
+  2260,
+  "heir own KYC or their their own blacklist and it doesn't it doesn't update that easily."
+ ],
+ [
+  13,
+  2267,
+  "Also, there's a privacy privacy issue is very obvious for the users, but also it's a liability for a lot of businesses. So ID systems can be"
+ ],
+ [
+  13,
+  2279,
+  " very expensive for for platforms. And now we ZK is also mature enough for real workflows and for obstruction in many cases."
+ ],
+ [
+  13,
+  2290,
+  "So I'm going to show a demo of how we're using it. And usually there's an administrator. It can be anyone. They can just upload a band a ban"
+ ],
+ [
+  13,
+  2303,
+  "d wallet set and they can check it. But the thing is this list is private and and cannot be seen by the platforms that integrate with it."
+ ],
+ [
+  13,
+  2315,
+  "So Noset can build a sparse Merkle tree from this set and this Merkle tree is not published. It knows that only publishes the root and that "
+ ],
+ [
+  13,
+  2327,
+  "roots get integrated by any any platform permissionlessly. So there's a way for platforms to integrate permissionless exclusion set without"
+ ],
+ [
+  13,
+  2339,
+  "without having to wait for platforms to approve them. Yeah. So how you use it is that, say you have an innocent user named Alice, and what h"
+ ],
+ [
+  13,
+  2356,
+  "appens is Alice creates a Merkle witness for her ID and her ID"
+ ],
+ [
+  13,
+  2364,
+  "she comp she computes for the Merkle path that that proves that her leaf is empty. So we're using sparse Merkle trees to make it fast. But y"
+ ],
+ [
+  13,
+  2375,
+  "eah. Alice can prove her innocence without revealing anything about her identity. What about a banned user? Say, Donkey is a banned user. So"
+ ],
+ [
+  13,
+  2385,
+  " her access is automatically denied"
+ ],
+ [
+  13,
+  2388,
+  "because she cannot create a proof that her leaf is an empty empty leaf in the Merkle tree. But this this has loopholes. Oh, okay. It's it's "
+ ],
+ [
+  13,
+  2400,
+  "time time's up. I'll I'll just I'll just wrap it up and there are many use cases to this. So you have compliance without surveillance at sca"
+ ],
+ [
+  13,
+  2411,
+  "le. You don't need you you don't need very complicated"
+ ],
+ [
+  13,
+  2416,
+  "engineering to be able to to integrate with the exclusion list. So you can use it with gating infrastructure, API access, preventing decentr"
+ ],
+ [
+  13,
+  2426,
+  "alized platforms from abuses. You can also use it for anonymous forums and markets. There are also non penalizing users like if you want to "
+ ],
+ [
+  13,
+  2437,
+  "exempt certain users from from anything,"
+ ],
+ [
+  13,
+  2440,
+  "then you can use null set for that. So yeah. Thank you so much and let me know if there are questions. Mentioned the the loopholes. Yes. So "
+ ],
+ [
+  13,
+  2454,
+  "this is the manual demo and what it does is that it checks whatever the user inputs against the against the exclusion list. And the user can"
+ ],
+ [
+  13,
+  2469,
+  " just enter anything"
+ ],
+ [
+  13,
+  2471,
+  "even if it's they're not it's they're not it's not their account. Say, Donkey claims that he is Bob and that will that will circumvent the c"
+ ],
+ [
+  13,
+  2482,
+  "heck. So I did another another demo where you log in with you sign sign in with your wallet and that can prove that you actually own the acc"
+ ],
+ [
+  13,
+  2493,
+  "ount. So that's one. And there are other many ways to bind the identity of the user to to"
+ ],
+ [
+  13,
+  2500,
+  "their to their to their account and ID. Yes. I like your tech stack if you can. So my tech stack initially, I planned for Aztec Aztec's Noir"
+ ],
+ [
+  13,
+  2516,
+  ", but I had some I had some problems with incompatibility"
+ ],
+ [
+  13,
+  2523,
+  "of the hashes. So I ended up redoing it in CIRCOM. And I I use yeah, I also I also use a proving system called GRUT 16. Yeah. So those those"
+ ],
+ [
+  13,
+  2557,
+  " are my tech stack. Thank you."
+ ],
+ [
+  13,
+  2564,
+  "And the next ones are the seventh lost is found and the following one is relief mesh. Hello,"
+ ],
+ [
+  13,
+  2589,
+  "everyone. I'm Seyd. It's nice to be here. In this hackathon, I I built lost is found. It's basically a global lost and found registry. And, "
+ ],
+ [
+  13,
+  2600,
+  "of course, it's privacy preserving. And the problem I'm solving with this project is that we lose stuff all the time. When I was working on "
+ ],
+ [
+  13,
+  2611,
+  "this project,"
+ ],
+ [
+  13,
+  2612,
+  "just walking around Chiang Mai, I started noticing all the missing signs online, all the missing item signs. A lady came to ask me if I coul"
+ ],
+ [
+  13,
+  2622,
+  "d call Grab support because she lost her phone in Grab. So I decided to make this public registry on Eth. So how it works, first you registe"
+ ],
+ [
+  13,
+  2633,
+  "r your item. You get a code that you put on the item, and then you answer five questions"
+ ],
+ [
+  13,
+  2639,
+  "on the item. And then this allows you and the finder to verify that you both are talking about the same item. You get an NFT that proves tha"
+ ],
+ [
+  13,
+  2651,
+  "t it's yours. And then if you mark it as lost, finder can put on your tag that you minted that that is on the item and answer the questions."
+ ],
+ [
+  13,
+  2663,
+  "And then he gets a pop up p to p chat with you, and you can sync and meet and get the item. And since my Internet is not the best, maybe I w"
+ ],
+ [
+  13,
+  2675,
+  "ill show the video of how it works. So, basically, we have here two accounts. The account this account is going to add a tag or create an it"
+ ],
+ [
+  13,
+  2687,
+  "em. He's saving his code just for the demo,"
+ ],
+ [
+  13,
+  2691,
+  "adding a bounty for the item so you can put bounties if somebody find you give him. Then you answer questions that are specific on your item"
+ ],
+ [
+  13,
+  2703,
+  ". I wrote here the same answer so it would be faster. And then you basically mint your NFT that proves that you have the item. It's an SVG"
+ ],
+ [
+  13,
+  2715,
+  "that shows you always the status of your item, as you see here. And then if you go to the dashboard, you can mark the item as lost. Yeah. An"
+ ],
+ [
+  13,
+  2728,
+  "d then if somebody finds the item, you see the second screen. He can put on the tag of the item. And then he has to answer the zero knowledg"
+ ],
+ [
+  13,
+  2740,
+  "e proof questions"
+ ],
+ [
+  13,
+  2742,
+  "that we answered before on the item. It generates the proof, push it on chain. It verifies it. It shows that it's indeed an item that exists"
+ ],
+ [
+  13,
+  2757,
+  " and it belongs to our user. And the user who published the item"
+ ],
+ [
+  13,
+  2764,
+  "get notification that the item was found. He can now open a peer to peer chat and talk to the person who found the item and hopefully get it"
+ ],
+ [
+  13,
+  2778,
+  " back. And that's it. Which proving stack you're using and what stack is for p to p chat? Okay."
+ ],
+ [
+  13,
+  2788,
+  "So actually, the p to p is right now a server that everyone can run using WebSockets. I tried some different stacks, but nothing really work"
+ ],
+ [
+  13,
+  2805,
+  "ed out of the box. So for now, it's just WebSockets that you can download, like, the app and use. And I use Sercom, basically, and yeah. Sol"
+ ],
+ [
+  13,
+  2821,
+  "idity."
+ ],
+ [
+  13,
+  2822,
+  "No more questions? Okay. Thank you. Thank you. So it's project relief mesh and the next one is is Kraton. Hello."
+ ],
+ [
+  13,
+  2948,
+  "I am Lilith Mast. The the problem is this has that we are fed to to to critical feature. Centralized server has data Internet got out, leavi"
+ ],
+ [
+  13,
+  2965,
+  "ng with its fight silent and don't need a slow."
+ ],
+ [
+  13,
+  2971,
+  "So we all have solution to the release map decentralized if decentralized in a platform that cannot be taken down. So we about we we we view"
+ ],
+ [
+  13,
+  2987,
+  " our serverless peer to peer network. So the dot the data can"
+ ],
+ [
+  13,
+  2994,
+  "connect with device. So a call feature is decentralized and s o s map, peer to peer map network, trustless note, donation, and privacy and d"
+ ],
+ [
+  13,
+  3021,
+  "ata. So a demo is"
+ ],
+ [
+  13,
+  3024,
+  "user hand for someone have for the needed you can so it was cast. So you can add the detail what you want for the health. And for donator, y"
+ ],
+ [
+  13,
+  3044,
+  "ou can donate by don't donate to"
+ ],
+ [
+  13,
+  3048,
+  "someone helping by the Ethereum client and you would some are contact. Yeah. Yes. Okay. Any have question? I wonder because right now, it's "
+ ],
+ [
+  13,
+  3074,
+  "the support or donation is multi."
+ ],
+ [
+  13,
+  3080,
+  "Right? It's like supporting with money. Is it possible to support with other resource, which is something people usually need in, like, a li"
+ ],
+ [
+  13,
+  3091,
+  "ke, actual emergency? People need something more than just money. How do you match that? What do you think about that? For the the need help"
+ ],
+ [
+  13,
+  3102,
+  ", like Yes. For"
+ ],
+ [
+  13,
+  3103,
+  "the people who need help, if done you the Ethereum call, you can you can you can connect with the website and hand kick what how FOF and wha"
+ ],
+ [
+  13,
+  3119,
+  "t care to the anyone by peer to peer device. So does that mean they send money to"
+ ],
+ [
+  13,
+  3128,
+  "to help them and then they go buy the water by themselves? Or do they deliver water? What is the process? Because you okay. So they the need"
+ ],
+ [
+  13,
+  3138,
+  "s are water, medical aids, and food. So what actually happened? Is it that people deliver water, medical aids, or food? Or is it delivering "
+ ],
+ [
+  13,
+  3149,
+  "money and then"
+ ],
+ [
+  13,
+  3150,
+  "the the person receiving the money go buy water themselves? Yeah. It's been together, but it's have two option to to help. And the one is vo"
+ ],
+ [
+  13,
+  3168,
+  "lunteer to help to go to Wix team. Yeah. To help. And and"
+ ],
+ [
+  13,
+  3175,
+  "second option is a donate, yeah, to help Wix team. Yeah. To volunteer Yeah. Or to donate? Yes. Yes. This is very useful because I remember w"
+ ],
+ [
+  13,
+  3191,
+  "hen I was doing disaster relief for, earthquake before, it's very hard for people to really,"
+ ],
+ [
+  13,
+  3201,
+  "know which sites or which location do people need help with. I would recommend you definitely check out some dataset regarding, like, how, l"
+ ],
+ [
+  13,
+  3211,
+  "ike, how harsh the infrastructure is, destroyed because that may affect if people can actually access where the, you know, the victims are o"
+ ],
+ [
+  13,
+  3221,
+  "r, like, is it still possible to walk over there? Like, I don't can you elaborate on what map data are you, you know, connected into?"
+ ],
+ [
+  13,
+  3231,
+  "And how do you plan out to maybe connect more data into it? Let me translate for you. Okay."
+ ],
+ [
+  13,
+  3368,
+  "Do you have any technical details of the mesh network part, especially the wireless protocol you choose? The Bluetooth or what kind of other"
+ ],
+ [
+  13,
+  3383,
+  " things? Yes. If if can do can use a Bluetooth or wireless as wireless"
+ ],
+ [
+  13,
+  3391,
+  "via behind like, behind the IoT network, may you can use this. Any questions? Any question? No question. That's fine. Okay. That's it. Thank"
+ ],
+ [
+  13,
+  3409,
+  "s. Thank you. Thank you. And our ninth project"
+ ],
+ [
+  13,
+  3415,
+  "is East Kraton. The ninth project is Yth Creator. We have five more project left."
+ ],
+ [
+  13,
+  3511,
+  "Okay. Alrighty. Right. Hello, everyone. So our project is a DeFi aggregator. There's bill on 7702. And we offer to create any transactions y"
+ ],
+ [
+  13,
+  3533,
+  "ou want similar to"
+ ],
+ [
+  13,
+  3536,
+  "Thai traditional Kraton festival, where you can customize your Kraton before releasing it to the river. So we want to aggregate all the poss"
+ ],
+ [
+  13,
+  3546,
+  "ible contracts or protocols and let you create your own transaction that supports conditional logic and and encryption between the sharing d"
+ ],
+ [
+  13,
+  3557,
+  "evices. So currently, this is for the DeFi enthusiasts who like to maximize their DeFi strategies or interact in one transactions with multi"
+ ],
+ [
+  13,
+  3567,
+  "ple protocols."
+ ],
+ [
+  13,
+  3568,
+  "And, yeah, we support a bunch of them out of the box, but it's actually works with any contracts that we're gonna see. And, yeah, let's try "
+ ],
+ [
+  13,
+  3581,
+  "it out. So, yeah, I already have one of the one of the strategies. Let's maybe create something from from scratch. Okay. I'll delete this on"
+ ],
+ [
+  13,
+  3593,
+  "e. Right."
+ ],
+ [
+  13,
+  3594,
+  "Let's make a new one. So, yeah, we'll start with connected wallet and let's say, once you first swap some assets to use the c, so I'll inter"
+ ],
+ [
+  13,
+  3604,
+  "act with the uniswap from here and swap to UDC. And then after that, I'd like to perform a deposit into lending protocol. So we can do that "
+ ],
+ [
+  13,
+  3613,
+  "right away. And we're just creating our transaction flow. It can be anything you like."
+ ],
+ [
+  13,
+  3619,
+  "And it's up to your imagination what you like to create. So since I'm swiping to EDC, I will deposit it to Morpho right away. And let's say,"
+ ],
+ [
+  13,
+  3630,
+  " alright, so we get a quote and that exact amount will go to the next protocol. So we'll try to execute it. Okay. I got a confirmation, so w"
+ ],
+ [
+  13,
+  3642,
+  "e can see this transaction request will"
+ ],
+ [
+  13,
+  3645,
+  "include several steps. We can also make something more complicated. Let's say, we want to add one more swap here and maximize the use d c ou"
+ ],
+ [
+  13,
+  3657,
+  "tput. So we'll we'll make another swap and then route this money also to more form. Say we like to convert to USDT to USDC"
+ ],
+ [
+  13,
+  3668,
+  "and then use specific amount. And see my amount that I can use in this protocol increases proportionally to the swaps. So you can pass it al"
+ ],
+ [
+  13,
+  3677,
+  "l on. Yeah, we can create also more sophisticated examples, but also you can share this with anyone in the public. So if you like to continu"
+ ],
+ [
+  13,
+  3686,
+  "e editing, you can just create a BFS entry and then anyone can scan this and edit it on your phone before releasing on the blockchain. It al"
+ ],
+ [
+  13,
+  3695,
+  "so works with mobile, so you can easily modify"
+ ],
+ [
+  13,
+  3698,
+  "your strategies and make any connection between multiple protocols in one transaction. And, yeah. That's about it. Can you give me an exampl"
+ ],
+ [
+  13,
+  3722,
+  "e"
+ ],
+ [
+  13,
+  3722,
+  "where you need to create a flow to complement or try to orchestrate the transaction with that complex? Yeah. So if you would like to do this"
+ ],
+ [
+  13,
+  3732,
+  " right now manually, you would have to go separately and say in this example, you'd go to other, you would perform a deposit, then you would"
+ ],
+ [
+  13,
+  3742,
+  " need to make another transaction to borrow money. And maybe after that, you borrow a specific API and"
+ ],
+ [
+  13,
+  3749,
+  "then you wanna put it to another protocol to maximize your output. So all of these actions, you would have to do one by one to go to every d"
+ ],
+ [
+  13,
+  3758,
+  " five protocol, make three transactions. And this one, you can make all in one in one step. And you can create other more complicated strate"
+ ],
+ [
+  13,
+  3767,
+  "gies like or something simple. Let's say you wanna lend money and then you wanna borrow one and same transaction. So if you would do it manu"
+ ],
+ [
+  13,
+  3776,
+  "ally right now, you'll have to do one by one. Right? But this allows you to combine all the steps in one transaction."
+ ],
+ [
+  13,
+  3784,
+  "Are there any benefits apart from like just having to click multiple times? Like does it save me gas? Does it Yes. Yes. Does save the gas. I"
+ ],
+ [
+  13,
+  3793,
+  "t has a more visual representation and this is the only platform that allows you to combine it visually that you can then save this strategy"
+ ],
+ [
+  13,
+  3802,
+  " and replay anytime you like. So for instance, this one I can later export as a JSON"
+ ],
+ [
+  13,
+  3808,
+  "and then I can load it and replay anytime you wanna repeat it. And yeah, of course, you save on gas because you save around 21,000 gas for e"
+ ],
+ [
+  13,
+  3819,
+  "ach transaction because it's all batched in one. But but also it's also because it's atomic, so you don't lose between the steps. By the tim"
+ ],
+ [
+  13,
+  3830,
+  "e you deposit the first protocol, the other might already change the scope. So this ensures everything is done atomically."
+ ],
+ [
+  13,
+  3840,
+  "And so you might use conditional logic, so we cannot actually checks that deposit only happens if specific logic is met. So you can add if e"
+ ],
+ [
+  13,
+  3852,
+  "lse statements to this as well. The most simple use case would be mass transfer. Let's say you wanna transfer multiple coins at the same tim"
+ ],
+ [
+  13,
+  3864,
+  "e in one transaction. So you can build something like"
+ ],
+ [
+  13,
+  3869,
+  "let's take example of a simple dual transfer. So here I'm transferring two assets at two different addresses. But you can add logic when eac"
+ ],
+ [
+  13,
+  3882,
+  "h of them happens or you can add another. It's like completely up to you to design it and share with the others. I guess. I don't know. Any "
+ ],
+ [
+  13,
+  3895,
+  "other questions?"
+ ],
+ [
+  13,
+  3896,
+  "I think we need to cut off here. Thank you for the presentation. And the tenth team is local life protocol. Now we have four more projects. "
+ ],
+ [
+  13,
+  3969,
+  "Something wrong with the color or?"
+ ],
+ [
+  13,
+  3987,
+  "Hello, everyone. I'm Sanjay. I will my team Alex. Mhmm. Okay. I will introduce the local live protocol. We are a programmer trust for local "
+ ],
+ [
+  13,
+  4001,
+  "live. So imagine if I'm my coworker, time massager provider cannot speak English. So I'm very"
+ ],
+ [
+  13,
+  4011,
+  "I don't know English marketing or global algorithm, so I'm very hard to reach the global marketing. And if someone no show, if they book my "
+ ],
+ [
+  13,
+  4021,
+  "service and then no show, I will get nothing and waste my time and my energy. And also because I'm microwave, I my revenue, we are cut it. C"
+ ],
+ [
+  13,
+  4032,
+  "redit credit is not portable, so it's credit loss. And"
+ ],
+ [
+  13,
+  4036,
+  "our solution for this part is, like, we provide x four zero two to log fund. We provide the ERC 84 8004 and the AI agent. Okay. So our AI ag"
+ ],
+ [
+  13,
+  4052,
+  "ent will be the microwave microworker, the 24 digital broker."
+ ],
+ [
+  13,
+  4059,
+  "So everyone can list their service while the local long way try the way easy. And we also do the internal log. So not only translate the nee"
+ ],
+ [
+  13,
+  4072,
+  "ds and also store the agreements on chain. And the x four zero two protocol is our income guarantee. This one can log fund at a booking and "
+ ],
+ [
+  13,
+  4085,
+  "also instant pay out upon the confirmation."
+ ],
+ [
+  13,
+  4089,
+  "And the ERC $8.00 $0.04 can be the created assets ascitation. So it's kinda every cryptocurrency or the means digital on the badge and the c"
+ ],
+ [
+  13,
+  4101,
+  "redit owned by the individual, not the platform. So it's that carried by the is portable trust. And, also, the AI can be the meditation."
+ ],
+ [
+  13,
+  4113,
+  "If we meet some, like, malicious reformed, the AI intend a lot of solve that. And our protocol is not only a app. We are also as a plug in. "
+ ],
+ [
+  13,
+  4126,
+  "So we can integrate to WhatsApp, LINE, Telegram. Everyone can use it very, very easy because it's chatbot. And it's invisible web three. We "
+ ],
+ [
+  13,
+  4138,
+  "use the EIP"
+ ],
+ [
+  13,
+  4139,
+  "three zero zero nine to do the no gas free no gas worry. And what do we want to build is we want to building the first delivery first, say, "
+ ],
+ [
+  13,
+  4151,
+  "to let the programmer create data system for micro workers globally, locally. And, also, I think a one can be the micro worker."
+ ],
+ [
+  13,
+  4162,
+  "Aid agent that would be the your CMO or your sales partners. This is the whole process we create. So fast."
+ ],
+ [
+  13,
+  4314,
+  "Okay. Thank so much. Any question? Like, can you hear? Yeah. Yeah. Yeah. Can you elaborate on, like, first question? You use, like, x four z"
+ ],
+ [
+  13,
+  4325,
+  "ero two for the payment part. Right? So it solves a problem of, like, the service providers know they are guaranteed to be paid if the servi"
+ ],
+ [
+  13,
+  4336,
+  "ce is completed. But how do you solve the problem of, like, trusting whether you should trust the quality of the service in the beginning?"
+ ],
+ [
+  13,
+  4347,
+  "Okay. We do have the ERC 848004. It's kind of create a review system and the ID system for the agent. So, like, I provide a time message for"
+ ],
+ [
+  13,
+  4360,
+  " the first people. They can give me the review bag and blah blah blah blah. And then I will set up my"
+ ],
+ [
+  13,
+  4369,
+  "create data system. So how's it different from, like, the existing platforms? Where does the agent part play? Does it accelerate the process"
+ ],
+ [
+  13,
+  4381,
+  "? Does it, you know, help you marketing? Or For every seller, you can create a seller agent. Yeah. And that's on the ERC eight zero zero fou"
+ ],
+ [
+  13,
+  4394,
+  "r"
+ ],
+ [
+  13,
+  4394,
+  "protocol. Yeah. And Oh, so it so the agent helps you to do the customer service, like questions and, you know, selling process. Right? Yeah."
+ ],
+ [
+  13,
+  4407,
+  " Yeah. Agent will be your seller in this prime form. So you have a SA for you, like, representatives for you. Social. Social. Okay. Mhmm. I "
+ ],
+ [
+  13,
+  4421,
+  "see. Thank you. Yeah."
+ ],
+ [
+  13,
+  4423,
+  "What what would happen if it expand beyond Chiang Mai? Is it possible to have different locations? And then how would it look like within th"
+ ],
+ [
+  13,
+  4432,
+  "is? Or is it only designed for Chiang Mai based activities? From Chiang Mai to globally. Yeah. Because right now, the actually, the Chiang M"
+ ],
+ [
+  13,
+  4441,
+  "ai local people, they want to transfer the cryptocurrency to the filed currency"
+ ],
+ [
+  13,
+  4446,
+  "is quite easy because the bank allow them to do that. Oh, I I mean, with the local services, is it possible that it expand beyond just two o"
+ ],
+ [
+  13,
+  4455,
+  "ne? Of course. Yeah. Of course. Yeah. And then what would it look like? Is it that if you go to a city and you you choose It's like you you "
+ ],
+ [
+  13,
+  4464,
+  "can you can move it to every city and even globally. Like, you you you can create,"
+ ],
+ [
+  13,
+  4469,
+  "for example, a service in Chiang Mai or you can create it in Bangkok or maybe mobile somewhere else. It's okay. Yeah. Thank you. Yeah. Which"
+ ],
+ [
+  13,
+  4483,
+  ", I guess, AI agent are you using? Like, are you using Claude in the background, Gemini?"
+ ],
+ [
+  13,
+  4492,
+  "Or You can choose, actually. Yeah. Now we are using Gemini, but you can choose it here. Yeah. So you have different models. Gotcha. And you "
+ ],
+ [
+  13,
+  4505,
+  "just put your API key inside. Yeah. Mhmm. Any question? That's it. No question. Next Okay. One. That's all good. Thanks. Thank you so much. "
+ ],
+ [
+  13,
+  4518,
+  "Nice. Thank you."
+ ],
+ [
+  13,
+  4520,
+  "And for our eleventh team, Zug Suo. Three more team is left. Hello."
+ ],
+ [
+  13,
+  4553,
+  "I have what you need and you have what I want. This isn't technology. This is just human nature. But then humans created p two p for various"
+ ],
+ [
+  13,
+  4563,
+  " reasons. For money, they created crypto. For data sharing, they created TOR. But the problem was with humanity itself. They exploited Bitco"
+ ],
+ [
+  13,
+  4573,
+  "in. They exploited Tor. And now because of that, we come to centralization"
+ ],
+ [
+  13,
+  4578,
+  "where there are platforms who store data and governments who control data because we cannot stick to these p to p networks. They've enforced"
+ ],
+ [
+  13,
+  4587,
+  " this by barriers of copyrights, licenses, APIs, paywalls, etcetera. So they log the data and the key, which is money, they hide it from us."
+ ],
+ [
+  13,
+  4597,
+  " And now comes AI. AI needs data to be open source."
+ ],
+ [
+  13,
+  4600,
+  "But, hey, the world has logged it for us. So how do I open up data and solve the money problem? This is the problem that LLMs need data, but"
+ ],
+ [
+  13,
+  4609,
+  " sources are fragmented so they can't give proper reasoning because their sources are not good. And hence, our idea, which is making money p"
+ ],
+ [
+  13,
+  4619,
+  "rogrammable, unlocking data for LLMs, and creating reputation."
+ ],
+ [
+  13,
+  4623,
+  "Introducing Zugzuang. I'm here to solve two problems. One is identity and reputation. First, identity. I've created a registry of two things"
+ ],
+ [
+  13,
+  4633,
+  ", on chain, which is my DID and wallet, and off chain superpowers, which are my a two way and MCP protocol. So if you can see over here, I c"
+ ],
+ [
+  13,
+  4643,
+  "an create a AI agent which I've already created. I can prefill this and have an DID made. And I can give certain superpowers to them. And I "
+ ],
+ [
+  13,
+  4652,
+  "can create a ready made"
+ ],
+ [
+  13,
+  4654,
+  "JSON. I can just write Kanye West here. So this means Kanye West has a new song and you have to you want to access it. Now, let's take a dem"
+ ],
+ [
+  13,
+  4663,
+  "o. Here's the radio. You you have a car. You want to listen to the best song. So I go listen to the best song and I want to select Kanye Wes"
+ ],
+ [
+  13,
+  4672,
+  "t stronger. So when I select this, it directly goes to a metamask. And here is the beauty of x four zero two that I can select two seconds o"
+ ],
+ [
+  13,
+  4681,
+  "f a song and pay exactly for it and not the entire song. And here,"
+ ],
+ [
+  13,
+  4685,
+  "this is deployed on mainnet. So you play the songs, you pay pay the money. I've created weather agents if you want see, your transaction is "
+ ],
+ [
+  13,
+  4695,
+  "complete and it is on chain. Now second now coming to the second problem, the a to a economy, that MCP if you are a creator of music, art, e"
+ ],
+ [
+  13,
+  4706,
+  "tcetera, you can expose it to the world to,"
+ ],
+ [
+  13,
+  4709,
+  "x four zero two and get the data. Now problem comes with reputation. How do I trust? How do I discover? How do I hide my identity? And this "
+ ],
+ [
+  13,
+  4717,
+  "is what is my solution is, which is an open source ledger. Let's say in the world, there are billions of agents who do millions of transacti"
+ ],
+ [
+  13,
+  4724,
+  "on. What my point is, reputation cannot be governed by a central authority. A Grammy cannot say that Kanye West music is better than a local"
+ ],
+ [
+  13,
+  4732,
+  " artist. It has to be on chain. And that is why we have created a reputation model of ourselves, which you can see over here, which has live"
+ ],
+ [
+  13,
+  4739,
+  " transactions, which is which are on Etherscan"
+ ],
+ [
+  13,
+  4742,
+  "and of two parties. So basically, if I want to pay Kanye West for three seconds of his song, I just have to enable my protocol, register his"
+ ],
+ [
+  13,
+  4753,
+  " MCB on on chain, register my m my okay. You know what saying? Okay. And then the beauty of it happens that I am paying someone in the world"
+ ],
+ [
+  13,
+  4764,
+  " for the correct source and there is no intermediate in between. Like, Spotify can't take my money. Netflix can't make my money. I am openin"
+ ],
+ [
+  13,
+  4774,
+  "g the data for LLMs and I'm paying the correct source, the real source for it. And this is our reputation model. Thank you."
+ ],
+ [
+  13,
+  4784,
+  "This is the transaction. This is the app and this is the registry and this is the reputation model. All of these are on chain and I've deplo"
+ ],
+ [
+  13,
+  4793,
+  "yed this on live so that any one of you can use it. This is not on virtual or not on local host. This is live. So I'm open to questions. Can"
+ ],
+ [
+  13,
+  4801,
+  " you dive a bit deeper into the privacy angle? Like, I don't wanna Yeah. The world to know that I'm Yes. Anonym number d is,"
+ ],
+ [
+  13,
+  4809,
+  "for example, if you are listening to a song, it's okay. But if you are listening to looking at some illicit material, I count to pay him, bu"
+ ],
+ [
+  13,
+  4817,
+  "t my identity should be hidden. So what we can do here is in ZK p two b, which I was very interested in, I can hide the from identity, but I"
+ ],
+ [
+  13,
+  4824,
+  " can keep the to identity. So Kanye West, if millions of people listen to Kanye West, Kanye West will appear here on this ledger 1,000,000 t"
+ ],
+ [
+  13,
+  4832,
+  "imes. But all of those who want to be hidden from Kanye West songs for example, you're in North Korea and you can't listen to Kanye West. Wh"
+ ],
+ [
+  13,
+  4840,
+  "at do you do? You come to my protocol. You can listen to Kanye West. I'll hide your identity, and you only pay for those three seconds of Ka"
+ ],
+ [
+  13,
+  4847,
+  "nye West or any artist you want. And this can be go this can be for local artist. Kanye West is famous. If I make a music and I want to make"
+ ],
+ [
+  13,
+  4855,
+  " it discoverable, Grammy cannot say that Carnivas is better than me. It should be the truth should be on the ledger. If my transactions are "
+ ],
+ [
+  13,
+  4863,
+  "million and Carnivas are only 100, I win over here. So this is what an open source ledger looks like when centralization or central authorit"
+ ],
+ [
+  13,
+  4871,
+  "y doesn't give reputation."
+ ],
+ [
+  13,
+  4872,
+  "So here's to answer. Oh, I am not sure if I missed it, but does it only is it only applicable on, like, music or art? Or is it also for soci"
+ ],
+ [
+  13,
+  4883,
+  "al media blocks and, like, other use cases? Okay. So we I am providing an identity layer. So for example, if you make MCP servers on line ch"
+ ],
+ [
+  13,
+  4893,
+  "ain or any of the sources of MCP creation you have, you can just attach an MCP endpoint over here. I've given many m c so if you want to hav"
+ ],
+ [
+  13,
+  4904,
+  "e a DID, if you want to have a email attached, if you want to have a social media link attached, if you want to have a git report attached. "
+ ],
+ [
+  13,
+  4914,
+  "So basically,"
+ ],
+ [
+  13,
+  4915,
+  "per URL or per second, I can have a pricing schema. So to answer your question, if I want to say Reddit MCP and I say for fetching a comment"
+ ],
+ [
+  13,
+  4924,
+  ", only three comments, I want to pay only 0.003. So I can define it in my JSON over here, which is downloadable by the way, that you can onl"
+ ],
+ [
+  13,
+  4932,
+  "y say that one comment cost 0.001 ETH. So when an LLM you ask a question to a LLM. He had fetched me data from this site."
+ ],
+ [
+  13,
+  4940,
+  "He has to pay for 1,000,000 tokens to Reddit to get that data. So this is subscription based model. We can we only skip the subscription and"
+ ],
+ [
+  13,
+  4950,
+  " pay only for what we want. So it is open to social media. It depends on how you make this. So DID is identity. MCP is source agents. And as"
+ ],
+ [
+  13,
+  4960,
+  " you said, social media can be a Twitter subreddit or"
+ ],
+ [
+  13,
+  4964,
+  "comment probably. So anything is you can make it over here. Alright. If there's no question okay. Thanks. Let's move to the next one."
+ ],
+ [
+  13,
+  4992,
+  "So it's our twelfth team everything canvas. We have two more port poll x .ai and t x three. Sorry."
+ ],
+ [
+  13,
+  5059,
+  "Hi, everyone. My name is Hazel, and I want to introduce you to my project submission for this hackathon, which is everything Canva Canvas. S"
+ ],
+ [
+  13,
+  5071,
+  "o whenever I think of what the crypto technology means to me or means to the human race, I think the crypto technology enables us to keep wh"
+ ],
+ [
+  13,
+  5082,
+  "at's valuable for us"
+ ],
+ [
+  13,
+  5084,
+  "for eternal for eternity. And it comes to me that it's not only those financial transactions that's worth keep that's worth worth being kept"
+ ],
+ [
+  13,
+  5095,
+  ", but also the things that we love, the things that makes us who we are right now and today. So for me, what I really wanna keep using this "
+ ],
+ [
+  13,
+  5107,
+  "technology is"
+ ],
+ [
+  13,
+  5108,
+  "everything that's ever occurred in the magical conversations for me. We've had we've all had those moments when we had those night long conv"
+ ],
+ [
+  13,
+  5119,
+  "ersations with our friends and we come up with ideas, But then eventually, we lost the process. We never we never remember how those great i"
+ ],
+ [
+  13,
+  5129,
+  "deas that's that shapes who we are today come into place. So everything Canvas is gonna be a Canvas that's"
+ ],
+ [
+  13,
+  5137,
+  "that keeps all the interactions, all the process that when when you put ideas together, collaging on the canvas, keep the process and you ca"
+ ],
+ [
+  13,
+  5149,
+  "n upload it on chain, to forever crystallize the process, make it a time crystal of what's actually happened. So imagine"
+ ],
+ [
+  13,
+  5160,
+  "you're jamming ideas with the community and you wanna remember the process of how the great ideas ever come up. And you don't want this proc"
+ ],
+ [
+  13,
+  5172,
+  "ess to be a really rigid linear process. It's not a document. How can we imagine a co living space for ideas? Because, we know that all of u"
+ ],
+ [
+  13,
+  5183,
+  "s don't think completely linearly."
+ ],
+ [
+  13,
+  5186,
+  "So I am bringing this Canvas based tool for collaborative creatives or for any community members for creating together. So this is the landi"
+ ],
+ [
+  13,
+  5198,
+  "ng page for everything Canvas. The and entering this, this is the actual interface. You can put pictures or text text coming"
+ ],
+ [
+  13,
+  5209,
+  "into this with preset styles. So you can put make them really pretty. It's like Instagram style or or something like that. And then you can "
+ ],
+ [
+  13,
+  5222,
+  "jam ideas with your friends. And so this also, you can find connections between different elements. And, also, it comes with this time machi"
+ ],
+ [
+  13,
+  5234,
+  "ne feature"
+ ],
+ [
+  13,
+  5235,
+  "which enables enables you to keep keep track of how ideas come from nowhere to to where it is right now. And so technology brings a few diff"
+ ],
+ [
+  13,
+  5249,
+  "erent interesting features to this as well. So I've used the InstantDB, which is the database that allows allows us to"
+ ],
+ [
+  13,
+  5261,
+  "to to go local first. So all the changes can happen locally, they and can upload it to cloud later. This gives us persistence and resilience"
+ ],
+ [
+  13,
+  5272,
+  ". And I've also built an AI agent on the side of the canvas, which can give us insights and find hidden connections for us to prevent us fro"
+ ],
+ [
+  13,
+  5283,
+  "m getting into echo chambers."
+ ],
+ [
+  13,
+  5285,
+  "And also at the end of any jamming session, you can always mint this canvas as a static picture as well as its entire URL to which comes wit"
+ ],
+ [
+  13,
+  5297,
+  "h this entire time evolution of ideas so that you can remember what's valuable to you and to have eternal ownership of the"
+ ],
+ [
+  13,
+  5308,
+  "everyone's contributions. So now I'm gonna give you a little tour in this Canvas since my time's up. So this is it. And then I'm I'm gonna s"
+ ],
+ [
+  13,
+  5319,
+  "how you this time evolution, which is really cool, and it's not very long. So this is how I wish all my conversations, all the cool ideas co"
+ ],
+ [
+  13,
+  5331,
+  "ming up is gonna be kept for me and for my friends so that we never lose track of how we've come here,"
+ ],
+ [
+  13,
+  5339,
+  "how we come to who we are today, all those conversations as shaped. I hope those are kept as time crystals. And so for a session like this, "
+ ],
+ [
+  13,
+  5351,
+  "you can just invite friends here or upload just, you know, mint it as NFT so that it's it's gonna live on chain forever."
+ ],
+ [
+  13,
+  5362,
+  "And that's everything everything Canvas, and I can take questions now. Thanks. So every element on that Canvas is NFT by native or it does H"
+ ],
+ [
+  13,
+  5377,
+  "TML element until minted? Ah, I see your question. So not everything on this canvas will be minted as an NFT. It's just the entire canvas,"
+ ],
+ [
+  13,
+  5392,
+  "as a whole and as a web page is gonna be minted as an NFT. It it is to it's it's not to remember any of the isolated pieces, but to remember"
+ ],
+ [
+  13,
+  5410,
+  " this whole picture as a as a as a unity. Yeah. As a process. Okay. Thanks."
+ ],
+ [
+  13,
+  5419,
+  "Sorry. Oh, okay. Okay. Because I'm just wondering because now there's already a lot of, like, very similar tools around. Is it the the main "
+ ],
+ [
+  13,
+  5432,
+  "difference that you can mend it as NFT? Also, it comes with this AI agent that can, give you insights. I I find this feature pretty valuable"
+ ],
+ [
+  13,
+  5445,
+  " and, useful because,"
+ ],
+ [
+  13,
+  5447,
+  "I use it to generate ideas and it can tell me if there's anything I've missed on this canvas that's from my friend that I haven't noticed th"
+ ],
+ [
+  13,
+  5457,
+  "at's actually related to my other idea. And also, it can record this process. And also, it comes with a few social features as well. Like, y"
+ ],
+ [
+  13,
+  5466,
+  "ou can add comments and add, like, add comments and add reactions."
+ ],
+ [
+  13,
+  5471,
+  "Those are pretty social features. So you can think of it as an alternative to a social media where you can connect and communicate with your"
+ ],
+ [
+  13,
+  5481,
+  " friends, but it's not like a linear timeline feed but flattened onto this canvas. So it's a new form. And also it has this really cool feat"
+ ],
+ [
+  13,
+  5490,
+  "ure that I forgot to mention just now, which is you can add URL to, to any elements. So you can here jump into another web page or another C"
+ ],
+ [
+  13,
+  5500,
+  "anvas. So it becomes a nested web of Canvas,"
+ ],
+ [
+  13,
+  5503,
+  "which is pretty interesting. Thank you. Okay. Thank you. Let's welcome the last two. It's POWERX AI. K. Hello. We are paw x dot a I. We trac"
+ ],
+ [
+  13,
+  5545,
+  "k KOLs, verify alpha, trade first."
+ ],
+ [
+  13,
+  5555,
+  "Why are we upgrading this? When users, trading coins, they always there is a information gap. User cannot keep up with the real time updates"
+ ],
+ [
+  13,
+  5565,
+  ". There's no accountability. Some KOLs cost can go wrong. They just deleted it. But we want to tackle this. And, also, monitoring multiple s"
+ ],
+ [
+  13,
+  5574,
+  "ocial accounts is kinda difficult. Our solution is to offering a real time KOL signal tracking."
+ ],
+ [
+  13,
+  5581,
+  "And, every time a KOL calls, we can record it on chain. You can verify it. And, also, we will execute the, trade for you. This is our pipeli"
+ ],
+ [
+  13,
+  5592,
+  "ne. When, monitored Twitter user sends a tweet, we will check with our recorded, say, mappings and send AI for analysis. Then if it triggers"
+ ],
+ [
+  13,
+  5603,
+  " the signal, we will send a notification"
+ ],
+ [
+  13,
+  5606,
+  "to the user and help users to trade and also record a blockchain. This is our preparation. There is no public info about which trader accoun"
+ ],
+ [
+  13,
+  5618,
+  "t is associated with which contractors. We want to, manage a public repository. People can contribute. That will be a public info for everyo"
+ ],
+ [
+  13,
+  5631,
+  "ne that's want to use it."
+ ],
+ [
+  13,
+  5633,
+  "There's three ways for us to trigger the signal. First one is, the CA mentions. Second one is to interacting with any accounts that's associ"
+ ],
+ [
+  13,
+  5645,
+  "ated with the project or, KOLs, send a tree containing some keywords. And our AI will, extract the keyword, a c a, from some texts and also "
+ ],
+ [
+  13,
+  5657,
+  "analysis the sentiments."
+ ],
+ [
+  13,
+  5659,
+  "This is the processing. When we have the signal, we will do the, trade for the user. We tried multiple AI models for extracting the keywords"
+ ],
+ [
+  13,
+  5672,
+  ", and we finalized with the BERT based bar for this. This is our team. I'm Alan. This is another Alan, Alan Chew."
+ ],
+ [
+  13,
+  5682,
+  "We are two Alan's. Okay. Demo. Okay. So right now, let's see our demo. Because of Internet issue, our web socket has some runs too slow, so "
+ ],
+ [
+  13,
+  5691,
+  "we just use a video demo. So right now, you can see this is our main page, and you can see we have collects a lot of Twitter's accounts, esp"
+ ],
+ [
+  13,
+  5701,
+  "ecially two accounts I will show, which is one of our judge"
+ ],
+ [
+  13,
+  5705,
+  "from this hackathon. Yeah. So yeah. Oh, we have integrated MPC wireless. So you you can see that this is like a telegram logging. So we have"
+ ],
+ [
+  13,
+  5713,
+  " built our own telegram logging system to make sure that everything is running smoothly. So we provide the best UI UX experience. So you can"
+ ],
+ [
+  13,
+  5722,
+  " right now see our our sniping boss page. You can see, like, the target KOL you want, and you can also see, like, chain you like and, like, "
+ ],
+ [
+  13,
+  5730,
+  "a CA or keywords and some and some kind of things and also the amount. Like how much GMB you want to use for sniping, how much Solana you wa"
+ ],
+ [
+  13,
+  5738,
+  "nt to use for sniping. And this is one of our example. So we just use a PowerX AI to post a tweet like QUQ since QUQ is one of our main coin"
+ ],
+ [
+  13,
+  5747,
+  " on BSC."
+ ],
+ [
+  13,
+  5747,
+  "So after we post up QUQ and LFG, and we have detect this KOL, like, powers. And so he will start analyze this KOL. So and everything will be"
+ ],
+ [
+  13,
+  5755,
+  " start in the back end, and everything will be done with we very fast. So, yeah, we can see that everything is transparent and you can see a"
+ ],
+ [
+  13,
+  5763,
+  " lot of our back end style. We can truly integrate this. Yeah. So we we just wanted to prove that we have truly done this. And you can see t"
+ ],
+ [
+  13,
+  5770,
+  "hat a lot of transaction hash, a BSC churns or an odd churn. And you can see, I guess, so I think seconds before. So we have proved that eve"
+ ],
+ [
+  13,
+  5778,
+  "rything is transparent. You can track all of our transaction hash in the past. Yeah."
+ ],
+ [
+  13,
+  5783,
+  "So yeah. And this is our demo. And yes. And thank you, everyone. Yep. And yeah. And if you guys have some Twitters, please scan it. Yeah. Do"
+ ],
+ [
+  13,
+  5793,
+  " I have to pay for the Twitter WebSocket or API? Yeah. We have paid for our Twitter's WebSocket. Yeah. So yeah. For this hackathon. Yeah. Ho"
+ ],
+ [
+  13,
+  5804,
+  "w much is it? How much is this? So so we we do offer this ourselves."
+ ],
+ [
+  13,
+  5809,
+  "We have been doing Twitter stuff for for a while, and WebSocket is the one of the service that we offer. And if you use our service for snip"
+ ],
+ [
+  13,
+  5819,
+  "ing, it's free. But if you wanna use our WebSocket, you have to pay for use this service. Yeah. We have several clients already using this o"
+ ],
+ [
+  13,
+  5829,
+  "ur WebSocket API. Yeah. So yeah. Maybe we can contact data if you want to use it. Yeah. We we needed some clients, yeah, right now."
+ ],
+ [
+  13,
+  5838,
+  "And this is our yeah. This is our main page, and you can select, okay, all you want. Alrighty. Okay. Okay. Are there any other question? Oka"
+ ],
+ [
+  13,
+  5858,
+  "y. Thanks. Okay. And now is the last"
+ ],
+ [
+  13,
+  5863,
+  "last team is TX-ray, and the awarding session will be really soon also. Hi."
+ ],
+ [
+  13,
+  5929,
+  "Hi, everyone. I'm Link, and this is DDD. I come from u the UCAS. Today, I'll show you the t x-ray. An x-ray, we run for on chain transaction"
+ ],
+ [
+  13,
+  5943,
+  "s. It turns tran transaction hash into explanation with evidence in real time. As we all know, the on chain transaction data is public,"
+ ],
+ [
+  13,
+  5956,
+  "but it it is not easy to understand. And the deep calls that require multiple tools such as RPC, it's a scan, and tenderly. And if you ask a"
+ ],
+ [
+  13,
+  5972,
+  "n IOLM, you may find it struggle with complex core races and explanations without evidence are untrustworthy."
+ ],
+ [
+  13,
+  5984,
+  "So our goal is very simple. Why input transaction hash and we will get an explanation aligned with trace evidence. Now this is the live pipe"
+ ],
+ [
+  13,
+  6001,
+  "line. Just submit a transaction hash and the the RPC"
+ ],
+ [
+  13,
+  6007,
+  "will fetch the data such as block number, gas price for us, and then they're asked to go and call the contract. Like here, it identify the a"
+ ],
+ [
+  13,
+  6020,
+  " a v u s three flash loan and uniswap v three rows contract, and it gives all the internal transactions. And if that's not enough,"
+ ],
+ [
+  13,
+  6033,
+  "tender dissemination will give all the internal traces. Then the neural engine will work to match the specifics patterns like under return c"
+ ],
+ [
+  13,
+  6048,
+  "onclusion like here, I'm UE upcharge detected. Here the architecture, the front end is next dot j s. The back end is express"
+ ],
+ [
+  13,
+  6061,
+  "and the ring is long graph. When the back end runs, it it use it uses SSE to push all the events like RPC as a scan to the UI. So the users "
+ ],
+ [
+  13,
+  6080,
+  "can see the progress immediately. Alright."
+ ],
+ [
+  13,
+  6086,
+  "Quick recap. File takeaways. One, it is a long graph driven agent with reliable, you reach to explain to verify loop. Two, it is a long, it "
+ ],
+ [
+  13,
+  6100,
+  "is is a timeline driven pipeline with real time progress via SIC stream. Three, it is"
+ ],
+ [
+  13,
+  6109,
+  "evidence first. You can drill down into call list, route trace. Besides our product is riding with EIP eight zero zero four and X402. Last b"
+ ],
+ [
+  13,
+  6127,
+  "ut not least, it is live. You can try it through this URL."
+ ],
+ [
+  13,
+  6135,
+  "Looking ahead, we will expand to block level analysis real time monitoring contract completion, and the UE bundle analysis. You know, in a w"
+ ],
+ [
+  13,
+  6151,
+  "ord, transaction rate TX-ray is a long graph driven rhyme evidence for TMU analyzer with the IPs 8004"
+ ],
+ [
+  13,
+  6162,
+  "and X402. Feel free to try it. Thank you. Okay. I will show the live demo, but we can take questions in the meantime because the time is up."
+ ],
+ [
+  13,
+  6196,
+  " Yeah."
+ ],
+ [
+  13,
+  6197,
+  "Do you have any questions? I mean, like, I definitely see real need for this product because I still, like, struggle with kind of, like, und"
+ ],
+ [
+  13,
+  6212,
+  "erstanding, like, what exactly happened for every transaction. Did you, like, try to connect with some regular security"
+ ],
+ [
+  13,
+  6224,
+  "teams like SlowMist or some company that offer that existing solutions and see, like, what are some solutions they are giving? Yeah. We see "
+ ],
+ [
+  13,
+  6237,
+  "some products like some Chrome extensions that they integrated to user scan and they try to explain"
+ ],
+ [
+  13,
+  6246,
+  "a transaction using like chat GPT. But we don't think it's it's it can understand, like, complex transactions. And the deep call trace is ju"
+ ],
+ [
+  13,
+  6264,
+  "st a word summary to transaction. It's really simple. But what we're trying to do to is help"
+ ],
+ [
+  13,
+  6275,
+  "developers or the arbitrage learners to understand complex transactions. So do you just to follow-up a little bit, what you re what do you s"
+ ],
+ [
+  13,
+  6286,
+  "uggest is the kind of the purpose for this tool? For example, like, experienced traders who want to understand others arbitrage"
+ ],
+ [
+  13,
+  6296,
+  "strategy so they can learn from it? Or can you elaborate more? Yeah. Kind of. Because I I do this this project because I I like to do some s"
+ ],
+ [
+  13,
+  6315,
+  "mart contract audit sometimes. But I find it is really"
+ ],
+ [
+  13,
+  6323,
+  "confused when I look into some, like, large arbitrage transaction. So I want to use LLM to help me to understand it. Yeah. I see. Thank you."
+ ],
+ [
+  13,
+  6344,
+  " Alright. Thanks."
+ ],
+ [
+  13,
+  6347,
+  "That's it. Alright. That wraps up the demos for our full team project. Thank you again to all the team for the energy and the work we shared"
+ ],
+ [
+  13,
+  6357,
+  " today. We're going to take a short break. So please feel free to stretch, grab some water and some fruit or chat with each other. We'll be "
+ ],
+ [
+  13,
+  6368,
+  "back around 03:30"
+ ],
+ [
+  13,
+  6369,
+  "to announce and present or all 26 awards. So please stay nearby. See you in a bit. And also goodbye to the audience online on the live strea"
+ ],
+ [
+  13,
+  6402,
+  "ming and looking forward to see you guys on the third"
+ ],
+ [
+  13,
+  6415,
+  "tomorrow, the summit. We'll have live streaming as well. Bye bye."
+ ],
+ [
   17,
   1,
   "Good morning, everyone. Welcome to Ethereum Chimai twenty twenty six future summit. Amila, your host today. This summit is more than just a "
