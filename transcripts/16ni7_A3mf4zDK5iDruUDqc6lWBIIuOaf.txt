@@ -1,0 +1,361 @@
+# 区块链导论中文课程 Week 1: 关于比特币 (Blockchain Intro, Mandarin — Week 1: On Bitcoin)
+
+Date: 
+Source video: 区块链导论中文课程 Week 1: 关于比特币 (Blockchain Intro, Mandarin — Week 1: On Bitcoin)
+Drive: https://drive.google.com/file/d/16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf/view
+Duration: 01:32:59
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Welcome the audience. Maybe some audience like online. I think we we should have some introduction to Eastern Qing Mai. Right? Yeah. Cool. I think maybe you can explain a little bit English on Hexagon,
+
+[01:51] I think. No. I'm not actually, several of them are actually can only understand English. Okay. So this is just like break this this this this lesson today is in Chinese. So yeah. And Yoko will talk in Chinese later. But for East TMI, the hackathon is basically in English.
+
+[02:14] This happened on the January 28 to the February 3. And we have, like, different tracks like AI, Web three blockchain and privacy, DK proof and localism. So if you guys would like to know more a little bit, we have posters over there. We have our x account that is East Qi Mai. We have a telegram channel also East Qi Mai, ETH Qi Mai.
+
+[02:39] So if you guys are interested, please join our social media. Yeah. Okay. Cool. That's important to introduce me, so we got straight to the point. Okay. So one part is like
+
+[03:12] So one part is or gave some you suggestions about cryptocurrency. I will speak English actually, if any, like, English I mean, no longer more English audience right here because, like, last last last time, there will be some English audience, but I just
+
+[03:35] drum them off or, yeah, using English. So if I, you know, notice that, like, there is no English audience anymore, so I gonna yeah. I gonna use, like, mainly in Mandarin, but now we just go bilingual. I'm gonna use Mandarin and English. Okay. This one or
+
+[04:03] okay. Oh, like this. Oh, cool. So the So
+
+[04:40] so let's get started. And our first part of the important, you know, culture in crypto space is do your own research. What I what do I mean by that is don't buy anything if you don't understand it. Don't buy Bitcoin, and don't buy Ethereum if you don't understand it. Because if you buy it, you're gonna losing a lot of money, and you maybe count down that on me.
+
+[05:08] I don't wanna be that person. Sorry. So don't buy anything in crypto. Then you won't lose money. Right? Of yeah. If you wanna buy anything, like, do your own research.
+
+[05:55] Bitcoin, Ethereum, Do your own research. The basic, you know, logic behind those asset, for example, like Bitcoin, Ethereum. I I gotta talk about, you know, a lot about Bitcoin and Ethereum because to me, it's a whole industry of cryptocurrency. I'm like, we we we cannot talk about it like in Bitcoin and a term like a lot, but it's not means like I'm right.
+
+[07:09] Right? So you have to do your own research and you have to understand the basic law logic behind it, and then you make your own choice. So yeah. So so that's the first culture, like, we I want to introduce, like, in the crypto space. And another one is it is a general our general general introduction or, like, commentary views about, like, cryptocurrency.
+
+[07:47] So here is a scammer warning here. I'm a scammer, so you don't trust me. Don't trust anything I said. And if you want to trust anything, double checking. Yeah. Or like, double double checking. Anything you heard, like, in the crypto spaces. That's why the first culture is important. Do your own research.
+
+[08:49] Double check and double check. I mean, I I will give a lot of topics, subtopic, opinions, facts, maxed, or anything. I've been gaming here. I have been gaming here, but you should do what you should do is, like, double check and double check. So and I don't trust anything. Like, if you don't do the double check and double check and the deep thinking, like, yourself,
+
+[09:14] like in crucial spaces. So, yeah, a lot of scammer already stuff here, so we can guess straight to the point. And so important stuff, I I have to repeat three times. Don't buy anything. Don't buy anything. Don't buy anything. So we we gonna start our today's introduction.
+
+[09:52] Today's introduction is mainly about Bitcoin and mainly about money. It's answer the question like, what is Bitcoin and what is money? We're trying to answer that question, like, today. And so I gave some, you know, subtopics here, help us to understand
+
+[10:15] that question. Okay. First one is like Warren Buffett
+
+[10:55] got right or wrong about Bitcoin. It's about instinct value. It's similar like to
+
+[11:27] okay. I have to repeat that in English. So, Alec, Warren Buffett's view about on the money and a currency and also about Bitcoin. So what's right and what's wrong and what's their his view about that and what's and this this topic or this subtopic is mainly
+
+[11:50] about intrinsic value. It's it's something related to maybe similar to, like, intrinsic value. The the person's intrinsic value or, like, or, like, these speakers or mic, intrinsic value, something like that. And everything almost everything, like, has intrinsic value, actually. I mean, inner value. Not,
+
+[12:14] you know, decided by outsiders, but it's decided by, you know, self. And second one is bitcoin's use cases like in the global economy. It's talking about the usage or
+
+[12:40] use case or utility about something. What about his thoughts? Okay. Well, Bitcoin and the gold have no use use cases at all. Have no use actually actually at all.
+
+[13:30] And maybe it's coincident. Maybe it's not. Yeah. I think we can, you know, get deeper on that. And the third part is assets acting on monetary outflow reservoir. It's actually a Chinese concept. I can't find a a counterpart in English, but
+
+[13:55] or a similar concept, actually, in English, but not so precisely. So I use, like, the monetary overflow reservoir. I mean, like, you know, government gonna printing a lot of money. So the money goes somewhere. So it either goes real estate, house, goes to land,
+
+[14:18] farms, goes to the stock market, or it goes to, like, gold. Right? Gold arriving very hardy to this year. And, yeah, could be goes to Bitcoin and Ethereum. Right? So that's what I'm talking about. I'll explain a little bit. Yeah. I'm gonna spend a little bit, like, in Mandarin. It it means like to
+
+[14:53] rather like to have a poll to receiving all the money, government printing actually. I'm
+
+[16:02] like, if you're printing a lot of money and if the money go doesn't go in somewhere, by somewhere, Bitcoin is a strong market, real estate, etcetera, etcetera. If money down doesn't go that area, money goes to, like, daily using commodity. Right? If money goes to daily using commodity because money, the sum the
+
+[16:30] sum of the money circulating is add some kind of historical assumptions. You can view it as a, you know, some status, some you can view it a little bit as just like that. The the the the total, the whole
+
+[16:53] circulating. So if it goes to, like, daily using commodity, like the cup, this cup or water, the the price, the CPI, what I'm talking about, the price of the water and the price of the cup was goes up, like, mechanism or majorly. Yeah. Like, a lot.
+
+[17:23] You know, what I'm about to talk about yeah. I can play some video now. And I gonna explain that video later, like, Mandarin. You know? Rob Poise. I got familiar with Charlie Munger or Warren Buffet. Okay. I think maybe just play Warren Buffett.
+
+[18:03] Must be or will be good. At one point this weekend, you said that Bitcoin and this was based you were asked Charlie said, bit points like rat poison. You were asked about that comment, and you said, well, it's probably more like, rat poison squared. Charlie went on in the meeting to then basically call Bitcoin turds.
+
+[18:28] He he is an expressive sort. Maybe when he gets a little older, he'll immature. I just wanna ask you about that because it sparks so much controversy and, particularly on Twitter and some of the places where you might expect people who are trading in in cryptocurrency, to be pretty, loud about what they heard. What what is it about Bitcoin that gets you guys so fired up? Well, when you buy a farm,
+
+[18:56] you look at the crop every year and and what prices are, and you decide whether it was satisfactory investment. I mean, you you look to the asset itself and what it produces for you. When we buy a business, we look at what the business burns and decide how we feel about it in terms of what we paid. But we are buying something that at the end of the period, we not only have what we bought in the first place, but we have something that the asset produced.
+
+[19:19] And when you buy nonproductive assets, all you're counting on is whether the next person is going to pay you more because they're even more excited about another next person coming along. But the the asset itself is creating nothing. Oh, one of the interesting things, for example, is gold. If you go back to the time of Christ and you look at how many hours we had to give up in order to buy an ounce of gold and you take it forward to now, you'll you'll find the compound, right, maybe a tenth or two tenths of 1%, you know, and and then you have to insure it during that time and make sure, you know, somebody doesn't steal it from you and everything. But it doesn't produce anything.
+
+[19:59] And productive assets, you may have you didn't pay too much for a productive asset. But I bought a farm in the nineteen eighties, and and every year, look at how much it produced the way soybeans and corn. And at the end of that period, I've still got the farm, and I've gotten some significant income. Cool. I think it just make my point here.
+
+[20:23] So let go back a little bit. Yeah. So so we're just I actually, think Warren Buffett already explained, like, what is intrinsic value is or what what is like what is like protective
+
+[20:48] asset, so called protective asset is. It's like, give you example of farm, give you example of goat. Right? So I gotta translate that in in Chinese. Soybeans and the corns. Soybeans soybeans is
+
+[21:32] I guess. And corn corn. Etcetera, etcetera. Having an interest of value productive
+
+[22:06] asset. Okay. Here. I gotta speak English all over. It's so what I
+
+[22:28] view as Bitcoin as a rat poison rat poison. And oh, I have to explain a little bit, like, in Mandarin about the gold. Sorry. Okay.
+
+[23:10] So I'm gonna give a little bit exploring like in gold. Gold is like, okay, this is a big chunk of like gold here. So you put it here. And ten years later, yeah, it's a big chunk of gold. Like like this, unlike like like it right now, and I thought it it not producing like soybeans or corns or anything or speakers. It produce nothing. Literally nothing. And
+
+[23:35] or some or maybe missing some big gold because, you know, so something like that. So that's what we call unproductive asset is. And what he Warren Puffet talk about Bitcoin is like rat poison square, like, double the time of rat poison. Actually, I like that that comment actually a lot. I I should, like, play it. Yeah. This one.
+
+[24:05] I should plate. I like it a lot. About five years ago, we asked Charlie Munger. We were sitting right there what he thought of Bitcoin, and he said, rat poison. Back then, it was about a 100 plus dollars per Bitcoin. Today, it's 9,000. Is it still rat poison? Well, probably rat poison squared. About five years ago Oh, sorry. Yeah. I love this.
+
+[24:30] You know? So rapport is squares means like, I I I cannot speak that in Mandarin. Square. So so what what do we like interpret this rat poison?
+
+[24:54] Okay. So in one point of view, it's like what we call productive asset, like this one. Like the first is is public sphere. Right? And it's it's what Warren Buffett core like productive asset. Right? Because we can't, like, charge you guys, like, for
+
+[25:17] renting our, like, in the workspaces, like the tables. Right? We can charge you some coffee, water, or coffees. We can charge you guys being clear. Right? And, yeah, we can charge you a lot using this kind of asset. Right? So the truth is we are losing money every day, actually.
+
+[25:43] So this so called productive asset because you're losing money. I'm gonna speak that a little bit like in Mandarin. The the the working spaces, like the tables you're sitting on. Okay. So we can sell like
+
+[26:19] Coffee? Anything. Yeah. I'm like, we can't sell anything. But it's actually loading money every day. Why? You're calling something loading money every day, productive asset. And if you put the same amount of money, like, using here, like, two or we start here, like, two or three years ago. If we put the same amount of money, like, two or three years ago in Bitcoin,
+
+[26:47] it is going up, definitely, like, going up and off, up and up and up, I mean, a lot. So so why go so why you call something causing you loading money every day? Protect your asset. And then you call something like up and up and making a lot of money, and and
+
+[27:09] I have a culture behind it, and I have community behind it, and you call that is a rat poison. I don't understand, actually. It's like a a protective asset. Bitcoin. Square.
+
+[27:34] Okay. I I I don't think it's fair to to say about that. Bitcoin have a whole backup, like, culture, like like, you
+
+[27:58] know, monetary economy things after back it up. And and a committee, who whom committee of becoming committee actually has been like fifteen years. Fifteen years. Fifteen years. Yeah. Cool. So so what it's unfair to call something losing money like productive and it cost something actually making a lot of money
+
+[28:22] as you call it rat poison. Right? So we have to like demystify on that kind of definition.
+
+[28:45] I mean, so that's what I mean by that. He said that gold and Bitcoin didn't generate or product anything. It's actually not true. If you know something about economy and
+
+[29:09] finance, for example, like gold ETF gold ETF, it generates a massive, massive trust me, like, massive massive manager fee or management fee because, like, the code ATF actually have maybe forty four o forty years old history, and you have a very massive
+
+[29:33] market. And in the financial space, it generates a massive management fee. So why management fee is not something outcome from that asset? Why not? I don't understand. So I'm speak that in Mandarin a little bit. I I have to explain a little bit, like, what is Bitcoin?
+
+[30:01] What is gold? You have sorry. It's actually you can buy it online and somebody keep it for you and then you can buy this like in the exchanges. It's called like exchange blah blah blah something. Okay. I can't remember the whole ETF. Do you know the is ETF stand for?
+
+[30:25] The okay. You you can check check out for me. Thank you. So, yeah, you can you can buy it online, and as some company or faculty or government is key form for you, and and you can buy it. Use maybe SD. What? Fund. Oh, cool. Exchange traded fund. Oh, cool. So yeah. Exchange
+
+[30:52] traded fund. Actually, last time, I also that somebody help with me. Help me with that, but I I can't remember. Maybe you you better next time being here. So yeah. It's called that exchange traded fund. Cool. Yeah. And it keep by it's, like, backed by the exchange. I mean, the company, and this exchange is actually supervised by the government, actually. Right? So
+
+[31:23] I think trillions trillions like in English. Trillions, how to translate that in trillions? I think it's common sense or common sense like in financial
+
+[32:26] Okay. Also, like, the gold the gold generates a lot of trading fee. By trading fee, I'm like, a lot of these changes, actually, you can trade in spot and the future, like, within form of gold. Because gold, I've done every day, and you can trade it, and it generates a massive,
+
+[32:51] massive, trust me, massive, massive trading fee. Okay? You can pick pick a bet on that. Put a bet on that. So it generates
+
+[33:28] a product, you know, management fee. Right? And it product trading fee. Right? How sir, the gold actually generates a lot of, like, security votes. By by I mean, like security vault, I mean, it's you if you wanna keep the gold somewhere,
+
+[33:53] you have to have, you know, particular. Right? You know, paper around it. And you have to have maybe a troop, maybe some placement nearby. And you have to have some facility like holding that. You have to have some, you know, instrument to keeping that.
+
+[34:16] It's very expensive. Sorry. It's very expensive. I make the the treasury vote or gold vote. Right? So it generates a lot of money using to keeping the gold. Right? So it's generate something. It's generally the the vault
+
+[34:40] fee. The the the the party card the the the the placement, you know, or truth like guarding it. And it's yeah. It's generally the instrument and generally the facility. Right? Yeah. Recently, like, Singapore,
+
+[35:06] like, some, you know, pitch big whale. I make a mail very rich, like, by our, you know, gold vote for, like, 100 bill 100 meeting, I I I remember, or 200 meetings, something like in syncopal. Just happened like like recently, like two or three months before. I don't know if you got got what I mean. It's very expensive. It generated.
+
+[35:32] So it didn't or it product that kind of phase. Didn't product. It's it's not like Warren Buffett said it didn't product anything. It product that. And sir
+
+[36:00] and the first is like, it generates a lot of, you know, go rush. Remember the go rush like happening like in American, I think maybe fifteen years before. So it generates a lot of gold rush. I think gold rush in California.
+
+[36:23] Right? Or gold rush in something someplace else. And I think, you know, traveling some films actually is about that. So it generates a lot of coal rush. Those coal rush need instrument. Those coal rush need factory. Those coal rush needs workers. Right? And it generates a lot of go to rush. And it's also generate now
+
+[36:49] like in Africa. Actually, I think it's like in my own eyes because I unfortunately, like being cheated to South Africa to buy some gold mine and and losing a lot of money. So it generates something. It generates the the money losing I have. So I'm like the the the economic activity.
+
+[37:30] Etcetera, etcetera. I'm like, fuck. We'll have to pay attention or focusing here is like, this asset gold, yes, is different from this kind of asset real estate.
+
+[37:53] I think it produced something, but it's not something like this one is not producing. This one producing is not business, actually. Financial business or oh, no. No. Business. Business. Yeah. But the gold are produced some kind of I gave, like, four example. Right? Four area it can generate. It's actually generate
+
+[38:17] here is, like, economic activity. Do you get it? For example, like, a manager fee is economic activity. Because you have that kind of activity, so you have to offer some fee. And it's consumed by you. Right? You wanna buy gold online. Sorry. So there is free charging, actually. And I want to trading gold as well and as future,
+
+[38:43] like general. And charging you for, you know, the trading fee. Right? And you want to keep it. So we're charging the keeping phase. So you want to find it, so charge the funny thing. So so you can see that this asset is not that good. It's not that good, but it generates phase. Yeah. That's our point. You're seeking gold.
+
+[40:06] I actually, myself and my with my partners actually digging I mean, a real digging digging some gold, actually, back to South Part Of Africa, actually. Yeah. I generated a lot of, like, instrument fan and a working fan, actually, a lot. And and I'm losing a lot of money. I mean, trust me. I I I know that. Okay. So I mean, this kind of productive
+
+[40:48] asset is actually generate some kind of economic activity. And economic activity actually matters. I don't know how to explain that. Right? Because economic activities matters. Why it matter? Because it's it's causing some kind of demand,
+
+[41:13] financial demand, economic demand. If there is a economic activity, it causes or generate demand. But it's different kind of demand with this one, real estate. And it cost little bit different from commodity. Comma by commodity, I what I mean is like
+
+[41:38] soybean, corn, or like silver, I guess, That kind of demand. It's different. I like those demand or soybean. Right? Soybean. Like, those kind of demand is actually a demand by industry. For for example, like soy sweet, it's demanded by the agriculture.
+
+[42:03] Foods industry or it's demanded by consumption. Consume, it's demanded by consume. That kind of commodity. So I mean, that kind of commodity or that kind of asset or generate generate
+
+[42:27] this kind of economic demand or activity is like consumption, consume or food industry, that kind of demand. But gold stay totally different.
+
+[43:11] Gold is totally different is because, like, it's did did not generate industrial, like, demand. And by by that, yeah, I know that does some gold be using in, like, industrial demand, like technology, for example, like, computer contains some gold, but it's very quite few.
+
+[43:35] And and and you don't have to mention that. So or taking it seriously. And another stuff is Cool.
+
+[44:02] Actually, it's mine. Sorry. It's okay. Yeah. Something about yeah. Yeah. Yeah. It's already in the whole time, and it's annoying. Sorry about that. Anna, and I check a little bit about time. Yeah. Cool. So
+
+[44:41] what's that related to monetary or what's that to relate to money? Or Bitcoin? It's like actually, Bitcoin is some kind of gold. And
+
+[45:11] and if some anything like gold, like Bitcoin generated this kind of interest value like human economic demand or human economic activity, so it will have some value or interest of value behind it. If anything like having that kind of value behind it,
+
+[45:36] it can be used as money. That's the whole point. Stock. Yeah.
+
+[46:02] Taking Warren Buffett as example. Okay.
+
+[46:33] So we're using another example to try to make the point here. It's a lot of things if you have interest of value. It will be it can be and will be using as a form some form of money or some form of currency, for example, like stock. Remember, if you have a brochures brochure has always stock like
+
+[46:56] as a donation for Pick n's fund foundation. Right? So normally, you're using this kind of stuff, doing those kind of activity, economic activity using currency. Right? USD, US dollar to do the donation. But what he actually using is stock.
+
+[47:19] His company's stock. So that's one good example. Another good example is like okay. Oh, not nothing raining. Cool. And another another good example, I think it's like Russian the Russian government actually selling their
+
+[47:47] selling their oil for gold. Right? You can check, like, actually online. Right? So gold has some interesting interesting value. And so people are using that to selling their oil when they need money for the world. Right? Because they try to invade Ukraine.
+
+[48:10] So something like that. Or Bitcoin. Actually, they are also because they are expelled from, like, USD,
+
+[48:34] SWIFT, the whole USD system, they are expelled. And also, the Europeans are forbidden they're using their currency. So the problem they have the problem. And they also like selling the audio like in the form of RMB, but you can't buy an RMB like anything. So mean, you can't use an RMB to buy everything. So you because they have to charge some Bitcoin and they have to charge some gold. That's the reason. It's very simple
+
+[49:02] and clear. So that's a whole point. If you have anything like have the interest value or if generate or product any
+
+[49:26] human being activity Actually, even if it is not human being economic activity, it can generate intrinsic value or product interest value because I'm using that. I'm wondering. Art gallery,
+
+[49:52] right? It's actually not purely economic activity. Painting,
+
+[50:31] the oil painting, for example, like, if you the oil painting, if you're painting it is also some kind of a human activity. It is a have human activity, it generates some kind of interest value on that painting. Behind that painting is art is something like who value it, like who wants own it or who want collect it or like. Right? So who want keep it? That's the whole point.
+
+[51:21] Okay. Not important. Yes. Our doctoring of economic theory, Austrian School. Yeah. Yeah. Yeah. Something related. Okay. Anyway, I'm like,
+
+[51:44] one of my friend, good friends like doctor Dragon, he commented on my the whole monetary theory as, like, Austrian school type of vision or views. Austrian school. Austrian school. Cool. Yeah. Yeah. A little bit about that, but maybe I, you know, I going a little bit further because Austrian school like viewing,
+
+[52:13] like, commodity commodity as money. Anything is community is money for them. But for me, it's not. It's not not a busy, like, sort of area of commodity. Also, our work, I think is your money also. It's like everything is money. If it's have some kind of value, or it's valued by somebody, it's money.
+
+[52:38] That's my view. I mean, like, expansion. So there is a long tail of assets or community
+
+[53:24] are using as money. For example, the first one is USD, dollars. Right? It's generated by US government. The second are using as money is gold. Third, maybe RMB, RMB, yuan. Right? And etcetera, etcetera, etcetera, etcetera. And the following, like like, the far from there, like, USD to you're just repeating that kind of money.
+
+[53:54] Because that kind of money you're printing is actually rarely use as money because nobody accept it. Except your mom maybe. You maybe your mom will view that painting like valuably and want to exchange you or something. Anyway, so so I'm like, so that's a whole whole long tail, you know, of
+
+[54:16] common common commodity or things using as money, very long tail from the USD. So
+
+[55:05] So that's that's the whole point here. Okay. Yeah. That's the money part. And and and also I can show you the cases like
+
+[55:32] Bitcoin are using as money actually in some scenario, like some industries, some business, some circumstances. And like to, like, try to make a dialogue with Warren Buffett because he he's saying, okay, gold have no using, and Bitcoin have no using at all. I can show you, some usage. Maybe you don't like it, but, it's definitely very important.
+
+[56:00] Understand. Politically, I'm not a very big fan of either the banks or Federal Reserve, and Bitcoin allows me to get around that. One of the programs we support is a protocol called TOR. And, basically, what TOR does is it allows you to communicate to a website anonymously. TOR is a program It's a very small percentage of the people that come in, but the people who do know about it specifically come here to use it.
+
+[58:55] What the customers do with the computers is pretty much their business. I'm that day in the office. If you're gonna do drug dealing of any sort, Silk Road is the place to go. How many people are selling cannabis right now? It looks like 2,011 people are selling can I probably been dealing drugs since I was, like, 17?
+
+[59:19] Right now, I'm 26. Oh, I think I have to explain a little bit in Mandarin. Sorry. Just enjoying this video. Actually so previous, like, that guy, I explained, like, how using, like oh, using Bitcoin to buy drugs. And this one is showing how to selling drugs using
+
+[59:44] I mean, previous to that guy is showing how to buy drugs using Bitcoin, and this guy are showing you how to sell drugs using Bitcoin. So, yeah, carry on. I think it's as a a global thing when I'm on the computer. I'm doing business with the world. Let's see. They have blue drinks, sour diesel, pineapple, Thai,
+
+[01:00:06] Purple Kush, Girl Scout cookies, Purple Pays. When I first heard about it, I was laughing about it. It took me a week to just even think about this for real. Like, I can really make money off of Internet selling this type of stuff from the Internet. You sure about that? Wait.
+
+[01:00:40] It's some kind of truck. It's
+
+[01:01:14] something I probably may buy right here. They have little, like, some good cush. Some of these things only take, like, a day to get here with no harassment from nobody instead of just being on the streets. Once you get the hang of it, it's actually kinda fun just looking through different things. Mister Bitcoin, I'm running with it. I like the name. You know what mean? I'm not gonna lie. I get booty off this. I kinda like talking about this stuff with girls. Like, girls like that shit hot. And, like, you're on your street, and you got a little nerd knowledge. This is great.
+
+[01:01:46] I have, like, a lot of Bitcoin saved up already. My business is doing good. It's a fun way of doing hustling these days. Like, the future bring a different way to hustle, and I like it. Cool. So this guy, he must be rich now. I mean, like, this document I got that mentor is actually back to ten years before. Ten or eleven or twelve years before. So you can you can check, like, the the computer and the instruments, he's using. Actually, it's very antique.
+
+[01:02:15] Right? So I'm like, if he's alive, I mean
+
+[01:02:44] yeah. But I'm not so sure. So if he's alive, he'd definitely be rich. Like, definitely, definitely. Yeah. He's our one of their earlier adopters, actually. I'm just yeah. This is one of the utility or one of their user cases actually here. I'll try to midpoint is midpoint is, like, Warren Buffett said, okay, Bitcoin's a rubbish. Bitcoin's like
+
+[01:03:10] rat poison square something. You know, they have no use at all. They didn't put out anything. It didn't generate anything. No. It generates something. Right? Definitely, it generate something. It generate a whole not a whole, but a part of, like, the drug industry. Right? So and Actually, Sick Road, not just, you know, the drug industry, actually. There is a killing industry also because it's too brutal, so
+
+[01:04:01] it didn't be showing here, but I can paint a picture for you. It's like you can actually buy using Bitcoin, like buy somebody's life, creating livestream for you and use Bitcoin to buy that. It's very brutal. I'm I'm not prove I'm not, like, support that part at all. It's just I'm saying that
+
+[01:04:25] just it's in a so called killer industry. You have some kind of usage in not good. I don't know about live show
+
+[01:04:54] streamline just like this one. Yeah. Okay. So Darknet, like a majority like Darknet actually using it. And and a sense for, you know, like now, we're using it actually as some
+
+[01:05:17] method of value store, store of value. What I mean by that is because, like, some crowd actually like, keeping or holding Bitcoin actually, adding their, like, retirement bond or something like something like that. Or just try just try to make a point like it's actually been using somewhere.
+
+[01:05:41] And something bad industry, you know, something actually good industry. For example, like retire retirement or retirement management stuff. And also, like, in the oil trade, because, like, USA forbid Russian using
+
+[01:06:04] their currency, and it's forbid, like, Iran using their currency. So we'll have to buy way. By way means like China, China have used Bitcoin and and gold to buy the oil from Iran and from Russian. So it can be used like in this kind of things too. And I and I you can check actually this usage, like, I'm I'm not gonna give you more example. I'm what what I'm trying
+
+[01:06:34] to make a point here oh, I I should say something like in Mandarin. Sorry. Exchange of media. I mean, medium
+
+[01:07:28] medium of exchange. Or instrument instrument of exchange. Anything can be using as that. Yeah. A lot of people are actually saying that, okay. Bitcoin why why Bitcoin is Bitcoin or why Bitcoin is money? Because I can have some
+
+[01:07:59] usage of a value, store of value, value store, storing something like that. Okay. But the previous of money storing is like, you know, this kind of money if you are keeping it some time, you can exchange for some commodity you're daily using. Right? That's the whole point. So
+
+[01:08:21] you have to be like can be like some measure of exchange. That's the whole point. Of course, like the gold and the Bitcoin has mainly
+
+[01:09:22] measure for, like, countries, institutions, companies, and individuals like us, some form of of value storing stuff. Of course, I I I I demand that, like, gold and Bitcoin. But we we don't have we have to not forgot, like, that is a very big assumption or
+
+[01:09:46] certainty, like, two or thirty years later, like, China can use gold, Bitcoin to exchange for some strategy commodity, like like a world stuff. Right? So that's sort of whole point. Okay. I think I can I'm making myself clear, and we can carry on. And the third part is is about in the money printing. Actually, I can I think I can finish, like, quickly? And later,
+
+[01:10:14] like, we we just play the documentary. He here, I just show you and we can view the whole documentary and I can get some relief a little bit. And but but now I I gonna explain to you, like, in five or five or six minutes about about what's this so called assets acting as a monetary offer reservoir inflation employment rate. Okay. Here. It's like
+
+[01:11:04] Actually, it's very simple. Like, the government or, you know, the whole government's policy using money is like they are using it doing something. For example, they are using it during the war. Right? Russian use their money to pay the army to initiate a war, a war towards
+
+[01:11:28] Ukraine, invade Ukraine. Right? So that's and, you know, you're at US USA, US state are American, like, using their dollar to pay the bill for the army of American to invade Iran, Iraq. Yeah. They they invade a lot of countries and and I'm not and recently, I guess, maybe Trump want to invade
+
+[01:11:57] some some South Africa South Africa South American country called Nigeria. But but but some kind of oh, cool. Actually, I think maybe yeah. I I want to yeah. That's a interactive
+
+[01:12:22] part, actually. You can actually, yeah. I did not study deeply, but looking at the posts on social media. So like the US army attacked some military camps in Nigeria. So it's not like similar to invasion,
+
+[01:12:44] but yeah, like an army attack on military camps. Oh, cool. Yeah. So that's the point. So they are printing money to pay their bills, like, to to do some mess stuff to for those countries. So you can you can see that. And those money actually, if you want to rising
+
+[01:13:06] the tax to doing that, you know, the voters not agree. Right? Because it's come out to you evasion or it's like, it's not so noble. Noble noble like stuff. You know? I mean, so it's hard to reading text or it's hard to collect text to doing the war stuff. Right? And or or maybe somebody invade you, you can do in the text stuff because
+
+[01:13:39] either the voters, you know, they pay for for example, like, people like in United States, America. If they see it and it's like paying the tax to doing the invading stuff, they maybe not about not so fond of that. But if they are invaded by other country, for example, like China, China invade American and the citizen, yeah, I think they definitely want to pay some tax and to to do some commemoratory stuff against China. That's the whole point.
+
+[01:14:48] So that's one thing. And I don't think that you're pretty mad is like, you are want to the government will have to provide some kind of public service. By mean that is like museum, library, college. Right? And some bottom support for the for the, like,
+
+[01:15:14] not so not so winning people, like, in the market. By not so winning people, I make like like the people are not in a good economic conditions. Right? And to support that, that's what we call it like public service. So but if you want to collect tax on that,
+
+[01:15:37] people like Trump, we are against that. People people like Trump, he said, okay. Average guy. I don't like tax. If you want to take any tax from me, go away or I just I just elected as a president and and and and and lower the tax and for the public service. Right?
+
+[01:16:00] I can explain in Mandarin a little bit. 20%.
+
+[01:16:34] Okay. I'm like, this public service part is actually our major part of national project. For example, Americans, Europeans, etcetera, etcetera. Yeah. I'm I'm not allowed to speak blah blah blah, but etcetera, etcetera. Okay. So
+
+[01:17:01] But those money is hard to collect from the guy for rich and her influences. Right? So people like Trump, they're against it. Yeah. So you can't collect money, tax money. So how to do that? Printing money. Right? The the Trump printing money. Previously, it's like the old guy or what is that old guy name? Like,
+
+[01:17:28] Trump previously is Biden. Yeah. Biden are printing money. Right? So they are printing money to wars and public service. So third part is what we need to printing the money is like you have to provide some kind of economic
+
+[01:17:54] employment rate. You have to keep certain employment rate or they are riot or people on the street like robbing and against the government. I mean, by employment rate, if the have we have a very lower employment trade rate employment rate, people are on the street and and they are robbery literally like any store if
+
+[01:18:22] they can't make them survive surviving, you know, situation. I mean, that is like, okay. Capitalism, I don't know. Yes. Capitalism is are so far are a way of, like, you know, social resources allocation method. Yeah. So far, it's a good way of
+
+[01:18:48] social resources allocation. But I mean, that is like, yes, the market competition is actually good stuff is because, like, people are losing and people are winning, like, in this system. And a company are losing and a company winning like in this system. And like, governments actually winning and losing like in this system is whole kind of computation and is for the past allocation of social
+
+[01:19:15] resources. Right? So and it's some kind of controlling by the price defined stuff. And I don't have so much time to explain that because I wanted to play the documentary. But what I want to say here is like like this whole system of capitalism is defined by the market compete competition.
+
+[01:19:40] And market competition generate the efficiency for the human society resources allocation. If you're waiting, it'll gonna allocate a lot, like company, like individuals, like government. Right? So for example, like Chinese government are winning, so it'll be a lot allocate a lot of social capital or social
+
+[01:20:04] resources. That's the point. And and a company too, right, the the the Tesla Tesla. Right? It is winning, so it's being located a lot of, you know, human society resources. Yeah. It's a fair. It's relatively fair game here, but it will generate a lot of
+
+[01:20:28] not so good at this game. I mean, like, loading this game. Like, people are, you know, not so good situations. Right? And we have to keep people in these circumstances, these scenarios, gives these some kind of jobs. Right? So that's what I'm talking about, employment rate.
+
+[01:20:53] By doing those kind of jobs, it's governments have different ways to do that. For example, like China, they are printing money to invest on the basic infrastructures like bridges, like railways, like airplanes, like blah blah blah blah, etcetera,
+
+[01:21:16] etcetera, not blah blah blah. Okay. And yeah, I I need to explain the in Mandarin. Yeah. Market competition. Elon Musk,
+
+[01:21:50] he's winning. Power. Right? So that's the point. But it would generate some people. Not important.
+
+[01:22:34] Of course. Income. Self sufficient. Right? Because they have the dignity to be a human being. Like, I make all those people, they are needed being have some kind of job, make some income, and have a living. Right?
+
+[01:23:02] Otherwise, they they gonna in the the street. So we have to, you know, support them. The whole point of support them is actually part of and a major part of like public service. But it's very hard but but it's very hard like to using tax to do that because some rich guy maybe think, okay, you're robbing me too for those so called poor guys.
+
+[01:23:29] I've used Mandarin to explain that. Monetary
+
+[01:23:58] policy here. So this is a a third reason like why government need to print money because his card collects the tax for that too. And and by mean, this employment rate is much deeper and much complicated is because, like, you can't give the people
+
+[01:24:22] income directly. Every government
+
+[01:24:45] actually have some kind of employment policy to doing that because it's very hard. You can't give money directly because they don't fake dignified on that. And you can't, like, let them to do nothing for money and they will feel like very I mean, not have some kind of dignity.
+
+[01:25:08] So it's a very delicate, you know, solution for that. And about what I mean by that is like you have to make some kind of money printing on that too. And it's and make some, like, self sufficient. So that's the whole point. So you have to make so the whole story I wanna give in here is like the government, how to printing some money.
+
+[01:25:33] So we got all those, like, money. So those money if those money are going to daily commodity like this one, you know, ordinary people like us gonna be
+
+[01:25:56] fucked up. Right? Because we need a glasses cup to, like, drinking water. If these are causing, like, I don't know, maybe $10.10 bitcoin. Yeah. I I have no cup to using. Right? So that's the whole point. I mean, money cannot goes to this. Yeah. The the government printing a lot of money and money have to some find somewhere it goes. And if it goes to this cup,
+
+[01:26:24] like, I have to buy it, use 10 bitcoin. Yeah. I'm gonna I'm gonna have no cap to use at all. That's the whole point. So it kinda goes to the regular daily basis using commodity like CPI stuff. What is CPI is contain? Contain is contain like a rent. Right? You have to have something somewhere to living, rent. And you have some have something to eat, food. Right? You have to some something to use
+
+[01:26:54] like like this, like data using. That's the whole point of c p CPS. Yeah. I can explain like in Mandarin. Actually, I think I'm I spent a little bit longer time. Okay. So still on time. Okay. So social conflict.
+
+[01:28:08] Alright. Those kind of money, for example, like before China's houses or apartments actually being used as some kind of monetary overflow reservoir, that kind of instrument. So it's like Japan Japan, like the house or the price of house are, like, going, like,
+
+[01:28:33] extremely high. And people people have no places to live and no place to rent and no place to so they are caused a lot of social conflict, you know, during within the society. So it's not it's not a good choice, like, if money goes to houses. And
+
+[01:28:57] and also, it's not very good, like, go to the store market. If it go to store market, it goes pump and dump. Right? And if it goes, like, much severe pump and dump, they will cause some some delicate little bitters, like, bankrupt. What I mean by that is like the stock market roll
+
+[01:29:23] and goes extremely high and then takes a cliff and a bit dumped. And behind each of the stock market, it have a company behind it. Right? And those companies, if they are stock worthless, of course, it not gonna affect the cash flow of their business. But if some little business have bad decades,
+
+[01:29:50] very small cash flow, maybe they need some kind of fundraising using their stock. They are gonna be like, you know, very bad situation. That's what I mean by that. If it is good stock market, it also cause some damage, like, in the real economy, like, the store's more small business. That's what I mean by that.
+
+[01:30:14] So where it goes to, I think the best way is gold and the Bitcoin. To me, it's act I think the best way is like a Bitcoin. The whole point is here. And, yeah, I can explain that in Mandarin here now. That's a point. Okay.
+
+[01:31:07] So so so I think those money need to go it's better, like, go to gold and Bitcoin. Why? Because gold and Bitcoin are are not necessities. It's not using by your daily. Right? You are you are not a rich guy like you like using gold like daily, like like using a toilet like as
+
+[01:31:31] like like Trump. Right? Yeah. No. You're not using like the the goat. Yeah. Yeah. Yeah. Use goat chopsticks. You're not it's not necessities. I'm like, it's not like you didn't use. And and if it goes to the pump and a drop, it didn't hurt anything. Right? And a Bitcoin also, like, it goes like, yeah, maybe some holders are happy. I'm hope I'm I'm happy too.
+
+[01:31:58] But if it don't, yeah, it's just somebody are not so happy, but it don't affect your daily life. Right? So that's the best so called monetary overall reservoir. Okay. I think I'm gonna make my point here. So so and to me, the best version of gold is Bitcoin. You know, if you guys are interested, maybe I can explain, like, next week. But this week, I just wanna take a rest and play some doc documentary. And these courses are
+
+[01:32:32] are are finished. Hello. I am done. Yeah. And and I'm gonna play the documentary. End of stream. Yeah. But we we still have the documentary playing here.
+
+[01:32:57] I love this like
