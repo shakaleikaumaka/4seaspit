@@ -1,0 +1,205 @@
+# ETH Chiang Mai Opening Ceremony at CMU
+
+Date: 
+Source video: ETH Chiang Mai Opening Ceremony at CMU
+Drive: https://drive.google.com/file/d/1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb/view
+Duration: 02:24:30
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Okay. Thank you. Thank you, everyone. Welcome to East Chiang Mai Hyperson. To officially kicking off, we are honored to invite Kun Kun Durya as our special speaker to deliver the opening remarks.
+
+[00:25] Please join me in welcoming Quinn Duraya. Good afternoon,
+
+[00:55] everyone, and welcome to the Ethereum Chiang Mai hackathon. We are excited to have so many creative minds and innovator gathered here today at Uniserve TMU. Over the next seven days, this space will be full of idea framework, learning, and maybe a little bit of chaos. So sorry. So many events at
+
+[01:18] the moment at our Uniserve. And that's exactly how innovation happens. This hackathon isn't just about winning. It's about experimenting, collaborating, and turning ideas into the real solution. So take risks, help each other, ask questions, and most importantly, have fun. We can wait to see what you create.
+
+[01:42] Once again, welcome and let the hackathon begin. Thank you. Thank you, Duraya. Next, we are honored to welcome Zik,
+
+[02:07] the core contributor of four seas at East Chiang Mai to deliver his opening speak to us. Please welcome Zig. Hello. Welcome. I'm Zeke from Fosys and the main organizer of ECMI.
+
+[02:33] And welcome everyone come to CMU. And I think the Uniserve provided the amazing venue to us. As for this community, we we stated in start our projects two and a half a year ago. We we
+
+[02:57] located in Chiang Mai. During these two years, we we connect a lot of global talents and digital nomads and, like, user user users. We found that for as a as a how to say, user user contributor,
+
+[03:20] It's quite easy to attract the same kind of people, but it's quite harder to connect the local local people. So, that's why we want to have more connection, more deep connection with c m CMU and also all the local other communities and the local builders. And that's also we
+
+[03:43] at the beginning, we only have four pan themes. But after some discussion, we add a localism. This as a very important theme for this hackathon. We want to we want to try to through this hackathon to try to attract some people, they really
+
+[04:06] care about the local issues and try to use our technology to try to find some measure or some way to make the local issues better, local society better. Yeah. That's that's what I wanna share. Thank you. Thank you very much, Dick.
+
+[04:38] Now we have a special guest. We are extremely honored to have Thomas k Stanchak to join us today. He is the co director at is Iserum Foundation who will be sharing his thoughts on Iserum and the local community. So Tom Tomas did have a
+
+[05:09] a parcel that he was waiting to get, so I told him to not worry. So I might maybe I'll oh, he's here. Yay, buddy. Welcome, Tomasz. We'll bring him up on stage. Hi, everyone. Okay. I guess everyone can hear me. Give me one second. I can hear some music somehow.
+
+[05:32] Okay. Right. Good to go? Hello? You can go whenever you're ready, Tomasz. Alright.
+
+[06:00] Okay. So I I'm not sure if you can see the slides. So I'd like to talk about Ethereum years ahead. This is much simplified version of something that we've discussed internally at the Iterium Foundation yesterday at a town hall. We're talking about 2026 and beyond. Great to talk to everyone there in Chiang Mai. Unfortunately, I cannot I cannot see the crowd, but I've seen some glimpses of it when when Shaka was preparing things. So I see that's
+
+[06:33] lots of great people. And I I regret I cannot be there in person. I had a massive pleasure to visit Chiang Mai. It was, well, almost two years ago now, I think, at the before before DEFCON, Bangkok. It's a beautiful city with lots of energy, and I'm happy that there is a continuation of what was starting around that time.
+
+[06:59] So I I think that you're talking a lot about Cypherpunk, about making Ethereum Cypherpunk again. And this year, Vitalik posted a lot of tweets that kind of guide the strategy, guides the vision for Ethereum, what matters, how we how we look at the achievements, maybe some of the not really failures, but something that we didn't manage yet to deliver or something that is consistently
+
+[07:27] made difficult by, by the governments, by the institutions, by, competing ideas. Still, we keep pushing forward, and, we don't change we don't change the the values for ourselves. We care about delivering for for people around the world, deliver the values of privacy, deliver open source solutions, ability to review everything that you use,
+
+[07:53] make sure that your participation, whether financial or in an expression, is censorship resistance resistance, and that we always play security of the chain in the first place. So you can dig deeper into some of those links. I think later we can share we can share the slides. Also, simply, you can go to Vitalik's Twitter and and read some of those posts. So we're talking about the relationship between institutions and Cypherbank.
+
+[08:21] We've been talking about self sovereignty, the decentralized social, which kind of suffers now with the changes to Lens and Forecaster, Continuation of technology and general walk away tests. So how Ethereum exists without institutions or, like, organizations like Ethereum Foundation consistently monitoring and upgrading technology. So can we at what stage can we ossify technology?
+
+[08:49] At what rate will be ossifying technology? And how do you react to changes like post quantum world if you if you cannot really introduce the upgrade? So and maybe also when you think about the balance, say, decentralization, resilience of the network, all of this has to be balanced between the the necessary upgrades and not pushing things too much in the direction of the short term gains or short term requirements.
+
+[09:19] What we've done recently was realization that for the last, last one or two years, there was a lean interim road map, and there was core development effort with its, free, shorter term goals of the scaling scaling of one, scaling of two, and improving UX. So we thought it's very important to finally bring them together. And researchers
+
+[09:42] and engineers at the foundation got together to bring the lean road map and the core development road map ideas and construct a proposal that we'll be able to present in the next months and also present to all core devs of something that foundation suggests to to coordinate the proposals that were well reviewed by the leading researchers and engineers at the EF.
+
+[10:06] So we'll be very excited to present it soon, and I think it will be defining this protocol technology heavy part of the of the future. But everything that's built on top, obviously, will be defined by you. So that road map, it's thinking about one, three, five years of Ethereum combining lean and core, making sure that research and engineering are collaborating, and also specifying how
+
+[10:30] how the Ethereum foundation protocol team itself is splitting the roles between different sub teams. So architecture, the track leads that stick the short term focus areas, the cluster leads that manage the almost 100 people of protocol researchers and engineers, and the team leads that are managing more or, like, leading the more focused areas to deliver
+
+[10:55] all the coordination and research that foundation is working on. When you think about having space to build on what is exciting when you look at the fees that Ethereum l one nowadays, they go below 1¢ per transfer transaction. So it's a it's amazing time to to build on Ethereum mainnet. It's also amazing time to explore l twos that go even even more crazy with scaling. When you look at Grow the Pie,
+
+[11:22] this is the website that tracks the the entire like, the throughput of the network, the activity on the network. You see the numbers that are consistently growing and smash all the past records. So we have the most, transaction activity on l one. We have the highest DPS ever, and it's probably, like, 10 times or 20 times higher than than it was in the past after last year.
+
+[11:46] You've seen some experiments like like Mega Eve that's that go for crazy scaling. We see lighter that uses z k z k for sending sending data to to l one and goes to crazy per deck scaling. But l one itself scales, and it's, at the moment, at the stage of around post for Saka, and we will prepare more scaling efforts for beginning of this year. So now it's it's being monitored,
+
+[12:15] to introduce changes also to Amsterdam and and later. So the l one can always promise the scaling for for all the settlement of the l twos and for all your experiments. I think that's special specifically for for this year, there's a lots of excitement about vibe coding. After December, everyone started experimenting with cloud code. There is cloud bot.
+
+[12:38] So there's lots of opportunities to start building tooling and, scripts and ideas for connecting Ethereum with the AI experiments. So I think it's just around the corner, and many of you probably already experimented, and I'll go even further with all of this. Coming back to post quantum, why we talked about post quantum more now? It's to calm down everyone who asks questions about quantum security of Ethereum. We want to show all that path for the last five
+
+[13:07] five years or so when we talked about how Ethereum will be post quantum secure, what kind of research we need, what kind of steps we need. So I thought we have to communicate when people are asking those questions actively, when there is uncertainty. Even as we know that we have a very, very robust road map and the timeline is safe, it's still sometimes the communication to calm down everyone who is confused about technology requirements and threats is important. So we started talking about it more, but truly for us, it's continuation.
+
+[13:40] It's continuously very much of a strategic focus. Here is an example of the last year meeting in Cambridge for all the top quantum researchers in the world that matched together to talk about the post quantum security of Ethereum that was organized by the by the EF research team. We
+
+[14:04] talk more and more about the culture, about talking to new generation, about playing with media, playing with new ways of expression, I guess, combining old media with AI ideas, coming back to experimentation with art and NFTs, now combining that further with the with the AI, with video. All of this exciting in the
+
+[14:28] in modern art museum Museum of Modern Art. In New York, I think there'll be crypto banks, but also around the world, people are creating digital art. And I think that's for sure the same thing happened in Chiang Mai, and that expressiveness of local art, local communities, is something that might start using also new new ways of,
+
+[14:53] embedding technology into Ethereum or building building tech and arts together on top of Ethereum. So very excited about that voice. If you if you look at some of the some of the Twitter posts from Ethereum Foundation, whether it's Emily or Bingy or or Louie, they show how to play and have fun with the with the new ways of creating videos, telling stories telling stories about Ethereum communities. So, actually, if some of you want to tell a story, your story with Ethereum or or your story on the edges of Ethereum, I think it would be great if you get in touch and tell us, we want to be part of this, want to tell the stories of of people in our our community.
+
+[15:35] We we talk about risk. This is this is further from Cypherpunk, but I I want to tell people that sometimes sometimes you think that you differ so much. We've heard from I mean, like, between institutions and the Cypherpunk world. We've heard some of the talks from Danny Ryan last year when he was saying, oh, wow. Why went to institutions? It seems that that we all want the same thing. We just use the different language. In the end, everybody wants to avoid risk. We call it trustless systems.
+
+[16:04] They call it low risk systems or risk hedging, risk removal. And I encourage the communities to understand, to to speak that language as well to be able to explain what we're building and get more support. Sometimes you fight for something and surprisingly, I think you fight against, but you can get allies. Many, many large organizations actually have lots of people that within these organizations
+
+[16:29] think about the future of the world and understand that these organizations might be disappearing, might be dissipating, and they predict the future. And they want to participate in it, they want to align the trajectory of those organizations to merge, merge into blockchains, into the future. It seems that this year starts pretty tough for founders. The money moves to AI entirely. They
+
+[16:52] the space is harder to hard to fundraise, maybe harder to show new new ideas. Twitter kind of moves away from the old style of crypto Twitter. But then on the other hand, you realize that you have this extremely new and exciting field where everyone starts experimenting more and more and more with agents, with AI. And, this is, like, a next difficulty level, but also next power level. So
+
+[17:20] it's as a global competition, as global challenges of the privacy pry challenges to privacy from AI. Soon, even if you don't disclose things, AI will be able to infer all the details about you from from the crumbs, from the bread crumbs that you leave as you're walking. And and then there's lots of questions of how to create a world that really cares about those values that we've been fighting for for many years. And I think many founders will start realizing that now they can express even more and faster, build faster.
+
+[17:52] What it means for for us at Ethereum Foundation, we start thinking about merging teams that are responsible for supporting founders and for helping developers to get on board with Ethereum. We realized that the developer becomes a founder, the founder becomes developer, that you vibe code without tech skills, that you upgrade your tech skills to to vibe code faster. So all of this seems super exciting. And in combination with the low low fees on Ethereum
+
+[18:21] at the moment, Ethereum may not and l two is even lower. You really can do a lot of experimentation. So, you know, I I remember 02/1617 when people were deploying on Ethereum and and playing it. We're so not limited by that play because because everything was cheap so they can deploy smart contracts, experiments. And now you have almost, like, the same situation.
+
+[18:46] And on top of it, you can do that with AI. You can learn ten, twenty, 100 times faster on how to deploy smart contracts, how to how to express what you want to tell, whether it's a story or it's a solution to a problem, whether it's a new new infrastructure for the world. And I think that this will be also a big part of DevCon in Mumbai. We'll start talking about vibing that future reality,
+
+[19:11] but with the very, very solid trust fundamentals of of Ethereum. And we'll be probably letting imagination flow to the future, to the years ahead. So I hope that many of you will visit India, Mumbai, a beautiful city. I have so much to to offer and so many stories to tell and that you would like to actually create your stories there and tell them for Ethereum.
+
+[19:35] So coming back to d AI, we have a team, decentralized AI team, that is led by David Dekrapis, and, I think he'll be exploring all of those novelties. We have ERC 8,004. We have x four zero two, so all the payment rails for for the agents. We have the reputation systems for agents. I think more standards will be appearing, and, also, we'll be talking about the security aspects of all of this.
+
+[20:01] ZK VM efforts. So many of you I know last year when I was visiting 2024, when I was visiting Chiang Mai, there were some fantastic research residencies to talk about ZK, to read about ZK papers, to sorry. To read ZK papers, to talk really about using ZK in your projects. And now I think that last
+
+[20:23] year, we've shown the massive, massive progression on the speed of proving and the integration of ideas. Now is this, like, last 20% is probably 80% of efforts to integrate the specs into the interim maintenance into full intro between l twos and l one. So all of this, we have published
+
+[20:45] pretty detailed road maps of what needs to be done, who has to put an effort to get it done. And I think that it all comes with massive surprise that it came so early, also a massive excitement of how much we can do on the scaling side through ZKVM. And if you read recent recent publications from Vitalik as well about scaling for computation, look into this, why ZKVM matters,
+
+[21:09] Paul, you many of you know. And, you know, Chiang Mai is not not here on the on the map because we talk about something that we started last year in Iturium everywhere, but I think Chiang Mai is kind of by default on this map always. Ethereum has been super strong in Chiang Mai as a hub in the last years after after pre DevCon
+
+[21:32] meetings. I remember there was, like, 10 or 12 pop up cities in 2024, and so many people talked about ideas of Ethereum on AI. And and I hope that you collaborate with the local communities to understand more or share lots of your experience on how to build the communities that did grow very naturally, that attract every
+
+[21:57] aspect of what's needed to to build sustainable community. So the researchers, engineers, builders, idea makers, thought leaders, people from other industries that can share what problems have to be solved, sponsors, the company builders, institutions, governments, everyone who wants to participate to to make the change happen.
+
+[22:19] We care about those physical spaces, and we want to support them through sharing and participating and building together. We do a lot of DeFi coordination this year, but we also try to understand how DeFi is changing. DeFi is changing towards hybrid. So between institutions and the traditional DeFi, we'll be allocating treasury probably faster this year from the EF to to support various DeFi bank projects.
+
+[22:45] So the projects that really care about non KYC, privacy oriented, noncustodial approach to DeFi, so the DeFi as we as we dreamt. And we also think that there is a bit of last space for for DGEN or maybe maybe just somehow got totally disconnected into its own world of memes. There is exploration with Lighter, Mega Eve, but also other l twos that give more space for the experimentation,
+
+[23:11] but also may not became super, super welcoming for this. So much will come from our coordinators, Charles, Joslyn, and Ivan, event GBI. So they they are now at the foundation since last month, and, we'll be able to help with coordination. Reach out to us if you if you need support as a d five project. K. There is, I think, I just lost minute or two. So platform team, we've created a team to,
+
+[23:40] present Ethereum Mainnet as a platform for building l twos. We're also bringing a lot of Asian l twos together to the l two five two event in network school, And we want to talk there about how really all the different l twos of Ethereum can share share the knowledge, share the ideas, and start feeling connected directly between engineers, between researchers, between the leaders of those.
+
+[24:04] It'll be significant event for us to to create that collaboration. It's not a public event, but it's on the side of public or semi semi public space and network schools. So if you if you are there, say hi. Many of us will be there. Thank you so much for listening. Please bring your ideas, your Cypher Peng vibes, your research vibes, your community vibes. We're learning from you. I learned from you a lot, two years ago, and I hope I'll continue that story. Thank you.
+
+[24:39] Thank you so much for the inspiring talk. Next, we will move into the hackathon will overview. Please welcome Zhang, the founder of SocialLayer, who will walk us through the structure, rules, and what to expect during the hackathon. Hi.
+
+[25:05] I'm Jiang. I'm front of SocialLayer. And here, I will give an overview of the hackathon program. Can you have the next slide? Yeah. So today, is the opening and checking day. And tomorrow, there will be a and and also after the, opening, there will be, two, there there will be, two workshops,
+
+[25:33] in in this room. And also, tomorrow here, you will have, five five workshops, about wiper coding and and, our sponsor tracks. So you you can be hacking here and also you can, join the workshops. And so on, January, thirteenth, there would be so so you can keep hacking. And also there would be a cyberpunk
+
+[26:00] day and which we will have some discussion on cyberpunk and Ethereum. On February on January 31 and February 1, that there will be all day hacking. So you can just keep building your projects. And on February 2,
+
+[26:24] we will have the demo day. And please remember to submit, your project, before, 8AM. And the the demo day will, start at 10AM, here. And then we will have the judging. And for the winning teams, we will join
+
+[26:48] if you will see my summit on February 3. Next. So for our Hexagon, we have five Hexagon tracks. You can build on this seems topics. And the first would be the privacy, track,
+
+[27:10] including building, tools or applications on ZK DID, private payment, verifiable computation, and ZK toolchains. And we have the digital economy track, including payment, stablecoin, DeFi, and greater economy, and our incentives. We have the, digital resilience track,
+
+[27:34] including decentralized social, network and communication, decentralized storage, and disaster relief. And we also have the AI and blockchain track. So you can build web street native AI agents, trustworthy AI model market, and training data provenance.
+
+[28:00] Next. Previous one. The The local yeah. We have a special track called localism. So we encourage you to build something for the local community and local people,
+
+[28:24] like local public goods, including community governance tools, share the resource systems, trustee coordination mechanisms, and also projects that support collaboration among residents, education initiatives, or cultural preservation. And, also, greater income models,
+
+[28:47] community tokens, settlement or incentive systems adopted by, local businesses. The localism chart would have its own price as well, so you will have more chance to to win. So for the prices, we we have the general price awards.
+
+[29:11] We have one first price with 2,000 US dollars and two second price for with $1,000 for each and five so the price with 500 for each. And we have the special category awards including most market potential
+
+[29:34] with one most most market potential price and one best technical implementation and one best innovation and 500 for this for each of these special category awards. And we also have the sponsor awards like the localism prize. We have five
+
+[29:59] we will have five with 200 for each. And we have the ZKTRS prize and 500 for two teams. And we have the PGA, which is a public good price, which they they which is $116.06 for each of the these three teams.
+
+[30:24] And for students, we have a future lie price for with 200 for each of the five teams. So remember the project submission requirements.
+
+[30:47] So please submit your project by 08:00AM on February 2. And then we will start the demo day on 10AM. And please submit on that folio, which is the Hexagon platform we used. And in your project, it should have a a minimal
+
+[31:10] one blockchain based features, like on chain smart contract payment DIDs. And please make sure it can be deployed on Ethereum or Ethereum layer tools. And you can also use x four tool text text from our sponsors.
+
+[31:36] So in your submission, it should include your team information and four max four people for each team. And also a project deck in for the introduction of your project. And also provide a demo video and and some demo links to to your project.
+
+[32:00] And also the GitHub link to the call. Yeah. So for your for the source code on on the GitHub, it should be open source. And in MIT or Apache license. It should include
+
+[32:26] at least five GitHub commits. And also with a readme documents including introduction, architecture, and build instructions. So for our judge criteria, we have we we will take this four aspects
+
+[32:48] including innovation, technology advancement, completeness, and market potential. This CMU Uniserv co working space would be open from eight, thirty AM each day to, 6PM. And,
+
+[33:12] for other time, you you can go to a 46 Nimman co working space. Yeah. That's it. Thank you. Thank you, Zhang. We will move to the next session.
+
+[33:37] It's Chiang Mai Hypersonal would not be possible without the support of our sponsors and partners. We'd like to extend our sincere thanks to everyone who has contributed to make this event happen. Next page. Next page. And we are also very grateful to our community partners
+
+[34:06] and tribes across the web three ecosystem. Before we move to next session, we will have a quick community notes. TK from East Chiang Mai will share a few notes with you. Welcome, TK. Hello. Just hello. Just three quick notes. So if you're looking for our team member,
+
+[34:39] we have our badge and our stickers. Some looks like stuff, some looks like a s t u f f, some looks like a s t a f f, but just look like this. And our main team member are over here, like, Dick, John, and Kalina and Chaka and and and Chidi and Sarah on the entrance. And we have lunch provided on the twenty ninth, thirty first, February 1, and the February 2 starting around 12PM around here. And on the thirtieth, because we're hosting we're cohosting a cypherpunk gathering and forces Neiman,
+
+[35:15] so we encourage every every of you to go there. And for staying connected contacted, we use Telegram. If you haven't joined our small group, just go to the registration desk and ask to bring her into the group. We already have announcement groups. So every day when the launch is ready and if we have some special announcement, we will post it there. And there's an intro on team up group. If you haven't formed your team or you want to build your own team and you have some questions for other team members, you can just use their channel.
+
+[35:45] And today, we're gonna open one another channel that is about the brainstorming and the workshop panel starting actually this afternoon except for tomorrow because we have already scheduled some speech and the workshops tomorrow. This will be a shared TV in one of the corner space. So you can post your idea in that brainstorming
+
+[36:08] and workshop channel, and you can share things you want. And if you want to run a small workshop because we received some messages that I wanna have a thirty minutes workshop and sharing what I'm thinking. Oh, this tool is really useful. You can just ask in the group and you could just grab that TV and in your corner and you can just share it. Yep. So that means we're gonna move to tea break time, I think.
+
+[36:38] Okay. Thank you, TK. Now we will have a short break. Please take time to refresh and connect with others. Thank you. And we will have an our workshop session after the tea break. Welcome to join us. On what you know.
+
+[01:32:29] Folk your favorite gold like a river by the open source flow. And this is how to eat global playbook gold. Yeah. Global We are a thousand and two or three. The world has accessibility. Never come from my squad team. We're at my Denmark.
+
+[01:32:56] Artists of this is a hackathon,
+
+[01:41:31] not Alright.
+
+[01:44:29] Gonna play a little backing tracks here as we get ready for some workshops. I think a new hack,
+
+[01:48:13] hackathon. Thanks to four c's for having these drums. They were sitting up at the Mountain View Village. Alright. Welcome back, everybody.
+
+[01:59:39] Anyone has even watching, we are gonna start some workshops soon. It
+
+[02:20:01] is on. Okay. Nice. Do you wanna do you wanna turn it to the the the main This this one? It's it's loading up? Okay. Yeah. There must be some It's loading up. Yeah.
+
+[02:20:27] We have nothing. Hey, folks. We have one we have two workshop for the rest of today, and each gonna last for about forty minutes. And this is the first one design on autonomous city pilots, and this one would last for forty minutes. And this is not a speech session, it's a workshop.
+
+[02:20:51] So that'd be that means it'll be very interactive. So, yeah, just be prepared. And if you wanna move closer a little bit, just can do it. And, yeah, let's move to Andrew. Thank you so much. It's probably gonna please bear with us as the screen sometimes does its own thing.
+
+[02:21:15] However, if you would like to follow the slides, this is a QR code that leads directly to the slides. My wonderful friends, Justina and Mate and Matt and myself, we also gave you some post its if you prefer manual mode. But you can get to the Miro board through this QR code. It's gonna be easier to interact with. So yeah, we're gonna talk about building
+
+[02:21:38] pilots for autonomous cities. I'll hand over to Matt to give you a little bit of an introduction and then I'll explain to you how to participate and how we can design autonomous cities. Today? Yeah. In thirty minutes. Alright. Okay. How do we get to the next slide? I'll do that. Alright. Cool. Do you know how to do it? As long as the screen works. Is
+
+[02:22:02] that the first one? Yep. Cool. So we're gonna talk we're gonna talk a little bit about which is the one? Okay. It's blinkering. Alright. Cool. Right. So I think it's Please stand by. We'll be right back.
+
+[02:22:31] This is exactly how we're gonna build the cities. There will be a lot of breakings. Alright? So you see it in real world. To sort of play. I just don't know which slide these were. So

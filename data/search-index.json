@@ -1,5 +1,1265 @@
 [
  [
+  6,
+  2,
+  "Okay. Thank you. Thank you, everyone. Welcome to East Chiang Mai Hyperson. To officially kicking off, we are honored to invite Kun Kun Durya"
+ ],
+ [
+  6,
+  19,
+  " as our special speaker to deliver the opening remarks."
+ ],
+ [
+  6,
+  25,
+  "Please join me in welcoming Quinn Duraya. Good afternoon,"
+ ],
+ [
+  6,
+  55,
+  "everyone, and welcome to the Ethereum Chiang Mai hackathon. We are excited to have so many creative minds and innovator gathered here today "
+ ],
+ [
+  6,
+  66,
+  "at Uniserve TMU. Over the next seven days, this space will be full of idea framework, learning, and maybe a little bit of chaos. So sorry. S"
+ ],
+ [
+  6,
+  77,
+  "o many events at"
+ ],
+ [
+  6,
+  78,
+  "the moment at our Uniserve. And that's exactly how innovation happens. This hackathon isn't just about winning. It's about experimenting, co"
+ ],
+ [
+  6,
+  89,
+  "llaborating, and turning ideas into the real solution. So take risks, help each other, ask questions, and most importantly, have fun. We can"
+ ],
+ [
+  6,
+  100,
+  " wait to see what you create."
+ ],
+ [
+  6,
+  102,
+  "Once again, welcome and let the hackathon begin. Thank you. Thank you, Duraya. Next, we are honored to welcome Zik,"
+ ],
+ [
+  6,
+  127,
+  "the core contributor of four seas at East Chiang Mai to deliver his opening speak to us. Please welcome Zig. Hello. Welcome. I'm Zeke from F"
+ ],
+ [
+  6,
+  148,
+  "osys and the main organizer of ECMI."
+ ],
+ [
+  6,
+  153,
+  "And welcome everyone come to CMU. And I think the Uniserve provided the amazing venue to us. As for this community, we we stated in start ou"
+ ],
+ [
+  6,
+  171,
+  "r projects two and a half a year ago. We we"
+ ],
+ [
+  6,
+  177,
+  "located in Chiang Mai. During these two years, we we connect a lot of global talents and digital nomads and, like, user user users. We found"
+ ],
+ [
+  6,
+  194,
+  " that for as a as a how to say, user user contributor,"
+ ],
+ [
+  6,
+  200,
+  "It's quite easy to attract the same kind of people, but it's quite harder to connect the local local people. So, that's why we want to have "
+ ],
+ [
+  6,
+  212,
+  "more connection, more deep connection with c m CMU and also all the local other communities and the local builders. And that's also we"
+ ],
+ [
+  6,
+  223,
+  "at the beginning, we only have four pan themes. But after some discussion, we add a localism. This as a very important theme for this hackat"
+ ],
+ [
+  6,
+  236,
+  "hon. We want to we want to try to through this hackathon to try to attract some people, they really"
+ ],
+ [
+  6,
+  246,
+  "care about the local issues and try to use our technology to try to find some measure or some way to make the local issues better, local soc"
+ ],
+ [
+  6,
+  265,
+  "iety better. Yeah. That's that's what I wanna share. Thank you. Thank you very much, Dick."
+ ],
+ [
+  6,
+  278,
+  "Now we have a special guest. We are extremely honored to have Thomas k Stanchak to join us today. He is the co director at is Iserum Foundat"
+ ],
+ [
+  6,
+  296,
+  "ion who will be sharing his thoughts on Iserum and the local community. So Tom Tomas did have a"
+ ],
+ [
+  6,
+  309,
+  "a parcel that he was waiting to get, so I told him to not worry. So I might maybe I'll oh, he's here. Yay, buddy. Welcome, Tomasz. We'll bri"
+ ],
+ [
+  6,
+  321,
+  "ng him up on stage. Hi, everyone. Okay. I guess everyone can hear me. Give me one second. I can hear some music somehow."
+ ],
+ [
+  6,
+  332,
+  "Okay. Right. Good to go? Hello? You can go whenever you're ready, Tomasz. Alright."
+ ],
+ [
+  6,
+  360,
+  "Okay. So I I'm not sure if you can see the slides. So I'd like to talk about Ethereum years ahead. This is much simplified version of someth"
+ ],
+ [
+  6,
+  370,
+  "ing that we've discussed internally at the Iterium Foundation yesterday at a town hall. We're talking about 2026 and beyond. Great to talk t"
+ ],
+ [
+  6,
+  381,
+  "o everyone there in Chiang Mai. Unfortunately, I cannot I cannot see the crowd, but I've seen some glimpses of it when when Shaka was prepar"
+ ],
+ [
+  6,
+  391,
+  "ing things. So I see that's"
+ ],
+ [
+  6,
+  393,
+  "lots of great people. And I I regret I cannot be there in person. I had a massive pleasure to visit Chiang Mai. It was, well, almost two yea"
+ ],
+ [
+  6,
+  404,
+  "rs ago now, I think, at the before before DEFCON, Bangkok. It's a beautiful city with lots of energy, and I'm happy that there is a continua"
+ ],
+ [
+  6,
+  416,
+  "tion of what was starting around that time."
+ ],
+ [
+  6,
+  419,
+  "So I I think that you're talking a lot about Cypherpunk, about making Ethereum Cypherpunk again. And this year, Vitalik posted a lot of twee"
+ ],
+ [
+  6,
+  429,
+  "ts that kind of guide the strategy, guides the vision for Ethereum, what matters, how we how we look at the achievements, maybe some of the "
+ ],
+ [
+  6,
+  439,
+  "not really failures, but something that we didn't manage yet to deliver or something that is consistently"
+ ],
+ [
+  6,
+  447,
+  "made difficult by, by the governments, by the institutions, by, competing ideas. Still, we keep pushing forward, and, we don't change we don"
+ ],
+ [
+  6,
+  458,
+  "'t change the the values for ourselves. We care about delivering for for people around the world, deliver the values of privacy, deliver ope"
+ ],
+ [
+  6,
+  468,
+  "n source solutions, ability to review everything that you use,"
+ ],
+ [
+  6,
+  473,
+  "make sure that your participation, whether financial or in an expression, is censorship resistance resistance, and that we always play secur"
+ ],
+ [
+  6,
+  482,
+  "ity of the chain in the first place. So you can dig deeper into some of those links. I think later we can share we can share the slides. Als"
+ ],
+ [
+  6,
+  491,
+  "o, simply, you can go to Vitalik's Twitter and and read some of those posts. So we're talking about the relationship between institutions an"
+ ],
+ [
+  6,
+  500,
+  "d Cypherbank."
+ ],
+ [
+  6,
+  501,
+  "We've been talking about self sovereignty, the decentralized social, which kind of suffers now with the changes to Lens and Forecaster, Cont"
+ ],
+ [
+  6,
+  511,
+  "inuation of technology and general walk away tests. So how Ethereum exists without institutions or, like, organizations like Ethereum Founda"
+ ],
+ [
+  6,
+  521,
+  "tion consistently monitoring and upgrading technology. So can we at what stage can we ossify technology?"
+ ],
+ [
+  6,
+  529,
+  "At what rate will be ossifying technology? And how do you react to changes like post quantum world if you if you cannot really introduce the"
+ ],
+ [
+  6,
+  539,
+  " upgrade? So and maybe also when you think about the balance, say, decentralization, resilience of the network, all of this has to be balanc"
+ ],
+ [
+  6,
+  549,
+  "ed between the the necessary upgrades and not pushing things too much in the direction of the short term gains or short term requirements."
+ ],
+ [
+  6,
+  559,
+  "What we've done recently was realization that for the last, last one or two years, there was a lean interim road map, and there was core dev"
+ ],
+ [
+  6,
+  569,
+  "elopment effort with its, free, shorter term goals of the scaling scaling of one, scaling of two, and improving UX. So we thought it's very "
+ ],
+ [
+  6,
+  578,
+  "important to finally bring them together. And researchers"
+ ],
+ [
+  6,
+  582,
+  "and engineers at the foundation got together to bring the lean road map and the core development road map ideas and construct a proposal tha"
+ ],
+ [
+  6,
+  591,
+  "t we'll be able to present in the next months and also present to all core devs of something that foundation suggests to to coordinate the p"
+ ],
+ [
+  6,
+  600,
+  "roposals that were well reviewed by the leading researchers and engineers at the EF."
+ ],
+ [
+  6,
+  606,
+  "So we'll be very excited to present it soon, and I think it will be defining this protocol technology heavy part of the of the future. But e"
+ ],
+ [
+  6,
+  615,
+  "verything that's built on top, obviously, will be defined by you. So that road map, it's thinking about one, three, five years of Ethereum c"
+ ],
+ [
+  6,
+  623,
+  "ombining lean and core, making sure that research and engineering are collaborating, and also specifying how"
+ ],
+ [
+  6,
+  630,
+  "how the Ethereum foundation protocol team itself is splitting the roles between different sub teams. So architecture, the track leads that s"
+ ],
+ [
+  6,
+  640,
+  "tick the short term focus areas, the cluster leads that manage the almost 100 people of protocol researchers and engineers, and the team lea"
+ ],
+ [
+  6,
+  650,
+  "ds that are managing more or, like, leading the more focused areas to deliver"
+ ],
+ [
+  6,
+  655,
+  "all the coordination and research that foundation is working on. When you think about having space to build on what is exciting when you loo"
+ ],
+ [
+  6,
+  664,
+  "k at the fees that Ethereum l one nowadays, they go below 1¢ per transfer transaction. So it's a it's amazing time to to build on Ethereum m"
+ ],
+ [
+  6,
+  674,
+  "ainnet. It's also amazing time to explore l twos that go even even more crazy with scaling. When you look at Grow the Pie,"
+ ],
+ [
+  6,
+  682,
+  "this is the website that tracks the the entire like, the throughput of the network, the activity on the network. You see the numbers that ar"
+ ],
+ [
+  6,
+  691,
+  "e consistently growing and smash all the past records. So we have the most, transaction activity on l one. We have the highest DPS ever, and"
+ ],
+ [
+  6,
+  700,
+  " it's probably, like, 10 times or 20 times higher than than it was in the past after last year."
+ ],
+ [
+  6,
+  706,
+  "You've seen some experiments like like Mega Eve that's that go for crazy scaling. We see lighter that uses z k z k for sending sending data "
+ ],
+ [
+  6,
+  717,
+  "to to l one and goes to crazy per deck scaling. But l one itself scales, and it's, at the moment, at the stage of around post for Saka, and "
+ ],
+ [
+  6,
+  727,
+  "we will prepare more scaling efforts for beginning of this year. So now it's it's being monitored,"
+ ],
+ [
+  6,
+  735,
+  "to introduce changes also to Amsterdam and and later. So the l one can always promise the scaling for for all the settlement of the l twos a"
+ ],
+ [
+  6,
+  744,
+  "nd for all your experiments. I think that's special specifically for for this year, there's a lots of excitement about vibe coding. After De"
+ ],
+ [
+  6,
+  753,
+  "cember, everyone started experimenting with cloud code. There is cloud bot."
+ ],
+ [
+  6,
+  758,
+  "So there's lots of opportunities to start building tooling and, scripts and ideas for connecting Ethereum with the AI experiments. So I thin"
+ ],
+ [
+  6,
+  767,
+  "k it's just around the corner, and many of you probably already experimented, and I'll go even further with all of this. Coming back to post"
+ ],
+ [
+  6,
+  776,
+  " quantum, why we talked about post quantum more now? It's to calm down everyone who asks questions about quantum security of Ethereum. We wa"
+ ],
+ [
+  6,
+  784,
+  "nt to show all that path for the last five"
+ ],
+ [
+  6,
+  787,
+  "five years or so when we talked about how Ethereum will be post quantum secure, what kind of research we need, what kind of steps we need. S"
+ ],
+ [
+  6,
+  796,
+  "o I thought we have to communicate when people are asking those questions actively, when there is uncertainty. Even as we know that we have "
+ ],
+ [
+  6,
+  804,
+  "a very, very robust road map and the timeline is safe, it's still sometimes the communication to calm down everyone who is confused about te"
+ ],
+ [
+  6,
+  813,
+  "chnology requirements and threats is important. So we started talking about it more, but truly for us, it's continuation."
+ ],
+ [
+  6,
+  820,
+  "It's continuously very much of a strategic focus. Here is an example of the last year meeting in Cambridge for all the top quantum researche"
+ ],
+ [
+  6,
+  832,
+  "rs in the world that matched together to talk about the post quantum security of Ethereum that was organized by the by the EF research team."
+ ],
+ [
+  6,
+  844,
+  " We"
+ ],
+ [
+  6,
+  844,
+  "talk more and more about the culture, about talking to new generation, about playing with media, playing with new ways of expression, I gues"
+ ],
+ [
+  6,
+  855,
+  "s, combining old media with AI ideas, coming back to experimentation with art and NFTs, now combining that further with the with the AI, wit"
+ ],
+ [
+  6,
+  865,
+  "h video. All of this exciting in the"
+ ],
+ [
+  6,
+  868,
+  "in modern art museum Museum of Modern Art. In New York, I think there'll be crypto banks, but also around the world, people are creating dig"
+ ],
+ [
+  6,
+  879,
+  "ital art. And I think that's for sure the same thing happened in Chiang Mai, and that expressiveness of local art, local communities, is som"
+ ],
+ [
+  6,
+  889,
+  "ething that might start using also new new ways of,"
+ ],
+ [
+  6,
+  893,
+  "embedding technology into Ethereum or building building tech and arts together on top of Ethereum. So very excited about that voice. If you "
+ ],
+ [
+  6,
+  902,
+  "if you look at some of the some of the Twitter posts from Ethereum Foundation, whether it's Emily or Bingy or or Louie, they show how to pla"
+ ],
+ [
+  6,
+  911,
+  "y and have fun with the with the new ways of creating videos, telling stories telling stories about Ethereum communities. So, actually, if s"
+ ],
+ [
+  6,
+  919,
+  "ome of you want to tell a story, your story with Ethereum or or your story on the edges of Ethereum, I think it would be great if you get in"
+ ],
+ [
+  6,
+  928,
+  " touch and tell us, we want to be part of this, want to tell the stories of of people in our our community."
+ ],
+ [
+  6,
+  935,
+  "We we talk about risk. This is this is further from Cypherpunk, but I I want to tell people that sometimes sometimes you think that you diff"
+ ],
+ [
+  6,
+  943,
+  "er so much. We've heard from I mean, like, between institutions and the Cypherpunk world. We've heard some of the talks from Danny Ryan last"
+ ],
+ [
+  6,
+  951,
+  " year when he was saying, oh, wow. Why went to institutions? It seems that that we all want the same thing. We just use the different langua"
+ ],
+ [
+  6,
+  960,
+  "ge. In the end, everybody wants to avoid risk. We call it trustless systems."
+ ],
+ [
+  6,
+  964,
+  "They call it low risk systems or risk hedging, risk removal. And I encourage the communities to understand, to to speak that language as wel"
+ ],
+ [
+  6,
+  973,
+  "l to be able to explain what we're building and get more support. Sometimes you fight for something and surprisingly, I think you fight agai"
+ ],
+ [
+  6,
+  982,
+  "nst, but you can get allies. Many, many large organizations actually have lots of people that within these organizations"
+ ],
+ [
+  6,
+  989,
+  "think about the future of the world and understand that these organizations might be disappearing, might be dissipating, and they predict th"
+ ],
+ [
+  6,
+  997,
+  "e future. And they want to participate in it, they want to align the trajectory of those organizations to merge, merge into blockchains, int"
+ ],
+ [
+  6,
+  1006,
+  "o the future. It seems that this year starts pretty tough for founders. The money moves to AI entirely. They"
+ ],
+ [
+  6,
+  1012,
+  "the space is harder to hard to fundraise, maybe harder to show new new ideas. Twitter kind of moves away from the old style of crypto Twitte"
+ ],
+ [
+  6,
+  1022,
+  "r. But then on the other hand, you realize that you have this extremely new and exciting field where everyone starts experimenting more and "
+ ],
+ [
+  6,
+  1032,
+  "more and more with agents, with AI. And, this is, like, a next difficulty level, but also next power level. So"
+ ],
+ [
+  6,
+  1040,
+  "it's as a global competition, as global challenges of the privacy pry challenges to privacy from AI. Soon, even if you don't disclose things"
+ ],
+ [
+  6,
+  1049,
+  ", AI will be able to infer all the details about you from from the crumbs, from the bread crumbs that you leave as you're walking. And and t"
+ ],
+ [
+  6,
+  1057,
+  "hen there's lots of questions of how to create a world that really cares about those values that we've been fighting for for many years. And"
+ ],
+ [
+  6,
+  1066,
+  " I think many founders will start realizing that now they can express even more and faster, build faster."
+ ],
+ [
+  6,
+  1072,
+  "What it means for for us at Ethereum Foundation, we start thinking about merging teams that are responsible for supporting founders and for "
+ ],
+ [
+  6,
+  1081,
+  "helping developers to get on board with Ethereum. We realized that the developer becomes a founder, the founder becomes developer, that you "
+ ],
+ [
+  6,
+  1090,
+  "vibe code without tech skills, that you upgrade your tech skills to to vibe code faster. So all of this seems super exciting. And in combina"
+ ],
+ [
+  6,
+  1099,
+  "tion with the low low fees on Ethereum"
+ ],
+ [
+  6,
+  1101,
+  "at the moment, Ethereum may not and l two is even lower. You really can do a lot of experimentation. So, you know, I I remember 02/1617 when"
+ ],
+ [
+  6,
+  1111,
+  " people were deploying on Ethereum and and playing it. We're so not limited by that play because because everything was cheap so they can de"
+ ],
+ [
+  6,
+  1120,
+  "ploy smart contracts, experiments. And now you have almost, like, the same situation."
+ ],
+ [
+  6,
+  1126,
+  "And on top of it, you can do that with AI. You can learn ten, twenty, 100 times faster on how to deploy smart contracts, how to how to expre"
+ ],
+ [
+  6,
+  1135,
+  "ss what you want to tell, whether it's a story or it's a solution to a problem, whether it's a new new infrastructure for the world. And I t"
+ ],
+ [
+  6,
+  1144,
+  "hink that this will be also a big part of DevCon in Mumbai. We'll start talking about vibing that future reality,"
+ ],
+ [
+  6,
+  1151,
+  "but with the very, very solid trust fundamentals of of Ethereum. And we'll be probably letting imagination flow to the future, to the years "
+ ],
+ [
+  6,
+  1160,
+  "ahead. So I hope that many of you will visit India, Mumbai, a beautiful city. I have so much to to offer and so many stories to tell and tha"
+ ],
+ [
+  6,
+  1170,
+  "t you would like to actually create your stories there and tell them for Ethereum."
+ ],
+ [
+  6,
+  1175,
+  "So coming back to d AI, we have a team, decentralized AI team, that is led by David Dekrapis, and, I think he'll be exploring all of those n"
+ ],
+ [
+  6,
+  1184,
+  "ovelties. We have ERC 8,004. We have x four zero two, so all the payment rails for for the agents. We have the reputation systems for agents"
+ ],
+ [
+  6,
+  1193,
+  ". I think more standards will be appearing, and, also, we'll be talking about the security aspects of all of this."
+ ],
+ [
+  6,
+  1201,
+  "ZK VM efforts. So many of you I know last year when I was visiting 2024, when I was visiting Chiang Mai, there were some fantastic research "
+ ],
+ [
+  6,
+  1211,
+  "residencies to talk about ZK, to read about ZK papers, to sorry. To read ZK papers, to talk really about using ZK in your projects. And now "
+ ],
+ [
+  6,
+  1222,
+  "I think that last"
+ ],
+ [
+  6,
+  1223,
+  "year, we've shown the massive, massive progression on the speed of proving and the integration of ideas. Now is this, like, last 20% is prob"
+ ],
+ [
+  6,
+  1234,
+  "ably 80% of efforts to integrate the specs into the interim maintenance into full intro between l twos and l one. So all of this, we have pu"
+ ],
+ [
+  6,
+  1244,
+  "blished"
+ ],
+ [
+  6,
+  1245,
+  "pretty detailed road maps of what needs to be done, who has to put an effort to get it done. And I think that it all comes with massive surp"
+ ],
+ [
+  6,
+  1254,
+  "rise that it came so early, also a massive excitement of how much we can do on the scaling side through ZKVM. And if you read recent recent "
+ ],
+ [
+  6,
+  1263,
+  "publications from Vitalik as well about scaling for computation, look into this, why ZKVM matters,"
+ ],
+ [
+  6,
+  1269,
+  "Paul, you many of you know. And, you know, Chiang Mai is not not here on the on the map because we talk about something that we started last"
+ ],
+ [
+  6,
+  1279,
+  " year in Iturium everywhere, but I think Chiang Mai is kind of by default on this map always. Ethereum has been super strong in Chiang Mai a"
+ ],
+ [
+  6,
+  1289,
+  "s a hub in the last years after after pre DevCon"
+ ],
+ [
+  6,
+  1292,
+  "meetings. I remember there was, like, 10 or 12 pop up cities in 2024, and so many people talked about ideas of Ethereum on AI. And and I hop"
+ ],
+ [
+  6,
+  1303,
+  "e that you collaborate with the local communities to understand more or share lots of your experience on how to build the communities that d"
+ ],
+ [
+  6,
+  1314,
+  "id grow very naturally, that attract every"
+ ],
+ [
+  6,
+  1317,
+  "aspect of what's needed to to build sustainable community. So the researchers, engineers, builders, idea makers, thought leaders, people fro"
+ ],
+ [
+  6,
+  1326,
+  "m other industries that can share what problems have to be solved, sponsors, the company builders, institutions, governments, everyone who w"
+ ],
+ [
+  6,
+  1336,
+  "ants to participate to to make the change happen."
+ ],
+ [
+  6,
+  1339,
+  "We care about those physical spaces, and we want to support them through sharing and participating and building together. We do a lot of DeF"
+ ],
+ [
+  6,
+  1348,
+  "i coordination this year, but we also try to understand how DeFi is changing. DeFi is changing towards hybrid. So between institutions and t"
+ ],
+ [
+  6,
+  1357,
+  "he traditional DeFi, we'll be allocating treasury probably faster this year from the EF to to support various DeFi bank projects."
+ ],
+ [
+  6,
+  1365,
+  "So the projects that really care about non KYC, privacy oriented, noncustodial approach to DeFi, so the DeFi as we as we dreamt. And we also"
+ ],
+ [
+  6,
+  1374,
+  " think that there is a bit of last space for for DGEN or maybe maybe just somehow got totally disconnected into its own world of memes. Ther"
+ ],
+ [
+  6,
+  1384,
+  "e is exploration with Lighter, Mega Eve, but also other l twos that give more space for the experimentation,"
+ ],
+ [
+  6,
+  1391,
+  "but also may not became super, super welcoming for this. So much will come from our coordinators, Charles, Joslyn, and Ivan, event GBI. So t"
+ ],
+ [
+  6,
+  1401,
+  "hey they are now at the foundation since last month, and, we'll be able to help with coordination. Reach out to us if you if you need suppor"
+ ],
+ [
+  6,
+  1412,
+  "t as a d five project. K. There is, I think, I just lost minute or two. So platform team, we've created a team to,"
+ ],
+ [
+  6,
+  1420,
+  "present Ethereum Mainnet as a platform for building l twos. We're also bringing a lot of Asian l twos together to the l two five two event i"
+ ],
+ [
+  6,
+  1429,
+  "n network school, And we want to talk there about how really all the different l twos of Ethereum can share share the knowledge, share the i"
+ ],
+ [
+  6,
+  1437,
+  "deas, and start feeling connected directly between engineers, between researchers, between the leaders of those."
+ ],
+ [
+  6,
+  1444,
+  "It'll be significant event for us to to create that collaboration. It's not a public event, but it's on the side of public or semi semi publ"
+ ],
+ [
+  6,
+  1454,
+  "ic space and network schools. So if you if you are there, say hi. Many of us will be there. Thank you so much for listening. Please bring yo"
+ ],
+ [
+  6,
+  1465,
+  "ur ideas, your Cypher Peng vibes, your research vibes, your community vibes. We're learning from you. I learned from you a lot, two years ag"
+ ],
+ [
+  6,
+  1475,
+  "o, and I hope I'll continue that story. Thank you."
+ ],
+ [
+  6,
+  1479,
+  "Thank you so much for the inspiring talk. Next, we will move into the hackathon will overview. Please welcome Zhang, the founder of SocialLa"
+ ],
+ [
+  6,
+  1494,
+  "yer, who will walk us through the structure, rules, and what to expect during the hackathon. Hi."
+ ],
+ [
+  6,
+  1505,
+  "I'm Jiang. I'm front of SocialLayer. And here, I will give an overview of the hackathon program. Can you have the next slide? Yeah. So today"
+ ],
+ [
+  6,
+  1518,
+  ", is the opening and checking day. And tomorrow, there will be a and and also after the, opening, there will be, two, there there will be, t"
+ ],
+ [
+  6,
+  1532,
+  "wo workshops,"
+ ],
+ [
+  6,
+  1533,
+  "in in this room. And also, tomorrow here, you will have, five five workshops, about wiper coding and and, our sponsor tracks. So you you can"
+ ],
+ [
+  6,
+  1545,
+  " be hacking here and also you can, join the workshops. And so on, January, thirteenth, there would be so so you can keep hacking. And also t"
+ ],
+ [
+  6,
+  1558,
+  "here would be a cyberpunk"
+ ],
+ [
+  6,
+  1560,
+  "day and which we will have some discussion on cyberpunk and Ethereum. On February on January 31 and February 1, that there will be all day h"
+ ],
+ [
+  6,
+  1576,
+  "acking. So you can just keep building your projects. And on February 2,"
+ ],
+ [
+  6,
+  1584,
+  "we will have the demo day. And please remember to submit, your project, before, 8AM. And the the demo day will, start at 10AM, here. And the"
+ ],
+ [
+  6,
+  1600,
+  "n we will have the judging. And for the winning teams, we will join"
+ ],
+ [
+  6,
+  1608,
+  "if you will see my summit on February 3. Next. So for our Hexagon, we have five Hexagon tracks. You can build on this seems topics. And the "
+ ],
+ [
+  6,
+  1626,
+  "first would be the privacy, track,"
+ ],
+ [
+  6,
+  1630,
+  "including building, tools or applications on ZK DID, private payment, verifiable computation, and ZK toolchains. And we have the digital eco"
+ ],
+ [
+  6,
+  1643,
+  "nomy track, including payment, stablecoin, DeFi, and greater economy, and our incentives. We have the, digital resilience track,"
+ ],
+ [
+  6,
+  1654,
+  "including decentralized social, network and communication, decentralized storage, and disaster relief. And we also have the AI and blockchai"
+ ],
+ [
+  6,
+  1668,
+  "n track. So you can build web street native AI agents, trustworthy AI model market, and training data provenance."
+ ],
+ [
+  6,
+  1680,
+  "Next. Previous one. The The local yeah. We have a special track called localism. So we encourage you to build something for the local commun"
+ ],
+ [
+  6,
+  1701,
+  "ity and local people,"
+ ],
+ [
+  6,
+  1704,
+  "like local public goods, including community governance tools, share the resource systems, trustee coordination mechanisms, and also project"
+ ],
+ [
+  6,
+  1716,
+  "s that support collaboration among residents, education initiatives, or cultural preservation. And, also, greater income models,"
+ ],
+ [
+  6,
+  1727,
+  "community tokens, settlement or incentive systems adopted by, local businesses. The localism chart would have its own price as well, so you "
+ ],
+ [
+  6,
+  1742,
+  "will have more chance to to win. So for the prices, we we have the general price awards."
+ ],
+ [
+  6,
+  1751,
+  "We have one first price with 2,000 US dollars and two second price for with $1,000 for each and five so the price with 500 for each. And we "
+ ],
+ [
+  6,
+  1767,
+  "have the special category awards including most market potential"
+ ],
+ [
+  6,
+  1774,
+  "with one most most market potential price and one best technical implementation and one best innovation and 500 for this for each of these s"
+ ],
+ [
+  6,
+  1789,
+  "pecial category awards. And we also have the sponsor awards like the localism prize. We have five"
+ ],
+ [
+  6,
+  1799,
+  "we will have five with 200 for each. And we have the ZKTRS prize and 500 for two teams. And we have the PGA, which is a public good price, w"
+ ],
+ [
+  6,
+  1816,
+  "hich they they which is $116.06 for each of the these three teams."
+ ],
+ [
+  6,
+  1824,
+  "And for students, we have a future lie price for with 200 for each of the five teams. So remember the project submission requirements."
+ ],
+ [
+  6,
+  1847,
+  "So please submit your project by 08:00AM on February 2. And then we will start the demo day on 10AM. And please submit on that folio, which "
+ ],
+ [
+  6,
+  1862,
+  "is the Hexagon platform we used. And in your project, it should have a a minimal"
+ ],
+ [
+  6,
+  1870,
+  "one blockchain based features, like on chain smart contract payment DIDs. And please make sure it can be deployed on Ethereum or Ethereum la"
+ ],
+ [
+  6,
+  1887,
+  "yer tools. And you can also use x four tool text text from our sponsors."
+ ],
+ [
+  6,
+  1896,
+  "So in your submission, it should include your team information and four max four people for each team. And also a project deck in for the in"
+ ],
+ [
+  6,
+  1910,
+  "troduction of your project. And also provide a demo video and and some demo links to to your project."
+ ],
+ [
+  6,
+  1920,
+  "And also the GitHub link to the call. Yeah. So for your for the source code on on the GitHub, it should be open source. And in MIT or Apache"
+ ],
+ [
+  6,
+  1942,
+  " license. It should include"
+ ],
+ [
+  6,
+  1946,
+  "at least five GitHub commits. And also with a readme documents including introduction, architecture, and build instructions. So for our judg"
+ ],
+ [
+  6,
+  1962,
+  "e criteria, we have we we will take this four aspects"
+ ],
+ [
+  6,
+  1968,
+  "including innovation, technology advancement, completeness, and market potential. This CMU Uniserv co working space would be open from eight"
+ ],
+ [
+  6,
+  1987,
+  ", thirty AM each day to, 6PM. And,"
+ ],
+ [
+  6,
+  1992,
+  "for other time, you you can go to a 46 Nimman co working space. Yeah. That's it. Thank you. Thank you, Zhang. We will move to the next sessi"
+ ],
+ [
+  6,
+  2016,
+  "on."
+ ],
+ [
+  6,
+  2017,
+  "It's Chiang Mai Hypersonal would not be possible without the support of our sponsors and partners. We'd like to extend our sincere thanks to"
+ ],
+ [
+  6,
+  2032,
+  " everyone who has contributed to make this event happen. Next page. Next page. And we are also very grateful to our community partners"
+ ],
+ [
+  6,
+  2046,
+  "and tribes across the web three ecosystem. Before we move to next session, we will have a quick community notes. TK from East Chiang Mai wil"
+ ],
+ [
+  6,
+  2063,
+  "l share a few notes with you. Welcome, TK. Hello. Just hello. Just three quick notes. So if you're looking for our team member,"
+ ],
+ [
+  6,
+  2079,
+  "we have our badge and our stickers. Some looks like stuff, some looks like a s t u f f, some looks like a s t a f f, but just look like this"
+ ],
+ [
+  6,
+  2089,
+  ". And our main team member are over here, like, Dick, John, and Kalina and Chaka and and and Chidi and Sarah on the entrance. And we have lu"
+ ],
+ [
+  6,
+  2099,
+  "nch provided on the twenty ninth, thirty first, February 1, and the February 2 starting around 12PM around here. And on the thirtieth, becau"
+ ],
+ [
+  6,
+  2110,
+  "se we're hosting we're cohosting a cypherpunk gathering and forces Neiman,"
+ ],
+ [
+  6,
+  2115,
+  "so we encourage every every of you to go there. And for staying connected contacted, we use Telegram. If you haven't joined our small group,"
+ ],
+ [
+  6,
+  2123,
+  " just go to the registration desk and ask to bring her into the group. We already have announcement groups. So every day when the launch is "
+ ],
+ [
+  6,
+  2131,
+  "ready and if we have some special announcement, we will post it there. And there's an intro on team up group. If you haven't formed your tea"
+ ],
+ [
+  6,
+  2138,
+  "m or you want to build your own team and you have some questions for other team members, you can just use their channel."
+ ],
+ [
+  6,
+  2145,
+  "And today, we're gonna open one another channel that is about the brainstorming and the workshop panel starting actually this afternoon exce"
+ ],
+ [
+  6,
+  2155,
+  "pt for tomorrow because we have already scheduled some speech and the workshops tomorrow. This will be a shared TV in one of the corner spac"
+ ],
+ [
+  6,
+  2165,
+  "e. So you can post your idea in that brainstorming"
+ ],
+ [
+  6,
+  2168,
+  "and workshop channel, and you can share things you want. And if you want to run a small workshop because we received some messages that I wa"
+ ],
+ [
+  6,
+  2178,
+  "nna have a thirty minutes workshop and sharing what I'm thinking. Oh, this tool is really useful. You can just ask in the group and you coul"
+ ],
+ [
+  6,
+  2189,
+  "d just grab that TV and in your corner and you can just share it. Yep. So that means we're gonna move to tea break time, I think."
+ ],
+ [
+  6,
+  2198,
+  "Okay. Thank you, TK. Now we will have a short break. Please take time to refresh and connect with others. Thank you. And we will have an our"
+ ],
+ [
+  6,
+  4370,
+  " workshop session after the tea break. Welcome to join us. On what you know."
+ ],
+ [
+  6,
+  5549,
+  "Folk your favorite gold like a river by the open source flow. And this is how to eat global playbook gold. Yeah. Global We are a thousand an"
+ ],
+ [
+  6,
+  5565,
+  "d two or three. The world has accessibility. Never come from my squad team. We're at my Denmark."
+ ],
+ [
+  6,
+  5576,
+  "Artists of this is a hackathon,"
+ ],
+ [
+  6,
+  6091,
+  "not Alright."
+ ],
+ [
+  6,
+  6269,
+  "Gonna play a little backing tracks here as we get ready for some workshops. I think a new hack,"
+ ],
+ [
+  6,
+  6493,
+  "hackathon. Thanks to four c's for having these drums. They were sitting up at the Mountain View Village. Alright. Welcome back, everybody."
+ ],
+ [
+  6,
+  7179,
+  "Anyone has even watching, we are gonna start some workshops soon. It"
+ ],
+ [
+  6,
+  8401,
+  "is on. Okay. Nice. Do you wanna do you wanna turn it to the the the main This this one? It's it's loading up? Okay. Yeah. There must be some"
+ ],
+ [
+  6,
+  8423,
+  " It's loading up. Yeah."
+ ],
+ [
+  6,
+  8427,
+  "We have nothing. Hey, folks. We have one we have two workshop for the rest of today, and each gonna last for about forty minutes. And this i"
+ ],
+ [
+  6,
+  8439,
+  "s the first one design on autonomous city pilots, and this one would last for forty minutes. And this is not a speech session, it's a worksh"
+ ],
+ [
+  6,
+  8451,
+  "op."
+ ],
+ [
+  6,
+  8451,
+  "So that'd be that means it'll be very interactive. So, yeah, just be prepared. And if you wanna move closer a little bit, just can do it. An"
+ ],
+ [
+  6,
+  8463,
+  "d, yeah, let's move to Andrew. Thank you so much. It's probably gonna please bear with us as the screen sometimes does its own thing."
+ ],
+ [
+  6,
+  8475,
+  "However, if you would like to follow the slides, this is a QR code that leads directly to the slides. My wonderful friends, Justina and Mate"
+ ],
+ [
+  6,
+  8484,
+  " and Matt and myself, we also gave you some post its if you prefer manual mode. But you can get to the Miro board through this QR code. It's"
+ ],
+ [
+  6,
+  8493,
+  " gonna be easier to interact with. So yeah, we're gonna talk about building"
+ ],
+ [
+  6,
+  8498,
+  "pilots for autonomous cities. I'll hand over to Matt to give you a little bit of an introduction and then I'll explain to you how to partici"
+ ],
+ [
+  6,
+  8508,
+  "pate and how we can design autonomous cities. Today? Yeah. In thirty minutes. Alright. Okay. How do we get to the next slide? I'll do that. "
+ ],
+ [
+  6,
+  8517,
+  "Alright. Cool. Do you know how to do it? As long as the screen works. Is"
+ ],
+ [
+  6,
+  8522,
+  "that the first one? Yep. Cool. So we're gonna talk we're gonna talk a little bit about which is the one? Okay. It's blinkering. Alright. Coo"
+ ],
+ [
+  6,
+  8542,
+  "l. Right. So I think it's Please stand by. We'll be right back."
+ ],
+ [
+  6,
+  8551,
+  "This is exactly how we're gonna build the cities. There will be a lot of breakings. Alright? So you see it in real world. To sort of play. I"
+ ],
+ [
+  6,
+  8574,
+  " just don't know which slide these were. So"
+ ],
+ [
   11,
   2195,
   "Yeah. Touch my forehead, chest, left shoulder, then right side. Pray my brothers are good outside. I know the vibes. I know the vibes. You'r"
