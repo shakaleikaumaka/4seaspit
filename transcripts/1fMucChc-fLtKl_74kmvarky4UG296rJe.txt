@@ -1,0 +1,735 @@
+# How Web3 Technologies Can Support The Fair Trade Movement
+
+Date: 
+Source video: How Web3 Technologies Can Support The Fair Trade Movement
+Drive: https://drive.google.com/file/d/1fMucChc-fLtKl_74kmvarky4UG296rJe/view
+Duration: 02:44:22
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Here today. And before we begin, I'll just have a little brief introduce about East and Frame and then later on, Terrence will fit into like how the Frame works and how we're going to happen today. So HTMI is a community driven Ethereum session that runs over two months. We started from the December 8 and we run until the February 3.
+
+[00:23] And rather than focusing on a single conference, it bring together learning, discussion, experimenting. We have a boot camp on conference, hackathon, a summit. And its core is Qiang Mai is less about Web3 as an abstract idea and more about how decentralized technology support real communities and how people coordinate, govern and share resources and build trust beyond traditional institutions.
+
+[00:47] And also we have a hackathon from the January 28. If you guys are interested, I can go to htmi.com and do the registration. And we have our social media over there on the interest if you guys want to follow and can follow in later. And I'll move to the Terrence and then he'll do the introduction. Thank you, Charlotte. Good afternoon. This is Terrence.
+
+[01:11] So we have a group of people, coming from Hong Kong. So, but we are very, very glad to join, the Ethereum Chiang event. So this is part of the Ethereum Chiang Mai event. A little bit of background about myself and my group. We are from, Ningnan University of Hong Kong. So it's, we have students from
+
+[01:35] the master of cultural studies program. And I'm a part time teacher and an adviser to a group in the university called iCummens. So within, Ningnan University, we have a little project called iCummens. So we are interested in some old and new forms of commons and commoning.
+
+[01:59] So we decided that we should come to Chiang Mai to learn about the commons. So I guess we picked the right place. Later on, there will be a speak another speaker is Michelle Michelle Bowens. Michelle just had a new piece in his subset that talk about Chiang Mai. So I will recommend every one of you after,
+
+[02:22] today, you should find some time to read about Chiang Mai. Michel will explain why Chiang Mai will be a very important place in in in in in in in the new development to promote commons and commoning. So and so how about the topic when we
+
+[02:48] discussed what topic we should use to to to come to this place and do the sharing. And then I think about tomorrow, our group will visit a fair trade organization in Chiang Mai. So the, fair trade is actually, one type of, initiative we call the social economy.
+
+[03:13] So I would say fair trade is like the old school very old school commoning. Fair trade is like the commoning of consumer and, and customers, like, the producers in the global South, and and the, consumers in the global North. How can we connect them and help help each other? So it is,
+
+[03:39] it's coming in between consumer and producer, and it's coming in between global North and global global South. And, normally, when we talk about the social economy, we we we will think about a project of very small scale, little scale. It's difficult to think about very big scale social economy initiative. But, fair trade is sort of a kind of special in the in the social economy movement
+
+[04:05] because fair trade is actually, a kind of counter movement, amidst the globalization because we want to help the small producers in the developing countries. And, so, even though there are many, many initiative in socioeconomies, very small scale, fair trade by definition, even though we also talk about local fair trade, but the fair trade from the very beginning,
+
+[04:31] it is a global project. It is a global project. And so, for this, event, I try to think of two paradigm. So we have the fair trade movement for, fifty years or more. So I I I call it the old paradigm. So can we emerge in a new paradigm for the fair trade? So that that could be some, I have a table here. We talk about, an old paradigm of fair trade and a new paradigm. The old paradigm of fair trade is a
+
+[05:02] anti capitalist counter movement to act against globalization. And moving from old paradigm, so Michelle and others thinkers, they all talk about a global another globalization movement that replaced the existing way of doing globalization. So Michelle talked a lot about cosmolocalism.
+
+[05:27] So I would imagine, we could use, wealth free commoning as a basis to promote a new type of fair trade movement. And, for the fair trade movement, the second item in the table, fair trade use fair, the fair trade label as a way to build trust. So you can go to to some shops to buy some fair trade product. You check out the fair trade label. Fair trade label could be for
+
+[05:53] for could be certifying certain products, could be certain certain process. So the, World Fair Trade Organization, WFTO, they are they are process based organization. So, moving from the old paradigm of building trust using a fair trade label, in a full web fee, we don't need to use a label to build trust. Web fee, when we use the blockchain,
+
+[06:19] we use the distributor ledger. We talk about the trustless. We don't need to trust one another using a label. We could use, we could trust one another because of the technology. Mhmm. So this is another possibility for us to move the new paradigm. And then some similarly, when we develop the preferred trade label, we need certain peak organization.
+
+[06:42] So we have the, organization like the World Trade Organization. There are several other organization working globally to develop the labels. But, in the in the welfare movement, we talk about distributed organizing. So we talk about DAO. We talk about the distributed autonomous organization. So, I think even within the,
+
+[07:06] well, the the fair trade organization, right now they are talking about, there's a there's there might be a existential crisis for the fair trade organization if we can bypass the platform, bypass the label system. So what should be the future role of the fair trade peak organizations? So similarly, the the second last point, fair trade, the old school fair trade is like an extension of the,
+
+[07:34] the traditional cooperative movement. Mhmm. And then we try to transform the co op movement. So we talk about can we develop the platform cooperative, for example. Right now, have many platform companies controlling all of our activities. So there are other other friends promoting platform cooperative, applying the cooperative principles to all the platform.
+
+[07:56] Yep. So fair trade, do we need a platform for fair trade? Or we can really use, DAOs or I think, Michelle will talk about open cooperativism. It's the ultimate goal. So we we we would like to promote platform cooperativism, but, we've the ultimate goal is to have open cooperativism. So maybe Michelle can if you can somehow link to the discussion to the platform,
+
+[08:22] platform co op and then open co op, that might be helpful. And the last point, so it's it's just to talk about, we want to, have new forms of commoning. So, today, we bring, we bring a lot of, speakers. So we have different friends coming over today.
+
+[08:50] So we have Michelle from p two p foundation. We have four c's, and then we have the World Fair Trade Organization Asia, and then we have the Thai tribal craft fair trade organization, which is local Thai fair trade organization. And and I want to,
+
+[09:14] talk about the idea of a community supported effort. In social economy, we want to ultimately promote. We can support one another. So, there's a movement. So, we talk about community support agriculture, but actually we can, do everything. And so when we talk about community support everything,
+
+[09:36] community could be different scale. So last time, Michel, we sat at Hong Kong just last month. He talked about organizing in fee scale, fee level fee levels. So when we talk about community, we talk about local community and then bioregional community and then, Cosmo local community. So for the Thai, fair trade organization here in Chiang Mai, it is local
+
+[10:01] and bioregional. And then, for the wealth free community, it is cosmo local. So three levels here. And then, we also need to identify new forms of commoning and also financing. So it's a week. We'll we'll use distribute the ledger technology,
+
+[10:23] the blockchain, etcetera, to promote new forms of commoning and financing. And then in the end, we we would like to extend the reach of fair trade to, beyond agriculture and also beyond craft products. So, I would like to, so my part is to do do this framing and introduction for today's event. After this introduction, I will invite Michelle to do a sharing,
+
+[10:55] like, around, 30. Then we will have a short break and photo taking. And after the break, we will first have a guest from, four seas to talk about the wealthy, Cosmo local community organizing. And then we will have the fair trade organization, Thai, tribal
+
+[11:18] craft to talk about, the organizing in the, local and bioregional level. And then we will have a panel to discuss the possibility to for the two movement to collaborate, the wealthy movement and the more old school fair trade movement. And then we will have an open q and a session. Okay. So this is the rundown for today.
+
+[11:42] So, without further ado, I would like, now like to invite Michel. He he would do his, amazing work to do the improvising for us. Thank you, Michel. Alright. Thank you. Yes. Improvising, I'm I'm just, basically, you know, my my motto is always prepare,
+
+[12:04] so you never have to prepare. So, you know, just keep on learning every day and then you basically when you speak, you you know, you try to maybe synthesize what you know at the at the current moment. So that's what I'm gonna do. So maybe I'll I'll start first with just an explanation of what cosmologicalism means. So maybe it's fifteen, twenty years ago and I can't remember who said this, but I I use it all the time. So the like, the slogan was
+
+[12:35] if it's heavy, it's local, and if it's light, it's global and shared. Right? So that's very important. So if heaviest local means basically that cosmological is not just like, you know, like we used to use the word local, like that you are both local and and global at the same time. So cosmolocalist is a bit more than that. It actually focuses on the production of essential goods and of value.
+
+[13:01] So when we talk about cosmolocalism, it's not just about meeting here and being on the Internet, it's actually reorganizing the economy around more local production, but coupled with global cooperation. So the idea is that you try to make stuff locally and but that you you use the knowledge on a global level. Right? That you learn from everyone in the network.
+
+[13:26] So, basically, the advantage of the second part is that in a network, any innovation anywhere in that network is available to the whole network instantaneously. Right? So that that makes innovation very, very fast if you're part of that kind of cosmo local network. So, you know, even if you look at all the big companies today and, you know, I'm not saying they're good, but, you know, like Google and Facebook
+
+[13:53] and Apple, they actually all rely on this. Right? I mean, Apple used an open source software and and changed it into its own. Google, Facebook, they use an enormous amount of open source, software and servers. They all rely on this kind of global community development even for their own corporate,
+
+[14:19] you know, aims. Right? But, of course, that's not what we mean with the cosmologicalism. It's a bit more. But let me also tell you why we should be doing this because I think that's important. So a lot will depend on how you see the future of the world. Right? If you believe that we don't have any issues in terms of materially abundance and that AI will create this wonderful economy where, you know, everything is made by machines and robots and we just
+
+[14:46] kind of, you know, we'll use them, then maybe we we don't you don't need this. But if you believe that we are actually facing a very serious material energetic thermodynamic climate crisis, then you have to ask the question, like, how long can we go on with overusing the planetary resources. Right? So and that's of course what I believe is that we are basically reached a point in human history where it's unsustainable to continue on the high growth path.
+
+[15:20] And so then if you think about why would you localize, it's the first answer is very simple. We now spend two thirds of matter energy on transport. Right? So everything that you use is two thirds transport. Like, a tennis ball is now like 40,000 kilometers of, you know, miles. I don't know how you call that. But anyway, so actually
+
+[15:42] almost everything that we use is at the moment made like that. And so it's very costly in terms of matter and energy, usage. So if you think, you know, this is simplistic, of course, we we may not reach the full amount, but think of it that we can reach already, you know, two thirds less use of matter and energy for the same level
+
+[16:08] of production. So, it's not a question of like impoverishing the planet, it's the it's redesigning, you know, the supply chains basically. Right? One of the big, you know, things that I'm counting on because so so when we say cosmolocolism, we don't necessarily mean go back to the countryside and live like the Amish. Now I have nothing against the Amish. You know them, right, with their little horses and buggies in The US and other places. They are actually the most productive,
+
+[16:38] agricultural, system in The US. They are more productive than big business And they've done that by basically stopping technology at the seventeenth century. So I'm you know, I have nothing against these people. This is an option. But I think we have another option and that would be, you know, what I call distributed manufacturing. Right? So it's the idea that we now have the technology to do very smart production locally. Right? Just in time, just for you, on demand
+
+[17:07] locally. So, so far, most of them have failed. Have to tell you the truth. Right? So ten years ago, I was very excited about Wiki Speed, Local Motors, and similar Wiki factory in China. You know, very promising. So far, they have not made it. But just to give you an example how this could work, and this is also actually a project that didn't make it, it's called Arrival. This was a very big project, not open source,
+
+[17:36] but they made vans and trucks for public authorities. So they had 2,000 engineers in Berlin and London, and basically, they reduced car making to 50 instead of 750 processes. And they simply have a local platform a bit like this, maybe two, three times bigger than than this place with robots making trucks and vans on demand.
+
+[18:02] So no mass marketing, no overproduction, no marketing needed, simply like you need it, you make it. And so using circular, production processes, biodegradable, interoperable parts. So this is what is technically possible. It doesn't mean it's socially possible or, you know, like economically possible. Right? So I'll give you the example. I was in China.
+
+[18:29] So okay. First in France, you have something called Atelier Baison. It's a cooperative of small family farms. I think they have about 2,000 members. And every two weeks, they come together to make machines together. Like, they literally make their own machines because agribusiness is very expensive if you, you know, if you have to buy these big machines.
+
+[18:53] And, basically, family farms are not compatible with the kind of investments that you need to make. Right? So they say, okay. We are breaking from with agribusiness. We're making our own machines. So every two weeks, they come together. They make a machine. They film it. They, you know, put the designs on the Internet. And I think they have two, three thousands designs already. So this is a very successful
+
+[19:17] project in France. And by the way, just to give you a bit of the context, the number of eco villages in France went up from one fifty to 500 in just ten years. So just to tell you, there is a background, you know, of changes taking place that makes these things possible. Like, there's a there's a sociology for it. Right?
+
+[19:40] Now I went, last month I was in Pingmang, which is one of the rural revitalization projects in China. Amazing projects. You know, you wake up at 7AM in the middle of the mountains, one hour and a half from the nearest, train station and there's already 20 drones in the sky. You buy coffee and you have a robot dog who brings you the coffee.
+
+[20:08] What else can I say about this place? Yeah. They have a DAO. What is it called? X Y DAO. I don't know how to pronounce it, which has like 7,000,000 rice tokens circulating amongst 20 different nodes. And they have the best croissants in the world. You know, I'm Belgian. I like original
+
+[20:31] croissants. And so in middle of the mountains, you have this bakery. Anyway, but when I told them about these machines, you know, making your own machines, the answer was, oh, we can't do that in China because industrial machines are just too cheap. Right? So I'm just telling you that story to show you depends on the context whether particular forms are possible or not. So let me give you a second reason,
+
+[20:58] to do this and, this is simply the power of mutualization. So you hear the word the commons a lot in here and what is the commons is mutualizing. Right? It's creating common pools. So, as you probably know, in, Europe, young people, you know, they can't afford a lot of housing. Buying housing is done. Even renting is becoming too expensive. There was a lot of co living, co working,
+
+[21:26] you know, all kinds of alternatives are emerging to make it possible to rent cheaper and collectively that's pooling. Right? It's it's mutualizing resources. Sharing and I'm not talking about Uber. So, in Ghent, I did a study there for the mayor. There's different organizations. One is by neighborhood. Every shared car replaces 13 private cars.
+
+[21:52] So this is people in a block. They would decide to get rid of their cars or not buy cars and make their own system with 10% of the cars available in a pool. And they can so they have a full guarantee that they can have a car whenever they want. And this is working very well. So this is commoning. This is pooling. And so mutualization
+
+[22:16] is very efficient again to save resources and to bring down financial cost. Right? So we have a movement in Europe. It's called factor 20 reduction. For example, there's a German city and I forgot the name of it, but I I can find it for you. So they replaced commercial trucking with electric vans and cargo bikes, zero carbon,
+
+[22:40] cargo bikes. It's flat in Germany, so that works. And they diminished electricity usage by 95%. So that's why it's called factor 20 reduction. Right? It's using mutualization as a design method to redesign economic sectors. So that's the second reason. And the the third reason I would say is security.
+
+[23:03] As you if you read the news, you know that we are not in a good period of human history. Right? We are in a dislocation of the post World War two global order. We have rising China and troubled West, and nobody who has been hegemonic likes to lose that position. And so we are in a danger zone. Right? And we have European sanctions and American sanctions.
+
+[23:30] I'm an example of it. I've been debanked, d PayPal and all kinds of stuff as well. So just just last week, the European Union has sanctioned 56 people, debanked them because they disagree with the Ukraine policy. But they, you know, they wanted to take the Russian, reserves and stuff like that. So, what does that mean? That means that supply chains are in danger.
+
+[23:53] Right? You you we cannot simply rely on the globalization system that we had ten years ago. I just met last week somebody from Michelin, you know, the the French, tires company. I was in in Busan in Korea and he told me, we have to hire 300 people to redesign our supply chains away from China.
+
+[24:17] They have to from you know, they have so much pressure from The US, they have to do it. Right? So that's why a lot of people are talking about by globalization. And in Europe, we heard we we learned a hard lesson in COVID. No masks, no medication, no PPEs, nothing, because the supply chain was disturbed. Right? So this is a third reason you might think about why localization
+
+[24:41] makes sense. Okay. Now I'd like to say the following, you know, because it's it's psychologically not the same when you're cosmolocal. Right? So so we have bodies. Right? And our bodies are are material and biological partly. And so you could say that we are embedded in the geosphere
+
+[25:04] and the biosphere. Right? We we kind of are a mix of matter and and and life. But our minds are not. Right? I mean, it's rooted in the brain, but now I can talk to you on the other side of the world. So the newest sphere, the sphere of the mind is no longer physical. I mean, it's embedded in the physical. It, you know, it actually uses physical technology,
+
+[25:32] but it allows us to basically do how you call it? Synchronous synchronous communication. Right? And this is a big change. Right? So, I would present the following thesis. Civilization was about the relation between the town, between agriculture and the city. That's what created civilization. Humankind decided five thousand years ago,
+
+[25:56] we need to master nature. We need a more complex system and we're gonna do this through civilization, markets and states. And we can go very fast, you know, with horses and planes and all, but we what we couldn't do yet was this kind of asynchronous communication, asynchronous communication, like real time collaboration. This is new. So, the way to look at it is to to say that, yes, we still have a geosphere
+
+[26:24] and a biosphere and that's kind of like still local, but we now have a new layer of civilization which is this trans local layer. Right? And so cosmolocalism is not just like going from the bottom to the top, like adding digital technology to what you're doing locally. It can also be the opposite which is digitality native
+
+[26:48] organization. So, when I talk about peer to peer, what I mean is our massive capacity for trans local self organization. And this is why people in web three talk about network network nations, network states because they're digitally native. Right? They they think in a different way. Like, why should we can organize from the digital down
+
+[27:11] like a DAO. Right? A DAO, Distributed Autonomous Organization is is also very interesting because it's a meta integrative institution. So think about it, we can allocate through pricing. We can allocate through command, plant economy, and planning. Now we are how are we coordinating our work in open source?
+
+[27:35] We are looking at signals from peers. Right? If you work with the Wikipedia or with Linux, how do you know what to do? Not because somebody is telling you what to do, but because you can see the whole system. So we have whole optical, like total vision of the productive ecosystem. Right? And so that's what we what's that's what we're doing with peer production.
+
+[27:59] What I call peer production is more and more people are organizing collaborations that work from the from the digital layer down. Right? And so that's kind of cosmologicalism, but the thing is we need to find the right balance. So one of my critiques on Web three, for example, is, let me give you an example from last year. I was in diff, was it DiffConnect last year in in Bangkok
+
+[28:26] in '24, and that's two years ago. And, funding funding for the commons or funding the commons. Right? And, typically, what happens is you have a few engineers and say, oh, let's do this, and, let's make a software that connects, organic consumers and organic producers. Great idea. Right? Well, there's like 200 of them already.
+
+[28:49] And they they didn't even check it. Right? So this is a problem with web three. Right? If you're only global, and you're not rooted, you're going to invent lots of solutions that just don't work, because they start from your brain. You think you have a good idea, but it's disconnected. So that's because my localism, the localism is very important. Right? So I think you said it, so I'll just repeat it briefly.
+
+[29:17] So three levels, hyperlocalism is like can we do things locally now that we couldn't do before and that become economic economically and technically possible? First question. So then bioregionalism, why bioregionalism? The state, the nation state is a culture and political institution. It is not environmentally friendly.
+
+[29:41] And by the way, a state doesn't have any ecological obligation for the planetary ecology. It doesn't. Legally, it doesn't have any responsibility. But by regionally, you you know, like where's the water coming from? Where's the energy coming from? Where's the food coming from? That's something that you can do bioregionally. Right? So bioregion, there are like
+
+[30:05] 1,300 of them or eight fifty bioregion and 300 eco regions which is in the ocean. Anyway, about 1,300 in total. So you can organize the world around like real ecological features like basically watersheds. Right? And so okay. You do things locally, but what is the bioregional level is the the horizontal complementarity
+
+[30:28] at the ecological level. So I'll give you an example. I was in Kunming visiting an eco village there called Damoyo Eco Village and so permaculture. So one of the projects is you know what permaculture is. Right? So permaculture is very physical, very local. Right? Feet in the mud, working with local people.
+
+[30:54] But then they were working, there was like, organic lesbian restaurant and all kinds of other stuff, in that village and they were all working together. Right? So it was not a really COVID in the sense of like, an independent village, but it was a coalition of different initiatives within that ecological region around that village. Right? It's like a valley with a mountain.
+
+[31:20] So that's what bioregional is. It's like all the people trying to regenerate, work together, help each other out, create complementarities. So that's the second level. And then the third level is learning from everybody in the whole world. So, if you in permaculture, you get permaculture certification online
+
+[31:42] from like a global initiative. Right? And you you visit other eco villages. You have connections with like similar regions, you know, because the like the ecosystem is the same. So, Nepalese people are connected to people in the Andes. Right? And they learn from each other because have the kind of this similar biotope. So, the learning is cosmic. So that's what's, cosmologicalism
+
+[32:06] basically means. Okay. Let me see. Yeah. So let let me, I don't know how much time I have. I tend to always talk too long. So I Alright. Good. That's good. So let me introduce a thinker which I I think is
+
+[32:30] quite illuminating to understand not just where we are, but when we are. So, this is Kojin Carrapani. I'm a big fan of Kojin Carrapani. His book is called The Structure of World History. He has another one called Isonomia. And his third one, I'm waiting for it, it's in Chinese and in Korean, but not yet in English,
+
+[32:57] It's about the spirit in the commons, which is a really interesting topic for me. Alright. So so what does he say? So he looks at history in terms of value exchange modalities. So, how do we deal with value? And basically, in the tribal form based on kinship,
+
+[33:21] commoning and gifting is the main way people dealt with exchange. So, not markets and not the states. Right? So, they basically would either, pool resources or they would, basically a gift. Now, the difference is so commoning means you exchange with the whole. So you come back with your deer from the hunt and it's for the whole family. Or you're Amish,
+
+[33:44] a new couple wants to marry, the whole community builds their house, but the the couple doesn't owe anything back to any individual. And that's very good for nomadic communities. Gifting is very good for settled communities because once you settle, so horticulture, agriculture, now you you can't go away. Now you have a potential enemy next door.
+
+[34:08] So, let's let's stay friends. And so, your gift and counter gifts becomes the the main way of exchanging value. So, you look at North American Indian, it's called the potlatch. Every year they would come together and they they would compete in gifting. Right? They would obtain status by giving to others. Okay. That changes once you have conquest. Right? When you have conquest and domination,
+
+[34:33] you you can do gifting and commoning. So that's when the states comes in. So I'll protect you. You pay me taxes or surplus, and then I'll redistribute, you know, to keep the balance in the society. So this is kind of the civilizational model, empires, monarchies, etcetera. So that's mode b, the state,
+
+[34:55] and then mode c is the market. Okay. So far, I think that's quite, easy to understand. So what's the problem? So the problem is every time we invent a new extraction regime, a new value regime, it's very costly for humanity. So, we were tribal. Now, we invent agriculture. What happens to the tribes?
+
+[35:18] They have to flee to the marches in the mountains. Empires don't like tribes. Right? So they basically they they abolish the tribal system. Now, then we get industry. What happens to the farmers? Well, they have to leave the country. Right? So you can see that an extraction regime, so new a new way of extracting value from the world for humanity, hunter gathering,
+
+[35:45] agriculture mining industry, cognitive. Every time it's very costly. Right? So now we have to, this new shift from industry to whatever we can call it, cognitive, I'm not sure, AI. And think about it. So what is AI? The dream it's so somebody said, Zizek, AI is the wet dream of capitalist and communist alike.
+
+[36:08] What did it mean? Well, the dream of capitalist is to pay as as less as they can for labor and the factors of production. Right? So the dream of AI from a capitalist point of view is production without workers. Right? But here's the problem. If you don't pay workers for the production, who's gonna pay the products? Right?
+
+[36:33] Then the the dream of the socialist was, you know, to use automation to eliminate drudgery. Right? So that's why it's the wet dream of both. But you can see that under the current regime, under the current logic is gonna be very very harsh transition. Right? The a lot of work, you know, routine intellectual work is going to be replaced.
+
+[37:00] And so, again, so we are we are at the beginning of a shift from a particular modality to another one. So, okay. So this is mode a b and c. Right? Okay. So here's the the point of Caratani which I find very interesting. So, we are genetically and anthropologically primed to live in convivial small communities. We actually want this. We want to be surrounded by family and friends.
+
+[37:26] This is when we are happy. But civilization doesn't really allow that a lot. Right? We are we are pushed away from the land. We have to live in cities. We don't know our neighbors. We have to listen to our boss at the in the factory and do the same thing every day unless we're lucky like most of people here probably are more creative. But, you know, in general, there has been the fate of billions
+
+[37:50] of people. And so you can make a difference between the invention of the extraction regime and the way to make it more humane, and this is mode d. So mode d is the permanent attempt by humanity to recreate mode a at a higher level of complexity. So you want to live convivially,
+
+[38:13] but you don't want to die at 30. So we want to keep what we have and at the same time we want to be more happy. Right? So what was the first mode d? Religion. Right? So if you know a bit about history, there was a big catastrophe in the thirteen cent yeah, thirteen hundred BC. Like there's a big diode of civilizations everywhere in the Mediterranean, Middle East. I'm not sure about the Chinese situation, but there was like a real catastrophe.
+
+[38:42] And after that you see what the actual religions are. They're all born at the same time around June. Confucianism, Taoism, the Greek philosophers, the Hebrew prophets, they're all born at the same time. And so, you can say is this was the attempt by the people to humanize
+
+[39:06] the civilizational form that they had. Right? To make it more compatible with human social life. What was the second one? Maybe a bit more controversial. I don't know. Socialism essentially, right? When we have the industrial revolution, there are all kinds of socialisms emerging everywhere where capitalism emerges
+
+[39:29] at the same time. So, you could say that socialism, the welfare state, the Chinese model are all attempts to humanize capitalism. Right? So, and of course, so first you have religion and then you have mass ideologies, mass movements. That was what we used to think about. Now, I ask you today, would you still think in the same fashion?
+
+[39:54] Some do, of course. You know, there's still people trying to create a new communist party, you know, that that doesn't do all the mistakes from before. Still have people like that. But, who who really believes today that the poll that politics is the answer? And, there is a good reason for this because the power is not in the nation state. In the eighties, capital became transnational.
+
+[40:19] And so, what you're doing in the nation state to very large extent is a comedy. This is not where things are happening. Right? Because if you do something against the system which is already planetary, within one hundred days your banks are closed. Whether you're on the left or the right, doesn't matter. If you have radical ideas about changing society at a nation state scale,
+
+[40:42] you cannot do it. And that's why we had seventy years of stagnation in politics. Right? It doesn't matter who you who you vote for in the West, it's the same, the same. So, here's my my proposal. What is mode d today? Constructive networks. Constructive trans local cosmo local networks. So it's no longer waiting to change a political system where they actually don't have the power.
+
+[41:11] It's a question of creating a new life right now with the technical possibilities and the people that want to join. And this is I think partially what web three is is doing. And let me just briefly, I know I'm probably over time already. So two minutes. Yeah. So let's look at web three. So
+
+[41:35] just this is a timeline of Cosmo local infrastructure. So in '93, we invent a browser and the web. Very important, but it means the democratization of the Internet. Now, 5,000,000,000 people, even more, have access. Second, in 2008, on the p two p foundation side, by the way, Satoshi Nakamoto writes his white paper and invents the first globally scalable non state, non corporate
+
+[42:03] currency. So we now have a Cosmo local currency, not one, but actually a thousand because, you know, there's many many, of these types of cryptocurrencies. But there's another innovation, the blockchain. And what's the blockchain? It's the first universal accounting system in the history of the world. Before that, we all have our own accounting system
+
+[42:27] and we can only see if we are benefiting or losing. Now we have three d accounting. If you join at the AO, you have three d accounting. Every transaction is a transaction within the whole network and you can add impact measures. Right? So for example, take region network. They have a planetary ledger which summarizes the ecological
+
+[42:52] state of your project. So they have 36 metrics and everything you do is immediately, like, translated into this is the effect I'm having on the ecosystem. Good or bad. Right? Then they've connected it to financing mechanism. For example, if you produce a biochar, there's a lot of countries which will give you money if you can prove that you produce biochar.
+
+[43:17] Right? So this is a planetary ledger. We never had that in the history of mankind. So this is I think what web three is about and I'll close with that so that what we need to do now I think in my view is combine all the people doing regenerative production. So if you're healing the soil, doing permaculture,
+
+[43:40] doing renewable energy, you know, whatever it is that you're doing that is actually not hurting but regenerating your ecosystem. So that's happening by the way. It's it's growing very fast like tenfold in the last two decades and I, you know, I can share those figures. But what is not happening yet is the scaling and collaboration
+
+[44:04] of these things to new methods of coordination at a global scale. And I think this is necessary. So, now we have so so in empire, there are commons and the the empires respect the commons. Under capitalism, we destroy the commons. And then we believe the state should regulate the market.
+
+[44:30] But once the market becomes transnational, the nation state can no longer regulate the market. So, we need a force that is as strong as transnational capital and for me these are transnational common centric institutions. And so that's why I'm I'm finished. The archipelago of regenerative projects. This is anyway what I'm I'm trying to work for. Thank you.
+
+[44:57] Some more about AI? Yeah. Okay. Something about AI. So so AI so this is the one more thing I I wrote about yesterday, you know, local community here, January 21. We will have a big meeting with it. I think about 20 communities from China are coming,
+
+[45:21] in different places as well to self organize events around the team of AI. So the idea of AI is we are at a threshold basically. Right? So within the current system, it's a nightmare. If we have oligarchically owned AI with the aim of eliminating human labor as much as they can to make maximum profit,
+
+[45:44] it doesn't work. So it's gonna be a hellish transition. If we can manage to use AI Cosmo locally, you know, community driven AI, open source AI, collaborative AI, and make it useful for Cosmo local production, then I think we have actually the ideal technology
+
+[46:07] to, accelerate that transition. So that's kind of the point. Alright. Yeah. Thank you. Thank you, Michel. We'll now stay here. We'll have a photo taking session, and then we will have a short break. But we take the photo first. Joanne? Yes. Thank you. So maybe we here and then
+
+[46:30] Michelle. Michelle and Terence, you can sit. Yep. And yeah. Can you help us the our group photographer? Can you help us to take one? Okay. Thank you very much.
+
+[47:46] Okay. We'll have a short break and come back at 3PM, and then we'll have a q and a session at the latter half of the, workshop. Okay? We'll resume in one minute. Okay?
+
+[58:50] Okay. Welcome back. Welcome back. So so we came to Chiang Mai all the way from Hong Kong, and then we go to this place. The venue host is, four seas. So we all want to learn about, what what is four seas, how come there's a co works co working space here in this location.
+
+[59:17] So we I pass the microphone to Sikh who do a sharing thirty minutes about, the organization. Thank you. Thank you. Let me Hello,
+
+[01:00:21] everyone. I'm Zeke from Fosys. Welcome Chumai. Welcome to Fosys. When we talk about what is Fosys, normally, have to, talk about what is Zuzalu because Fosys is a permanent, base of Zuzalu movement.
+
+[01:00:45] So what is Suzalu? Now we have a lot of societ social problem problem. We like, the the the the big company control everything, and the, the how to say? The big government also control everything. And the government,
+
+[01:01:09] collaborate with company together, that is the most dangerous thing because too big a power, if they they they come together, it will be, very dangerous for the whole society. So we we can see when we talk about the future, we will have some kind of ideal ideal
+
+[01:01:31] idealism. Sorry. My English is not that good. And there are one part. They they think we need to improve our system through the market, the state. We want to update the inner system to find the the better future. That people will lead it to,
+
+[01:01:58] how to say, the they will improve the the the the the system the system now we have. And this part, they're called This part of people, they want to create, like, network state. They want to, like, create
+
+[01:02:22] a small country in the in, like, free free Liberland, like Liberland. This is a country in the in the in the in the the play in in the ocean, in a place. So they want to quit the whole society, all the system. They want to create their own some own society structure. And this
+
+[01:02:47] is the ideology of Suzalu because we think in the future, because of the technology, we can connect all the people through the whole the world. But when the people stay in a different place, they have different idea. They have different culture.
+
+[01:03:09] So for Zuzalo, we encourage all the good society and depends on the technology we think the society can be very tiny, small. So in the world, we will have many a lot thousands of society in the future and, based on our technology and, idealism.
+
+[01:03:31] So this is the the target of the value. We can like Bitcoin, we say we say the such as create Bitcoin create the build the the the blockchain technology. But before Bitcoin, actually, we have a lot of different technology,
+
+[01:03:54] a lot of different projects to try to to make a decentralized global economic system like bit of gold and some project is or this projects are before Bitcoin. So Xuzalo is is same before Xuzalo appear. Something already happened.
+
+[01:04:18] This is the is a is a novel about how to quit the society, the older society. Okay. Yes. This is what I said. Like, we people like, they're the goat
+
+[01:04:41] we go to goat displays. Sorry. I'm not so familiar about this part. This is kind of we move all the the how to say? We'll move a lot of, like, productive
+
+[01:05:08] people, like engineer, artists to our limited area and the the whole society out of the area because they the the the bigger power disappear, so the the system is broken. And then the guy said, okay. Now I want to create a new society. So this is the the the way I say the the the first page. And this is because
+
+[01:05:36] we don't like the laws, the the the structure, what we have now. So we go to the ocean. We find a island. We can stay there. We can do everything we wanna do. So and this this little bit is kind of based on the society now. We now we are Internet period. So
+
+[01:05:59] we find not only the physical land is the the the the resources. We also find that the cyber cyber world is a bigger, bigger, bigger space than the physical land, physical earth. So this grand kind of people, they want to create create a new system like,
+
+[01:06:24] else. How to say? The ownership chain is very clear from one person, one organization to another organization. Like, now the capitalism market system, the ownership is not that clear, so it's kind of a mess. So this is one
+
+[01:06:47] type of the thinking how to update our society. Okay. So Zuzalu is quite different with this kind of quits or or states improvement way to to to to
+
+[01:07:10] future our have our better future. The first is idealism. We say that it's plurality or diversity. We we we we think people are different. The place are different. Geography is different. So we should have different culture, should have different society structure
+
+[01:07:34] by by the people they want to have. And and then we want to, how to say, improve the social tech knowledge, like, tech knowledge. Like, now we have many kind of democracy. For example, in Switzerland,
+
+[01:07:58] it's like one person, one vote. And the direct it's called a direct democracy. Right? And then, like, America, there is different. There are group of people vote one person, and then they they want vote again. And then this yeah. So many, many different kind of democracy ways to to manage the whole country.
+
+[01:08:23] So we want to improve this kind of technology to to make the yeah. To update. And, also, the economic part, like, project funding, like, deeper funding, this kind of thing, we are also found we are trying to find some way to to make the society
+
+[01:08:48] resources move to follow to the public part. Because we we think in the physical world, the government control all the public goods, almost all the public goods except especially in China. Nobody can do that. It's like you wanna create a road. No. It's it's impossible. Kind of impossible because
+
+[01:09:12] public goods means public power. If you do a lot of public goods, you have so much power to control the the the the the area, the people. So we want to improve this kind of the the economic part to create a more solid infrastructure for the society.
+
+[01:09:38] So this is the history where we think where we it's from actually, the first first, the ZuZulu started from, yeah, very late two two years ago. Right? Three years ago almost. But before that, it's 2021, Vitalik
+
+[01:10:01] post a blog called capital cities. That's quite early. That time, like, CityDAO also very actively they are they're in American someplace, you know, in in the deserts, they buy a big piece of land and try to use the blockchain technology
+
+[01:10:25] to different resource attribution ways to like, they sell NFT to try to find a new type of ownership relationship. But, yeah, it's that time. And then, 2022, July, Balaji,
+
+[01:10:49] the the the the how do say? Silicon Silicon guys. We can say they are from silicon. The the idealism is about silicon. And they he wrote a book called the network state, and the Vitalik recommend wrote a long very long blog to talk about what is what is he he thinking about the network state.
+
+[01:11:13] And then and then then it's very soon he started to to think about what is maybe it's the time to create a a a experience. So that's the start of Suzalu. And during DevCom Pogoda, he started to think to really start to think. And it's the the their movement is really fast.
+
+[01:11:38] The real move real real actions just to start from January 2023, he find three friend. They have they have four people. The the small group started to to find the space with where which place they will Zuolo will have it. Finally, they choose the in in Montenegro.
+
+[01:12:01] And then very fast after two months, it's happened, and they keep it two months long. Yes. And that I don't know where the figure from. The the design is very interesting. You have 200 residency and finally, there
+
+[01:12:25] there was like 500 visitors. So they are almost all of them, maybe half of them, they stay there whole whole period two months long. But many people, they come like two weeks or three weeks, quite a lot. And so many people, they stayed together in Lustica Bay just, yeah, this this place.
+
+[01:12:50] So it's like a small physical area and different people come like blockchain people, AI people, biotech people, and, like, a scholar. All different account people. Yeah. Michelle also there. We we met there. Yes. So for the first Zuzalu,
+
+[01:13:15] the very important thing is, ZUPAS is is based on ZK technology. We, it's a hackathon product at first. And then during the Zuzaalu, they improved the the system. It's new it's new based on the k DID project. So, yeah, I and then this pass
+
+[01:13:40] finally and based on the pass, we have the ZooPool and the ZooStamp, this kind of application. Now ZooPool, like, you can anonymous vote. The peep no people you know, when you vote when you say, oh, yes. This one, yes. Or you say no, it's can if people know who you are, it means you have pressure.
+
+[01:14:04] You are harder to make a decision because you have to think about, oh, other people how to think. So Zupor is nobody know who are you. So you just vote for what you think. And this is also quite an important application. And after that, DevCon and DevConnect or start to use ZooPass to as a certification.
+
+[01:14:31] So this all all the experience. And after one year no. Not one year. Like, a ten more than half a year, Metallic post Zuzalu twenty twenty four proposal, decentralized it. As a beginning, it's a small group, like, eight people finally to organize the whole Zulu one
+
+[01:14:56] point in Montenegro. But after that, he Vitalik think it you cannot always control one thing because we will be become the bigger power. So he decided to decentralize it. He use a new way, like, 500 is to through to Bitcoin
+
+[01:15:19] round to to distribute, not distribute, to share the the the grants to different, programs, organizers, projects to in in ZuZulu ecosystem. And Right. Where is when we talk about yeah. And then, actually,
+
+[01:15:50] this Chiang Mai so last year, after decentralized the Suzhou, like, around 10 pop up city happened in in in Chiang Mai, same time. And, like, two weeks ago, Vitalik wrote another article about the the society structure research.
+
+[01:16:12] He say he he feel based on Zuzano system, like, the the way pop up season, this kind of way, some some of the pop up cities happen in the same time, same space, same place. That's probably the most sustainable way. Yes. So that that is the last year that happened.
+
+[01:16:38] So about the governance, we tried to this also harder to discuss. Committee committee committee is kind of, you can, like a a foundation. You if you have lot of money, you have to manage. Probably, have a five person or nine person community to community to vote what kind of project can pass, the grants can go. So that means a small group of people decide everything.
+
+[01:17:11] And if people don't have same idea, don't have consensus, they can fuck. They can soft fuck, like like, share the money to to to parts. And this group people do what what do they wanna do. That group people, they do what they wanna do. Like, cabing down. Like, they cannot make a consensus. So finally, they decide, okay. We pay all the money back to other NFT
+
+[01:17:40] holders. So that means failed. But software focus some kind of it's not good for the whole system, actually, but it's quite often happen. And the permission part is it's quite deep to to say. No. My English is not good enough to talk about that part. Sorry.
+
+[01:18:09] Yeah. This is the governance. So this is the the history of ZOZALU. Let's talk about what is forces. Four Seas is created by a a group of Chinese builders of actually, Planker Planker Planker down is the first community
+
+[01:18:32] we created, like, almost four or five years ago. And we initiate GCC. We initiated on commons for seas and the east panda. GCC is a donation community, donation for the public goods. And Uncommons is a research community.
+
+[01:18:57] They do a lot of research about the cyberpunk, capital, the philosophy, these things, and public and do some also interview to the to to the important people. And they they posted their results to Chinese award. And the forces. Yes, four c's is here. So
+
+[01:19:21] what we want to do is we started from November 2022 after the network state book, published very soon. And so for this, it's focused on how to, it's kind of a experience about how to create a network state even though we don't think the
+
+[01:19:49] concept is 100% right, the network states. We don't think maybe maybe we don't need a state. Maybe it's a society. Right? Small one. And the East Panda is the community for connect Chinese builders, researcher with the whole global is Istrian network.
+
+[01:20:14] And, yeah. So this is where FourSys from. 2020 yeah. This we can have a look. We most almost all all of the four c's co co contributors are in Xodaro one point. And we and we
+
+[01:20:37] rented the first space in June 2023. Since that time, we started at at the beginning, we are not so clear what it is for CS. We think we just do something for how to create a network state. But finally, we we but very soon we we we find that Suzalu is the best way probably till now to
+
+[01:21:01] do this kind of experience. So four c so naturally become a permanent spay permanent node in Suzalu movement. This is the physical part. We rent mountain view from this mountain, and we support the Wamau too. Wamau to I don't know if you know Wamau.
+
+[01:21:25] Wamau will happen this month again on January 24 to February 4. What will happen in Chiang Mai two this year. So that that will be a full point. One more full point. Yeah. And yeah. What? Okay.
+
+[01:21:55] And is Nimman is second spot. And, actually, we also tried in Istanbul, we'll create a a node. But probably the yeah. Because culture or something, we we we closed it one year ago. Yes. And then we also host
+
+[01:22:19] wrote it to DevCon. We support the Invisible Garden and the Funded the Commons. It's all all the Invisible Garden is focused on ZK technology. It's a hackathon happening here. It's, like, forty five days long. So and the founding of commons is a community to find a better way to support commons funding,
+
+[01:22:44] like the name said. Yeah. And yes. And now my the period. Yes. And also, we are planning a Zulu library. The the space will be just there. This Building, we call it E Building. It's the main building and the the right side of of the whole community.
+
+[01:23:13] There are three units. It will be Zulu library. It will happen this started this this month. Yes. This it will be looks like this what we are
+
+[01:23:37] what we did in in society yes. And this is what we are doing for the local because we stayed here already more than two years, and we we do a lot of things about the customer local. So but sure. We are we are a
+
+[01:24:00] global part, but we should have connection with local part. So this is the the things we already did, like flood donation. Like, Eva's house is for orphan shelter. They they have more than 30 kids, so we we also supported them. And then we also,
+
+[01:24:23] on the road to create, forces public funding for support to the whole the the the local part of things, like library, like connect with CMU, Chiang Mai University, do research to support the students. These things okay. This is the last page.
+
+[01:24:48] Thank you. Thank you. Thank you, Sikh. So, Sikh, give us an overview of the work of Forsyth here and then the origin of the Sousa Nood movement. Mhmm. So, so Sikh mentioned about
+
+[01:25:10] Forsyth also want to find ways to connect with the local communities. So I guess this event may be another opportunity to think about potential collaboration between a COSMO local movement with some local to social economy fair trade activities. So the next speaker is Elias. Elias from he's the
+
+[01:25:36] originally, think he's a Thai person, but he's not he he's from Burma. Right? Yeah. But he's very familiar with the Thai fair trade, sector. So it's your time to, do a share both in Chiang Mai and also in Thailand. Right? Okay.
+
+[01:26:06] Yeah. Just sit here. Is that okay? Yes. Yeah. Sorry. I didn't know that the some presentations required. I was thinking, like, we we just tape around and then do some sharings about fair trades and local and all these four c's. And I was shared by Joanne about the Michelle's
+
+[01:26:31] one of Michelle's interview as well. So I listened to his interview and I found some very common ideas that I also like it. But, anyway, so I sorry about that. I don't have, any slide show or presentation to do, but I would like to share a little bit about, my experience with Fair Trade in Chiang Mai, particularly with Thai Tropical Craft. And also, I would like to mention that I'm not officially representing Thai Tropical Craft today.
+
+[01:26:58] I work, with Thai Tropical Craft since around 2006 as intern students to Thai to Rakove when I did my master program there. So I like the philosophy of fair trade and the principles. And I myself belong to Chin ethnic originally from Myanmar. So
+
+[01:27:21] I grew up as locally. I grew up in the village and I like the culture and I always think about, you know, I like business. But when I think about business, I feel like why why when we do business, why people, you know, like, only the owner get all the profits or maybe only all the shareholders get the profits.
+
+[01:27:46] And I'm thinking, why there is no such a business like where you make living and also you create living from someone else? I don't know about Fairtrade. I don't know anything about but it it it would just unconsciously I grew up in that mindset. And one day, if I have a chance, maybe I can do something for my my communities, my people in the village, you know, to have sustainables and all these things.
+
+[01:28:10] And one day, somebody introduced me to type of craft because I was looking for to do my internship. And I found out that Thai Tubercraft was one of my dreams because I like the values, especially that time they were. So tied to become become a member of World Factory certified in 2022,
+
+[01:28:34] I think. No. 2002. So it was more than twenty years ago, and they are the first pioneer warfare trade certified member in Thailand. So when I found out the the principles of fair trades and how they help the community, I thought that was one of the dreams that I had in my life without knowing that exist.
+
+[01:28:59] So, basically, what I like about fair trade is also about the sustainable. K? Sustainable and helping the communities. And for example, when when I see some projects from NGOs, for example, so when they have water projects, let's say, and when the funding the funding ends, everything ends.
+
+[01:29:24] Maybe the village may have water wheels for the next few years, but the project normally stop. And when they have emergency for housing, for example, or something emergency aids, and then they do something and then the project ends. The funding ends, the project ends. So I feel like that's not sustainable way of living. But when it comes to fair fair trade, I see fair trade as a sustainable business. This is a business, but also sustainable.
+
+[01:29:51] Because, like Thai Chubakar, when we are dealing with the the local communities, we preserve the culture because Thai Chubakar work mainly with the tribal people in the villages based on traditional and the the cultures, weavings, and all these things. So the first thing I see is also they preserve the culture. So the culture will not disappear. And also through this culture, you can make some income, some you can create some jobs
+
+[01:30:16] and some income. So I think that kind of business give you more sustainable. So when we teach or when we work with the villages or the local community, when when they know how to survive themselves, I see there where there is a sustainable. So I also give some example when I talk to people, like, for example, when you do something, you know something like a vocational, for example, if you know how to
+
+[01:30:43] cut hair, for example. And then you can continue to be you can continue as a barbers to make a living for your future. And if you know how to weave something traditionally, you can create your own dress and also you can, you know, sell your your textile. You can also teach your generation. So it's all in one as a sustainable way, preserve the culture, creating jobs, income,
+
+[01:31:11] and also, continue as your generations. But the setting on the other hand is new generations are not very interested in the culture their own culture. So in 2017, when the the the the former manager left back to the stake, the board decided that I become
+
+[01:31:35] the manager of Taitur Raghav. So I led Taitur Raghav seventeen to last May, so over seven years. And I led to Tyler Kraft through COVID as well, so which is one of the darkest time in history. A lot of business were closing down, but we were lucky or we were blessed as to pass to to survive through the COVID. But the point is
+
+[01:32:00] we survive through because of this community, because of this society support each other. Like, not like, the same as commercial business, for example, when you were with the commercial business, people will come mostly for the profit. And if you cannot give them the price that they want, for example, you know, the sometimes we deal with the commercial people. They're like, hey, can you give me 50%
+
+[01:32:25] price off for wholesale? So I told them that even our whole profit is not 50%, how can we give you the 50%? But the point is the commercial will come mostly for the own profit. And if you don't provide what they want or what they expected, they will just disappear or they will not collaborate with you. But the good thing about fair trade, we move as a community as, you know,
+
+[01:32:51] we share the same missions. So in the fair trade, the South is the producers, the manufacturers. We are the certified member, but we are from the the manufacturing parts. But on the other side of the world is a fair trade buyers. So we are as a global movement, we are as a certified member together. The global buyers are helping the the old members in the South.
+
+[01:33:16] The point that I'm trying to say is, like, those kind of difficult times, I realized that it's very important to have your own network, your own community, like sharing the same mission together. In our case, we almost closed down as well, but I wrote to our buyers and asked them if they can even
+
+[01:33:40] order earlier. So normally, for example, when the the orders come, they will order, like for spring summer, they will order, like, in April, May. And then for autumn winter, maybe they will order, like, in in November. So some buyers, they will order, like, in November. So I asked them, instead of waiting until November because we our our guest flow is almost out,
+
+[01:34:02] can you help us to order in, you know, in February, in March, as soon as possible right after the New Year, after the board meeting? So the way I feel was the community, the support of the membership, the support of the community that we have as a veteran members. And at the same time, our purpose is not just to get the order and survive ourselves.
+
+[01:34:26] Because when we when we survive, that means we survive together with our producers from different villages. Because the producers the products come from different villages and the communities. So when we get orders, that means we we we provide another job to the communities back in the villages. So how that's how I feel the whole network of fair trade and sustainable
+
+[01:34:49] way was going even until now. But today is, like I said, younger generations are not very much interested in in their own culture. And also globally, I think the the handicraft market is also going down. So traditionally, people or most of our local people focus on, oh, this is our culture. This is our product.
+
+[01:35:15] Buy buy from us. Buy from us. We are factory members. Buy from us. But in in in reality, it doesn't really work that way anymore. You cannot just claim that I'm factory members, I'm doing good and then you should buy from me. But it's more than that. It's more functionality, you know, how our products or how our move movement can create
+
+[01:35:38] impacts to someone's life. So the challenge nowadays is to to make it stronger out in our own society or in our own organization to make it something more functional for the people that we work with or our customers because there are a lot of competitors around in the market as well. And then
+
+[01:36:05] in my work also, I hosted the students like and I hosted student from Japan and Philippines. And some of the question that we get from the students were, how do you manage your your competitors? So I used to say that instead of focusing on our competitors, I think we should focus more on how become stronger how we become stronger
+
+[01:36:30] and to get more market positions or the the market sharing in the global level. So as a fair trade, the good part is that we have the network, that we have the certify process, we have the the principles, especially the principles are I think good. But in reality to follow the principle is also challenge because of this global challenge,
+
+[01:36:53] because of this price issue, the labor issues, the interest issue, a lot of challenges behind. So later, our movement our activity changed a little bit more to different experience programs. For example, in the past, we focused more on handicraft only. But later, we focus on the experience program called
+
+[01:37:19] as example, we have the weaving class. We provide them weaving class traditional weaving class to the people who wants to try, who wants to come and experience the the traditional way of weaving. So you try, you also learn how the traditionally works. And at the same time, this also preserve the culture because by introducing by teaching someone,
+
+[01:37:43] we preserve the culture, the tradition that we we in textile. And also, we make some income and we create a job at the same time. But more importantly, when we do this kind of activities, for example, the younger generation come to see that, oh, now their cultures are appreciated by other peoples because it's getting
+
+[01:38:07] more popular. And nowadays in Chiang Mai, if you look at the visitors, a lot of visitors will go to the local experience, like cooking class, coffee, you know, weaving. Tomorrow, so we are going to the village the village. Like, when we go to the village, instead of approaching, like, just a normal business community tourism base where people will come to change your village, oh, we will turn your village into a tourism village. So we have to make the toilet in this way, and we have to make in that way. In that way, is that it? So if you really want to feel the the authentic way and if you come to change the village, how this can be authentic anymore. Right? So our way of thinking
+
+[01:38:50] is we also run the other project called Fair Trade Tour. As as a Fair Trade Tour, we focus on the real authentic one and visit the village as it is. So we don't request them to change this, to change that. But, of course, we need hygienes and to make sure that people are safe. They they feel home in the village. But we are not trying to bring the tourists. We are not trying to change the village into a tourism industry
+
+[01:39:15] where the market will demands this, that, you know, overstay night and they people the visitor might need drinks, bars, so on and so on. So as one of our experience to the village to feel it as authentic way. So what I'm trying to say here is there are fair trade principle in a good way also, but we have to make it chain and more functionable,
+
+[01:39:41] more sustainable, and also provide more interest or more attraction to the younger generation as well. Because as a society, when the older the master weavers are getting old and if we don't have any new generations interest in what we are doing, then the mission will disappear slowly. So I think the connecting between the the master
+
+[01:40:06] weavers or the producers and the young generation become also a challenge. So where there we have a a cap between. So we collaborate with these villages, not only by handicraft anymore, but we we create try to create more with experience program where people can learn and experience and also preserve at the same time. And a part of the project that we're also doing is the
+
+[01:40:30] we collaborate with the the universities. The the master weaver transferring knowledge from the master weavers to younger generation.
+
+[01:40:53] So the way we transfer, for example, the interesting part is the the master weavers, most of the the elderly peoples, they don't have any written script. How to weave, which step one, two. There is no such thing. But the weavers remember how to weave generations to generation, and they they they know how to weave step by step in their mind,
+
+[01:41:16] but there is no written records. So with the tech with the help of the technology, as the first part is, we we create a technology and app to to capture the picture, and then you lay out you create some basic designs in the app. So the weaver can look at the app next to the loom
+
+[01:41:38] and then open which step you follow. So at least you remember which step or which patterns that you want to weave. So at least this is helpful, I think, for to to to collaborate the the traditional ways and the technology to combine and also create more a better movement, more better functionality for the future.
+
+[01:42:02] So fair trade itself is great. The principle is great. But I think we also need a lot to integrate with the new technology for the future so that we know how we can connect with although we work in the globally locally, but we also need to connect more with globally. So I think today's
+
+[01:42:26] what I heard from Michelle and the presentations, all the discussions about how we can integrate together, how we can centralize, or how we can collaborate together with the local to make sure that we have a better and a sustainable future with the younger generation as well. So that's a part of what we have been doing, what I have been doing, what I have been leading with the Tide Troopercraft.
+
+[01:42:53] And if you have any other question later on, then we can talk a little bit more detail about the programs or any questions that you might have. So thank you so much. That's my presentation. Yeah. K. Thank you. Thank you. Let's move straight to the panel. So we have few few speakers. We invite the speakers back together.
+
+[01:43:21] Can we have some chairs? Four or five? Yeah. Michelle, we we have we have chairs here. Yeah. So we can I think we can combine the panel with the,
+
+[01:43:43] q and a session together? So up till now, we learn about, on the one hand, we have the more old school organizing. So in the fair trade movement, in the social economy movement, things are organized in a more local, you know, small scale manner.
+
+[01:44:06] And, now we have the opportunity to use the new technology, not only to communicate, but, to really organize. So, Sikh, you want to join as well? Sikh, do you want to join as well? Yeah. Okay. Okay.
+
+[01:44:31] Together. Together. Yeah. Yeah. Yeah. Yeah. So we will do like a free throw, but, maybe I I I was weighs, some points or, weighs the first first question. I remember, Michelle just made a trip to China. So you talk about the rural revitalization
+
+[01:44:54] project. So I I guess they are not unlike the many of the fair trade project. There are many villages that, on the one hand, maybe, people are moving out to the cities. And then, increasingly, there are more, youngsters willing to go back to the villages. And then in
+
+[01:45:18] my presentation, I talk about whether we could use a more decentralized, way of organizing to support fair trade. And I remember, Michelle, you talk about it. So right now, I think most of you know about what is what is DAO. It's decentralized autonomous organization, DAO. So I remember you make a comment in back in Hong Kong, you said,
+
+[01:45:43] the only successful case of DAO you see is in China. All the DAOs fail in other places. Mhmm. Can you do you think you can elaborate a bit and whether because I I I thought about maybe in the next stage of the fair trade movement, we don't need the peak organization. We don't need all this label. The replacement may be some kind of DAOs that support fair trade. So we are consumer
+
+[01:46:07] supporting the producers. So we organize ourselves through DAOs or maybe we have a new cryptocurrency to support the fair trade. I think there's some some people developing some crypto for fair trade some years ago. Mhmm. Mhmm. So to see if you can do some general to comment on whether the we can merge the, Web3 technology with the
+
+[01:46:30] some sort of new way of organizing for the fair trade movement. Yes. Okay. So I I I think there's a different, emphasis, you know, in the Web three, we talk about on chain and off chain. Mhmm. So let's say off chain is the physical, you know, the more traditional way of of collaboration. You know, it's about deliberation.
+
+[01:46:56] It's about trust. It's about knowing people. And the Daoist is just the opposite. It's about working with people that you don't know. Right? It's so trustlessness is basically an attempt to scale trust on a global level where you cannot possibly know the people, and so you need very trustworthy transactional protocols.
+
+[01:47:19] So I think that's what DAO is about. It's automating as much as you can, you know, without having to know the other person, but, that's never enough. So the problem is you can make, let's say you you can do a funding process to DAOs. And so when I say DAOs don't work, what I mean is
+
+[01:47:41] they only work actually for dispersing money. Like most of the DAOs I've seen, they're just funding mechanisms. They don't sustain community. They just kind of, you know, do the public goods funding. So what I saw in China was a bit different. Okay. I'm not sure if everything I'm gonna say is the truth because I was only there for two, three days, so bear that in mind.
+
+[01:48:06] And, of course, they they show me what they want to show me, and it always looks better when you you show to somebody else. So what I remember so they had a collateral of about 1,000,000 renminbi. I don't know how to pronounce it correctly. And then on top of that, they had, like, tokens, 7,000,000 rice tokens. Right?
+
+[01:48:30] And they had 20 nodes. And the reason I think it's really working is because they showed me the interactions on the screens where, you know, it really showed that there was a lot of stuff going on. So it was not just like a a dead system. And I think the the reason it works well in China is a bit paradoxical. So first of all, the system in China doesn't really like autonomous civil society.
+
+[01:48:54] So, you know, it's you can do business. You're very free to do business. But, you know, you don't want to be seen as a as a competitor to the political system. And so paradoxically, what people told me because I visited grassroots communities in, Kunming, Chongqing, Wuhan, Shanghai, Pingyang,
+
+[01:49:17] Luisei, I pronounced that wrong as well, and Lantang. And then I went to Shenzhen in Hong Kong. And so what they told me is is a paradox. Right? It's precisely because we have to be careful about showing who's the leader that we have to operate in a peer to peer way. So that's kind of a paradox. It's precisely because China is a bit more centralized
+
+[01:49:42] that the people in the grassroots actually are more horizontal in their practice. And the same reason why the Dow is working is because a speculative crypto is illegal in China, so you can only do good stuff with your crypto. So it's kind of a paradox that why it's actually working there. Because, you know, sometimes when when situation is more difficult,
+
+[01:50:08] people have to make more effort to do good things. So I think that's what I I saw in China. So I think the other thing I want to say is that, I think there's a very strong trend towards re realization and not just in the West, but also in China. So in the West, it's very advanced. You know, I told you one fifty to 1,500
+
+[01:50:30] eco villages. You know, in Spain, there are 3,000 abandoned villages. And I have friends doing something called repoblacion, so repopulating the countryside. And this mayor says, every time I go to Barcelona, I come back with 80 people. So there is a very strong trend, in Europe, and I think in The US as well, of people leaving the cities, and I probably know this. San Francisco, New York, they lost, like, 300,000 people.
+
+[01:51:01] And there's, like, what is it? 8,000,000 people in The US that they don't know where they are. They're they're not they're not they're not homeless. They're not, unemployed. They're just and, my thesis is because I've seen this in in around Nashville in North Carolina. These people are there. They go back to the countryside. What's happening, for example, in France is that,
+
+[01:51:24] in, you know, these mayors of abandoned villages, they're giving free leasing now to eco villages, because, you know, if you want to buy it on the market, it's impossible. But if you're a mayor of a of a small village which is emptying out, you actually have a motivation, to attract people, and you do that by giving the land, you know, leasing
+
+[01:51:47] at very low price. Sometimes it's €1 per acre or something like that. And paradoxically, in China, I don't know if you're gonna agree with me. You know, this is an interpretation, but I think it's the correct one. So when when the party engineer the real estate bust, it's also the end of the urbanization drive in China. So it's like really saying we've done enough.
+
+[01:52:10] We have 60,000,000 empty apartments already. We don't need to do more. And so now it's kind of a reversal this idea. So we we use the surplus of the countryside to fund modernization, but now we're going to use the surplus of the cities to revitalize the these villages. And so I think that is actually happening. So there, you know, there are people who suffer from the party and have to leave and and close their eco villages, but I went to other eco villages which worked in very close cooperation
+
+[01:52:40] with the local leadership. So it depends where you are in China, how you know, whether it's a positive or a negative relationship. But definitely something is going on. I think there is a okay. I want to say one more thing. So what the rural revitalization revitalization movement is doing in China is not really about farming. And what they told me is too difficult. You know, machines are very cheap and things are very much set and also farmers are very conservative.
+
+[01:53:11] So what they're doing is revitalizing the villages by attracting new people to the villages. So in Ping An, for example, okay, that's one village, but it's like a set of a dozen villages in the mountains there. And, you know, there's like artists coming back. And this one guy, I forgot his name, he's, you know, systematically restoring all the houses in that village, calling his friends from Shanghai, Shenzhen.
+
+[01:53:37] And these people come there and they restore one by one these old houses. But it's not about farming. It's about actually creating a new economic life. And and so just a few observations, you know, in case it's interest of interest. Yeah. And to add that that actually introduce what I'm doing first and I'm
+
+[01:54:02] two hats today. One is iCommon, which is one of incubate projects from the Langdon University. So actually, we are promoting educating about the commons and actually, ourself is also a platform where we also facilitate different, collaborations. So what you mentioned about rural revitalization, actually, we also bring our people in Hong Kong to visit some,
+
+[01:54:29] this kind of like, new village in in China and also in like Japan, Korea, and Taiwan. I think this is also and sometimes my understanding in Hong Kong also, we also have some, like, new generations. They now, like, doing, like, slash job. I think the web the new technology allow them to work everywhere. So then in Hong Kong, they also have, like, some jobs, and then they also,
+
+[01:54:57] like, stay in the village. And also they do some crafts, actually. And I don't know whether yeah. This kind of, like, new trend or villagers, maybe some kind I don't know how it helped the crafts and the transition to sustain. So, like, my some of my friends in the rural side in Hong Kong, like, land town. Yes.
+
+[01:55:22] That's very interesting. And then they also sell. But the thing is like one I'm one fair trade movement is also struggling is about the sales. Traditionally, it is like selling like overseas. And what you mentioned about the locally is also one thing that we would like to explore. So my other hat is also I'm like
+
+[01:55:48] helping the World Federation organization and actually we are a platform. So this platform actually incubate, like, many years ago. Like, Terrence said that, like, in the midst of globalization. Sixty years ago, There are some churches to to to push this movement. So this platform, we say that it is a social movement
+
+[01:56:13] initiated to to make the trade more justice. But, also, now because, we also face a lit, some struggles or difficulties, what, at Elias also after COVID, whole economic, the market is also changed.
+
+[01:56:35] So the sales is for locally, the producer, they don't aware about the global situation, so they cannot adopt very easily. And also, we are also finding ways besides the North South trade whether they can have a horizontal trade, say, like domestic
+
+[01:56:58] and also member to members trade. This is also we trying thinking whether the new technology can help us in this. Another thing is the currently in twenty years ago, fair trade became like a certification movement. So many people say, oh, this is label is about fair trade and then they buy. But also there are some issues like fair washing and also people are
+
+[01:57:28] critics about. So whether blockchain can also improve this kind of, like, transparency and also make the certification more easy, more light, not not so many paperworks. This is also one of the lighting. I don't know the whether the community in Chiang Mai or they can support. We are in in in our movement. We are more like
+
+[01:57:54] old school and then we are yeah. This is whether if you have some advice. If you don't mind, I would like to just explain one project I saw in Brazil, which I think is really indicative of what what is possible today. So it's called Kurto Cafe, which means like a strong coffee, like espresso. So here's what they did. So
+
+[01:58:18] so this they don't want fair trade because fair trade, the way they see it is still, you know, global north organizations controlling the trade. So they didn't want fair trade controlled by Western NGOs. They wanted to do it on their own. And they call it feral trade. Feral means wild. Right? So it's not a regulated fair trade, but here's what they did. So they use a digital to make everything transparent. So all the coffee,
+
+[01:58:45] you know where it comes from. Without certification, you just know because it's an open supply chain. So, you know, where it's bought from what farmer, you can find out about their family, their history, you know, how they make the coffee. So that's one thing. It's like full fully transparent supply chain. Then the next step is they have a coffee commons, which means that all this community and there's, you know, a few thousand people,
+
+[01:59:09] they share how how they blend the coffees. So, you know, this and that blend so everybody can learn from each other and and see, you know, what they like, what they don't like. So then the the third step is really also innovative. It's called crowdfunded retail expansion. So they just ask their community, do you want a coffee shop in Rio De Janeiro in this particular neighborhood?
+
+[01:59:32] And then people, instead of buying the coffee, they buy the rents of the coffee shop. So, you know, the the interest is the coffee, but you invest in the rent of the coffee shop. So then they have a coffee shop. And in the coffee shop, you have, tokens like really real tokens, physical tokens, and you pay what you want.
+
+[01:59:56] So you buy the token, you pay what you want, but you have a poster that says exactly why the coffee costs as much. So if you want to pay the indicative prices because you know that you have the fully transparent supply chain and you can see, oh, that's why the coffee cost so much. And most people give 10% more on average. So I saw them before COVID.
+
+[02:00:20] They had one store, then they had actually, you know, two places that were twice the size here. Then they completely collapsed with COVID, unfortunately. But then, I called them a few months ago and they said, we probably will have 20 shops this year at the end of the year. So it seems to be working and they're experimenting with chocolates, with tea, you know, with things that have similarities with coffee based on their learnings. So why am I saying this? Because this is not a company.
+
+[02:00:51] We don't really know what it is. It's just it's an ecosystem. And all people contribute in different ways. And so that's possible. I'm just I'm not saying that's the ideal way to do it. I'm just saying, like, you can rethink everything with the digital. And that's what these people did. Like, nothing you see there, you are used to. It's like everything has been redesigned from the ground up.
+
+[02:01:16] Anyway. Very, very interesting. I can see some parallels in the I met in my presentation, I mentioned about the community supported everything movement. So we all work in we are familiar with community supported agriculture. It's local food, local
+
+[02:01:40] consumer supporting local farmers. In the in The UK, there are some examples. Let's say in in The UK, there are some community pub, and then they might be owned by two, you know, owners, very old. And when they decided to to retire, the pub will disappear. And then maybe some capitalists would, you know, take over or some some market people will take over.
+
+[02:02:06] And then in The UK, they have something called the, community right to purchase. So there are some law saying that if certain community, they are willing to pull the money and then buy back something, they can be the first, beater to take over something. So in in I heard some stories about in The UK, the
+
+[02:02:29] the originally, there's a small pub that had been converted into a community pub. So actually, the community members pull the money and purchase the pub, and then they continue to operate the pub. So I think the basic idea, this actually the old school social economy is about ownership. That we don't want the ownership to to be owned by some
+
+[02:02:53] market people. And so I'm I'm I'm I'm I'm actually while while you're sharing the the the case, let's say in in in Chiang Mai, in Thailand, If the people in Chiang Mai want to support, you know, the the craft people or the we we all I think there's also coffee farmers here. What kind of organizing we should attempt to do
+
+[02:03:21] to support them? Can we follow some, you know, you know, the example just mentioned by by Michelle? Or you mentioned about you are actually right now, you are talking about the experience economy to complement the the production, the manufacturing. Mhmm. You see, this is kind of like the soft technology. So you you you you you
+
+[02:03:47] try to bring in the tourists, trying to bring the young people. But through all the presentation, do you see any any other ideas that we can do to to to actually, you can share the case of Thailand, but maybe any other cases? Yeah. So a few a few years ago, there was a project, a workshop that I joined and I which was
+
+[02:04:12] YouTube training. Okay? YouTube training for the the village people. So idea was they invited the YouTuber from Bangkok and organized by one of the professor from Churalankon University in Bangkok and we become friends. She want to interview all our organization that I work for. So I I idea was she invited about
+
+[02:04:39] more than 20 village producers from the village to one of the hotels in Chiang Mai and then she invited a YouTuber to teach them how to make YouTube video. The the end idea is to make YouTube video from your own village. So because because of the technology nowadays, especially in Thailand, many remote villages get the Internet. So the idea is
+
+[02:05:05] if you can do a live or maybe YouTube video from your village, how to cook or how to weave from the beginning. So instead of somebody professional coming to your village or somebody to come and help you, if you know how to do it, you can do directly from your village. So in that way, people also can learn directly from you through online. They can see you how you make it, how you do it. So it's a more transparency, it's knowledge sharing.
+
+[02:05:33] And at the same time, like maybe some of you or maybe many of you already know that you do also has like monetization for example. So you can actually make you do income from the village where you share your knowledge to the global, you know, customers or visitors. So that's kind of technology. That was the project that I joined. And then I think that kind of project can be also possible.
+
+[02:06:00] Like, we can train them, our village weavers or our village people with more technology. And also one of the good example from our organization is in the past, for example, the organization has to go to the village directly to collect the products, to collect the orders, drive long hours. But this day, you don't have to do it because they have the technology. For example, we use a lot of in Thailand, we use line app. So when we have the new orders coming in, we can tell that we can send lines,
+
+[02:06:30] we can send a product pictures to the producer in the village by using the technology. So we send them, we want this techno we want this patterns, we want this color, and then we can tell them which size and the quantity and things like that. And then also, if the customer request a new products, for example, we can make our own new samples in the where we work and
+
+[02:06:53] we can take some videos or new new samples, and then we can send to the village as well. So coming back to your question is I think combining the the the traditional way of doing things with the technology is very helpful. And also in the village like we work with, for example, in the village we have the community leaders. So each village has leaders. So you don't have to call everybody in the village. You just connect to community leader and the community leader will organize together.
+
+[02:07:21] So they have kind of this center combine the operation together, combination, collaboration together. And then, for example, when we go tomorrow, that we will be at the the host family. But the host leader will invite the based on how many people will come, she can invite another weaver. One or two depends on how many people will come. And then other weavers will help her
+
+[02:07:50] at her house. So ideally, this is how they collaborate together as a village to create income together, to share knowledge together, to work together, and also the technology also help them. So that's kind of idea that I can share, but we can also do more than that in the future. Think now they like different apps are popular, TikTok or whatever. A lot of TikToks
+
+[02:08:13] are very popular in Thailand as well. So just example, there there are a lot of way to do a lot of way we can do with the the technology and the traditional way. Thank you. Like on on some papers, there were some initiative like the organic movement. They tried to like
+
+[02:08:38] incorporate the blockchain to make it more accurate transparency, but it was kind of like pilot. It doesn't sustain after the research. So I don't know whether is the technologies was is that difficult? Because for us, for, like, always doing a lot of, like, certification is very costly also.
+
+[02:09:03] So whether whether is it in the future? Because now the Europe, they also are putting, like digital passport for many, imported products so that the products has to, fulfill. So actually this is a new trend that many, I think, producer is also very difficult to grasp. So yes, this is also a challenge.
+
+[02:09:27] Just one more thing that I would like to I forgot to share is when you come to when you go to title aircraft tomorrow maybe, at the the product, we have label, the fair trade label. But under the local, there is also QR code, which I created years ago. So ideally, when, it's not a full a blockchain technology, but at least it's something that you can scan
+
+[02:09:51] on the QR code and then they will bring you to the the web page, the web link. For example, if you buy current tried product, you scan it and then this will bring you to the link to current people who are the makers. But we we still need to go more detail. For example, some product go with individual makers, for example. This bag is made by,
+
+[02:10:15] who and then how old, what kind of family, the kind of things. But for us, what we have now is a kind of common information that this product is made by this tribe, and then your support may go will go to this community again. So kind of the the QR code system that we use at Tide Troublecraft, which I make years, maybe before COVID. Yeah. So that's just to share a little bit more about what we are up to with the technology. Yeah.
+
+[02:10:43] Okay. We would like to open the floor for questions. Muriel? Thanks for the very interesting talk by all the speakers. One two ideas strike me very
+
+[02:11:08] well. That is about trust and trustless. So for me, what the here is a remembering thought. So right now, certification makes trusting relationship very strong. Say,
+
+[02:11:30] in health care, we trust certified doctor. And, Fairtrade, we trust the label, the logo. And I'm I'm just thinking how this trusting system that, builds relations among producers and users could be redefined
+
+[02:11:54] in a certain way as in in Terrence's presentation, you mentioned this trustless system or trustless society. How can the how can these two be connected and how technology might help? Because technology itself is making certification fast. Might be less costly, but very fast, very globally.
+
+[02:12:20] So I'm just curious. Do you want to comment? Yeah. So I have this, like, mini history of trust. So we start with little brother, little sister. Right? So we live in a tribe. We know everybody. Everybody's cousin or uncle. So there's no issue of trust because everybody's
+
+[02:12:43] like family in a way. Right? So then we we go to, let's say, empire, and it's trust because we all fear the same god, basically. Right? So I trust you because I'm a Muslim and you're a Muslim, but maybe I don't trust the Christians or I don't trust you know? And then we went to the nation state, and we called up big brother because we all citizens of the same state
+
+[02:13:07] and, you know, we trust the institutions of our state. And I think this is what is breaking down is that we now basically have a planetary society. You know, before civilization used to be self sufficient, like, you know, it had continental scale and, you know, it could survive on its own because it was big enough today, like,
+
+[02:13:30] nothing we use is from even from the same continent. So we have planetary systems of coordination. And so that's the question. Right? It's how do you trust? How can you interact with somebody in a digital system which you have never met? And so I think that's why we not talk that's why we talk about trustlessness is basically using protocols and certification
+
+[02:13:54] and technical methods so that we don't have to trust. So that's that's the new logic. But the point is it it cannot fully replace human trust. Right? So we we will operate in two different and that's why it's very difficult in DAOs because they, so I think the problem with engineers sorry.
+
+[02:14:16] Yeah. Is No. Have an engineer here. You know? So what they learn is computer science, and game theory and Austrian economics. And so this is like the world view. Right? Mhmm. So any anything can be reduced to this kind of mechanistic, point of view. And so the problem in DAOs is that the people who do DAOs,
+
+[02:14:40] they they are obsessed by trustlessness. And if you tell them, well, why don't you try sociocracy or holocracy or, you know, consent? I mean, there's so many methods actually that actually work in smaller communities like coops. And most of time, they're not interested. They just don't see the point, because they they you know? And so so this is a challenge, you know, to have the real world,
+
+[02:15:07] we will need the and I call this crypto for real. Like, how can we use these techniques which are useful because they allow us to coordinate on a global scale, but how can they actually work in real life productive communities where we actually also need to trust the people we work with and make decisions together. Because the dream of the web three is
+
+[02:15:30] not to make any decision. Right? It's, the dream is, oh, no. No. We don't have to talk together. We just incentivize the ecosystem and then everybody makes his own individual decision. So so anyway, I don't I don't have the answer. I'm just saying there are two different worlds out there with very different logics, and we don't know yet how to
+
+[02:15:53] basically integrate them in a in a higher level of integration. We were still in this in between world with two levels that don't really interact very well. Yeah. Yeah. I remember you have that piece talking about quito for wheel. Yeah. Yeah. Yeah. Yeah. So I think, it's a big challenge to have a trustless or with the full technology system.
+
+[02:16:19] But the technology, I think, will help the the process to make it shorter or to make it less. But the technology also will help how to check the information correct or wrong. But at least, I think we still need human being to get involved because the technology cannot, stay by itself. So at least some human being at the last stage or at some point or at some stages,
+
+[02:16:43] there should be or there will be still, I think, human involvement to make sure they approve or if there's any errors or something. Even, moving to the small island or whatever idea they have, at least there are still human or the committee, you know, to to vote or not to vote or there are still people, you know, I I think, still involving in making some decision. Even,
+
+[02:17:07] they are less process to make decision or individual people are making decision, but still there are human involved. So it will not be, I think, just only the technology, but at least there are some the this will be less step, easier to check informations, but at the end or at some point, I think some some human
+
+[02:17:31] process to approve or to double check, I think. That's how it works. Otherwise, even the robot or AI you talk about, but this robot may not have the 100% sense like human. They may be smart, but they may not feel. They may not have sense like human. So at least this technology are created by someone, a human. So human needs to be still behind and I think the technology
+
+[02:17:55] could not be beyond, the human being, I think. At least there will be some human being involved, but it will be less process and easier to check the the data and every process will be much easier. I think that's how it works. Can I give an example? So, you know, I so I'm a researcher and I write and stuff and I, you know, I use AI almost a few times a day.
+
+[02:18:18] And typically, you know, I ask a question, I get within thirty seconds, I get an answer that might have taken me a year, like, two, three years ago because all the stuff I would have to read in order to make that synthesis, it would take so much time. And now it's like, you know, it's it's there, like, in a few milliseconds. But that doesn't mean, I I can necessarily digest it. Right? So the the the speed of the machine
+
+[02:18:46] is now operating in nanoseconds, but we are not operating in nanoseconds. And so that's another issue that we need to solve in our society is how we, yeah, how do we digest this this this, hyper speed machine time, you know, operating in nanoseconds, and we are still, you know, some people say apes.
+
+[02:19:10] Evolved apes. Right? Mhmm. So this is, I think, is gonna be a very, a big issue. And, you know, something I mentioned in my article that I wrote yesterday is, sovereigns or symbionts. So symbiont is and I I know many friends are doing this. They're asking everything from the AI. They're using the AI as a therapist,
+
+[02:19:33] as a spiritual adviser. I found this profoundly shocking. Like, no. This is not a human being. This is a machine. They don't listen to me, of course. And I think there are other people and, you know, I belong to this, kind of people. Say, no. No. No. Have to avoid this as all so, yes, AI, it it it serves us and gives us models and alternatives,
+
+[02:19:59] but it remains human deliberation that we we need these democratic deliberative systems to make decisions based on the input of AI. I have no problem with that. But I think this is gonna be like a big issue in our society in the next few years. It's like, and I think first we'll make the mistake of just following the AI and, you know, and so think about this. Right? This is from McLuhan. So every technology is an extension of our body. So we start with spears and arrows, our feet and and,
+
+[02:20:31] hands. Then we do plows, agriculture, which is our limbs. Then we do industry, which is our digestive systems. And now we do our brain and nervous system, which is the Internet and AI. And so every time we do that, we externalize our powers. And we we strengthen collective humanity, but we weaken the individual. And okay. And now we are doing even the next step, which is taking all these technologies which we have externalized, and now we try to put them in our bodies,
+
+[02:21:04] you know, as prosthesis and the Neuralink. And, yeah, and and anyway, so we are really living at a threshold of something that, you know, is like a completely different world until that we haven't really, experienced yet. And so the question for me is, how do we keep human sovereignty? I think, you know, that depends on your on your trust in humanity.
+
+[02:21:30] And I think we are suffering a loss of trust in humanity, which is, you know, very strong in many, many people. And then we say, oh, okay. Let's use the machines, and we'll see whether that works, but I'm I'm kind of skeptical on that. Mhmm. I want to go back to your example in Brazil. So in
+
+[02:21:55] in in in the case, I think how if I participate in the project, I I have to identify myself as a member of the community of the project. And it seems like to me, the fair trade movement increasingly, there are some parallel with the, peer to peer, you know, to feel with peer to peer, we talk about, common base peer production.
+
+[02:22:19] So like Wikipedia, you check information from Wiki. Can you believe in the all the information? Most like most of the time, it should be quite accurate. But there there's a system, the editor. Right? In your case, you talk about in the in the in the coffee farmers, they everything is transparent. So I can you can but actually, no one no one will actually check
+
+[02:22:42] every single ledger. Right? So we we we still need to, even though the system might be, faultless, but you still need to still have some human element. But the other point I want to disc to waste is about, linked to factory movement. I believe in in in in peer to peer, theory, we talk about we are transforming
+
+[02:23:06] our identity. In the past, we are either, some con some producer or we are the consumer. We have two separate identities. But increasingly, we talk about the concept of prosumer. We are party producer and party consumer, and we are prosumer. And in the case of fair trade, if I join in some ex ex experiencing
+
+[02:23:30] workshop, I'm I'm I'm actually transforming my my my identity as a pure consumer. And then I it's it's like I I I try to fill in the shoes of the the pro producer, and I'm I'm now partly a prosumer. And I think this is actually some the core one of the core concept of peer to peer, common space peer production. Right? We were all prosumer.
+
+[02:23:55] And I I guess the transforming of the identity on the one hand can help build trust. It's more it's not just a system. Just not just a technology. But if I can tomorrow after I I I finished some workshop with the, you know, local villagers to learn the craft. I will feel like I will support
+
+[02:24:20] the system more, support the farmers of the the the producers more. And and then it it linked to the my earlier point about my identification of myself as a member of that community. I think many DAO may fail. You mentioned about, oh, we can do the fundraising. It's just like the impulse, you know, it's we just wanna support it. But to sustain the DAO, you need, you know, ongoing interaction.
+
+[02:24:47] Most people could not continue to participate in in a certain community. In the case of the the the coffee community in Brazil, I don't know the the the the local context where because it seems like they they support the farmers. They they also support the coffee place. So it is a everyday
+
+[02:25:10] life thing for for them. Then they I think it it it most likely provide the incent incentive for them to continue to participate in that community. For other fair trade project, that's the question. Can we replicate that experience? You can do a one one time event, two time event. But, for the fair trade movement to continue to sustain,
+
+[02:25:35] it is difficult for for for us consumer to identify to. So that's that's that's I was go go back to to the scale issue that, Michelle, you met you talk about. We can have local. Local is easy. And then bioregional is more difficult. You talk about coordination, thermodynamics, and that kind it is from the producer's point of view. It's not from the consumer point of view. And then I think more difficult for the
+
+[02:26:00] Cosmo local. And, that partly explain, the you talk about this disconnect between the local and the Cosmo, levels. And so, I guess for the fair trade practitioner, we maybe there's some direction, some some some some some, insight from, you know, trust issue and then the identity. We culture we are culture study still still this. Right? Culture identity and other consumer,
+
+[02:26:32] producer, and then the new conception about prosumer. Sorry. I forgot your name. But one thing you said, think, me and I think it's very important because the fair trade, you know, it's originates in thinking about North South relationships. Right? That you you have produced in the global South and they want to retain more value as they sell to the global North.
+
+[02:26:58] But I think what so for me, this is like an outdated paradigm. So and I think you said it's I forgot your words, but you said something about to, you know, to look at horizontal within your own region. Right? And I think that's basically then it becomes closer to Cosmo local production is the idea that, you know, you
+
+[02:27:22] so if you look at the the the Courto Cafe, it's very interesting because, k, you have farmers. I and I forgot to say, they made a machine for them so that they can roast their own coffee in the farm and that quadruples their income. So I forgot to say that. That's like a big big innovation. Right? So they keep the value because they become their own
+
+[02:27:46] intermediary. They actually roast and grind the coffee. But so you have farmers. You have people who are experimenting with making the coffee, blending the blends. You have people who take care of the shops. They are not separated. They they're they're and so if you look at DAOs and and digital systems,
+
+[02:28:12] you know, it's a network. Right? There's no us and them, and then you design incentives so that people in the network align better and better to each other. It's a very different way of thinking than I'm a producer, you're a consumer, I'm I'm producing for you. This is this is not the way that you think in this new environment.
+
+[02:28:35] You think, okay. We have different different parts of the ecosystem. How can we align them in the best way possible? So it's again, it's like a switch of thinking. And I want to say one more thing. So what is value is very important. So we have been living in for four centuries at least in the idea that value comes from extraction. Right? So we extract a scarce commodity,
+
+[02:29:02] including lay human labor. We sell it, with a profit. And then we tax it, and only then we redistribute it to do good things with it. So in other words, the the re the care, the regeneration, the everything that's collective depends on the extraction. And I think if you look at the open source community, it's different.
+
+[02:29:26] It's many people coproduce a common good, open source software. Some people create added value for the market, but they depend on the contributions of everyone. So they can't do market without respecting the commons. So what I'm trying to say is that we are moving, in my view, from a
+
+[02:29:49] extractive only economy where we basically ignore externalities, like, because the more we can ignore them, the cheaper our product, the more competitive we are. And we are moving to a system where we we try to recognize contributions. So positive contribution, but also negative contribution, like negative impact. And so we are building systems to do this. You know, we're still marginal in seed forms. Mhmm. But, you know, I believe that if we want to survive as humanity, this is
+
+[02:30:20] the only way forward. So this is a a value change in the value regime from a commodity centric to a contribution centric, system. Are there questions from the floor? Thank
+
+[02:30:44] you. I'm I'm learning a lot. I'm still digesting. I hear a lot of interesting concepts. One is about turning supply chain into a ecosystem. No more start and end. It's like, yeah, like this. That's very interesting. And then about using technology to build trust, then
+
+[02:31:06] make me think about then do we still do people still need to spend time to connect and build trust? In the past, when people want a business, they need to spend a lot of time to build trust. Right? And then that I believe parents, that's why I do business with him. It's not just about the the deal, the product. It's also about the relationship.
+
+[02:31:29] Now we start saying we don't need the human relationship as much as before because if we trust the system, we know that the system is fair, then everyone will just do what they believe in based on what you show on the system. So I'm imagining the future so people will become more separated from each others. I don't know. Seems like the younger generation, they like to talk to the mobile phone more than to the friends or parents. Sounds like this is the trend happening.
+
+[02:32:00] And for me, it's scare scaring. So yeah. K. So there was a famous cartoon that I still remember. And so you see, you know, in Tibet, all women with, seventy kilos on her back. Then you see the face of a a western tracker. It says, oh my god. This is so bad. Right? But then the next image you see, the tracker
+
+[02:32:25] has also 50 kilos backpack. Anyway, so so, I'm trying to show you, like, a certain dynamic that Web three tries to do this trustlessness, but then what we actually do is zoozaloo. Right? So it's a proof that it doesn't work with technology alone. So so the people in Web three, digital nomads,
+
+[02:32:50] they felt lonely. They felt the need for community. Right? So they tried ZOZALU in Montenegro and said, wow. This is fun. And so then it exploded. So now you have the next step. It's oasis. So 4 Seas is already oasis. What's the difference? It's a fixed place, and it attracts people from the outside. And I went to Zukash in Turkey, the same thing. It's, you know, local people organizing a pop up village and inviting people in. And they were already thinking in in creating a new silk road.
+
+[02:33:21] They called it the Karan Sarai where you would have different of these, you know, villages connected throughout Central Asia up to here. So I I see a dynamic, you know, like, okay. So you have this old woman with a big backpack, big, and, you know, she's suffering and it's hard. And then you have you know, we learn as a society to modernize and
+
+[02:33:48] then what we do is we act we we do the same. We are voluntarily taking a backpack on because we want this. You know, we want these relationships. So in that sense, I'm more optimistic that, you know, the the atomization is a so I see in two different moments. So the atomization that comes with modernity and becomes extreme
+
+[02:34:11] with cyber modernity, but then peer to peer as the healing the peer to peer in the commons as the healing reaction to that automization. And so in a way, we are neo tribal now. Right? But it's not kinship. It's affinity based. We are seeking joint projects, and then we connect to each other because we're constructing something together.
+
+[02:34:36] And that creates a new form of common identity. And I think in the future, at least and for me, it's my present. So I build my identity by combining my contributions to different things that I'm passionate about. I'm not saying it's easy to do because, you know, it's precarious and project based, and you never know where the money is coming from. But in terms of, like, personal happiness,
+
+[02:35:02] you know, it beats working in a factory doing something for somebody else without having any say on what you're doing. Right? So so and I think this is what what we all want here, isn't it? I think so. Right? We so there's a paradox. As we become materially more, satisfied, we have become spiritually hungry. Right? We we we need to compensate.
+
+[02:35:28] And so my father was happy that he could work for his children, and his job didn't have to be interesting. But I I would hate to do the his kind of job. Right? I I also have to work. I have four children, but I have to do it. And my work has to be interesting. So it's more demanding actually. Right? It's more demanding now than it was before
+
+[02:35:52] because the we need a whole human being to be involved. I support a little bit like, for first time when we, I come and come to Chiang Mai. I remember in the trip, there are two psychologist, professional psychologist. Actually, they are very touched in doing the craft workshop with the villagers together. So this is kind of like a
+
+[02:36:18] co making something. So, yeah. To my surprise, actually, although we fast technology, fast information, but I found that in in in us, actually, we still want to connect, yeah, face to face. And actually in Hong Kong, people say, now we read many
+
+[02:36:43] data on the Internet, but we start a little bit like a book club and then people say, oh, now why people should come out to talk face to face? We can use Zoom or something like that. But actually, it just comes people come out. So I think this is also kind of like a pop up village or something that although we have share information,
+
+[02:37:07] but we also need human touch connections. Yeah. Okay. We have time for one more question. So it's, any question from our students? Thank you. Actually, I wanna ask, Michelle, when you mentioned about the co ops and the comments, that you've seen or you've visited, do you notice any characteristics
+
+[02:37:33] or any special reasons why certain comments would work or certain comments would not work? And, I'm also curious about, when you mentioned about the, the option platform D about sustainability and how certain communities would benefit from that. Do
+
+[02:37:59] what's this Do you you think there are countries or places that would have advantages in terms of speeding up this process? Yeah. K. It's difficult question. So, no, I don't have any secret recipe. Yeah. And, you know, there's a lot of failure. Right? So when I say that there are 10 times more eco villages
+
+[02:38:25] in France, but also 80% of them fail. So that actually means there were 10,000. Right? And only 1,500 survived. So it's the same with startups. Right? Like most startups fail and most commons fail. So it's over time, you learn, you know, from your mistakes. And and then, of course, yeah, China is not
+
+[02:38:48] Japan, and Japan is not Belgium. And, you know, so there's a lot of, like, you know, like, Thailand is very, very specific. You you notice, I don't know, or you've been living here for twenty I also we are honorary Thai in a way. But you notice there are not many Thai people here. Right? This is, for example, typical for Thailand. They don't come to anything that's organized by foreigners. They are very friendly, but they put us in a box.
+
+[02:39:13] And you do what you want and, you know, you're treated very well, but don't ask us to work with you. You know, this is you. This is us. So so it's very difficult in Thailand. You know, you've been here with with for seas for two years, and it's minimal what they what they achieve with Thai people. But they're very successful with other digital nomads. So
+
+[02:39:38] so so I'm from Europe. I believe Europe is in a mess, and I believe that precisely because Europe is such a mess, we will make the most progress on these alternatives because we have no other choice. Because, you know, we're de industrialized and, like, we cannot go back to the old form of industrialization.
+
+[02:40:01] It's not that's not gonna work. So, you know, I also think Trump's idea is not gonna work. And so I think, paradoxically, precisely because we're in such a mess and we have such a bad, ruling elite for the moment, That's why so many people are leaving the system. And and so I I have hope in Europeans because of that, because the exit strategies are
+
+[02:40:26] are very attractive for the moment. So there's a lot happening even even though the system as a whole is entering in a, you know, very messy period. China, again, is, very hard to you know, I said, a few minutes ago that precisely because China is so centralized and a bit more authoritarian is paradoxically why people who want alternatives in China are keeping their head low and organizing peer to peer and not making a lot of noise.
+
+[02:40:57] But they're, you know, they're making a lot of progress. So, yeah, I don't have recipes. I think, you know, that's where there's still diversity. Right? In cosmologicalism, if you so cosmic, yes, that's planetary, that's unifying, but local is diverse. And it's not just diverse locally, it's diverse by affinity. Right?
+
+[02:41:20] So like Linux is not Arduino. Arduino is not open source satellites. It's not permaculture. It's not renewable energy. So it really dip so this is the the challenge of the future is how can we universalize with maximum diversity?
+
+[02:41:44] Whereas the modern, you know, the modern system was about universalizing to homogeneity. And, you know, right now, it's pretty bad, to be honest. You know? You can go to Kigali. You can go to Kunming, and the buildings are more and more the same. The cafes are the same. Like, everything looks the same all
+
+[02:42:09] over the world. And the amount of really, like, specific, you know, especially in Asia because you're building in in wood instead of stone, like the old stuff is disappearing very fast. Right? So this is I don't think that is good. I think we, you know, we need to defend our local cultures and find a new a new modernity that or whatever you wanna call it, trans modernity that is
+
+[02:42:36] not making everybody the same, but is, you know, allowing these differences to continue to exist. Okay. Thank you. So let me close by, I I had just had a little conversation with Michelle before the workshop. I talked about, Ellen Ostrom who got, the Nobel Prize by her study of the commons.
+
+[02:42:58] She talked about, we want to do peering, commoning to achieve synergy. So what is synergy? She said there's a two elements of synergy. One is complementarity. So Michelle said we need to diversify to try to preserve our complementarities. We don't want, you know, everyone every every every person,
+
+[02:43:22] every place, they're all the same. We want to achieve complementarity, this one element of synergy. The other element is embeddedness. So on the one hand, we want to maintain the complementarity, but we also want to achieve embeddedness. So that is a challenge, I think, for fair trade movement and also for cosmopolitan cosmolocalism
+
+[02:43:46] to become real, for crypto to become real. Okay? So let's give a round of applause to the speakers, and thank you so much for spending time with us. Thank you. Thank you, Terence. Thank you. They had a early fright to come in.

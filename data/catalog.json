@@ -441,13 +441,14 @@
     "id": "1fMucChc-fLtKl_74kmvarky4UG296rJe",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1fMucChc-fLtKl_74kmvarky4UG296rJe.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1fMucChc-fLtKl_74kmvarky4UG296rJe",
+  "duration": "02:44:22",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": false,
   "thumb": "thumbs/1fMucChc-fLtKl_74kmvarky4UG296rJe.jpg"
  },
