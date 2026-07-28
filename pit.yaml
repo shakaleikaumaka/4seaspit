@@ -1,0 +1,373 @@
+# 🕳️ P.I.T. MANIFEST — pit-manifest/0.1
+spec: "pit-manifest/0.1"
+pit:
+  name: The 4SeasPIT
+  slug: 4seaspit
+  registry_number: 5
+  url: "https://shakaleikaumaka.github.io/4seaspit/"
+  repository: "https://github.com/shakaleikaumaka/4seaspit"
+  forked_from: "https://github.com/shakaleikaumaka/zuitzpit"
+  generation: 2
+  event: ETHChiangmai × 4Seas
+  location: "Chiang Mai, Thailand"
+  dates: "Dec 8, 2025 – Feb 3, 2026"
+  tagline: The third fork — lanterns over the moat
+  status: live
+license: "CC0-1.0 · no rights reserved · fork it"
+consent:
+  policy: "consent-first"
+  status: demo · links to source Drive
+  policy_url: "https://publicinform.com/whitepaper/#consent"
+source:
+  - type: "google-drive-folder"
+    note: "source folder id recorded in the pit's pipeline — see repository"
+counts:
+  sessions: 29
+  transcripts: 28
+  seconds: 182602
+  hours: 50.7
+sessions:
+  - id: 1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj
+    title: ETHChiangMai AfterHours Hours Jam
+    date: "2026-01-29"
+    duration: "00:43:46"
+    duration_seconds: 2626
+    media:
+      drive: "https://drive.google.com/file/d/1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1ENnx6z5rKez3d_AmB8Ych9Nz2vj2LkBj.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx
+    title: EthChiangMai hackathon lunch jam
+    date: "2026-01-29"
+    duration: "00:24:08"
+    duration_seconds: 1448
+    media:
+      drive: "https://drive.google.com/file/d/1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1GjVxbNsCYs4N091LCk6f3dNP8Wzg54Dx.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 18nyCniuewAlYXevRiFojuc5s_VcnyGdA
+    title: EthChiangMai Hackathon Workshops at Chiang Mai University
+    date: "2026-01-28"
+    duration: "01:01:49"
+    duration_seconds: 3709
+    media:
+      drive: "https://drive.google.com/file/d/18nyCniuewAlYXevRiFojuc5s_VcnyGdA/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/18nyCniuewAlYXevRiFojuc5s_VcnyGdA.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/18nyCniuewAlYXevRiFojuc5s_VcnyGdA.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1JivZiM76yBwcvdwtugKiXJGnPy55VabU
+    title: "ETHChiangmai Hackathon Workshops at CMU, Part 2"
+    date: "2026-01-29"
+    speakers:
+      - "@jiangplus"
+      - "@Xavier_bham"
+      - "@0xsach"
+    duration: "02:51:14"
+    duration_seconds: 10274
+    media:
+      drive: "https://drive.google.com/file/d/1JivZiM76yBwcvdwtugKiXJGnPy55VabU/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1JivZiM76yBwcvdwtugKiXJGnPy55VabU.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1JivZiM76yBwcvdwtugKiXJGnPy55VabU.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u"
+    title: "Cryptocurrency Introduction Course — Community Organized, Live at ETHChiangmai"
+    date: "2025-12-17"
+    duration: "02:03:19"
+    duration_seconds: 7399
+    media:
+      drive: "https://drive.google.com/file/d/1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1qxAmLFH6ZrZYW-NdBT94F4BCpOuzNw0u.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI
+    title: ETH CHiang Mai OpenBuild One Day Hackathon Demos
+    date: "2025-12-20"
+    duration: "01:39:23"
+    duration_seconds: 5963
+    media:
+      drive: "https://drive.google.com/file/d/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1s74JXt4Hd0ZggS664z6ASWBfTeOgKOaI.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb
+    title: ETH Chiang Mai Opening Ceremony at CMU
+    date: "2026-01-28"
+    speakers:
+      - "@cmuofficial_tw"
+      - "@4seasDeSoc"
+    duration: "02:24:30"
+    duration_seconds: 8670
+    media:
+      drive: "https://drive.google.com/file/d/1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1sdsBLqYBuyqmIbd_c1UB9B1x8rtdooAb.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf"
+    title: ETH Chiang Mai Opening Ceremony DJ set
+    date: "2025-12-10"
+    duration: "01:17:05"
+    duration_seconds: 4625
+    media:
+      drive: "https://drive.google.com/file/d/1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1Ln--o_12zGDkPpLHHWjn63ZoIJaxwjnf.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS"
+    title: ETH Chiang Mai Opening Ceremony part 2
+    date: "2025-12-10"
+    duration: "01:07:41"
+    duration_seconds: 4061
+    media:
+      drive: "https://drive.google.com/file/d/1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1pVqTM-h1c_yhG-gUuAKai0vdhFEGYfIS.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos
+    title: ETH Chiang Mai Opening Ceremony Part 3
+    date: "2025-12-10"
+    duration: "00:43:42"
+    duration_seconds: 2622
+    media:
+      drive: "https://drive.google.com/file/d/1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1jjF_qproMIJy5cfbkrSdQ5kqJ1DsEuos.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb"
+    title: ETH Chiang Mai Opening Ceremony
+    date: "2025-12-08"
+    duration: "01:52:41"
+    duration_seconds: 6761
+    media:
+      drive: "https://drive.google.com/file/d/1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1qTN-ZdKvvK_prl-FOt3lksoWreqjtbjb.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR
+    title: ETH Chiang Mai Opening DJ Set
+    date: "2025-12-10"
+    duration: "01:17:06"
+    duration_seconds: 4626
+    media:
+      drive: "https://drive.google.com/file/d/1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR.mp3"
+      kind: audio
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1v8SFR4UJTyKSsH7ximZoF1c8uqZ0viBR.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Audio capture (m4a).
+  - id: "1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2"
+    title: "ETH ChiangMai 2025 Opening Ceremony, Part 1 (lowered audio)"
+    date: "2025-12-10"
+    duration: "01:16:36"
+    duration_seconds: 4596
+    media:
+      drive: "https://drive.google.com/file/d/1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1UipOhDNKN2NkM6gICQV0-QsSqIyaSOt2.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Source filename notes lowered audio — flagged honestly.
+  - id: 1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e
+    title: ETHChiangmai Hackathon Top Demo Presentations 2026
+    date: "2026-02-02"
+    duration: "01:47:01"
+    duration_seconds: 6421
+    media:
+      drive: "https://drive.google.com/file/d/1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1ulwW2HGb4maeNCg27iSlc7AbkIIuHc2e.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1OoAbVHEvdp1UPVDzDegMV7CmmgKncXuM
+    title: ETHChiangMai togETHer Tuesday at 4Seas DeSoc
+    date: "2026-01-28"
+    speakers:
+      - "@4seasDeSoc"
+    duration: "03:11:25"
+    duration_seconds: 11485
+    media:
+      drive: "https://drive.google.com/file/d/1OoAbVHEvdp1UPVDzDegMV7CmmgKncXuM/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1OoAbVHEvdp1UPVDzDegMV7CmmgKncXuM.mp3"
+      kind: audio
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1OoAbVHEvdp1UPVDzDegMV7CmmgKncXuM.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Audio capture (mp3); video version also in the pit.
+  - id: 1LWmhT68dELJggunbvZUx1wRaQmFysEpp
+    title: ETHChiangMai togETHer Tuesday at 4Seas DeSoc
+    date: "2026-01-27"
+    speakers:
+      - "@4seasDeSoc"
+    duration: "03:11:25"
+    duration_seconds: 11485
+    media:
+      drive: "https://drive.google.com/file/d/1LWmhT68dELJggunbvZUx1wRaQmFysEpp/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1LWmhT68dELJggunbvZUx1wRaQmFysEpp.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1LWmhT68dELJggunbvZUx1wRaQmFysEpp.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP"
+    title: ETH ChiangMai Winners
+    date: "2026-02-02"
+    duration: "00:23:26"
+    duration_seconds: 1406
+    media:
+      drive: "https://drive.google.com/file/d/1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1EGdyD1RdJSKx65-F02t-WRShn2x-r4iP.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1bCOganv1iUdFQxnAl-XJd4VAIKy03Kbx"
+    title: ETHChiangmai Future Summit 2026 — Live at Chiang Mai University Convention Center
+    date: "2026-02-03"
+    duration: "07:39:37"
+    duration_seconds: 27577
+    media:
+      drive: "https://drive.google.com/file/d/1bCOganv1iUdFQxnAl-XJd4VAIKy03Kbx/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1bCOganv1iUdFQxnAl-XJd4VAIKy03Kbx.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1bCOganv1iUdFQxnAl-XJd4VAIKy03Kbx.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO
+    title: How to join as a Guest on Stream Yard
+    date: "2025-12-10"
+    duration: "00:02:23"
+    duration_seconds: 143
+    media:
+      drive: "https://drive.google.com/file/d/10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/10aMMkblnCUxQFb69mZo_bHGvmAZRG2CO.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1fMucChc-fLtKl_74kmvarky4UG296rJe"
+    title: How Web3 Technologies Can Support The Fair Trade Movement
+    date: "2026-01-02"
+    duration: "02:44:22"
+    duration_seconds: 9862
+    media:
+      drive: "https://drive.google.com/file/d/1fMucChc-fLtKl_74kmvarky4UG296rJe/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1fMucChc-fLtKl_74kmvarky4UG296rJe.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1fMucChc-fLtKl_74kmvarky4UG296rJe.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA
+    title: "Longevity & Biohacking Meetup Live — ETHChiangMai"
+    date: "2026-01-18"
+    duration: "02:05:37"
+    duration_seconds: 7537
+    media:
+      drive: "https://drive.google.com/file/d/1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1moS9mQJ7HSGUnZlzCqRCFVzs0CAJswnA.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H
+    title: Merry Christmas Live from Shaka — ETHChiangMai Christmas Eve Party
+    date: "2025-12-24"
+    speakers:
+      - Shaka 🤙
+    duration: "01:15:49"
+    duration_seconds: 4549
+    media:
+      drive: "https://drive.google.com/file/d/1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1_OU0RoVV2YpGr1nyNmc9tk7N7Py_UJ3H.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: "The bard himself, live on Christmas Eve 🎄"
+  - id: 1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K
+    title: "On Cryptocurrency: An Introduction Course — ETHChiangMai on Christmas Eve"
+    date: "2025-12-24"
+    speakers:
+      - "@4seasDeSoc"
+    duration: "01:48:50"
+    duration_seconds: 6530
+    media:
+      drive: "https://drive.google.com/file/d/1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1uQ05uxrAawPTYfpjmoGatd27YpUpUg0K.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1p6wg2GM9hrEi-tncpzaUMMR6jnlZyrRt"
+    title: "Sunday Improvisations & Gratitude Dedications to 4Seas DeSoc Hospitality"
+    date: "2026-02-01"
+    duration: "01:22:24"
+    duration_seconds: 4944
+    media:
+      drive: "https://drive.google.com/file/d/1p6wg2GM9hrEi-tncpzaUMMR6jnlZyrRt/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1p6wg2GM9hrEi-tncpzaUMMR6jnlZyrRt.mp3"
+      kind: audio
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1p6wg2GM9hrEi-tncpzaUMMR6jnlZyrRt.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg"
+    title: "Sunday Improvisations & Gratitude Dedications to 4Seas DeSoc Hospitality (second take)"
+    date: "2026-02-01"
+    duration: "01:22:24"
+    duration_seconds: 4944
+    media:
+      drive: "https://drive.google.com/file/d/1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1p-tDp5UtDS46YmgbEYf77g_yUEG0X3eg.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq
+    title: TogETHer Tuesday — a shared Zuzalu tradition
+    date: "2025-12-24"
+    duration: "03:10:32"
+    duration_seconds: 11432
+    media:
+      drive: "https://drive.google.com/file/d/1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1zIFeF54BXdHZ41SGmJuZx80p3VDGgSuq.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7
+    title: Zuzalu Song — First Take in the Zuzalu Library
+    date: "2026-01-25"
+    duration: "00:22:08"
+    duration_seconds: 1328
+    media:
+      drive: "https://drive.google.com/file/d/1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/1I4ZPRlhrIzcIKVK6EjiRRG8X9kyZywi7.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf
+    title: "区块链导论中文课程 Week 1: 关于比特币 (Blockchain Intro, Mandarin — Week 1: On Bitcoin)"
+    date: "2025-12-28"
+    duration: "01:32:59"
+    duration_seconds: 5579
+    media:
+      drive: "https://drive.google.com/file/d/16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/4seaspit/transcripts/16ni7_A3mf4zDK5iDruUDqc6lWBIIuOaf.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: "Mandarin-language session 🇨🇳"
+  - id: 1tBw0NJYvuoT9wObiOw4hVetvat25l2kI
+    title: "Vitalik at the Zuzalu Library, Chiang Mai"
+    date: "2026-01-25"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    media:
+      drive: "https://drive.google.com/file/d/1tBw0NJYvuoT9wObiOw4hVetvat25l2kI/view"
+      kind: video
+llm:
+  hint: "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken."
+  transcript_search_index: "https://shakaleikaumaka.github.io/4seaspit/data/search-index.json"
+  catalog: "https://shakaleikaumaka.github.io/4seaspit/data/catalog.json"
+hub: "https://publicinform.com"
+registry: "https://publicinform.com/pits.json"
+generated: "2026-07-28T07:45:06Z"
+generator: pit_export.py v0.1 · PIT BOY 🕳️😤
