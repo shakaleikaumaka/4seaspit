@@ -646,21 +646,21 @@
   "source": "ETHChiangmai 2025–2026 · 4Seas",
   "media": [
    {
-    "id": "1tBw0NJYvuoT9wObiOw4hVetvat25l2kI",
-    "kind": "video",
-    "size": 0,
+    "id": "1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF",
+    "kind": "audio",
+    "size": 208942362,
     "stream": true,
-    "preview": "dead",
-    "folder": true
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF",
+  "duration": "02:34:36",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": true,
   "speakers": [
    "Vitalik Buterin (Ethereum co-founder)"
-  ]
+  ],
+  "note": "Bilingual session (English + 中文) — hosts co-read Vitalik's \"Let a Thousand Societies Bloom\" in Mandarin, Q&A with Vitalik in English. Audio harvested from \"Vitalik At Zuzalu Library.m4a\" inside the source Drive folder (video + photos also in folder)."
  }
 ]
