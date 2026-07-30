@@ -3,7 +3,7 @@ spec: "pit-manifest/0.1"
 pit:
   name: The 4SeasPIT
   slug: 4seaspit
-  registry_number: 5
+  registry_number: 6
   url: "https://shakaleikaumaka.github.io/4seaspit/"
   repository: "https://github.com/shakaleikaumaka/4seaspit"
   forked_from: "https://github.com/shakaleikaumaka/zuitzpit"
@@ -377,5 +377,5 @@ llm:
   catalog: "https://shakaleikaumaka.github.io/4seaspit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-07-29T16:39:13Z"
+generated: "2026-07-30T01:19:23Z"
 generator: pit_export.py v0.1 · PIT BOY 🕳️😤
