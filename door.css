@@ -33,6 +33,7 @@ body[data-mode=en] .pill .l+.l:before,body[data-mode=th] .pill .l+.l:before,body
 /* hero */
 .hero{position:relative;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:5rem 1.25rem 12rem;overflow:hidden;
  background:linear-gradient(180deg,rgba(4,11,36,.55) 0%,rgba(4,11,36,.78) 62%,var(--bg) 100%),url(assets/4seas-solarpunk-banner.jpg) center/cover no-repeat}
+.hero-gift{background:linear-gradient(180deg,rgba(40,24,6,.5) 0%,rgba(4,11,36,.8) 62%,var(--bg) 100%),url(assets/4seas-solarpunk-banner.jpg) center/cover no-repeat}
 .hero-circle{background:linear-gradient(180deg,rgba(24,8,40,.55) 0%,rgba(4,11,36,.8) 62%,var(--bg) 100%),url(assets/eth-chiangmai-lakeside.webp) center/cover no-repeat}
 .logo{width:170px;height:auto;background:#f4f8ff;padding:.55rem .9rem;border-radius:20px;box-shadow:0 14px 40px rgba(0,0,0,.5);margin-bottom:1.6rem;position:relative}
 .triple{position:relative;display:flex;flex-direction:column;gap:.35rem;align-items:center;margin-bottom:1.1rem}
